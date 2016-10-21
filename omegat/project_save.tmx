@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ES-AR">
+        <seg>ANÁLISIS Y FUNDAMENTOS</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161021T172655Z" creationid="william" creationdate="20161021T172655Z">
+        <seg>ANALYSE ET FONDEMENTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>CONTENIDO</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T133014Z" creationid="william" creationdate="20160924T133014Z">
@@ -14,10 +22,34 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cambiando todo</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161021T172628Z" creationid="william" creationdate="20161021T172628Z">
+        <seg>En changeant tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>DEDICATORIA</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T161848Z" creationid="william" creationdate="20160924T161848Z">
         <seg>Dédicace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Democracia Real</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161021T172601Z" creationid="william" creationdate="20161021T172601Z">
+        <seg>Démocratie réelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Desarme nuclear y reducción del armamentismo</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161021T172548Z" creationid="william" creationdate="20161021T172548Z">
+        <seg>Désarmement nucléaire et réduction de l'armement conventionnel</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +66,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T163340Z" creationid="william" creationdate="20160924T163329Z">
         <seg>Qu'est ce que la nation humaine universelle ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Economía Mixta</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161021T172617Z" creationid="william" creationdate="20161021T172617Z">
+        <seg>Économie mixte</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Lo que hay que lograr</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161021T172519Z" creationid="william" creationdate="20161021T172519Z">
+        <seg>Ce qu'il faut obtenir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Los pasos hacia la Nación Humana Universal</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T163720Z" creationid="william" creationdate="20160924T163720Z">
         <seg>Les pas vers la nation humaine universelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Los verdaderos actores del cambio</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161021T172634Z" creationid="william" creationdate="20161021T172634Z">
+        <seg>Les véritables acteurs du changement</seg>
       </tuv>
     </tu>
     <tu>
