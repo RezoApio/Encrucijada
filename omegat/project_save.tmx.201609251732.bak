@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>CONTENIDO</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160924T133014Z" creationid="william" creationdate="20160924T133014Z">
+        <seg>Table des matières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>DEDICATORIA</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160924T161848Z" creationid="william" creationdate="20160924T161848Z">
+        <seg>Dédicace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>ENCRUCIJADA Y FUTURO DE LA ESPECIE HUMANA</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160924T163654Z" creationid="william" creationdate="20160924T132946Z">
+        <seg>Le futur de l'espèce humaine à la croisée des chemins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>EXORDIO DE LA NACION HUMANA UNIVERSAL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160924T163340Z" creationid="william" creationdate="20160924T163329Z">
+        <seg>Qu'est ce que la nation humaine universelle ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El diagnóstico</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160925T153040Z" creationid="william" creationdate="20160925T153040Z">
+        <seg>Le diagnostic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Este libro está dedicado a “Nosotros”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160924T163531Z" creationid="william" creationdate="20160924T163531Z">
+        <seg>La dédicace de ce libre Este libro está dedicado a “Nosotros”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>INTRODUCCIÓN</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160924T161858Z" creationid="william" creationdate="20160924T161858Z">
+        <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Los pasos hacia la Nación Humana Universal</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160924T163720Z" creationid="william" creationdate="20160924T163720Z">
+        <seg>Les pas vers la nation humaine universelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Paso por paso</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20160925T153101Z" creationid="william" creationdate="20160925T153101Z">
+        <seg>Pas à pas</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

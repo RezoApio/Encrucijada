@@ -1,0 +1,14 @@
+10/21/16 7:04 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    2766	85860	                     451931	                       534980	     1	
+Remaining:       	    2749	85753	                     451336	                       534295	     1	
+Unique:          	    2663	85524	                     449869	                       532685	     1	
+Unique Remaining:	    2653	85438	                     449397	                       532137	     1	
+
+
+Individual File Statistics:
+
+File Name                                                                                 	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Encrucijada y futuro de la especie humana. Pasos hacia la nacion humana universal. V1.docx	          2766	              2749	           2663	                     2653	      85860	          85753	       85524	                 85438	                           451931	                               451336	                            449869	                                      449397	                             534980	                                 534295	                              532685	                                        532137	
