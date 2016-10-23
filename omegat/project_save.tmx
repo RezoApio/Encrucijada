@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Campaña por el desarrollo mundial</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161023T165058Z" creationid="william" creationdate="20161023T165058Z">
+        <seg>Campagne par le développement mondial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>DEDICATORIA</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T161848Z" creationid="william" creationdate="20160924T161848Z">
