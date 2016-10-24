@@ -300,6 +300,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pudimos antes, podremos ahora.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201720Z" creationid="william" creationdate="20161024T201720Z">
+        <seg>Nous l'avons fait avant, nous pourrons le refaire maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Quizás alguna vez, o quizás nunca, sabremos si los dioses realmente existieron, o si se interesan por nosotros.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200042Z" creationid="william" creationdate="20161024T200042Z">
@@ -366,10 +374,34 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Somos la evolución y somos la historia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201541Z" creationid="william" creationdate="20161024T201541Z">
+        <seg>Nous sommes l'évolution et nous sommes l'histoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Somos la vida que emergió en las aguas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T201212Z" creationid="william" creationdate="20161024T201212Z">
         <seg>Nous sommes la vie qui a émergé des eaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Somos los descendientes de los que una y otra vez cambiaron su vida y cambiaron al mundo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201638Z" creationid="william" creationdate="20161024T201638Z">
+        <seg>Nous sommes les descendants de ceux qui a plusieurs reprises ont changé leur vie et changer le monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Somos los hijos de la especie humana.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201646Z" creationid="william" creationdate="20161024T201646Z">
+        <seg>Nous sommes les fils de l'espèce humaine.</seg>
       </tuv>
     </tu>
     <tu>
