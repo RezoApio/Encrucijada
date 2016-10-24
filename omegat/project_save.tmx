@@ -222,6 +222,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>mente : raison ?
+espiritu : esprit</note>
+      <tuv lang="ES-AR">
+        <seg>No se trata de salvar a nuestro planeta, cual nave inanimada a punto de naufragar; nosotros somos el planeta mismo, somos su vida, su mente y su espíritu.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201146Z" creationid="william" creationdate="20161024T201146Z">
+        <seg>Il ne s'agit pas de sauver notre planète, comme un navire inanimé sur le point de naufrager ; nous sommes la planète même, nous sommes sa vie, sa raison et son esprit.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>No se trata de una sociedad a la cual alguien debe transformar; somos nosotros que debemos transformarnos para vivir de otro modo.</seg>
       </tuv>
@@ -318,6 +328,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T172959Z" creationid="william" creationdate="20161024T172959Z">
         <seg>Nous sommes de différentes races, nous parlons des langages différents, nos croyances sont différentes et nos intérêts quotidiens s'opposent souvent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Somos el pez que quiso ver el sol.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201226Z" creationid="william" creationdate="20161024T201226Z">
+        <seg>Nous sommes le poisson qu'il a voulu voir le soleil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Somos la vida que emergió en las aguas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201212Z" creationid="william" creationdate="20161024T201212Z">
+        <seg>Nous sommes la vie qui a émergé des eaux.</seg>
       </tuv>
     </tu>
     <tu>
