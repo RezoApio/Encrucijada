@@ -93,6 +93,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Croisée pour reprendre le titre</note>
+      <tuv lang="ES-AR">
+        <seg>En esta encrucijada de la historia, plagada de contradicciones, a menudo nos sentimos solos, divididos y desamparados; al punto tal que resulta imposible hablar de un “Nosotros”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T184629Z" creationid="william" creationdate="20161024T184629Z">
+        <seg>À cette croisée de l'histoire, remplie de contradictions, nous nous sentons souvent seuls, divisés et impuissants : à tel point qu'il semble impossible de parler d'un "Nous".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>Este libro está dedicado a “Nosotros”.</seg>
       </tuv>
@@ -149,7 +158,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>Seg. 157: Horizon n'est pas génial
+      <note>Horizon n'est pas génial
 </note>
       <tuv lang="ES-AR">
         <seg>Pese a que en estos tiempos puede parecer que ese “Nosotros” es difícil de develar, de construir, o rescatar; vive en nuestras raíces como la única identidad verdadera que nos acompaña desde nuestro origen, hacia nuestro horizonte.</seg>
