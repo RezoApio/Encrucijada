@@ -247,6 +247,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero ya no podemos seguir buscando culpables; ha llegado pues, la hora de hacernos cargo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T200521Z" creationid="william" creationdate="20161024T200521Z">
+        <seg>Mais nous ne pouvons continuer à chercher des coupables ; l'heure est venue de nous prendre en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Horizon n'est pas génial
 </note>
       <tuv lang="ES-AR">
@@ -296,6 +304,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T192710Z" creationid="william" creationdate="20161024T192604Z">
         <seg>Peut-être qu'en cherchant la réponse nous retrouverons le sens, nous rencontrerons le "Nous" et le chemin à choisir s'illuminera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Tal vez por eso aún hoy creemos que nuestro presente y nuestro futuro están en manos de los gobernantes, o de los poderosos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T200427Z" creationid="william" creationdate="20161024T200427Z">
+        <seg>Peut-être que c'est pourquoi aujourd'hui encore nous croyons que notre présent et notre futur sont  aux mains des gouvernants ou des puissants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Todo está colapsando, y poco importa el nombre de los responsables.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T200550Z" creationid="william" creationdate="20161024T200550Z">
+        <seg>Tout s'effondre et peu importe le nom des responsables.</seg>
       </tuv>
     </tu>
     <tu>
