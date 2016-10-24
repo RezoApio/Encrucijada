@@ -216,11 +216,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Desazon = malaise mais semble maladroit</note>
       <tuv lang="ES-AR">
         <seg>Y ante la complejidad surge la desazón y la impotencia, surge el olvido del “Nosotros”, avanza el vacío dentro de cada ser humano, y nos sentimos cada vez más solos, desamparados, y faltos de sentido.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161024T191903Z" creationid="william" creationdate="20161024T191903Z">
-        <seg>Et face à la complexité surgit la *desazón et l'impuissance, surgit l'oubli du “Nous”, il devance le vide dedans de chaque être humain, et nous nous sentons de plus en plus seuls, *desamparados, et *faltos de sens.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T192129Z" creationid="william" creationdate="20161024T191903Z">
+        <seg>Et face à la complexité surgit le malaise, l'impuissance et l'oubli du “Nous”. Le vide avance en chaque être humain et nous nous sentons de plus en plus seuls, désemparés et en manque de sens.</seg>
       </tuv>
     </tu>
     <tu>
