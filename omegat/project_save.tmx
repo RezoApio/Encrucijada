@@ -190,6 +190,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>pour chercher cette réponse</note>
+      <tuv lang="ES-AR">
+        <seg>Pero sólo podemos partir desde nuestra propia existencia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T192818Z" creationid="william" creationdate="20161024T192818Z">
+        <seg>Mais nous pouvons uniquement partir de notre propre existence.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Horizon n'est pas génial
 </note>
       <tuv lang="ES-AR">
@@ -229,8 +238,8 @@
       <tuv lang="ES-AR">
         <seg>Tal vez en la respuesta recuperemos el sentido, reencontremos el “Nosotros”, y se ilumine el camino para salir de la encrucijada.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161024T192604Z" creationid="william" creationdate="20161024T192604Z">
-        <seg>Peut-être qu'en cherchant la réponse nous retrouverons le sens, nous rencontrerons le "Nous" et le chemin à choisir s'iluminera.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T192710Z" creationid="william" creationdate="20161024T192604Z">
+        <seg>Peut-être qu'en cherchant la réponse nous retrouverons le sens, nous rencontrerons le "Nous" et le chemin à choisir s'illuminera.</seg>
       </tuv>
     </tu>
     <tu>
