@@ -175,6 +175,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Nadie nos preguntó si queríamos nacer, ni tampoco se lo preguntaron a nuestros padres, ni a nuestros antepasados.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T192956Z" creationid="william" creationdate="20161024T192956Z">
+        <seg>Personne ne nous à demander si nous voulions naître et personne ne l'a demandé à nos parents ni à nos ancêtres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Paso por paso</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160925T153101Z" creationid="william" creationdate="20160925T153101Z">
