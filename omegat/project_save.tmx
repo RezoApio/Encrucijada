@@ -224,6 +224,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>sortir d'une croisée des chemins ou d'un carrefour c'est bizarre.
+</note>
+      <tuv lang="ES-AR">
+        <seg>Tal vez en la respuesta recuperemos el sentido, reencontremos el “Nosotros”, y se ilumine el camino para salir de la encrucijada.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T192604Z" creationid="william" creationdate="20161024T192604Z">
+        <seg>Peut-être qu'en cherchant la réponse nous retrouverons le sens, nous rencontrerons le "Nous" et le chemin à choisir s'iluminera.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Desazon = malaise mais semble maladroit</note>
       <tuv lang="ES-AR">
         <seg>Y ante la complejidad surge la desazón y la impotencia, surge el olvido del “Nosotros”, avanza el vacío dentro de cada ser humano, y nos sentimos cada vez más solos, desamparados, y faltos de sentido.</seg>
