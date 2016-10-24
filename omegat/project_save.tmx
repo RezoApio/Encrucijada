@@ -127,6 +127,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Hoy estamos ante una nueva encrucijada, y se trata de un desafío mayor a los anteriores, porque abarca a todo el planeta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T185517Z" creationid="william" creationdate="20161024T185517Z">
+        <seg>Nous sommes aujourd'hui devant une nouvelle croisée des chemins et le défi est plus grand que les fois précédentes car il englobe toute la planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>INTRODUCCIÓN</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T161858Z" creationid="william" creationdate="20160924T161858Z">
