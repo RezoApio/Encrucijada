@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Alguna vez buscamos a los dioses para no sentirnos solos, para creernos protegidos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T193443Z" creationid="william" creationdate="20161024T193443Z">
+        <seg>Parfois nous cherchons les dieux pour ne pas nous sentir seuls pour nous croire protégés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>CONTENIDO</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T133014Z" creationid="william" creationdate="20160924T133014Z">
@@ -263,8 +271,8 @@
       <tuv lang="ES-AR">
         <seg>Y aquí estamos, en situación de vivir, sin que nadie vele por nuestro destino.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161024T193152Z" creationid="william" creationdate="20161024T193152Z">
-        <seg>Et nous sommes là, en situation de vivre, sans que personne Y aquí estamos, en situación de vivir, sin que nadie vele por nuestro destino.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T193319Z" creationid="william" creationdate="20161024T193152Z">
+        <seg>Et nous sommes là, en situation de vivre, sans personne pour veiller sur notre destin.</seg>
       </tuv>
     </tu>
     <tu>
