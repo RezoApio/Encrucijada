@@ -340,6 +340,32 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Somos el primate que se puso de pie y que quiso pensar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201450Z" creationid="william" creationdate="20161024T201450Z">
+        <seg>Nous sommes le primate qui s'est mis debout et qui a voulu penser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Somos el primer hombre que venció el temor y se acercó al fuego hasta dominarlo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201534Z" creationid="william" creationdate="20161024T201534Z">
+        <seg>Nous sommes le premier homme qui a vaincu sa peur et qui s'est approché du feu jusqu'à le dominer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>un dinosaure n'a pas d'odorat ???
+</note>
+      <tuv lang="ES-AR">
+        <seg>Somos el saurio que quiso sentir.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T201310Z" creationid="william" creationdate="20161024T201310Z">
+        <seg>Nous sommes le dinosaure qui a voulu sentir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Somos la vida que emergió en las aguas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T201212Z" creationid="william" creationdate="20161024T201212Z">
