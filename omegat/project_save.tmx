@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Estuvimos allí, cuando hubo que organizarse en sociedad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T185132Z" creationid="william" creationdate="20161024T185132Z">
+        <seg>Nous étions là, quand il a fallu s'organiser en société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Estuvimos allí, cuando logramos sembrar y cosechar, extraer y construir; cuando creamos la escritura y la poesía, las artes y las ciencias, cuando descubrimos las leyes del universo, la cura de las enfermedades; cuando lo inventamos todo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T185055Z" creationid="william" creationdate="20161024T185055Z">
@@ -197,6 +205,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T172959Z" creationid="william" creationdate="20161024T172959Z">
         <seg>Nous sommes de différentes races, nous parlons des langages différents, nos croyances sont différentes et nos intérêts quotidiens s'opposent souvent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y aunque una y otra vez caímos en las contradicciones de las guerras, la violencia y la injusticia; también una y otra vez fuimos capaces de buscar la paz, la tolerancia y la solidaridad para seguir adelante.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161024T185340Z" creationid="william" creationdate="20161024T185340Z">
+        <seg>Et même si parfois nous sommes tombé dans les contradictions des guerres, de la violence et de l'injustice, parfois nous avons été capables de chercher la paix, la tolérance et la solidarité pour continuer d'avancer.</seg>
       </tuv>
     </tu>
     <tu>
