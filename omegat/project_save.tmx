@@ -176,6 +176,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Hoy podría pensarse que la inercia del proceso histórico nos conduce hacia un mundo cada vez más interconectado e interdependiente, en lo cultural, en lo económico, en lo político y en lo militar&lt;t0/&gt;;&lt;t1/&gt; y que la tendencia hacia una integración cada vez mayor es irreversible; pero la gran duda es cuál será el signo de esa supuesta integración.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T201548Z" creationid="william" creationdate="20161027T201548Z">
+        <seg>On pourrait penser qu'aujourd'hui l'inertie du processus historique nous conduit vers un monde de plus en plus inter-connecté et interdépendant, au niveau culturel, économique, politique et militaire ; que la tendance à une intégration de plus en plus grande est irréversible, mais la grande question est quel sera le signal de cette prétendue intégration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Hoy por hoy en esta tierra estamos solos, y somos los únicos constructores de nuestro futuro.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200135Z" creationid="william" creationdate="20161024T200135Z">
@@ -488,6 +496,30 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T185340Z" creationid="william" creationdate="20161024T185340Z">
         <seg>Et même si parfois nous sommes tombé dans les contradictions des guerres, de la violence et de l'injustice, parfois nous avons été capables de chercher la paix, la tolérance et la solidarité pour continuer d'avancer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿O será una civilización planetaria emergente de la unidad en la diversidad de sus poblaciones?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T201827Z" creationid="william" creationdate="20161027T201827Z">
+        <seg>Ou bien s'agira-t-il d'une civilisation planétaire émergent de l'unité dans la diversité de ses population ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Será un mundo controlado y dominado por el poder financiero internacional?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T201742Z" creationid="william" creationdate="20161027T201742Z">
+        <seg>S'agira-t-il d'un monde contrôlé et gouverné par le pouvoir financier international ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Será un mundo controlado y gobernado por las principales potencias?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T201643Z" creationid="william" creationdate="20161027T201643Z">
+        <seg>S'agira-t-il d'un monde contrôlé et gouverné par les grande puissances ?</seg>
       </tuv>
     </tu>
     <tu>
