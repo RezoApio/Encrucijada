@@ -340,6 +340,15 @@ espiritu : esprit</note>
       </tuv>
     </tu>
     <tu>
+      <note>Nation humaine universelle normalement en français 1 seule majuscule</note>
+      <tuv lang="ES-AR">
+        <seg>Quienes aspiramos a esto último, vislumbramos una imagen en el horizonte: la de una verdadera Nación Humana Universal, un mundo sin fronteras en el que los seres humanos puedan cumplir con sus mejores aspiraciones, en paz, con justicia, con libertad, y con un futuro infinito por delante.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T202423Z" creationid="william" creationdate="20161027T202423Z">
+        <seg>Pour ceux qui aspirent à cette dernière vision, il existe une image à l'horizon : celle d'une véritable Nation humaine universelle, un monde sans frontières dans lequel les peuples peuvent accomplir leurs meilleurs aspirations, en paix, avec justice, avec liberté et avec un futur infini devant soi.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>Quizás alguna vez, o quizás nunca, sabremos si los dioses realmente existieron, o si se interesan por nosotros.</seg>
       </tuv>
