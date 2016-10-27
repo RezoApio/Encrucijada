@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cuando los desvíos en el camino generan contradicciones, aumenta la violencia, crecen las divisiones entre las personas y los pueblos, y el futuro se torna incierto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T194803Z" creationid="william" creationdate="20161027T194803Z">
+        <seg>Quand les déviations du chemin génèrent des contradictions, la violence augmente, les divisions entre les personnes et les peuples s'accroissent et le futur devient incertain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>DEDICATORIA</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T161848Z" creationid="william" creationdate="20160924T161848Z">
@@ -147,6 +155,15 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T185055Z" creationid="william" creationdate="20161024T185055Z">
         <seg>Nous avons été là, quand nous avons réussi à semer et à récolter, à extraire et à construire ; quand nous aonvs créé l'écriture et la poésie, les arts et les sciences, quand nous avons découvert les lois de l'univers, les remèdes aux maladies, lorsque nous avons tout inventé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>destino = destin ou destinée à voir</note>
+      <tuv lang="ES-AR">
+        <seg>Hay quienes pensarán que el desarrollo de ese proceso depende del azar, otros supondrán la preexistencia de un destino, y otros pensamos que la vida humana tiene un sentido que la impulsa evolutivamente, pero depende de la intencionalidad del ser humano la opción de construir una sociedad coherente o contradictoria con tal sentido.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T194620Z" creationid="william" creationdate="20161027T194620Z">
+        <seg>Certains disent que le développement de ce processus dépend du hasard, d'autres présupposent l'existence d'un destin. Nous disons que la vie humaine a un sens qui la pousse à l'évolution, mais que l'option de construire une société cohérente ou en contradiction avec ce sentiment dépend de l'intentionnalité humaine.</seg>
       </tuv>
     </tu>
     <tu>
