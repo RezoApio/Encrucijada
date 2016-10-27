@@ -274,6 +274,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Nos espera un largo camino y un tiempo prolongado; seguramente muchos no llegaremos a la meta aunque estaremos satisfechos de vislumbrarla en el horizonte.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T203032Z" creationid="william" creationdate="20161027T203032Z">
+        <seg>Un long chemin nous attend et un temps qui dure ; il est probable que beaucoup ne verront pas ce but mais nous serons satisfaits de l'apercevoir à l'horizon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Para algunos puede parecer una utopía irrealizable, pero otros podemos convertir esa utopía en el objetivo que nos oriente y nos inspire hacia un proyecto digno de la especie humana.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T202538Z" creationid="william" creationdate="20161027T202538Z">
