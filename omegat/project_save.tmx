@@ -200,6 +200,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La carrera armamentista, las guerras y el terrorismo se cobrarán cada vez más vidas provocando el sufrimiento creciente en las poblaciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T203942Z" creationid="william" creationdate="20161027T203942Z">
+        <seg>La course à l'armement, les guerres et le terrorisme prendront de plus en plus de vies, provocant la souffrance croissante des populations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La especie humana ha recorrido hasta aquí un camino que, si bien es relativamente corto respecto al surgimiento de la vida en el planeta, representa un importante proceso evolutivo en una permanente búsqueda lanzada hacia el futuro.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T193947Z" creationid="william" creationdate="20161027T193947Z">
@@ -361,6 +369,14 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200703Z" creationid="william" creationdate="20161024T200703Z">
         <seg>Peu importe si ceux qui ont veillés sur notre présent et notre futur étaient méchants, faibles ou inaptes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Porque la irracionalidad del sistema económico y la voracidad de la especulación financiera provocarán nuevas crisis que marginarán a millones de personas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T203831Z" creationid="william" creationdate="20161027T203831Z">
+        <seg>Parce que l'irrationalité du système économique et la voracité de la spéculation financière provoqueront des nouvelles crises qui marginaliseront des millions de personnes.</seg>
       </tuv>
     </tu>
     <tu>
