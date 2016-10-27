@@ -430,6 +430,16 @@ espiritu : esprit</note>
       </tuv>
     </tu>
     <tu>
+      <note>suppression est peut etre faible 
+phrase trop longue</note>
+      <tuv lang="ES-AR">
+        <seg>Surge entonces la necesidad imperiosa de retomar el sentido de la especie, recuperando la percepción de lo humano en el prójimo, para juntos avanzar en la deconstrucción de las contradicciones sociales y emprender el camino hacia la humanización de la Tierra.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T201203Z" creationid="william" creationdate="20161027T201203Z">
+        <seg>Survient alors la nécessité impérieuse de retrouver le sens de l'espèce, en récupérant la perception de l'humain dans son prochain, pour avancer ensemble vers la suppression des contradictions sociales et entreprendre le chemin vers l'humanisation de la Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>sortir d'une croisée des chemins ou d'un carrefour c'est bizarre.
 </note>
       <tuv lang="ES-AR">
