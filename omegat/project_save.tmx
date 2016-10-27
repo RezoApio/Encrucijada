@@ -274,6 +274,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Para algunos puede parecer una utopía irrealizable, pero otros podemos convertir esa utopía en el objetivo que nos oriente y nos inspire hacia un proyecto digno de la especie humana.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161027T202538Z" creationid="william" creationdate="20161027T202538Z">
+        <seg>Pour certains cela peut sembler une utopie irréaliste, mais d'autres pourront convertir cette utopie en un objectif qui nous oriente et nous inspire vers un projet digne de l'espèce humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Paso por paso</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160925T153101Z" creationid="william" creationdate="20160925T153101Z">
