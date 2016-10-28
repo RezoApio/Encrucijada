@@ -190,6 +190,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>la frase parece equivocada en espanol. </note>
+      <tuv lang="ES-AR">
+        <seg>Hay que comprender que la Nación Humana Universal, no representa solamente un ideal de mundo, sino que se ha tornado una verdadera necesidad histórica, ya que en un planeta globalizado no hay manera de enfrentar una crisis generalizada como no sea encontrando respuestas globales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161028T204115Z" creationid="william" creationdate="20161028T204115Z">
+        <seg>Il faut comprendre que la Nation humaine universelle ne représente pas seulement un idéal de monde, mais qu'elle est devenue un véritable besoin historique, puisque sur une planète globalisée il n'y a aucune façon de faire face à une crise généralisée comme jamais sans trouver des réponses globales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>destino = destin ou destinée à voir</note>
       <tuv lang="ES-AR">
         <seg>Hay quienes pensarán que el desarrollo de ese proceso depende del azar, otros supondrán la preexistencia de un destino, y otros pensamos que la vida humana tiene un sentido que la impulsa evolutivamente, pero depende de la intencionalidad del ser humano la opción de construir una sociedad coherente o contradictoria con tal sentido.</seg>
