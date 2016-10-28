@@ -166,6 +166,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>En el final encontraremos todas las notas y referencias bibliográficas, para los que busquen información más específica sobre algunos tópicos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161028T205705Z" creationid="william" creationdate="20161028T205705Z">
+        <seg>Dans la partie finale, nous avons ajouté les notes et les références bibliographiques, pour ceux qui cherchent des informations plus précises sur certains sujets.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Croisée pour reprendre le titre</note>
       <tuv lang="ES-AR">
         <seg>En esta encrucijada de la historia, plagada de contradicciones, a menudo nos sentimos solos, divididos y desamparados; al punto tal que resulta imposible hablar de un “Nosotros”.</seg>
