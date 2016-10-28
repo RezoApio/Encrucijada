@@ -61,11 +61,28 @@
       </tuv>
     </tu>
     <tu>
+      <note>thématique = adjectif </note>
+      <tuv lang="ES-AR">
+        <seg>Como una suerte de resumen de lo anterior, condensaremos las propuestas en 120 pasos, ordenados por temática.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161028T205453Z" creationid="william" creationdate="20161028T205453Z">
+        <seg>En une sorte de résumé de ce qui précède, nous condenserons les propositions en 120 pas, ordonnés par thèmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>Cuando los desvíos en el camino generan contradicciones, aumenta la violencia, crecen las divisiones entre las personas y los pueblos, y el futuro se torna incierto.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T194803Z" creationid="william" creationdate="20161027T194803Z">
         <seg>Quand les déviations du chemin génèrent des contradictions, la violence augmente, les divisions entre les personnes et les peuples s'accroissent et le futur devient incertain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Culminando en una síntesis en la que tratamos de integrar todos los temas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161028T205525Z" creationid="william" creationdate="20161028T205525Z">
+        <seg>Nous terminerons par une synthèse dans laquelle nous tenterons d'intégrer tous les thèmes.</seg>
       </tuv>
     </tu>
     <tu>
