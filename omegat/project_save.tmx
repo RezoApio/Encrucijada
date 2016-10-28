@@ -445,6 +445,15 @@ espiritu : esprit</note>
       </tuv>
     </tu>
     <tu>
+      <note>avizorar = discerner pour le sens de voir avec attention</note>
+      <tuv lang="ES-AR">
+        <seg>Será importante que en estos próximos años, mucha gente, organizaciones, movimientos sociales, y ojala algunos gobernantes, apoyen esta causa, compartan este objetivo, y adhieran a sus propuestas, y así articularnos para actuar coordinadamente, poniendo en marcha un proyecto verdaderamente humano, que permita avizorar la luz al final del túnel.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161028T202630Z" creationid="william" creationdate="20161028T202630Z">
+        <seg>Il sera important que dans les prochaines années, beaucoup de gens, d'organisations, de mouvements sociaux et, espérons-le, quelques gouvernements soutiennent cette cause, partagent ce but et adhèrent à ces propositions pour qu'ainsi nous puissions nous organiser de façon coordonner pour mettre en œuvre un projet véritablement humain que permette de discerner la lumière à la fin du tunnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>Somos de diferentes razas, hablamos diversos idiomas, tenemos diferentes credos, y nuestros intereses cotidianos se contraponen a menudo.</seg>
       </tuv>
