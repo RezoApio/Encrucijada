@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Apoyar algunas actividades organizadas por movimientos sociales que trabajen por alguno de los objetivos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155310Z" creationid="la belle idee" creationdate="20161030T155158Z">
+        <seg>3.	Appuyer certaines activités organisées par des mouvements sociaux qui travaillent sur certains objectifs de la NHU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Apoyar con su firma, o con ideas, o con su voto, en consultas de base relacionadas con alguno de los objetivos, ante conflictos específicos, locales o regionales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155136Z" creationid="la belle idee" creationdate="20161030T155136Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161023T165058Z" creationid="william" creationdate="20161023T165058Z">
         <seg>Campagne par le développement mondial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Colaborar con la difusión de los ideales y objetivos de la Nación Humana Universal en su medio inmediato</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155405Z" creationid="la belle idee" creationdate="20161030T155405Z">
+        <seg>6.	Collaborer à la diffusion des idéaux et des objectifs de la Nation Humaine Universelle dans son milieu immédiat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,6 +240,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En época de elecciones, apoyar con el voto a los postulantes comprometidos con el proyecto, si los hubiera; y no hacerlo nunca a favor de quienes manifiestamente propongan políticas contrarias.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155232Z" creationid="la belle idee" creationdate="20161030T155232Z">
+        <seg>5.	En période électorale, soutenir par son vote les candidats impliqués dans le projet s’il y en a et en aucune façon soutenir ceux qui proposent d’une façon manifeste des politiques opposées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Es hora de preguntarse, cada cual en su interior, de dónde venimos y hacia dónde vamos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T192332Z" creationid="william" creationdate="20161024T192332Z">
@@ -302,6 +326,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T161858Z" creationid="william" creationdate="20160924T161858Z">
         <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Integrar como voluntario alguno de los movimientos u organizaciones sociales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155226Z" creationid="la belle idee" creationdate="20161030T155226Z">
+        <seg>4.	S’intégrer comme volontaire dans certains mouvements ou organisations sociales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,6 +476,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Organizaciones y Movimientos Sociales</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155439Z" creationid="la belle idee" creationdate="20161030T155439Z">
+        <seg>Pour les organisations et les mouvements sociaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Para algunos puede parecer una utopía irrealizable, pero otros podemos convertir esa utopía en el objetivo que nos oriente y nos inspire hacia un proyecto digno de la especie humana.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T202538Z" creationid="william" creationdate="20161027T202538Z">
@@ -557,6 +597,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T203831Z" creationid="william" creationdate="20161027T203831Z">
         <seg>Parce que l'irrationalité du système économique et la voracité de la spéculation financière provoqueront des nouvelles crises qui marginaliseront des millions de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Proponerse en la vida cotidiana, avanzar en la conducta coherente y solidaria, tratando a los demás como se quiere ser tratado, ya sea como simple acto de voluntad, o capacitándose con otros en los valores humanistas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155417Z" creationid="la belle idee" creationdate="20161030T155417Z">
+        <seg>7.	Se proposer dans la vie quotidienne d’avancer vers une conduite cohérente et solidaire en traitant les autres comme nous voudrions être traités soit comme un simple acte volontaire ou en se qualifiant avec d’autres aux valeurs humanistes.</seg>
       </tuv>
     </tu>
     <tu>
