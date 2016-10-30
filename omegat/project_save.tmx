@@ -454,6 +454,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pasos genéricos</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141603Z" creationid="la belle idee" creationdate="20161030T141603Z">
+        <seg>Pas génériques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero hoy es tanto lo que nos div&lt;t0/&gt;ide, que nos cuesta encontrar algo en común.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T172848Z" creationid="william" creationdate="20161024T172848Z">
@@ -491,6 +499,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200521Z" creationid="william" creationdate="20161024T200521Z">
         <seg>Mais nous ne pouvons continuer à chercher des coupables ; l'heure est venue de nous prendre en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Personas</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141620Z" creationid="la belle idee" creationdate="20161030T141620Z">
+        <seg>Pour les personnes</seg>
       </tuv>
     </tu>
     <tu>
