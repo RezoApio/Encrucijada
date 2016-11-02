@@ -1025,6 +1025,14 @@ phrase trop longue</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Un mundo sin fronteras, una Confederación de Naciones Humanistas, sin guerras, sin violencia, sin hambre, sin discriminación, con justicia social, con democracia real, con equilibrio ambiental, con solidaridad, y por sobre todo, con el futuro abierto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161102T201150Z" creationid="william" creationdate="20161102T201150Z">
+        <seg>Un monde sans frontières, une Confédération de Nations humanistes, sans guerres, sans violence, sans faim, sans discrimination, avec de la justice sociale, une démocratie réelle, un équilibre environnemental, avec solidarité, et surtout, avec le futur ouvert.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Desazon = malaise mais semble maladroit</note>
       <tuv lang="ES-AR">
         <seg>Y ante la complejidad surge la desazón y la impotencia, surge el olvido del “Nosotros”, avanza el vacío dentro de cada ser humano, y nos sentimos cada vez más solos, desamparados, y faltos de sentido.</seg>
