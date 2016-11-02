@@ -719,6 +719,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero es necesario decir que tampoco contribuyen al cambio, aquellos que sólo se limitan a recitar consignas revolucionarias, sin saber qué pasos dar para avanzar, quedando tan paralizados como los que encallaron en la resignación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161102T194910Z" creationid="william" creationdate="20161102T194910Z">
+        <seg>Mais il est nécessaire d'ajouter que ceux qui se contentent de réciter des consignes révolutionnaires, sans savoir les pas à suivre pour avancer, ne contribuent pas non plus au changement et sont tout autant paralysés que ceux qui sont tombés dans la résignation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero hoy es tanto lo que nos div&lt;t0/&gt;ide, que nos cuesta encontrar algo en común.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T172848Z" creationid="william" creationdate="20161024T172848Z">
@@ -1037,8 +1045,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y luego, poco a poco, tal vez para atenuar el sentimiento de frustración, terminan aceptando el imperio de una realidad mediocre, opacando el brillo del ideal que alguna vez los movilizó.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161102T194611Z" creationid="william" creationdate="20161102T194611Z">
-        <seg>Et que peu à peu, peut-être pour atténuer le sentiment de frustration, ils finissent par accepter l'emprise d'une réalité médiocre, atténuant l'éclat de l'idéal qui les avait mobiliser.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161102T194624Z" creationid="william" creationdate="20161102T194611Z">
+        <seg>Et que peu à peu, peut-être pour atténuer le sentiment de frustration, ils finissent par accepter l'emprise d'une réalité médiocre, atténuant l'éclat de l'idéal qui les avait mobilisé.</seg>
       </tuv>
     </tu>
     <tu>
