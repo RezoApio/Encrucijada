@@ -383,6 +383,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Hace algunos años, cuando comenzaba el siglo, en un muro de alguna ciudad latinoamericana alguien, escribió el siguiente grafitti: &lt;t0/&gt;“¡Basta de realidades, queremos utopías!”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161102T193056Z" creationid="william" creationdate="20161102T193056Z">
+        <seg>Il fait quelques années, alors que commençait le siècle, sur le mur de quelque ville latino-américaine quelqu'un a écrit le graffiti suivant : "Stop aux réalités, nous voulons des utopies !"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>la frase parece equivocada en espanol. </note>
       <tuv lang="ES-AR">
         <seg>Hay que comprender que la Nación Humana Universal, no representa solamente un ideal de mundo, sino que se ha tornado una verdadera necesidad histórica, ya que en un planeta globalizado no hay manera de enfrentar una crisis generalizada como no sea encontrando respuestas globales.</seg>
