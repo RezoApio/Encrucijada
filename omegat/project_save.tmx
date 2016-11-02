@@ -1043,6 +1043,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y eso es lo que intentaremos hacer aquí, encontrar una imagen que nos movilice, y señalar los caminos por los que podemos acercarnos a ella.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161102T195452Z" creationid="william" creationdate="20161102T195452Z">
+        <seg>Et c'est ce que nous tenterons de faire ici : trouver une image qui nous mobilise et indiquer les chemins Y eso es lo que intentaremos hacer aquí, encontrar una imagen que nos movilice, y señalar los caminos por los que podemos acercarnos a ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y eso intentaremos hacer en este libro, &lt;t0/&gt;identificar los pasos que hay que dar para acercarnos, desde diferentes lugares del mundo hacia un mismo objetivo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T202954Z" creationid="william" creationdate="20161028T202954Z">
