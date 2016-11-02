@@ -384,6 +384,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Frente a ese realismo mediocre, podríamos afirmar que es mucho más reconfortante soñar con utopías, que quedarse dormido a la sombra de la resignación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161102T194133Z" creationid="william" creationdate="20161102T194133Z">
+        <seg>Face à ce réalisme médiocre, nous pourrions affirmer qu'il est beaucoup plus réconfortant de rêver à des utopies que de rester endormi à l'ombre de la résignation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Gobiernos</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160256Z" creationid="la belle idee" creationdate="20161030T160256Z">
@@ -674,6 +682,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T204841Z" creationid="william" creationdate="20161028T204841Z">
         <seg>Pour une meilleure compréhension de ce que nous sommes en train de proposer, nous commencerons par une description générale du projet dans le chapitre "Préambule à la Nation humaine universelle”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pareciera ser que toda aspiración de cambio se termina diluyendo en el laberinto de los relativismos, que todo sueño debe abandonarse frente a la realidad condicionante, y que en definitiva lo que se puede hacer, no es mucho más de lo que se ha venido haciendo hasta ahora.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161102T194038Z" creationid="william" creationdate="20161102T194038Z">
+        <seg>Il semblait que toute aspiration au changement devait se terminer diluée dans le labyrinthe des relativismes, que tous les rêves devaient être abandonnés face au conditionnement de la réalité et qu'en définitive on ne pouvait pas faire beaucoup plus que ce qui avait déjà été fait jusque là.</seg>
       </tuv>
     </tu>
     <tu>
