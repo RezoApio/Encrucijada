@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A su vez, en América latina la mayor parte de la recaudación del impuesto a la renta es sobre las personas jurídicas, mientras que en Europa es sobre las personas físicas, lo que le da mayores posibilidades de elevar la alícuota según capacidad contributiva.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224231Z" creationid="Podium" creationdate="20161103T224231Z">
+        <seg>En même temps, en Amérique latine, la plus grande partie du recouvrement de l’impôt sur le revenu vise les personnes morales, tandis qu’en Europe, il vise les personnes physiques, ce qui lui permet d’élever davantage la quotepart en fonction de la capacité fiscale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>ANÁLISIS Y FUNDAMENTOS</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161021T172655Z" creationid="william" creationdate="20161021T172655Z">
@@ -216,6 +224,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Con respecto al tema de la redistribución directa mediante incrementos salariales, Piketty afirma que el riesgo de esa política reside en la posibilidad de sustitución de mano de obra por capital al aumentar el costo de la mano de obra, cosa que no pasa con la redistribución indirecta producto de los impuestos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224150Z" creationid="Podium" creationdate="20161103T224150Z">
+        <seg>En ce qui concerne le thème de la redistribution directe au moyen de hausses salariales, Piketty affirme que le danger de cette politique réside dans la possibilité de substituer la main-d’œuvre au capital en augmentant le coût de la main-d’œuvre, ce qui ne se produit pas avec la redistribution indirecte qui résulte de la taxation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Con todo, muchas personas protestan contra la herencia de bienes pero no contra la del talento.”</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221738Z" creationid="Podium" creationdate="20161103T221738Z">
@@ -352,6 +368,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El Instituto de Estudios Fiscales, financiado por la Unión Europea, publicó en el año 2009 un estudio sobre los “Sistemas tributarios de América Latina”, comparándolos con los sistema europeos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224206Z" creationid="Podium" creationdate="20161103T224206Z">
+        <seg>L’Institut d’études fiscales, financé par l’Union Européenne, a publié en 2009 une étude sur les « Régimes fiscaux d’Amérique latine », dans laquelle on les compare aux régimes européens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El Libro “Más allá del Capitalismo, Economía Mixta”, fue escrito por el autor en el año 2000, y en el mismo se desarrollan las propuestas de un sistema alternativo al Capitalismo y al Comunismo, analizando en profundidad algunos de los temas que aquí se mencionan.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223506Z" creationid="Podium" creationdate="20161103T223506Z">
@@ -372,6 +396,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160925T153040Z" creationid="william" creationdate="20160925T153040Z">
         <seg>Le diagnostic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El economista francés Thomas Piketty, en su libro “La economía de las Desigualdades”, analiza las diferentes políticas para disminuir las desigualdades, ya sea entre ingresos salariales, o entre ingresos de renta de capital respecto a salarios, o la desigualdad patrimonial, producto de las diferencias en los ingresos más el proceso de acumulación hereditaria.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224139Z" creationid="Podium" creationdate="20161103T224139Z">
+        <seg>Dans « L’économie des inégalités », l’économiste français Thomas Piketty analyse les différentes politiques pour diminuer les inégalités, que ce soit entre des revenus salariaux ou entre des revenus mobiliers et des salaires, ou l’inégalité patrimoniale, résultat des disparités de revenus et du processus d’accumulation héréditaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -413,6 +445,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T184629Z" creationid="william" creationdate="20161024T184629Z">
         <seg>À cette croisée de l'histoire, remplie de contradictions, nous nous sentons souvent seuls, divisés et impuissants : à tel point qu'il semble impossible de parler d'un "Nous".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En los países de la Unión Europea, la participación del impuesto sobre la renta y los ingresos varía entre el 45 % y el 63 %, en tanto que en América Latina varía entre el 18 % y el 49 % como máximo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224218Z" creationid="Podium" creationdate="20161103T224218Z">
+        <seg>Dans les pays de l’Union européenne, le taux d’impôt sur le revenu varie entre 45 % et 63 %, tandis qu’en Amérique latine, il varie entre 18 % et 49 % au maximum.</seg>
       </tuv>
     </tu>
     <tu>
