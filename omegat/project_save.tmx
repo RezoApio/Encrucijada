@@ -933,6 +933,22 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>No, yo me refiero a la única clase de libertad que merece tal nombre, la libertad que consiste en el completo desarrollo de todas las capacidades materiales, intelectuales y morales que permanecen latentes en cada persona; libertad que no conoce más restricciones que aquellas que vienen determinadas por las leyes de nuestra propia naturaleza individual, y que no pueden ser consideradas propiamente restricciones, puesto que no se trata de leyes impuestas por un legislador externo, ya se halle a la par o por encima de nosotros, sino que son inmanentes e inherentes a nosotros mismos, constituyendo la propia base de nuestro ser material, intelectual y moral: no nos limitan sino que son las condiciones reales e inmediatas de nuestra libertad.”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T225503Z" creationid="Podium" creationdate="20161103T225503Z">
+        <seg>Non, j’entends la seule liberté qui soit vraiment digne de ce nom, la liberté qui consiste dans le plein développement de toutes les puissances matérielles, intellectuelles et morales qui se trouvent à l’état de facultés latentes en chacun, cette liberté qui ne reconnaît d’autres restrictions que celles qui nous sont tracées par les lois de notre propre nature. Ainsi, à proprement parler, il n’y a pas de restrictions, puisque ces lois ne nous sont pas imposées par quelque législateur du dehors, résidant soit à côté, soit au-dessus de nous; elles nous sont immanentes, inhérentes et constituent la base même de tout notre être, tant matériel qu’intellectuel et moral. Au lieu, donc, de trouver en elles une limite, nous devons les considérer comme les conditions réelles et comme la raison effective de notre liberté. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Noam Chomsky, en un ensayo sobre anarquismo y marxismo, cita a Bakunin comentando lo siguiente: “Si tratáramos de buscar una sola idea rectora dentro de la tradición anarquista, la hallaríamos, a mi juicio, en lo expresado por Bakunin cuando, refiriéndose a la Comuna de París, se identificó a sí mismo como sigue:  “&lt;t0/&gt;Soy un amante fanático de la libertad, considero que es la única condición bajo la cual la inteligencia, la dignidad y la felicidad humana pueden desarrollarse y crecer; no la libertad puramente formal concedida, delimitada y regulada por el Estado, un eterno engaño que en realidad no representa otra cosa que el privilegio de algunos fundado en la esclavitud del resto; no la libertad individualista, egoísta, mezquina y ficticia ensalzada por la Escuela de J.J.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T225434Z" creationid="Podium" creationdate="20161103T225434Z">
+        <seg>Noam Chomsky, dans un essai sur l’anarchisme et le socialisme, cite Bakounine et commente ce qui suit : « Si on devait retenir une seule idée-force dans la tradition anarchiste, ce serait, à mon sens, celle qu’exprimait Bakounine sur lui-même tout en écrivant sur la Commune :  « Je suis un amant fanatique de la liberté, la considérant comme l’unique milieu au sein duquel puissent se développer et grandir l’intelligence, la dignité et le bonheur des hommes; je ne le suis pas de cette liberté toute formelle, octroyée, mesurée et réglementée par l’état, mensonge éternel et qui en réalité ne représente jamais rien que le privilège de quelques-uns fondé sur l’esclavage de tout le monde ; non de cette liberté individualiste, égoïste, mesquine et fictive prônée par l’école de Jean Jacques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Nos espera un largo camino y un tiempo prolongado; seguramente muchos no llegaremos a la meta aunque estaremos satisfechos de vislumbrarla en el horizonte.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T203032Z" creationid="william" creationdate="20161027T203032Z">
@@ -1191,6 +1207,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160407Z" creationid="la belle idee" creationdate="20161030T160407Z">
         <seg>5.	 Se mettre en relation et se coordonner avec les mouvements sociaux, organisations et gouvernements qui travaillent aux mêmes objectifs et ce, dans sa zone d’influence, à d’autres niveaux du pays et au niveau international.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Rousseau y otras escuelas del liberalismo burgués, que entiende que el Estado, limitando los derechos de cada uno, representa la condición de posibilidad de los derechos de todos, una idea que por necesidad conduce a la reducción de los derechos de cada uno a cero.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T225448Z" creationid="Podium" creationdate="20161103T225448Z">
+        <seg>Rousseau ainsi que par toutes les autres école du libéralisme bourgeois, qui considère le soit-disant droit de tout le monde, représenté par l’État, comme la limite du droit de chacun, ce qui aboutit nécessairement et toujours à la réduction du droit de chacun à zéro.</seg>
       </tuv>
     </tu>
     <tu>
