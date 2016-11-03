@@ -571,6 +571,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>José Luis Montero de Burgos, en su libro “Empresa y Sociedad”, desarrolla el concepto de la participación de los trabajadores, desde el punto de vista de la falta de democracia en la economía y en particular en las empresas, donde se da por hecho que la propiedad debe ser sinónimo de poder.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223236Z" creationid="Podium" creationdate="20161103T223236Z">
+        <seg>José Luis Montero de Burgos, dans son livre « Entreprise et Société », élabore le concept de la participation des travailleurs, du point de vue de l’absence de démocratie dans l’économie et en particulier dans les entreprises, où l’on tient pour acquis que propriété et pouvoir vont de pair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>LOS 120 PASOS</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T134553Z" creationid="la belle idee" creationdate="20161030T134553Z">
@@ -1215,6 +1223,22 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221943Z" creationid="Podium" creationdate="20161103T221943Z">
         <seg>S’il est d’une importance décisive pour l’entendement de la valeur en général de ne voir en elle qu’une simple coagulation de temps de travail, que du travail réalisé, il est d’une égale importance pour l’entendement de la plus-value de la comprendre comme une simple coagulation de temps de travail extra, comme du surtravail réalisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>gr.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223132Z" creationid="Podium" creationdate="20161103T223132Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>la sociedad de la esclavitud de&lt;t15/&gt; &lt;t16/&gt;la del trabajo asalariado, es la forma en que este trabajo excedente le es arrancado al productor inmediato, al &lt;t17/&gt;obrero”&lt;t18/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223215Z" creationid="Podium" creationdate="20161103T223215Z">
+        <seg>l’esclavage, par exemple, et le salariat, ne se distinguent que par le mode dont ce surtravail est imposé et extorqué au producteur immédiat, à l’ouvrier. »</seg>
       </tuv>
     </tu>
     <tu>
