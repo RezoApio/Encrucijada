@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Algunas legislaciones ya lo admiten.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230529Z" creationid="Podium" creationdate="20161103T230529Z">
+        <seg>Certaines législations l’admettent déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Algunos ya se están intentando, y en ese caso será importante articularse para unir fuerzas; en otros casos habrá que empezar desde ahora a caminar.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T203333Z" creationid="william" creationdate="20161028T203333Z">
@@ -368,6 +376,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde luego que sí.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230431Z" creationid="Podium" creationdate="20161103T230431Z">
+        <seg>Bien sûr que oui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desde luego, no es equitativo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221630Z" creationid="Podium" creationdate="20161103T221630Z">
@@ -444,6 +460,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224139Z" creationid="Podium" creationdate="20161103T224139Z">
         <seg>Dans « L’économie des inégalités », l’économiste français Thomas Piketty analyse les différentes politiques pour diminuer les inégalités, que ce soit entre des revenus salariaux ou entre des revenus mobiliers et des salaires, ou l’inégalité patrimoniale, résultat des disparités de revenus et du processus d’accumulation héréditaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El mismo Occidente, arrastrado por el cambio de usos y costumbres se ve en un aprieto a la hora de sostener su idea tradicional de la familia “natural”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230353Z" creationid="Podium" creationdate="20161103T230353Z">
+        <seg>L’Occident lui-même, entraîné par le changement des us et coutumes, se voit en situation embarrassante au moment de soutenir son idée traditionnelle de la famille “naturelle”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,6 +1192,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero también es claro que así como en este país hay una gran porción de la sociedad que repudia la pena de muerte, en aquél otro lugar son numerosos los detractores de todo tipo de castigo físico para el reo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230339Z" creationid="Podium" creationdate="20161103T230339Z">
+        <seg>Mais il est clair aussi que dans ce pays, une grande partie de la société réprouve la peine de mort, et de même, en d’autres lieux, nombreux sont les différents détracteurs des punitions physiques envers les accusés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero ya no podemos seguir buscando culpables; ha llegado pues, la hora de hacernos cargo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200521Z" creationid="william" creationdate="20161024T200521Z">
@@ -1320,6 +1352,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T195314Z" creationid="william" creationdate="20161102T195314Z">
         <seg>Il faudra donc rencontrer la manière de garde allumée la flamme de la passion tout en la dotant de raison pour que cette force coule par les canaux appropriés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si ese es el estado de la discusión, ¿se puede seguir hablando de un Derecho universalmente aplicable a la familia?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230613Z" creationid="Podium" creationdate="20161103T230613Z">
+        <seg>Si tel est l’état de la discussion, peut-on encore parler d’un droit universellement applicable à la famille ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,10 +1635,42 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>¿En qué razones puede basarse la excelencia de la familia monogámica de algunas culturas sobre la poligámica o poliándrica de otras culturas?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230557Z" creationid="Podium" creationdate="20161103T230557Z">
+        <seg>Selon quels arguments la monogamie de certaines cultures supplanterait-elle la polygamie ou la polyandrie d’autres cultures ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>¿O será una civilización planetaria emergente de la unidad en la diversidad de sus poblaciones?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T201827Z" creationid="william" creationdate="20161027T201827Z">
         <seg>Ou bien s'agira-t-il d'une civilisation planétaire émergent de l'unité dans la diversité de ses population ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Puede existir familia en la que la pareja esté constituida por miembros del mismo sexo?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230512Z" creationid="Podium" creationdate="20161103T230512Z">
+        <seg>Est-ce qu’une famille peut exister dans laquelle le couple est constitué par des membres du même sexe ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Puede existir hoy familia con hijos adoptivos?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230410Z" creationid="Podium" creationdate="20161103T230410Z">
+        <seg>Une famille peut-elle exister aujourd’hui avec des enfants adoptifs ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Qué define entonces a la familia, su carácter “natural” o el compromiso voluntario de cumplir con determinadas funciones?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230545Z" creationid="Podium" creationdate="20161103T230545Z">
+        <seg>Qu’est-ce qui définit alors la famille, son caractère “naturel” ou l’engagement volontaire d’accomplir des fonctions déterminées ?</seg>
       </tuv>
     </tu>
     <tu>
