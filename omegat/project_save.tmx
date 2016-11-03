@@ -223,6 +223,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cada una de ellas, a su vez, depende del poder que la impuso.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231322Z" creationid="Podium" creationdate="20161103T231322Z">
+        <seg>Chacune d’elles, à son tour, dépend du pouvoir qui l’a imposée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Cambiando todo</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161021T172628Z" creationid="william" creationdate="20161021T172628Z">
@@ -601,6 +609,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Es cierto que contamos con formulaciones imperfectas de los derechos humanos, pero es por ahora lo único que tenemos en nuestras manos para defender y perfeccionar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231538Z" creationid="Podium" creationdate="20161103T231538Z">
+        <seg>Il est vrai que les formulations des droits de l’homme sont imparfaites mais c’est, pour le moment, l’unique chose que nous ayons entre nos mains à défendre et à perfectionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Es decir, traen dificultades a la mayor parte de la humanidad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230122Z" creationid="Podium" creationdate="20161103T230122Z">
@@ -653,6 +669,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T163008Z" creationid="william" creationdate="20160924T163531Z">
         <seg>Ce livre est dédié au "Nous".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Estos derechos hoy son considerados como simples aspiraciones y no pueden ser plenamente vigentes dados los poderes establecidos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231550Z" creationid="Podium" creationdate="20161103T231550Z">
+        <seg>Ces droits, aujourd’hui considérés comme de simples aspirations, ne peuvent être complètement en vigueur étant donné les pouvoirs établis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -843,6 +867,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La costumbre, la moral, la religión, o el consenso social suelen ser las fuentes invocadas para justificar la existencia de la ley.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231308Z" creationid="Podium" creationdate="20161103T231308Z">
+        <seg>La coutume, la morale, la religion ou le consensus social sont les sources habituellement invoquées pour justifier l’existence de la loi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La especie humana ha recorrido hasta aquí un camino que, si bien es relativamente corto respecto al surgimiento de la vida en el planeta, representa un importante proceso evolutivo en una permanente búsqueda lanzada hacia el futuro.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T193947Z" creationid="william" creationdate="20161027T193947Z">
@@ -855,6 +887,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221706Z" creationid="Podium" creationdate="20161103T221706Z">
         <seg>On peut faire obstacle à la transmission des biens matériels par héritage beaucoup plus facilement qu’à la transmission des talents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La lucha por el establecimiento de una nación humana universal es también la lucha, desde cada cultura, por la vigencia de derechos humanos cada vez más precisos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231505Z" creationid="Podium" creationdate="20161103T231505Z">
+        <seg>La lutte pour l’établissement d’une nation humaine universelle est aussi la lutte, depuis chaque culture, pour l’application de droits de l’homme de plus en plus précis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -943,6 +983,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T222702Z" creationid="Podium" creationdate="20161103T222702Z">
         <seg>Les différentes formes économiques revêtues par la société,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Los derechos humanos no pertenecen al pasado, están allí en el futuro succionando la intencionalidad, alimentando una lucha que se reaviva en cada nueva violación al destino del hombre.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231411Z" creationid="Podium" creationdate="20161103T231411Z">
+        <seg>Les droits de l’homme n’appartiennent pas au passé, ils sont là-bas dans le futur, aspirant l’intentionnalité, nourrissant une lutte qui se ravive à chaque nouvelle violation du destin de l’homme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1191,6 +1239,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero es claro que aquel ‘presente’ en el que la ley comienza a tener vigencia, tiene raíces en el pasado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231254Z" creationid="Podium" creationdate="20161103T231254Z">
+        <seg>Il est vrai que ce “présent” dans lequel la loi commence à entrer en vigueur a des racines dans le passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero es necesario decir que tampoco contribuyen al cambio, aquellos que sólo se limitan a recitar consignas revolucionarias, sin saber qué pasos dar para avanzar, quedando tan paralizados como los que encallaron en la resignación.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T194910Z" creationid="william" creationdate="20161102T194910Z">
@@ -1286,6 +1342,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230150Z" creationid="Podium" creationdate="20161103T230150Z">
         <seg>Par conséquent, ces institutions et les droits de l’homme universels se référant à elles, sont remis en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por esto, todo reclamo que se haga a favor de ellos tiene sentido porque muestra a los poderes actuales que no son omnipotentes y que no tienen controlado el futuro.”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231427Z" creationid="Podium" creationdate="20161103T231427Z">
+        <seg>Par conséquent, toute réclamation qui se fait en leur faveur a un sens, parce qu’elle montre aux pouvoirs actuels qu’ils ne sont pas tout-puissants et qu’ils n’ont pas le contrôle du futur. »</seg>
       </tuv>
     </tu>
     <tu>
@@ -1420,10 +1484,26 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si en una cultura de pronto se desconoce el derecho a la vida plena y a la libertad poniendo por encima del ser humano otros valores, es porque allí algo se ha desviado, algo está en divergencia con el destino común y, entonces, la expresión de esa cultura en ese punto preciso, debe ser claramente repudiada.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231520Z" creationid="Podium" creationdate="20161103T231520Z">
+        <seg>Si, dans une culture, tout à coup, on méconnaît le droit à la vie pleine et à la liberté, en mettant au-dessus de l’être humain d’autres valeurs, c’est parce que là, quelque chose s’est dévié, quelque chose est en divergence avec le destin commun, et alors l’expression de cette culture sur ce point précis doit être clairement réprouvée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Si ese es el estado de la discusión, ¿se puede seguir hablando de un Derecho universalmente aplicable a la familia?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230613Z" creationid="Podium" creationdate="20161103T230613Z">
         <seg>Si tel est l’état de la discussion, peut-on encore parler d’un droit universellement applicable à la famille ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si los más elementales reclamos sobre el gobierno del propio cuerpo son pisoteados en todas las latitudes, solo podemos hablar de aspiraciones que tendrán que convertirse en derechos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231359Z" creationid="Podium" creationdate="20161103T231359Z">
+        <seg>Et si les plus élémentaires demandes à disposer de son propre corps sont piétinées sous toutes les latitudes, alors nous pouvons seulement parler d’aspirations que l’on devra transformer en droits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,6 +1513,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230851Z" creationid="Podium" creationdate="20161103T230851Z">
         <seg>Nous en avons parlé à une autre occasion (Humaniser la terre, « Le paysage humain », dans le chapitre sur la loi) : 
 « Des gens à l’esprit pratique ne se sont pas égarés dans des élaborations théoriques et ont déclaré que la loi est nécessaire pour que la cohabitation sociale existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sobre nuestra concepción general del ser humano no es necesario volver acá ni reafirmar que el reconocimiento que hacemos de las realidades culturales diversas no invalida la existencia de una común estructura humana en devenir histórico y en dirección convergente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231447Z" creationid="Podium" creationdate="20161103T231447Z">
+        <seg>Il n’est pas nécessaire de revenir sur notre conception générale de l’être humain, ni de réaffirmer que la reconnaissance que nous faisons des diverses réalités culturelles n’invalide pas l’existence d’une structure humaine commune en devenir historique et en direction convergente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,6 +1736,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T202954Z" creationid="william" creationdate="20161028T202954Z">
         <seg>Et dans ce livre nous tenterons d'identifier les pas qu'il faudra suivre pour nous approcher depuis des différents lieux du monde vers un même but.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y estas fuentes son revisadas cuando el poder que las originó ha decaído o se ha transformado de tal modo que el mantenimiento del orden jurídico anterior comienza a chocar con lo ‘razonable’, con el ‘sentido común’, etc. Cuando el legislador cambia una ley o un conjunto de representantes del pueblo cambia la Carta Fundamental de un país, no se viola aparentemente la ley en general porque quienes actúan no quedan expuestos a las decisiones de otros, porque tienen en sus manos el poder, o actúan como representantes de un poder, y en esa situación queda en claro que el poder genera derechos y obligaciones y no a la inversa.” Para terminar con la cita: “Los derechos humanos no tienen la vigencia universal que sería deseable porque no dependen del poder universal del ser humano, sino del poder de una parte sobre el todo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231345Z" creationid="Podium" creationdate="20161103T231345Z">
+        <seg>Et ces sources sont révisées quand le pouvoir qui leur donna naissance, a déchu ou s’est transformé au point que le maintien de l’ordre juridique précédent entre en conflit avec ce qui est “raisonnable”, avec le “sens commun”, etc. Quand le législateur change une loi ou lorsqu’un ensemble de représentants du peuple change la charte fondamentale d’un pays, en apparence la loi n’est pas violée car ceux qui agissent ne s’exposent pas aux décisions des autres : ils tiennent en main le pouvoir ou agissent en tant que représentants d’un pouvoir. Dans ces situations, il est évident que le pouvoir engendre des droits et des obligations et non l’inverse ». Terminons par la citation : « Les droits de l’homme ne sont pas en vigueur universellement, comme il serait souhaitable, parce qu’ils ne dépendent pas du pouvoir universel de l’être humain mais du pouvoir d’une partie sur le tout.</seg>
       </tuv>
     </tu>
     <tu>
