@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Friedrich Nietzsche, feroz critico de la moral judeo-cristiana, cuestionó profundamente los paradigmas de la moral vigente en todos sus libros, pero en su reacción contra ella cayó en las antípodas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T232502Z" creationid="Podium" creationdate="20161103T232502Z">
+        <seg>Friedrich Nietzsche, un critique féroce de la morale judéo-chrétienne, a critiqué à fond les paradigmes de la morale  en vigueur dans tous ses livres, mais dans sa réaction contre la morale, il est tombé aux antipodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Gobiernos</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160256Z" creationid="la belle idee" creationdate="20161030T160256Z">
