@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Así, en los Estados Unidos se aprecia como un atentado a los derechos humanos universales el seccionamiento legal de la mano del ladrón, que se practica en algunos países árabes, mientras se discute académicamente si es más humano el gas cianhídrico, la descarga de 2.000 voltios, la inyección letal, el ahorcamiento u otra macabra delicia de la pena capital.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230319Z" creationid="Podium" creationdate="20161103T230319Z">
+        <seg>Ainsi, aux États-Unis, on considère comme une atteinte aux droits universels de l’homme, l’amputation légale de la main du voleur, qui est pratiquée dans certains pays arabes, alors que l’on discute académiquement ce qui est plus humain entre le gaz cyanhydrique, la décharge de 2 mille volts, l’injection létale, la pendaison ou autre délice macabre de la peine capitale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Así, los sostenedores de esa posición consideran que los supuestos derechos universales del hombre no son sino la generalización del punto de vista que sostiene Occidente y que pretende una validez universal injustificada.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T225957Z" creationid="Podium" creationdate="20161103T225957Z">
@@ -1029,6 +1037,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Otro tanto ocurre si tomamos la concepción del Derecho en general y de la Justicia, si confrontamos las ideas de punición del delincuente con las de rehabilitación del que delinque, tópicos éstos en los que no hay acuerdo aún entre los países del mismo contexto cultural occidental.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230211Z" creationid="Podium" creationdate="20161103T230211Z">
+        <seg>Il se produit la même chose si nous considérons la conception du droit en général et de la justice et si nous confrontons les idées de punition du délinquant avec celles de réhabilitation de celui-ci ; questions sur lesquelles il n’y a pas encore d’accord entre les pays du même contexte culturel occidental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Para algunos puede parecer una utopía irrealizable, pero otros podemos convertir esa utopía en el objetivo que nos oriente y nos inspire hacia un proyecto digno de la especie humana.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T202538Z" creationid="william" creationdate="20161027T202538Z">
@@ -1378,6 +1394,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T201646Z" creationid="william" creationdate="20161024T201646Z">
         <seg>Nous sommes les fils de l'espèce humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sostener como válido para toda la humanidad el punto de vista de la propia cultura lleva a situaciones francamente grotescas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230224Z" creationid="Podium" creationdate="20161103T230224Z">
+        <seg>Soutenir comme valable pour toute l’humanité le point de vue de sa propre culture, amène à des situations franchement grotesques.</seg>
       </tuv>
     </tu>
     <tu>
