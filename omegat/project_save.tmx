@@ -1635,6 +1635,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>¿Cuáles serán y cuáles no serán los derechos humanos que deban defenderse en esa institución?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230641Z" creationid="Podium" creationdate="20161103T230641Z">
+        <seg>Quels seront et quels ne seront pas les droits de l’homme qui devront être défendus dans cette institution ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>¿En qué razones puede basarse la excelencia de la familia monogámica de algunas culturas sobre la poligámica o poliándrica de otras culturas?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230557Z" creationid="Podium" creationdate="20161103T230557Z">
