@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -341,6 +341,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141518Z" creationid="la belle idee" creationdate="20161030T141518Z">
         <seg>Dans un premier temps, nous nous référerons à certains pas génériques, qui, en tant que mécanique de travail doivent tenir compte des individus, des organisations et des gouvernements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En su obra “¿Qué es la propiedad?”, Pierre Proudhon, refiriéndose a la venta de las tierras se preguntaba: “¿puede la presente generación desposeer a la generación del futuro?”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221152Z" creationid="Podium" creationdate="20161103T221152Z">
+        <seg>Dans son œuvre « Qu’est-ce que la propriété ? », Pierre Proudhon, en se référant à la vente des terres, se demandait : « la génération d’aujourd’hui peut-elle déposséder la génération de demain ? »</seg>
       </tuv>
     </tu>
     <tu>
