@@ -264,6 +264,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde luego, no es equitativo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221630Z" creationid="Podium" creationdate="20161103T221630Z">
+        <seg>Bien sûr, ce n’est pas juste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>ENCRUCIJADA Y FUTURO DE LA ESPECIE HUMANA</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T163654Z" creationid="william" creationdate="20160924T132946Z">
@@ -373,6 +381,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T192332Z" creationid="william" creationdate="20161024T192332Z">
         <seg>Il est temps de se demander, chacun en son intérieur d'où nous venons et vers où nous allons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Esa pasión tiende a elevar al humilde al nivel del grande; pero existe también en el corazón humano un gusto perverso por la igualdad que lleva al débil a intentar menguar al poderoso hasta su propio nivel y conduce a los hombres a preferir la igualdad en la esclavitud a la desigualdad en la libertad”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221541Z" creationid="Podium" creationdate="20161103T221541Z">
+        <seg>Cette passion tend à élever l’humble au rang du grand; mais il existe aussi dans le cœur humain un goût dépravé pour l’égalité, qui pousse le faible à abaisser le puissant à son propre niveau, et réduit des hommes à préférer l’égalité dans la servitude à l’inégalité dans la liberté. »</seg>
       </tuv>
     </tu>
     <tu>
@@ -543,6 +559,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T193947Z" creationid="william" creationdate="20161027T193947Z">
         <seg>Le chemin parcouru par l'espèce humaine, court par rapport à l'apparition de la vie sur la planète, représente un important processus d'évolution orienté par une recherche permanente dirigée vers le futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La herencia de los bienes se puede interferir más fácilmente que la del talento.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221706Z" creationid="Podium" creationdate="20161103T221706Z">
+        <seg>On peut faire obstacle à la transmission des biens matériels par héritage beaucoup plus facilement qu’à la transmission des talents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -759,6 +783,22 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero Friedman no solamente argumenta desde una visión totalmente naturalista del ser humano, sino que además minimiza totalmente las tremendas ventajas de las que dispone la acumulación de capital por sobre los talentos o la laboriosidad, a la hora de comparar la igualdad de oportunidades, llegando a esgrimir argumentos rayanos en lo grotesco: &lt;t0/&gt;“Gran parte del fervor moral que hay tras el impulso en pro de la igualdad de resultados, proviene de la difundida creencia de que no es equitativo que ciertos niños tengan una gran ventaja sobre otros sencillamente porque sus progenitores eran más ricos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221616Z" creationid="Podium" creationdate="20161103T221616Z">
+        <seg>Mais Friedman ne se limite pas à des arguments adoptant une vision totalement naturaliste de l’être humain, il réduit au minimum les avantages énormes que présente l’accumulation de capital par rapport aux talents ou à l’application au travail, au moment de comparer l’égalité des chances, allant jusqu’à utiliser des arguments quasi-grotesques : « Une bonne partie de la ferveur morale qui soutient les mouvements en faveur de l’égalité des résultats provient de la croyance largement répandue qu'il n’est pas juste de voir certains enfants très avantagés par rapport aux autres du fait que leurs parents sont riches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero desde un punto de vista ético, ¿hay alguna diferencia entre ambas?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221723Z" creationid="Podium" creationdate="20161103T221723Z">
+        <seg>Mais, d’un point de vue moral, y a-t-il une différence entre les deux ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero es necesario decir que tampoco contribuyen al cambio, aquellos que sólo se limitan a recitar consignas revolucionarias, sin saber qué pasos dar para avanzar, quedando tan paralizados como los que encallaron en la resignación.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T194910Z" creationid="william" creationdate="20161102T194910Z">
@@ -911,6 +951,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T203038Z" creationid="william" creationdate="20161028T203038Z">
         <seg>Il s'agit d'une première approximation des pas à suivre, ceux-ci seront sûrement améliorés, complétés et multipliés durant la marche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sea como sea, la falta de equidad puede adoptar muchas formas: herencia de los bienes –títulos y acciones, casas y fábricas- o herencia del talento –capacidad musical, fuerza, genio matemático-.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221650Z" creationid="Podium" creationdate="20161103T221650Z">
+        <seg>Mais l’injustice peut prendre bien des formes. Elle peut prendre la forme de biens hérités - titres et actions, maisons, usines; elle peut prendre également la forme de talents hérités – sens musical, force physique, génie mathématique.</seg>
       </tuv>
     </tu>
     <tu>
