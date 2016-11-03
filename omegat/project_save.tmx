@@ -304,6 +304,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En apoyo a sus críticas (dirigidas sobre todo al partido demócrata, por sus políticas de intervención estatal), cita a Tocqueville: “…hay una enérgica y lícita pasión por la igualdad que incita a los hombres a desear intensamente ser poderosos y honrados.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221417Z" creationid="Podium" creationdate="20161103T221417Z">
+        <seg>Pour appuyer ses critiques (dirigées avant tout au parti démocrate, en raison de ses politiques d’intervention étatique), il cite Tocqueville : « Il existe (...) une passion virile et légitime pour l’égalité, qui incite les hommes à désirer tous être puissants et honorés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En cualquier caso, de continuar esta dirección mecánica de los acontecimientos, el mundo va hacia una catástrofe inevitable, por lo cual será imprescindible que la intencionalidad humana recupere el sentido de la especie y corrija el rumbo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T194746Z" creationid="william" creationdate="20161028T194746Z">
@@ -615,6 +623,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T205220Z" creationid="william" creationdate="20161028T205220Z">
         <seg>Ensuite nous approfondirons quelques thèmes qui nous semblent  pertinents, dans le chapitre "Analyse et fondements", dans lequel nous essayerons de couvrir les domaines dans lesquels devront se produire les transformations, aussi bien au niveau international qu'à l'intérieur de chaque pays.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Milton Friedman, en su libro “Libertad de elegir”, posiblemente a partir de un posicionamiento crítico al comunismo entonces vigente, por carácter transitivo califica también como políticas de “igualdad de resultados” prácticamente a toda intervención estatal que pretenda redistribuir una parte de la riqueza, o al menos dar contención a los marginados, al punto de afirmar que los Estados Unidos de los años 70 ese era el sentido de igualdad predominante.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221357Z" creationid="Podium" creationdate="20161103T221357Z">
+        <seg>Milton Friedman, dans son livre « La liberté du choix », possiblement à partir d’une position critique à l’égard du communisme alors en vigueur, par un caractère transitif, qualifie également de politiques d’« égalité des résultats » pratiquement toute intervention étatique qui prétend redistribuer une partie des richesses, ou du moins faire preuve de modération face aux marginaux, au point d’affirmer qu’aux États-Unis, dans les années 70, ce système d’égalité était celui qui prédominait.</seg>
       </tuv>
     </tu>
     <tu>
