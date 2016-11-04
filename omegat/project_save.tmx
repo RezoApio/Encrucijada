@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Actualmente, el gobierno, en sus niveles federal, estatal y local, dispone en nuestro nombre de más del 40% de nuestros ingresos.”&lt;t5/&gt; Y luego cuestiona cualquier tipo de regulación y hasta de controles básicos que debe cumplir el estado al afirmar: &lt;t6/&gt;“Otra parte esencial de la libertad económica es la libertad para utilizar los recursos que poseemos de acuerdo con nuestros propios valores –libertad para desempeñar cualquier ocupación, para embarcarnos en cualquier negocio, para comprar y vender a otro, siempre que lo hagamos voluntariamente y no recurramos a la fuerza para coaccionar a otros.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T003032Z" creationid="Podium" creationdate="20161104T003032Z">
+        <seg>À l’heure actuelle, aux États-Unis, plus de 40 % du revenu des citoyens est dépensé à leur place par l’État, aux échelons fédéral, national et local. »&lt;t5/&gt; Ensuite, il remet en question n’importe quel type de réglementation et même de contrôles de base que doit assumer l’État, lorsqu’il affirme : &lt;t6/&gt;« Une autre partie essentielle de la liberté économique est la liberté d’utiliser les ressources que nous possédons en harmonie avec nos propres valeurs - la liberté de pratiquer tel métier, de se lancer dans telle affaire, d’acheter et de vendre à quelqu’un d’autre, aussi longtemps que nous le faisons sur une base strictement volontaire sans avoir recours à la force pour contraindre les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Además de una mayor regresividad en el sistema tributario, en los países con mayor desigualdad también es mucho más relajada la disciplina fiscal y menos eficaz la administración tributaria.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224251Z" creationid="Podium" creationdate="20161103T224251Z">
@@ -811,6 +819,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Hoy en día no eres libre para ofrecer tus servicios como abogado, médico, dentista, fontanero, barbero, empresario de pompas fúnebres o enrolarte en un buen puñado de otras ocupaciones, sin obtener previamente un permiso o licencia del gobierno.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T003048Z" creationid="Podium" creationdate="20161104T003048Z">
+        <seg>Aujourd’hui, vous n’êtes pas libre d’offrir vos services comme avocat, médecin, dentiste, plombier, coiffeur, croquemort et mille autres professions sans obtenir d’un fonctionnaire de l’Etat une autorisation ou une homologation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Hoy estamos ante una nueva encrucijada, y se trata de un desafío mayor a los anteriores, porque abarca a todo el planeta.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T185517Z" creationid="william" creationdate="20161024T185517Z">
@@ -1151,6 +1167,30 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T192956Z" creationid="william" creationdate="20161024T192956Z">
         <seg>Personne ne nous à demander si nous voulions naître et personne ne l'a demandé à nos parents ni à nos ancêtres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>No eres libre de crear un banco, meterte en el negocio de los taxis o de la venta de electricidad, ni de los servicios telefónicos, o montar un ferrocarril, una línea de autobuses, o una compañía aérea sin recibir previamente el permiso de un funcionario del gobierno.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T003137Z" creationid="Podium" creationdate="20161104T003137Z">
+        <seg>Vous n’êtes pas libre d’ouvrir une banque, de monter une affaire de taxis, de vendre de l’énergie électrique ou d’établir un réseau de téléphone, de lancer une ligne ferroviaire, une ligne d’autobus ou une ligne aérienne sans obtenir préalablement la permission d’un fonctionnaire de l’État.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>No eres libre para captar fondos en los mercados de capitales, a menos que rellenes las numerosas páginas de los formularios exigidos por la SEC.”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T003237Z" creationid="Podium" creationdate="20161104T003237Z">
+        <seg>Vous n’êtes pas libre de faire des appels de fonds sur les marchés financiers sans remplir les formulaires interminables requis par la Commission de Contrôle des Titres (SEC). »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>No eres libre para hacer horas extra mutuamente acordadas entre tú y tu empleador, a menos que esas condiciones se ajusten a las normas y regulaciones aprobadas por un funcionario del gobierno.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T003112Z" creationid="Podium" creationdate="20161104T003112Z">
+        <seg>Vous n’êtes pas libre de faire des heures supplémentaires à des conditions mutuellement convenues par vous et votre employeur - sauf si ces conditions sont en conformité avec les règlements et les ordonnances définies par un fonctionnaire de l’État.</seg>
       </tuv>
     </tu>
     <tu>
