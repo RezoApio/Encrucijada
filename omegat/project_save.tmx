@@ -1852,6 +1852,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y la transmisión del empleo a usos menos productivos reducirá la producción total.”&lt;t2/&gt; &lt;t3/&gt;Esta afirmación asume que todos los productos que se podrían fabricar son equivalentes en cuanto al empleo que generan, desconociendo que el valor de las importaciones y exportaciones aunque se compense, puede implicar en cada país diferentes tasas de empleo, como ocurre con aquellos países que importan manufacturas y exportan materias primas, y que solamente podrían generar empleo desarrollando su industria, la cual posiblemente necesite de los aranceles que la protejan.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T002138Z" creationid="Podium" creationdate="20161104T002138Z">
+        <seg>Et le passage de cette main-d’oeuvre à une utilisation moins productive réduira la production totale. »&lt;t2/&gt; &lt;t3/&gt;Cette affirmation suppose que tous les produits que l’on pourrait fabriquer son équivalents quant à l’emploi qu’ils génèrent, sans tenir compte du fait que la valeur des importations et des exportations, bien qu’elle soit compensée, peut entraîner dans chaque pays des taux d’emploi différents, comme c’est le cas des pays qui importent des produits manufacturés et exportent des matières premières, et qu’ils ne pourraient générer de l’emploi qu’en développant leur industrie, laquelle nécessitera probablement des droits de douane comme mesure de protection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y luego nos referiremos a los pasos específicos que hay que dar en cada área, los que debieran ser apoyados por los individuos, promovidos y exigidos por las organizaciones, e implementados por los gobiernos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141540Z" creationid="la belle idee" creationdate="20161030T141540Z">
