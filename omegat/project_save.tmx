@@ -567,6 +567,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>En ese entonces Keynes consideró necesario definir la “desocupación involuntaria”, ya que la teoría clásica no admitía su existencia, diciendo: &lt;t0/&gt;“…los hombres se encuentran involuntariamente sin empleo cuando, en el caso de que se produzca una pequeña alza en el precio de los artículos para asalariados, en relación con el salario nominal, tanto la oferta agregada de mano de obra dispuesta a trabajar por el salario nominal corriente como la demanda agregada de la misma a dicho salario son mayores que el volumen de ocupación existente”.&lt;t1/&gt; Hay que recordar que los clásicos en aquellos tiempos sostenían que en el mercado todo se regulaba en el equilibrio entre oferta y demanda, por lo cual si hubiera desempleados en un determinado nivel de salarios, estos bajarían hasta encontrar un nuevo punto de equilibrio en el pleno empleo, o a lo sumo en un mínimo porcentaje de desempleo friccional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T005126Z" creationid="Podium" creationdate="20161104T005126Z">
+        <seg>À l’époque, Keynes avait jugé nécessaire de définir le « chomâge involontaire », puisque la théorie classique n’admettait pas son existence, en disant : &lt;t0/&gt;« …Il existe des chômeurs involontaires si, en cas d’une légère hausse du prix des biens de consommation ouvrière par rapport aux salaires nominaux, l’offre globale de main-d’œuvre disposée à travailler aux conditions courantes de salaire et la demande globale de main-d’œuvre aux mêmes conditions s’établissent toutes deux au-dessus du niveau antérieur de l’emploi. »&lt;t1/&gt; Il convient de rappeler que les postulats classiques à cette époque faisaient valoir que sur le marché tout était régi par l’équilibre entre l’offre et la demande, si bien que s’il y avait des chômeurs à un certain niveau des salaires, ces derniers diminueraient jusqu’à trouver un nouveau point d’équilibre sur le plein emploi, ou, au plus, un pourcentage minimum de chômage « de frottement ».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Croisée pour reprendre le titre</note>
       <tuv lang="ES-AR">
         <seg>En esta encrucijada de la historia, plagada de contradicciones, a menudo nos sentimos solos, divididos y desamparados; al punto tal que resulta imposible hablar de un “Nosotros”.</seg>
