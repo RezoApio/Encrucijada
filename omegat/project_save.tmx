@@ -963,6 +963,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Las exportaciones disminuirán para compensar las menores importaciones y el empleo aumentará en la industria textil, pero bajará en las industrias exportadoras.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000341Z" creationid="Podium" creationdate="20161104T000341Z">
+        <seg>Les exportations des États-Unis diminueront pour équilibrer la diminution des importations. L’emploi augmentera dans l’industrie textile mais diminuera dans les industries d’exportation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Las mentiras de los políticos y la manipulación de los medios de comunicación destruirán todo vestigio de credibilidad, sobreviniendo un caos generalizado, de no surgir otro tipo de referencias coherentes.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T204128Z" creationid="william" creationdate="20161027T204128Z">
@@ -1572,10 +1580,26 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si los aranceles se imponen en, digamos, los textiles, eso incrementará la producción y el empleo en la industrial textil doméstica.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000257Z" creationid="Podium" creationdate="20161104T000257Z">
+        <seg>Si l’on impose des droits de douane, disons aux textiles, la production et l’emploi dans l’industrie textile augmenteront à l’intérieur du pays.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Si los más elementales reclamos sobre el gobierno del propio cuerpo son pisoteados en todas las latitudes, solo podemos hablar de aspiraciones que tendrán que convertirse en derechos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231359Z" creationid="Podium" creationdate="20161103T231359Z">
         <seg>Et si les plus élémentaires demandes à disposer de son propre corps sont piétinées sous toutes les latitudes, alors nous pouvons seulement parler d’aspirations que l’on devra transformer en droits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sin embargo, los productores extranjeros que ya no pueden vender sus telas en los Estados Unidos ganarán menos dólares.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000314Z" creationid="Podium" creationdate="20161104T000314Z">
+        <seg>Mais les producteurs étrangers qui ne pourront pas vendre leurs textiles aux États-Unis gagneront moins de dollars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1719,6 +1743,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230906Z" creationid="Podium" creationdate="20161103T230906Z">
         <seg>On a également affirmé que la loi est faite pour défendre les intérêts de ceux qui l’imposent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Tendrán menos que gastar en los Estados Unidos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000326Z" creationid="Podium" creationdate="20161104T000326Z">
+        <seg>Ils en auront moins à dépenser aux États-Unis.</seg>
       </tuv>
     </tu>
     <tu>
