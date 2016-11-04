@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Al respecto dice: &lt;t2/&gt;“…el ahorro es, como el gasto, un fenómeno doble; porque si bien no es probable que el monto de su ahorro propio tenga alguna influencia notable sobre su ingreso, las reacciones del monto de su consumo sobre los ingresos de los demás hacen imposible que todos los individuos ahorren simultáneamente cualquier suma dada.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T005933Z" creationid="Podium" creationdate="20161104T005933Z">
+        <seg>À cet égard, il dit : &lt;t2/&gt;« …l’épargne, comme la dépense, est une opération bilatérale. Bien que le montant de l’épargne d’un individu ait peu de chance d’avoir une influence sensible sur son propre revenu, les réactions exercées par le montant de sa consommation sur les revenus des autres font qu’il est impossible à tous les individus pris à la fois d’épargner une somme donnée d’un montant quelconque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Alberto Garzón Espinosa, en su publicación “Paraísos fiscales y globalización financiera”, cita la siguiente definición:” “[Son paraísos fiscales] todos los centros financieros que desarrollan una actividad desregulada, descontrolada y ajena a las regulaciones comunes a los demás países con los que se relacionan, por estar destinados de modo especial a las empresas o a los particulares no residentes, actividad incentivada por la escasa o nula tributación”.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224539Z" creationid="Podium" creationdate="20161103T224539Z">
@@ -1823,6 +1831,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200550Z" creationid="william" creationdate="20161024T200550Z">
         <seg>Tout s'effondre et peu importe le nom des responsables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Todo intento de ahorrar más, reduciendo el consumo, afectará de tal modo los ingresos que necesariamente se anulará a sí mismo…”&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T010003Z" creationid="Podium" creationdate="20161104T010003Z">
+        <seg>Toute tentative de cette nature qui vise à augmenter l’épargne en diminuant la consommation agit sur les revenus de telle sorte qu’elle se neutralise nécessairement elle-même. »&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
