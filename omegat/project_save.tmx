@@ -1107,6 +1107,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Milton Friedman, en su libro “Libertad de elegir”, reivindica las teorías clásicas liberales, sobre todo las de Adam Smith, reafirmando que el estado solo debe ocuparse de la protección de los ciudadanos, de las fronteras y de realizar aquellas obras que no pueden llevar adelante los ciudadanos individualmente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000200Z" creationid="Podium" creationdate="20161104T000200Z">
+        <seg>Dans son livre « La liberté du choix », Milton Friedman revendique les théories classiques libérales, surtout celles d’Adam Smith, lorsqu’il réaffirme que l’État ne doit s’occuper que de la protection des citoyens, des frontières et de réaliser les oeuvres que les citoyens ne peuvent, individuellement, mener à bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Montero de Burgos expresa: &lt;t0/&gt;“Siendo la democracia un valor universalmente admitido, cabe la afirmación de que si alguien piensa que la empresa va a seguir manteniendo cerradas sus puertas a la democracia, ya puede pensar también en arrojar esa idea al baúl de las cosas obsoletas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223258Z" creationid="Podium" creationdate="20161103T223258Z">
@@ -1217,6 +1225,14 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230211Z" creationid="Podium" creationdate="20161103T230211Z">
         <seg>Il se produit la même chose si nous considérons la conception du droit en général et de la justice et si nous confrontons les idées de punition du délinquant avec celles de réhabilitation de celui-ci ; questions sur lesquelles il n’y a pas encore d’accord entre les pays du même contexte culturel occidental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Para Friedman el problema del desempleo lo resuelve el mismo mercado libre y cualquier medida que pueda tomar un gobierno sería contraproducente&lt;t0/&gt;: &lt;t1/&gt;“La misma falacia de mirar sólo uno de los dos lados de la cuestión se da cuando los aranceles se impulsan a fin de incrementar el empleo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000242Z" creationid="Podium" creationdate="20161104T000242Z">
+        <seg>Pour Friedman, le problème du chomâge est résolu par le marché libre lui-même et n’importe quelle mesure qu’un gouvernement pourrait prendre serait contre-productive : « La même habitude fallacieuse de ne regarder qu’un côté de la question pousse certains à réclamer des droits de douane pour diminuer le chômage.</seg>
       </tuv>
     </tu>
     <tu>
