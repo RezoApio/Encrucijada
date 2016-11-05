@@ -3332,10 +3332,42 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>¡Pobre destino el del ser humano si ha llegado hasta aquí, solo para adormecerse en la hipnótica cotidianeidad de la sociedad de consumo!</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T171608Z" creationid="william" creationdate="20161105T171608Z">
+        <seg>Pauvre destin de l'être humain s'il est arrivé jusqu'ici pour s'endormir dans l'hypnotique quotidienneté de la société de consommation !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Acaso la acumulación de riqueza, la fama o el poder?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T171353Z" creationid="william" creationdate="20161105T171353Z">
+        <seg>Serait-ce l'accumulation de richesse, la renommée ou le pouvoir ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Acaso la identificación con un estilo musical, ídolos deportivos, o estrellas de cine?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T171441Z" creationid="william" creationdate="20161105T171441Z">
+        <seg>Serait-ce l'identification avec un style musical, des idoles sportives ou des stars de ciné ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>¿Acaso un nuevo modelo de automóvil, una playa paradisíaca, o una vestimenta de moda?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T171254Z" creationid="william" creationdate="20161105T171254Z">
         <seg>Serait-ce un nouveau modèle de voiture, une plage paradisiaque ou un vétement à la mode ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Acaso un trabajo estable, una cobertura de salud, y la seguridad de una jubilación?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T171324Z" creationid="william" creationdate="20161105T171324Z">
+        <seg>Serait-ce un travail stable, une couverture de santé et la sécurité d'une retraite ?</seg>
       </tuv>
     </tu>
     <tu>
