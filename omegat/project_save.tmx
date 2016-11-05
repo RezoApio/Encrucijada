@@ -448,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Consultas populares vinculantes acerca de temas internacionales, ya se trate de decisiones de política exterior de cada país, o ya se trate de decisiones regionales o mundiales, en el marco de una dinámica de complementación internacional hacia la Nación Humana Universal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143454Z" creationid="la belle idee" creationdate="20161105T143454Z">
+        <seg>15.	Mettre en place des consultations populaires obligatoires sur des sujets internationaux, qu’ils s'agissent de décisions de politique extérieure à chaque pays, ou qu’ils s’agissent de décisions régionales ou mondiales, dans le cadre d'une dynamique de complementación internationale vers la Nation Humaine Universelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Contribuir desde su función a la difusión y organización de actividades relacionadas con los objetivos, en el seno de toda la sociedad de su área de influencia.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160351Z" creationid="la belle idee" creationdate="20161030T160351Z">
@@ -564,6 +572,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141049Z" creationid="la belle idee" creationdate="20161030T141049Z">
         <seg>En aucune façon cette énumération de pas est exhaustive. Elle n’est qu’un point de départ afin que ceux qui partagent cet objectif puissent ajouter davantage de propositions. ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Definiendo tanto para el nivel municipal, como el nacional, las temáticas y frecuencias posibles de las consultas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143224Z" creationid="la belle idee" creationdate="20161105T143224Z">
+        <seg>en définissant tant au niveau municipal qu’au niveau national, les thèmes et les fréquences possibles des consultations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -796,6 +812,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134507Z" creationid="la belle idee" creationdate="20161105T134507Z">
         <seg>5.	Election démocratique du Conseil de Sécurité par le vote de toutes les nations, sans membres permanents avec droit de veto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Elección directa por voto popular de jueces y comisarios, con un calendario diferente al de las elecciones legislativas o ejecutivas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143415Z" creationid="la belle idee" creationdate="20161105T143415Z">
+        <seg>13.	Election directe par un vote populaire des juges et des commissaires, avec un calendrier différent de celui des élections législatives ou exécutives.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1251,6 +1275,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Incorporación de los presupuestos participativos en el nivel municipal, y de consultas sobre líneas presupuestarias generales en niveles regionales y nacionales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143434Z" creationid="la belle idee" creationdate="20161105T143434Z">
+        <seg>14.	Introduire des budgets participatifs au niveau municipal, et des consultations sur des lignes budgétaires générales au niveau régional et national.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Incorporación en los sistemas educativos de los métodos de Educación para la Paz y la No-Violencia</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133719Z" creationid="la belle idee" creationdate="20161105T133719Z">
@@ -1259,10 +1291,34 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Incorporar la revocatoria de mandato para que los funcionarios que tengan un mal desempeño puedan ser desplazados con el voto de un porcentaje de los electores.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143350Z" creationid="la belle idee" creationdate="20161105T143350Z">
+        <seg>11.	Incorporer la possibilité de révoquer le mandat des fonctionnaires élus qui ont de mauvais résultats et qui puissent être déplacés par le vote d'un pourcentage de l'électorat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Incorporar una ley de responsabilidad política, en virtud de la cual los candidatos antes de cada elección deban asentar por escrito sus compromisos para la gestión después de asumir, y ante el no cumplimiento desplazarlos del cargo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143357Z" creationid="la belle idee" creationdate="20161105T143357Z">
+        <seg>12.	Incorporer une loi de responsabilité politique, par laquelle les candidats avant chaque élection formalisent par écrit leurs compromis et s’engagent à les assumer et en cas de non accomplissement de pourvoir leur enlever leur charge élective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Incrementar la presión sobre los gobernantes, por todos los temas de la agenda de las organizaciones, y continuar pidiendo por instrumentos vinculantes de democracia real.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160028Z" creationid="la belle idee" creationdate="20161030T160028Z">
         <seg>9.	Augmenter la pression sur les dirigeants, sur tous les sujets de l'agenda des organisations, et continuer à demander la mise en oeuvre d’instruments pour appliquer la démocratie réelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Instituir consultas populares vinculantes acerca de temas que emerjan como relevantes por iniciativas ciudadanas o gubernamentales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143200Z" creationid="la belle idee" creationdate="20161105T143200Z">
+        <seg>10.	Instituer des consultations populaires obligatoires sur des sujets qui émergent comme importants suite à des initiatives citadines ou gouvernementales, </seg>
       </tuv>
     </tu>
     <tu>
@@ -2335,6 +2391,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T135402Z" creationid="la belle idee" creationdate="20161105T135402Z">
         <seg>6.	Les organismes financiers internationaux actuels, au service du pouvoir économique et financier global, doivent être remplacés par une Banque Mondiale Solidaire. Cette Banque pouvoiera aux nécessités financières des nations, pour qu'elles ne soient pas victimes d'usuriers et de vautours. Celle-ci commencera à se capitaliser par les quote-part des nations et par un impôt mondial sur les grands capitaux et sur les transactions financières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se deberá ir por pasos, de lo más simple a lo más complejo, y desde una mínima frecuencia anual de las consultas, hacia una frecuencia mayor, a medida que avance la capacitación y la agilidad de los canales de participación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143242Z" creationid="la belle idee" creationdate="20161105T143242Z">
+        <seg>Il faudra avancer pas à pas, du plus simple au plus complexe, et avec des consultations d’une fréquence annuelle minimale vers une plus grande fréquence, à mesure qu’avance la formation et la souplesse des canaux de participation.</seg>
       </tuv>
     </tu>
     <tu>
