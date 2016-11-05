@@ -1024,6 +1024,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El punto es saber si terminará de derrumbarse sobre nuestras cabezas distraídas, o si haremos algo para acelerar su desmantelamiento y reemplazo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T222634Z" creationid="william" creationdate="20161105T222634Z">
+        <seg>L'important c'est de savoir s'il finira de s'écrouler sur nos têtes distraites ou bien si nous ferons quelque chose pour accélérer son démantèlement et son remplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Elección democrática del Consejo de Seguridad mediante el voto de todas las naciones, sin miembros permanentes con derecho a veto.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134507Z" creationid="la belle idee" creationdate="20161105T134507Z">
@@ -2832,6 +2840,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160407Z" creationid="la belle idee" creationdate="20161030T160407Z">
         <seg>5.	 Se mettre en relation et se coordonner avec les mouvements sociaux, organisations et gouvernements qui travaillent aux mêmes objectifs et ce, dans sa zone d’influence, à d’autres niveaux du pays et au niveau international.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Resultaría ocioso transcribir aquí las estadísticas de un sistema globalizado que ya no resiste y que se está cayendo por sus propias contradicciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T222454Z" creationid="william" creationdate="20161105T222454Z">
+        <seg>Il serait inutile de transcrire ici les statistiques d'un système globalisé qui ne résiste plus et qui est en train de s'écrouler de ses propres contradictions.</seg>
       </tuv>
     </tu>
     <tu>
