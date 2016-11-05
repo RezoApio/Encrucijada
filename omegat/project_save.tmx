@@ -3332,6 +3332,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>¿Acaso un nuevo modelo de automóvil, una playa paradisíaca, o una vestimenta de moda?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T171254Z" creationid="william" creationdate="20161105T171254Z">
+        <seg>Serait-ce un nouveau modèle de voiture, une plage paradisiaque ou un vétement à la mode ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>¿Cuáles serán y cuáles no serán los derechos humanos que deban defenderse en esa institución?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230641Z" creationid="Podium" creationdate="20161103T230641Z">
