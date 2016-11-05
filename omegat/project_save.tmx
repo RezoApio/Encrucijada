@@ -1723,6 +1723,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La humanidad se encuentra en un callejón sin salida, no existiendo un canal adecuado para que las aspiraciones de la mayoría se transformen en acciones que modifiquen la realidad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T211456Z" creationid="william" creationdate="20161105T211456Z">
+        <seg>L'humanité est face à une voie sans issue puisqu'il n'existe pas de canal adapté pour que les aspirations de la majorité se transforme en actions qui modifient la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La lucha por el establecimiento de una nación humana universal es también la lucha, desde cada cultura, por la vigencia de derechos humanos cada vez más precisos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231505Z" creationid="Podium" creationdate="20161103T231505Z">
@@ -3413,10 +3421,18 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y así va quedando el poder en manos de quienes disfrutan subordinando a otros.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T211344Z" creationid="william" creationdate="20161105T211344Z">
+        <seg>Et ainsi le pouvoir reste dans les mains de ceux qui ont plaisir à subordonner les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y así va quedando la política en manos de especialistas en el manejo del poder.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161105T203921Z" creationid="william" creationdate="20161105T203921Z">
-        <seg>Y ainsi la politique reste aux mains des spécialistes du maniement du pouvoir.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T211259Z" creationid="william" creationdate="20161105T203921Z">
+        <seg>Et ainsi la politique reste aux mains des spécialistes du maniement du pouvoir.</seg>
       </tuv>
     </tu>
     <tu>
