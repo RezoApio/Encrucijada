@@ -480,10 +480,18 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Concientizar acerca de que los valores humanistas son universales, y por lo tanto involucran la relación con lo más cercanos, pero también con todos los habitantes del planeta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144841Z" creationid="la belle idee" creationdate="20161105T144841Z">
+        <seg>5.	Faire prendre conscience que les valeurs humanistes sont universelles, et par conséquent elles impliquent la relation avec le milieu immédiat mais aussi avec tous les habitants de la planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Concientizar sobre el cambio de valores no desde una prédica moralista, sino desde la misma acción en torno a cualquiera de los proyectos de la Nación Humana Universal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144630Z" creationid="la belle idee" creationdate="20161105T144630Z">
-        <seg>3.	Faire prendre conscience du changement de valeurs non depuis un sermon moraliste, mais depuis des actions en relation avec tous les projets de la Nation Humaine Universelle.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144823Z" creationid="la belle idee" creationdate="20161105T144630Z">
+        <seg>4.	Faire prendre conscience du changement de valeurs non depuis un sermon moraliste, mais depuis des actions en relation avec tous les projets de la Nation Humaine Universelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1205,6 +1213,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144012Z" creationid="la belle idee" creationdate="20161105T144012Z">
         <seg>8.	Formation dans les municipalités d'un Comité du Développement Local, constitué par des centres éducatifs, des entreprises, des travailleurs, des désoeuvrés, et des autorités publiques, pour élaborer et mettre en marche des projets productifs qui renforcent les capacités du lieu, dans une articulation avec l'économie nationale et regionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Fortalecer como la mayor referencia interna de la conducta de cada cual, el apego a la Regla de Oro: “Tratar a los demás como se quiere ser tratado”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144903Z" creationid="la belle idee" creationdate="20161105T144903Z">
+        <seg>6.	Renforcer en tant que la plus grande référence interne dans la conduite de chacun, l'attachement à la Règle d'Or : “Traiter les autres comme nous voulons être traité”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2332,8 +2348,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Proponer como consigna de conducta la resistencia a todo tipo de violencia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144553Z" creationid="la belle idee" creationdate="20161105T144553Z">
-        <seg>3.	Faire prendre conscience du changement de valeurs non depuis un sermon moraliste, mais depuis des actions en relation avec tous les projets de la Nation Humaine Universelle.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144817Z" creationid="la belle idee" creationdate="20161105T144553Z">
+        <seg>3.	Proposer comme consigne de conduite, la résista,ce à toute forme de violence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2797,6 +2813,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T201203Z" creationid="william" creationdate="20161027T201203Z">
         <seg>Survient alors la nécessité impérieuse de retrouver le sens de l'espèce, en récupérant la perception de l'humain dans son prochain, pour avancer ensemble vers la suppression des contradictions sociales et entreprendre le chemin vers l'humanisation de la Terre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Síntesis</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144919Z" creationid="la belle idee" creationdate="20161105T144919Z">
+        <seg>Synthèse</seg>
       </tuv>
     </tu>
     <tu>
