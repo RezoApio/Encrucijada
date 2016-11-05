@@ -632,6 +632,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El choque cultural se resuelve con respeto a la diversidad e integración, y no con el rechazo y la formación de guetos aislados.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140357Z" creationid="la belle idee" creationdate="20161105T140357Z">
+        <seg>Le choc culturel se résout grace à la diversité et à l'intégration, et non par le rejet et la formation de ghettos isolés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El diagnóstico</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160925T153040Z" creationid="william" creationdate="20160925T153040Z">
@@ -1323,10 +1331,26 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Los convenios entre naciones deben ampliarse hacia el objetivo de una total apertura de fronteras, intentando orientar la migración hacia donde existan las mejores oportunidades, pero sin poner restricciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140434Z" creationid="la belle idee" creationdate="20161105T140434Z">
+        <seg>5.	Les accords entre des nations doivent avancer vers l'objectif d'une ouverture totale des frontières, en essayant d'orienter la migration où ils existent les meilleures opportunités, mais sans mettre de restrictions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Los derechos humanos no pertenecen al pasado, están allí en el futuro succionando la intencionalidad, alimentando una lucha que se reaviva en cada nueva violación al destino del hombre.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231411Z" creationid="Podium" creationdate="20161103T231411Z">
         <seg>Les droits de l’homme n’appartiennent pas au passé, ils sont là-bas dans le futur, aspirant l’intentionnalité, nourrissant une lutte qui se ravive à chaque nouvelle violation du destin de l’homme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Los gobiernos deben planificar la integración, social y laboral de los inmigrantes, de igual modo que deben hacerlo con los nativos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140417Z" creationid="la belle idee" creationdate="20161105T140417Z">
+        <seg>Les gouvernements doivent planifier l'intégration sociale et professionnelle des immigrants, de la même façon qu’ils doivent le faire pour les natifs.</seg>
       </tuv>
     </tu>
     <tu>
