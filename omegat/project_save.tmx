@@ -1508,6 +1508,14 @@ espiritu : esprit</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Para poder cumplir con tales compromisos graduales, establecer una progresiva reasignación de las partidas presupuestarias hoy destinadas al armamentismo, para destinarlas al desarrollo mundial.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134921Z" creationid="la belle idee" creationdate="20161105T134921Z">
+        <seg>9.	Pour pouvoir respecter de tels engagements, établir une réassignation progressive d’une partie des budgets aujourd'hui destinés à la course aux armements, et les destiner au développement mondial.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>semblanza = biographie possible
 exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
@@ -1815,6 +1823,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133628Z" creationid="la belle idee" creationdate="20161105T133628Z">
         <seg>7.	Réduction progressive de l’armement conventionnel en fonction de l’avancée des accords de paix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Reestructuración del sistema financiero internacional</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134939Z" creationid="la belle idee" creationdate="20161105T134939Z">
+        <seg>Restruturation du système financier international</seg>
       </tuv>
     </tu>
     <tu>
