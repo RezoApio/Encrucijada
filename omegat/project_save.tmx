@@ -336,6 +336,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Coordinación entre organizaciones que trabajan en torno al tema de la paz y el desarme, para organizar foros, eventos, y movilizaciones exigiendo a los gobiernos, en particular a los de las potencias militares, los siguientes puntos:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133506Z" creationid="la belle idee" creationdate="20161105T133506Z">
+        <seg>2.	Coordination entre organisations qui agissent sur le thème de la paix et du désarmement pour organiser des fórums, des événements et des mobilisations en exigeant des gouvernements, en particulier ceux des puissances militaires, les points suivant:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Coordinarse con otras organizaciones que trabajen en la misma temática y organizar consultas populares aunque no estén legalizadas, sobre la resolución de la temática específica y pidiendo la renuncia de los funcionarios.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155749Z" creationid="la belle idee" creationdate="20161030T155749Z">
@@ -408,6 +416,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desarme</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133421Z" creationid="la belle idee" creationdate="20161105T133421Z">
+        <seg>Désarmement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desarme nuclear y reducción del armamentismo</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161021T172548Z" creationid="william" creationdate="20161021T172548Z">
@@ -444,6 +460,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221630Z" creationid="Podium" creationdate="20161103T221630Z">
         <seg>Bien sûr, ce n’est pas juste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Desmantelamiento total de arsenales nucleares, y de toda arma de destrucción masiva.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133523Z" creationid="la belle idee" creationdate="20161105T133523Z">
+        <seg>3.	Démantèlement total des arsenaux nucléaires et de toutes les armes de destruction massive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1367,6 +1391,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pasos específicos</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133407Z" creationid="la belle idee" creationdate="20161105T133407Z">
+        <seg>Pas spécifiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pasos genéricos</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141603Z" creationid="la belle idee" creationdate="20161030T141603Z">
@@ -1847,6 +1879,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230016Z" creationid="Podium" creationdate="20161103T230016Z">
         <seg>Prenons par exemple l’article 16-1 :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Trabajar en la concientización de las poblaciones de naciones armamentistas, sobre la necesidad de no sostener con su voto a los gobernantes que no se comprometan con el desarme como prioridad de su política exterior.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133449Z" creationid="la belle idee" creationdate="20161105T133449Z">
+        <seg>1.	Travailler à la prise de conscience des populations des nations productrices d’armements sur la nécesité de ne pas soutenir par leur vote les gouvernements qui ne se compromettent pas avec le désarmement comme priorité de leur politique extérieure.</seg>
       </tuv>
     </tu>
     <tu>
