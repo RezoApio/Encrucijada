@@ -2042,6 +2042,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>No es por explicar cómo debe ser una nueva cultura que esa nueva cultura nacerá.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T174106Z" creationid="william" creationdate="20161105T174106Z">
+        <seg>Ce n'est pas en expliquant comment doit naître une nouvelle culture que celle-ci naîtra.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>mente : raison ?
 espiritu : esprit</note>
       <tuv lang="ES-AR">
@@ -2057,6 +2065,14 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200828Z" creationid="william" creationdate="20161024T200828Z">
         <seg>Il ne s'agit pas d'une société que quelqu'un doit transformer, c'est nous mêmes qui devons changer pour vivre d'une autre manière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>No un cambio de modas ni de estilos sino un cambio de concepciones profundas, un cambio de valores.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T174020Z" creationid="william" creationdate="20161105T174020Z">
+        <seg>Pas un changement de mode ou de style mais un changement de conceptions profondes, un changement de valeurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,6 +3280,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T185340Z" creationid="william" creationdate="20161024T185340Z">
         <seg>Et même si parfois nous sommes tombé dans les contradictions des guerres, de la violence et de l'injustice, parfois nous avons été capables de chercher la paix, la tolérance et la solidarité pour continuer d'avancer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y cuando ello ocurra comenzará el verdadero cambio cultural.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T173929Z" creationid="william" creationdate="20161105T173929Z">
+        <seg>Et quand cela arrivera, alors commencera le véritable changement social.</seg>
       </tuv>
     </tu>
     <tu>
