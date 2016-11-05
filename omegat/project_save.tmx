@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Campañas de concientización en las poblaciones de países con conflictos, para fortalecer la valoración de la paz y de la vida frente al horror de la guerra, convocando a consultas populares para apoyar los procesos de paz.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133537Z" creationid="la belle idee" creationdate="20161105T133537Z">
+        <seg>4.	Campagnes de prise de conscience en direction des populations des pays en conflit pour renforcer la valorisation de la paix et de la vie face à l’horreur de la guerre en convoquant à des consultations populaires pour appuyer les processus de paix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Carlos Marx, en el capítulo VII del primer tomo de El Capital referido a la cuota de plusvalía, decía lo siguiente: &lt;t0/&gt;“&lt;t1/&gt;La segunda etapa del proceso de trabajo, en que el obrero rebasa las fronteras del trabajo necesario, le cuesta, evidentemente, trabajo, supone fuerza de trabajo desplegada, pero no crea valor alguno para él.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221836Z" creationid="Podium" creationdate="20161103T221836Z">
@@ -895,6 +903,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T161858Z" creationid="william" creationdate="20160924T161858Z">
         <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Incorporación en los sistemas educativos de los métodos de Educación para la Paz y la No-Violencia</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133719Z" creationid="la belle idee" creationdate="20161105T133719Z">
+        <seg>10.	Intégration dans les systèmes éducatifs des méthodes d’Education à la Paix et à la Non-violence</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1578,30 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Prohibición de fabricación y venta de armas para el uso civil.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133741Z" creationid="la belle idee" creationdate="20161105T133741Z">
+        <seg>11.	Interdiction de fabrication et de vente d’armes à usage civil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Prohibición de venta de armas a países que no acepten los acuerdos de paz con otras naciones, o estén en guerra civil.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133616Z" creationid="la belle idee" creationdate="20161105T133616Z">
+        <seg>6.	Interdiction de ventes d’armes aux pays qui n’acceptent pas les accords de paix avec les autres nations ou qui sont en guerre civile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Prohibición de venta de armas por fuera de los cupos que se vayan acordando para la defensa nacional y la seguridad interior de cada país.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133703Z" creationid="la belle idee" creationdate="20161105T133703Z">
+        <seg>9.	Interdiction de vente d’armes hors des contingents décidés pour la défense nationale et la sécurité intérieure de chaque pays .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Proponerse en la vida cotidiana, avanzar en la conducta coherente y solidaria, tratando a los demás como se quiere ser tratado, ya sea como simple acto de voluntad, o capacitándose con otros en los valores humanistas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155417Z" creationid="la belle idee" creationdate="20161030T155417Z">
@@ -1607,6 +1647,22 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161021T172740Z" creationid="william" creationdate="20161021T172740Z">
         <seg>Qui, quand, comment et où</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Reconversión progresiva de la industria bélica en una industria de maquinarias y equipamientos para el desarrollo de los países con menores recursos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133645Z" creationid="la belle idee" creationdate="20161105T133645Z">
+        <seg>8.	Reconversion progressive de l’industrie d’armement vers l’industrie de machines et d’équipements pour le développement des pays à faibles ressources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Reducción progresiva de armamento convencional, según avancen los acuerdos de paz.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133628Z" creationid="la belle idee" creationdate="20161105T133628Z">
+        <seg>7.	Réduction progressive de l’armement conventionnel en fonction de l’avancée des accords de paix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1895,6 +1951,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155702Z" creationid="la belle idee" creationdate="20161030T155702Z">
         <seg>3.	Travailler sur quelques objectifs de la NHU en convoquant des volontaires. Travailler sur le thème, diffuser les activités, en rendant visible les conflits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Tratados de paz, con la renuncia explícita a la utilización de armas para la resolución de conflictos, mientras se negocian las condiciones con el apoyo de la comunidad internacional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133558Z" creationid="la belle idee" creationdate="20161105T133558Z">
+        <seg>5.	Traités de paix incluant le refus explicite à l’utilisation des armes pour résoudre les conflits avec l’appui de la communauté internationale pour négocier des conditions de mise en oeuvre.</seg>
       </tuv>
     </tu>
     <tu>
