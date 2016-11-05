@@ -1675,6 +1675,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La resolución de las necesidades para todos los habitantes del mundo, debiera convertirse en un objetivo de justicia elemental que dote de sentido al trabajo humano, mientras se avanza hacia un futuro luminoso.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T172507Z" creationid="william" creationdate="20161105T172507Z">
+        <seg>La résolution des nécessités pour tous les habitants du monde devrait se convertir en un objectif de justice élémentaire qui donne sens au travail humain pendant que l'on avance vers un futur lumineux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La transformación de la matriz de consumo se debe planificar en pasos graduales, para que no hay un impacto en el aparato productivo que genere desempleo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141157Z" creationid="la belle idee" creationdate="20161105T141157Z">
@@ -2291,6 +2299,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T195959Z" creationid="william" creationdate="20161024T195959Z">
         <seg>Mais nous aujourd'hui sommes seuls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero la satisfacción de esas necesidades no puede convertirse ni en la línea de largada de una carrera consumista que obnubile a los privilegiados, ni en la meta inalcanzable que frustre o resienta a los marginados.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T172353Z" creationid="william" creationdate="20161105T172353Z">
+        <seg>Mais la seule satisfaction de ces nécessités ne peut se convertir en la ligne de départ d'une course consumériste qui obnubile les privilégiés, ni dans le but inaccessible qui frustre les marginalisés.</seg>
       </tuv>
     </tu>
     <tu>
