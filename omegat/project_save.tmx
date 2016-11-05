@@ -319,10 +319,26 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cada paso de los que hemos enumerado puede acometerse como un proyecto en sí mismo, en diferentes lugares y momentos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145013Z" creationid="la belle idee" creationdate="20161105T145013Z">
+        <seg>Chaque pas  que nous avons énumérés peut être entrepris comme un projet en soi, dans différents lieux et  moments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Cada una de ellas, a su vez, depende del poder que la impuso.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231322Z" creationid="Podium" creationdate="20161103T231322Z">
         <seg>Chacune d’elles, à son tour, dépend du pouvoir qui l’a imposée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Cada uno de los conflictos a resolver, cada realidad por transformar, seguramente despierta en mucha gente la necesidad de trabajar en ello, y en esa necesidad, en esa inquietud, en esa voluntad de cambio propia de la intencionalidad humana, radica la esperanza y el motor de esta utopía.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145126Z" creationid="la belle idee" creationdate="20161105T145126Z">
+        <seg>Chaque conflit à résoudre, chaque réalité à transformer, réveille sûrement chez beaucoup de gens la nécessité de travailler dans cela, et dans cette nécessité, dans cette inquiétude, dans cette volonté de changement de l'intentionnalité humaine, réside l'espoir et le moteur de cette utopie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -628,6 +644,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T135059Z" creationid="la belle idee" creationdate="20161030T135059Z">
         <seg>Conformément à l'analyse précédente sur les principaux sujets, nous essaierons de synthétiser ce que nous avons dit sous la forme de pas que nous considérons nécessaire à mettre en oeuvre pour avancer vers la Nation Humaine Universelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>De hecho, hay mucha gente trabajando en torno a algunos de estos temas en todo el mundo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145031Z" creationid="la belle idee" creationdate="20161105T145031Z">
+        <seg>De fait, dans le monde entier il y a beaucoup de gens  qui travaillent sur ces sujets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1005,6 +1029,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141124Z" creationid="la belle idee" creationdate="20161105T141124Z">
         <seg>Dans les pays les moins développés, la consommation de produits matériels et de services doit encore augmenter mais dans les pays les plus développés et dans la frange la plus riche du reste des nations, il faut diminuer la consommation matérielle et développer les services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En muchas ocasiones los caminos que se cruzan generan contradicciones en lugar de convergencia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145109Z" creationid="la belle idee" creationdate="20161105T145109Z">
+        <seg>En plusieurs occasions les chemins qui se croisent,  génèrent des contradictions au lieu d'une convergence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En ocasiones se terminan aceptando cambios cosméticos, o se va tras metas efímeras que los poderosos se ocupan de correr hacia adelante constantemente; o simplemente se utiliza toda la energía para que los poderosos escuchen los reclamos, confiando en que los atenderán.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145203Z" creationid="la belle idee" creationdate="20161105T145203Z">
+        <seg>Parfois, cela se termine en acceptant des changements cosmétiques, ou s’arrête après avoir atteint des buts éphémères que les puissants s'occupent à détruire; ou simplement toute l'énergie est mise pour que les puissants écoutent les revendications, en espérant qu'ils s’en'occuperont.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,6 +2744,22 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000314Z" creationid="Podium" creationdate="20161104T000314Z">
         <seg>Mais les producteurs étrangers qui ne pourront pas vendre leurs textiles aux États-Unis gagneront moins de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sin embargo, no es común la articulación entre quienes trabajan con objetivos similares, y mucho menos común entre quienes trabajan en diferentes áreas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145054Z" creationid="la belle idee" creationdate="20161105T145054Z">
+        <seg>Cependant, l'articulation n'est pas chose commune entre ceux qui travaillent sur des objectifs similaires, et l’est d’autant moins entre ceux qui travaillent dans différentes secteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sin embargo, no siempre la energía se aplica de manera eficaz, no siempre se apunta al blanco correcto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145144Z" creationid="la belle idee" creationdate="20161105T145144Z">
+        <seg>Cependant, l'énergie ne s'applique pas toujours d'une manière efficace, et on ne vise pas toujours la cible correcte.</seg>
       </tuv>
     </tu>
     <tu>
