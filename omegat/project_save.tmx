@@ -544,6 +544,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Democracia real</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142240Z" creationid="la belle idee" creationdate="20161105T142240Z">
+        <seg>Démocratie réelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Denunciar en todos los países, pero en particular dentro del territorio de las potencias y miembros &lt;t0/&gt;permanentes &lt;t1/&gt;del Consejo de Seguridad, la complicidad de los mismos con el estancamiento en la lucha por la paz mundial, responsabilizando a los gobernantes de esas potencias.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134429Z" creationid="la belle idee" creationdate="20161105T134429Z">
@@ -1571,6 +1579,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Más que concientizar para que se perciba la importancia de los Derechos Humanos, habría que trabajar para que se perciba lo humano en cada habitante de la tierra, y que como consecuencia se respeten sus derechos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142148Z" creationid="la belle idee" creationdate="20161105T142148Z">
+        <seg>3.	Plus que faire prendre conscience de l'importance des Droits de l'homme, il faudrait travailler pour faire sentir l’humain chez chaque habitant de la terre et comme conséquence ces droits seront respectés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Naciones Unidas</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134329Z" creationid="la belle idee" creationdate="20161105T134329Z">
@@ -2175,6 +2191,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141044Z" creationid="la belle idee" creationdate="20161105T141044Z">
         <seg>3.	Il faut remplacer la culture du jetable par celle des biens plus durables; il faut gagner en sobriété dans la consommation d'objets et s'orienter vers la demande de services sans impact sur l'environnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se debe sensibilizar a las poblaciones acerca del sufrimiento de muchos seres que, aunque no se lo diga en voz alta, en buena parte del imaginario colectivo aparecen como sub-humanos, relativizándose así la importancia de sus derechos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142211Z" creationid="la belle idee" creationdate="20161105T142211Z">
+        <seg>Il faut sensibiliser les populations sur la souffrance de beaucoup d'êtres humains  qui, bien que l'on ne le dise pas à haute voix, apparaissent en grande partie dans l’imaginaire collectif comme sous-humains et ainsi l'importance de leurs droits est relativisé.</seg>
       </tuv>
     </tu>
     <tu>
