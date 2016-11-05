@@ -1137,6 +1137,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Erróneo sería pretender imponer un camino, porque precisamente el sentido del ser humano es la evolución misma, y lleva consigo el signo de la libertad y del infinito.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T172746Z" creationid="william" creationdate="20161105T172746Z">
+        <seg>Ce serait une erreur que de prétendre imposer un chemin parce que le sens de l'être humain c'est précisément l'évolution même et il porte en lui le signe de la liberté et de l'infini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Es cierto que contamos con formulaciones imperfectas de los derechos humanos, pero es por ahora lo único que tenemos en nuestras manos para defender y perfeccionar.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231538Z" creationid="Podium" creationdate="20161103T231538Z">
@@ -3488,6 +3496,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T201643Z" creationid="william" creationdate="20161027T201643Z">
         <seg>S'agira-t-il d'un monde contrôlé et gouverné par les grande puissances ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Y hacia dónde debe ir el ser humano, cuál será el horizonte que lo inspire y eleve por sobre los sentidos provisorios?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T172620Z" creationid="william" creationdate="20161105T172620Z">
+        <seg>Et jusqu'où devrait aller l'être humain, quel devrait être l'horizon qui l'inspire et l'élève par dessus les sens provisoires ?</seg>
       </tuv>
     </tu>
     <tu>
