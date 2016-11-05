@@ -1731,6 +1731,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La cada vez más regresiva e injusta distribución de la riqueza, condena a la marginación y al hambre a millones de personas, en un mundo que dispone de recursos para abastecer a todos en sus necesidades básicas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T223418Z" creationid="william" creationdate="20161105T223418Z">
+        <seg>La distribution de richesses de plus en plus injuste et régressive condamne à la marginalisation et à la faim des millions de personnes dans un monde qui dispose de ressources suffisantes pour satisfaire les besoins basiques de tous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La carrera armamentista, las guerras y el terrorismo se cobrarán cada vez más vidas provocando el sufrimiento creciente en las poblaciones.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T203942Z" creationid="william" creationdate="20161027T203942Z">
@@ -1767,6 +1775,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T211456Z" creationid="william" creationdate="20161105T211456Z">
         <seg>L'humanité est face à une voie sans issue puisqu'il n'existe pas de canal adapté pour que les aspirations de la majorité se transforme en actions qui modifient la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La intolerancia y la discriminación dividen a los pueblos dentro de las ciudades, dentro de los países, las regiones y los continentes, como un retrógrado reflejo troglodita ante el avance de la mundialización y los flujos migratorios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T223546Z" creationid="william" creationdate="20161105T223546Z">
+        <seg>L'intolérance et la discrimination divise les peuples au sein des villes, des pays, des régions et des continents comme un rétrograde reflet troglodyte devant l'avancée de la mondialisation et des flux migratoires.</seg>
       </tuv>
     </tu>
     <tu>
