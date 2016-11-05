@@ -375,6 +375,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cambiar la indiferencia por la solidaridad, y la búsqueda de prestigio y poder por la sobriedad y la humildad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T175243Z" creationid="william" creationdate="20161105T175243Z">
+        <seg>Changer l'indifférence par la solidarité et la recherche du prestige et du pouvoir par la sobriété et l'humilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Campaña por el Desarrollo Mundial</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134653Z" creationid="la belle idee" creationdate="20161105T134653Z">
@@ -1983,6 +1991,15 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155715Z" creationid="la belle idee" creationdate="20161030T155715Z">
         <seg>4.	Se mobiliser pour exiger des autorités qu’elles prennent des mesures appropriées pour résoudre les aspects des conflits qui sont de leur compétence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>pasatista = passager ou bien du passé</note>
+      <tuv lang="ES-AR">
+        <seg>Mucho podríamos decir acerca de una nueva cultura, donde se reemplace el individualismo por la reciprocidad, el consumismo irracional por la satisfacción de las necesidades; la competencia por la cooperación, y la estupidez pasatista por la búsqueda del conocimiento sin límite.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T175159Z" creationid="william" creationdate="20161105T175159Z">
+        <seg>Nous pourrions dire beaucoup sur une nouvelle culture où on remplacerait l'individualisme par la réciprocité, le consumérisme irrationnel par la satisfaction des nécessités et la stupidité passagère par la recherche de la connaissance sans limite.</seg>
       </tuv>
     </tu>
     <tu>
