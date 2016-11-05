@@ -833,6 +833,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Es una tarea de las personas, de las organizaciones y de los gobiernos, pero fundamentalmente se deben poner al servicio de estos los medios de comunicación masiva.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140214Z" creationid="la belle idee" creationdate="20161105T140214Z">
+        <seg>C'est une tâche des personnes, des organisations et des gouvernements, mais il est essentiel que les moyens de communication massive se mettre au service de cette tâche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Esa pasión tiende a elevar al humilde al nivel del grande; pero existe también en el corazón humano un gusto perverso por la igualdad que lleva al débil a intentar menguar al poderoso hasta su propio nivel y conduce a los hombres a preferir la igualdad en la esclavitud a la desigualdad en la libertad”.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221541Z" creationid="Podium" creationdate="20161103T221541Z">
@@ -1231,6 +1239,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T204128Z" creationid="william" creationdate="20161027T204128Z">
         <seg>Les mensonges des politiques et la manipulation des médias détruiront tout vestige de crédibilité, provocant un chaos généralisé si ne survient pas un autre type de références cohérentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Las organizaciones sociales debieran generar espacios de integración entre nativos e inmigrantes que faciliten la convivencia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140321Z" creationid="la belle idee" creationdate="20161105T140321Z">
+        <seg>3.	Les organisations sociales devraient générer des espaces d'intégration entre natifs et immigrants qui facilitent la vie commune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1931,10 +1947,34 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Se debe poner a la población en situación de percibir la humanidad y la sensibilidad del extranjero, para que lo sienta como un hermano y no como un invasor.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140244Z" creationid="la belle idee" creationdate="20161105T140244Z">
+        <seg>2.	La population doit être mise en situation de percevoir l'humanité et la sensibilité de l'étranger, pour qu'elle le ressente comme un frère et non comme un envahisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se debe quitar de los tratados internacionales cualquier cláusula que restrinja la libertad de cada país para poner controles al capital financiero internacional.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T135424Z" creationid="la belle idee" creationdate="20161105T135424Z">
         <seg>7.	Abroger des traités internationaux toutes clauses qui restreignent la liberté de chaque pays et mettre en place des contrôles au capital financier international.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se debe trabajar fundamentalmente en la concientización y en la sensibilización de las poblaciones, con respecto a la situación de los inmigrantes y refugiados.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140140Z" creationid="la belle idee" creationdate="20161105T140140Z">
+        <seg>1.	Il faut fondamentalement travailler pour la prise de conscience et la sensibilisation des populations, à l'égard de la situation des immigrants et des réfugiés. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se deben desactivar los prejuicios, el temor a la competencia por los empleos y el uso de los servicios públicos, o de la inseguridad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140302Z" creationid="la belle idee" creationdate="20161105T140302Z">
+        <seg>On doit désamorcer les préjugés, la crainte de la concurrence pour l’emploi et l'usage des services publics ou de l'insécurité..</seg>
       </tuv>
     </tu>
     <tu>
