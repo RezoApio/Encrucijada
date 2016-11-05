@@ -1105,6 +1105,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En este momento de la historia, la complejidad de los problemas nos hace creer que son imposibles de solucionar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T224105Z" creationid="william" creationdate="20161105T224105Z">
+        <seg>Dans ce moment de l'histoire, la complexité des problèmes nous fait croire qu'ils sont impossibles à résoudre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En la medida que avancen las transformaciones financieras nacionales, se podrá ir capitalizando aún más el banco Internacional Solidario, el que comenzará a financiar proyectos productivos regionales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T135509Z" creationid="la belle idee" creationdate="20161105T135509Z">
@@ -1743,6 +1751,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T203942Z" creationid="william" creationdate="20161027T203942Z">
         <seg>La course à l'armement, les guerres et le terrorisme prendront de plus en plus de vies, provocant la souffrance croissante des populations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La complejidad no nos permite ver con claridad lo que hay que hacer, y falta entonces una imagen guía que tenga la nitidez suficiente como para reencontrar en ella la fortaleza de espíritu para ponernos en marcha.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161105T224302Z" creationid="william" creationdate="20161105T224302Z">
+        <seg>La complexité ne nous permet pas de voir avec clarté ce qu'il faut faire et il manque donc une image guide qui soit suffisamment précise pour trouver en elle la force d'esprit de nous mettre en marche.</seg>
       </tuv>
     </tu>
     <tu>
