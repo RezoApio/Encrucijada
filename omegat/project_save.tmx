@@ -777,6 +777,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En los países menos desarrollados aún falta crecer en el consumo de insumos materiales y servicios, pero en los países más desarrollados y en la franja más adinerada del resto de las naciones, se debe decrecer en consumo material y crecer en los servicios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141124Z" creationid="la belle idee" creationdate="20161105T141124Z">
+        <seg>Dans les pays les moins développés, la consommation de produits matériels et de services doit encore augmenter mais dans les pays les plus développés et dans la frange la plus riche du reste des nations, il faut diminuer la consommation matérielle et développer les services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En otro pasaje Friedman descalifica totalmente al estado en su función social: &lt;t4/&gt;“Una parte esencial de la libertad económica es la libertad para elegir cómo utilizar nuestros ingresos: cuánto gastaremos en nosotros mismos y en qué cosas; cuando ahorraremos y de qué forma; cuánto daremos a otros y a quiénes.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161104T002426Z" creationid="Podium" creationdate="20161104T002426Z">
@@ -1026,6 +1034,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Hay que explicar que la transformación del sistema económico es &lt;t0/&gt;condición indispensable para revertir el desastre ecológico, y que la cultura del consumismo, del que buena parte de la población participa, debe cambiar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141028Z" creationid="la belle idee" creationdate="20161105T141028Z">
+        <seg>Il faut expliquer que la transformation du système économique est une condition indispensable pour inverser la catastrophe écologique et, que la culture de la surconsommation, à laquelle participe une grande partie de la population, doit changer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Hay que fortalecer la concepción de que los flujos financieros, productos del ahorro, deben destinarse exclusivamente a la inversión productiva.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T135159Z" creationid="la belle idee" creationdate="20161105T135159Z">
@@ -1235,10 +1251,26 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La transformación de la matriz de consumo se debe planificar en pasos graduales, para que no hay un impacto en el aparato productivo que genere desempleo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141157Z" creationid="la belle idee" creationdate="20161105T141157Z">
+        <seg>5.	La transformation du mode de consommation doit être planifiée d’une façon graduelle afin qu'il n'y ait pas d'impact dans l'appareil productif et ne génère pas du chômage. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La única verdad es la Utopía, la realidad es un circunstancial punto de partida.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T192636Z" creationid="william" creationdate="20161102T192636Z">
         <seg>L'unique vérité est l'Utopie, la réalité est un point de départ circonstanciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Las campañas que se realicen para frenar el calentamiento global y la depredación de los recursos, debiera enfatizar no solamente en los factores directos del problema, sino sobre todo en su raíz, la matriz de consumo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141006Z" creationid="la belle idee" creationdate="20161105T141006Z">
+        <seg>2.	Les campagnes réalisées pour ralentir le réchauffement climatique et la mise à sac des ressources, devraient non seulement mettre l’accent sur les facteurs directs du problème, mais surtout sur sa racine : le mode de consommation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1987,6 +2019,30 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Se debe financiar y subsidiar la producción de energías alternativas, como la solar, eólica e hídrica, para lo cual se puede derivar parte de la rentabilidad de la industria petrolera.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141244Z" creationid="la belle idee" creationdate="20161105T141244Z">
+        <seg>7.	Il faut financer et subventionner la production d'énergies alternatives, comme le solaire, l'éolienne et l'hydrolique, en ponctionnant sur la rentabilité de l'industrie pétrolière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se debe introducir el concepto de la Bio-economía, en el sentido de que se incorpore el costo de la “huella ecológica” en el valor de cada producto, para desalentar el consumo de los productos de mayor impacto ambiental.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141228Z" creationid="la belle idee" creationdate="20161105T141228Z">
+        <seg>6.	Il faut introduire le concept de Bio-économie qui incorpore le coût de la “trace écologique” dans la valeur de chaque produit et décourager la consommation des produits qui ont le plus grand impact environnemental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se debe planificar una reingeniería del aparato productivo para una reconversión gradual.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141208Z" creationid="la belle idee" creationdate="20161105T141208Z">
+        <seg>Il faut planifier une reingénierie de l'appareil productif pour une reconversion graduelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se debe poner a la población en situación de percibir la humanidad y la sensibilidad del extranjero, para que lo sienta como un hermano y no como un invasor.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140244Z" creationid="la belle idee" creationdate="20161105T140244Z">
@@ -1999,6 +2055,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T135424Z" creationid="la belle idee" creationdate="20161105T135424Z">
         <seg>7.	Abroger des traités internationaux toutes clauses qui restreignent la liberté de chaque pays et mettre en place des contrôles au capital financier international.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se debe reemplazar la cultura del descarte por la de bienes más durables; se debe ganar en sobriedad en el consumo de objetos, y orientarse hacia la demanda de servicios sin impacto ambiental.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141044Z" creationid="la belle idee" creationdate="20161105T141044Z">
+        <seg>3.	Il faut remplacer la culture du jetable par celle des biens plus durables; il faut gagner en sobriété dans la consommation d'objets et s'orienter vers la demande de services sans impact sur l'environnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2080,6 +2144,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T195314Z" creationid="william" creationdate="20161102T195314Z">
         <seg>Il faudra donc rencontrer la manière de garde allumée la flamme de la passion tout en la dotant de raison pour que cette force coule par les canaux appropriés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si bien el desarrollo de cada país es materia de planificación nacional, deben existir acuerdos para avanzar hacia una transformación de la matriz de consumo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141104Z" creationid="la belle idee" creationdate="20161105T141104Z">
+        <seg>4.	Bien que le développement de chaque pays fasse l’objet d’une planification nationale, des accords doivent exister pour avancer vers une transformation du mode de consommation.</seg>
       </tuv>
     </tu>
     <tu>
