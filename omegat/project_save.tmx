@@ -1843,6 +1843,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La percepción de avanzar</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161106T172757Z" creationid="william" creationdate="20161106T172757Z">
+        <seg>Le sentiment d'avancer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La presión acumulada seguirá estallando en catarsis de violencia, caos y suicidio.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T211640Z" creationid="william" creationdate="20161105T211640Z">
