@@ -2188,6 +2188,22 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Nada peor para un caminante que no saber adónde va.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161106T202000Z" creationid="william" creationdate="20161106T201931Z">
+        <seg>Rien pire pour un pèlerin que ne pas savoir où il va.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Nada peor para un navegante que perder la brújula.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161106T201909Z" creationid="william" creationdate="20161106T201909Z">
+        <seg>Rien pire pour un navigant que perdre la boussole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Nadie nos preguntó si queríamos nacer, ni tampoco se lo preguntaron a nuestros padres, ni a nuestros antepasados.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T192956Z" creationid="william" creationdate="20161024T192956Z">
