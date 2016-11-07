@@ -3788,6 +3788,15 @@ phrase trop longue</note>
       </tuv>
     </tu>
     <tu>
+      <note>el reformismo borbónico; en América Latina, la discusión sobre la pertinencia del reformismo o la revolución ha sido una constante en las discusiones políticas .</note>
+      <tuv lang="ES-AR">
+        <seg>Ya tuvimos la experiencia de los reformismos, que han significado solamente avances relativos sobre una plataforma que retrocede.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T195148Z" creationid="william" creationdate="20161107T195148Z">
+        <seg>Nous avons déjà eu l'expérience du réformisme, qui a signifié seulement des avancées relatives à partir d'une plate-forme qui recule.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>gr.</seg>
       </tuv>
