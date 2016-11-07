@@ -2348,6 +2348,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>No hablaremos aquí de las metas de cada ser humano, relacionadas al sentido profundo que le quiera dar a su vida.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T204637Z" creationid="william" creationdate="20161107T204637Z">
+        <seg>Nous ne parlerons pas ici des buts de chaque être humain, liés au sens profond qu'il veut donner à sa vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>mente : raison ?
 espiritu : esprit</note>
       <tuv lang="ES-AR">
