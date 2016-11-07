@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Definiendo pasos</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T211411Z" creationid="william" creationdate="20161107T211411Z">
+        <seg>Définition des pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Definiendo tanto para el nivel municipal, como el nacional, las temáticas y frecuencias posibles de las consultas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143224Z" creationid="la belle idee" creationdate="20161105T143224Z">
