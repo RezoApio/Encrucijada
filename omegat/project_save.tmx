@@ -3149,6 +3149,30 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si alguien cae en cuenta de que está caminando en círculos, sin rumbo claro.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T194637Z" creationid="william" creationdate="20161107T194637Z">
+        <seg>Si quelqu'un se rend compte qu'il tourne en rond, sans direction claire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si alguien observa que cada vez que avanza, la meta se desplaza más lejos, entonces comienza a sentirse impotente y abandona su objetivo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T194808Z" creationid="william" creationdate="20161107T194808Z">
+        <seg>Si quelqu'un observe que chaque fois qu'il avance, l'objectif s'éloigne, alors il commencera à se sentir impuissant et il abandonnera son but.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si alguien percibe que por cada paso que da hacia delante luego debe retroceder dos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T194707Z" creationid="william" creationdate="20161107T194707Z">
+        <seg>Si quelqu'un s'aperçoit que chaque pas en avant est suivi de deux en arrière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Si bien el desarrollo de cada país es materia de planificación nacional, deben existir acuerdos para avanzar hacia una transformación de la matriz de consumo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141104Z" creationid="la belle idee" creationdate="20161105T141104Z">
