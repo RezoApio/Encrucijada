@@ -1016,6 +1016,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El escalamiento es el trabajoso pero reconfortante camino que emprenden aquellos que, animados por la mística de su espíritu, reconcilian la fuerza de su corazón con la reflexión de su mente, para avanzar coherentemente hacia su meta sin claudicar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T202814Z" creationid="william" creationdate="20161107T202814Z">
+        <seg>L'escalade est le chemin laborieux mais réconfortant de ceux qui, animés par la mystique de leur esprit, réconcilient la force de leur cœur avec la réflexion de leur cerveau pour avancer de manière cohérente vers leur objectif sans renoncement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El escalamiento no es el reformismo de quienes se conforman con la ilusión de avanzar, dando pasos sobre una plataforma que retrocede.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T201635Z" creationid="william" creationdate="20161107T201635Z">
