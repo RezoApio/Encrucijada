@@ -1289,6 +1289,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Es la ilusión de quien avanza velozmente por un callejón sin salida, para luego tener que retroceder al punto de partida.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T200045Z" creationid="william" creationdate="20161107T200045Z">
+        <seg>C'est l'illusion de celui qui avance dans une voie sans issue et qui ensuite doit reculer jusqu'à son point de départ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Es necesario construir circuitos de comunicación humana por donde circule el poder real de la sociedad, porque si el poder circula, no se acumula.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T211835Z" creationid="william" creationdate="20161105T211835Z">
@@ -3456,6 +3464,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230906Z" creationid="Podium" creationdate="20161103T230906Z">
         <seg>On a également affirmé que la loi est faite pour défendre les intérêts de ceux qui l’imposent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>También tuvimos la experiencia de muchas revoluciones, cuyos cambios abruptos, al no ser sustentables, crearon el espejismo de un avance acelerado, que luego terminó en un retroceso mayor.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T195951Z" creationid="william" creationdate="20161107T195951Z">
+        <seg>Nous avons aussi eu l'expérience de nombreuses révolutions, dont les changements abrupts mais non durables, ont créé l'illusion d'une avancée rapide qui ensuite s'est terminé en un recul encore plus grand.</seg>
       </tuv>
     </tu>
     <tu>
