@@ -873,6 +873,38 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desmantelar el poder del fanatismo de los dogmáticos e intolerantes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210420Z" creationid="william" creationdate="20161107T210420Z">
+        <seg>Démanteler le pouvoir du fanatisme des dogmatique et des intolérants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Desmantelar el poder económico que oprime, margina y depreda.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210323Z" creationid="william" creationdate="20161107T210323Z">
+        <seg>Démanteler le pouvoir économique qui opprime, marginalise et dévalise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Desmantelar el poder mediático de quienes manipulan la opinión pública y la subjetividad humana.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210356Z" creationid="william" creationdate="20161107T210356Z">
+        <seg>Démanteler le pouvoir médiatique de ceux qui manipulent l'opinion publique et la subjectivité humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Desmantelar el poder político de las dictaduras y de las democracias formales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210334Z" creationid="william" creationdate="20161107T210334Z">
+        <seg>Démanteler le pouvoir politique des dictatures et des démocraties formelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desmantelar toda concentración de poder.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T210037Z" creationid="william" creationdate="20161107T210037Z">
@@ -1840,6 +1872,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T134553Z" creationid="la belle idee" creationdate="20161030T134553Z">
         <seg>LES120 PAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La Democracia Real.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210533Z" creationid="william" creationdate="20161107T210533Z">
+        <seg>La démocratie réelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,6 +3980,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T194624Z" creationid="william" creationdate="20161102T194611Z">
         <seg>Et que peu à peu, peut-être pour atténuer le sentiment de frustration, ils finissent par accepter l'emprise d'une réalité médiocre, atténuant l'éclat de l'idéal qui les avait mobilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y mientras paso a paso, se va desmantelando toda concentración de poder; escalón por escalón habrá que ir construyendo la Nación Humana Universal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210520Z" creationid="william" creationdate="20161107T210520Z">
+        <seg>Et pendant que pas à pas, on démantèlera toute concentration de pouvoir, marche par marche il faudra construire la Nation humaine universelle.</seg>
       </tuv>
     </tu>
     <tu>
