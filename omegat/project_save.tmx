@@ -904,6 +904,22 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Donde a cada paso que se da, se fija un anclaje para evitar la caída y continuar en el ascenso.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T200246Z" creationid="william" creationdate="20161107T200246Z">
+        <seg>Où à chaque pas en avant, on fixe un ancrage pour éviter la chute et pour continuer l'ascension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Donde a pesar de los rodeos para sortear dificultades, y a pesar de los retrocesos tácticos para encontrar caminos más expeditos, siempre es posible percibir el avance del ascenso.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T200407Z" creationid="william" creationdate="20161107T200407Z">
+        <seg>Où malgré les détours pour dépasser les difficultés et les reculs tactiques pour trouver des chemins plus dégagés, il est toujours possible de percevoir l'avancée dans l'ascension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>ENCRUCIJADA Y FUTURO DE LA ESPECIE HUMANA</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T163654Z" creationid="william" creationdate="20160924T132946Z">
@@ -1028,6 +1044,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T222634Z" creationid="william" creationdate="20161105T222634Z">
         <seg>L'important c'est de savoir s'il finira de s'écrouler sur nos têtes distraites ou bien si nous ferons quelque chose pour accélérer son démantèlement et son remplacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El verdadero avance se debe percibir como el escalamiento de una montaña, donde a pesar de la distancia, no se pierde de vista la cumbre.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T200205Z" creationid="william" creationdate="20161107T200205Z">
+        <seg>L'avancée véritable doit se percevoir comme l'escalade d'une montagne, où, malgré la distance on ne perd pas de vue la cime.</seg>
       </tuv>
     </tu>
     <tu>
