@@ -727,6 +727,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>à voir en contexte (titre ou pas ?)</note>
+      <tuv lang="ES-AR">
+        <seg>Definiendo metas</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T202901Z" creationid="william" creationdate="20161107T202901Z">
+        <seg>Définition des objectifs</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>Definiendo tanto para el nivel municipal, como el nacional, las temáticas y frecuencias posibles de las consultas.</seg>
       </tuv>
