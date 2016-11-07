@@ -3792,6 +3792,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y el nexo entre ambas transformaciones debiera ser la regla de oro: &lt;t0/&gt;Trata a los demás como quieres que te traten&lt;t1/&gt;, porque al aplicarse esa regla, se está atendiendo a la propia coherencia interna, y simultáneamente se está atendiendo al prójimo y a la sociedad en su conjunto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T205225Z" creationid="william" creationdate="20161107T205225Z">
+        <seg>Et le lien entre les deux transformations devrait être la règle d'or : &lt;t0/&gt;Traite les autres comme tu voudrais qu'ils te traitent&lt;t1/&gt;, parce que en appliquant cette règle on répond à la propre cohérence interne et simultanément on fait attention à son prochain et à la société dans son ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y en ese momento todo se ensamblará, y esa mística social cobrará vuelo en grandes conjuntos humanos, y el cambio será una consecuencia.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T180346Z" creationid="william" creationdate="20161105T180346Z">
