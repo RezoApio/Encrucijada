@@ -2834,6 +2834,16 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
     </tu>
     <tu>
+      <note>asechar : le sens litéral espagnol ne semble pas aller ici.
+S'approcher semble plus proche.</note>
+      <tuv lang="ES-AR">
+        <seg>Porque quien escala siente que está asechando la cumbre, y aprovecha la noche para soñar con ella.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T201452Z" creationid="william" creationdate="20161107T201452Z">
+        <seg>Parce que celui qui grimpe sent qu'il s'approche de la cime et profite de la nuit pour rêver d'elle.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>Profundizar el cuestionamiento a los paradigmas de la economía capitalista y neoliberal, como la teoría del derrame, la autorregulación de los mercados, el interés bancario, y el culto a la propiedad privada.</seg>
       </tuv>
