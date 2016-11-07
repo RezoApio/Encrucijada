@@ -1884,6 +1884,22 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La Economía Humanista.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210552Z" creationid="william" creationdate="20161107T210552Z">
+        <seg>L'économie humaniste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La Sociedad Libertaria, donde no se contrapongan la espiritualidad y la razón.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210628Z" creationid="william" creationdate="20161107T210628Z">
+        <seg>La société libertaire, où la spiritualité et la raison ne s'opposent pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La articulación entre organizaciones debiera irse convirtiendo en un movimiento político inclusivo, al que se sumen especialistas de diversas áreas, avanzando en la elaboración de &lt;t0/&gt;proyectos de ley para las diferentes temáticas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142718Z" creationid="la belle idee" creationdate="20161105T142718Z">
@@ -1928,6 +1944,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231308Z" creationid="Podium" creationdate="20161103T231308Z">
         <seg>La coutume, la morale, la religion ou le consensus social sont les sources habituellement invoquées pour justifier l’existence de la loi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La cultura del aprender sin límite, de la creatividad, de la diversidad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210653Z" creationid="william" creationdate="20161107T210653Z">
+        <seg>La culture d'apprendre sans limite, de la créativité, de la diversité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3988,6 +4012,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T210520Z" creationid="william" creationdate="20161107T210520Z">
         <seg>Et pendant que pas à pas, on démantèlera toute concentration de pouvoir, marche par marche il faudra construire la Nation humaine universelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y para alcanzar estos hitos, deberán clarificarse los pasos a seguir, y los indicadores para saber si se está avanzando.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161107T210838Z" creationid="william" creationdate="20161107T210838Z">
+        <seg>Et pour obtenir ces jalons, il faudra éclaircir les pas à suivre et les indicateurs pour savoir si on est en train d'avancer.</seg>
       </tuv>
     </tu>
     <tu>
