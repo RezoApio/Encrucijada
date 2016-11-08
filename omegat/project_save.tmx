@@ -2588,6 +2588,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>No se puede concebir ningún régimen político a través del cual una minoría ejerza su poder sobre la mayoría.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T203827Z" creationid="william" creationdate="20161108T203827Z">
+        <seg>On ne peut concevoir aucun régime politique dans lequel une minorité exerce son pouvoir sur la majorité.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>mente : raison ?
 espiritu : esprit</note>
       <tuv lang="ES-AR">
