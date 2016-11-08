@@ -2503,8 +2503,8 @@
       <tuv lang="ES-AR">
         <seg>Ningún proyecto de una mínima convivencia entre naciones puede plasmarse mientras exista ese tipo de armas de destrucción masiva.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161108T201538Z" creationid="william" creationdate="20161108T201538Z">
-        <seg>Aucun projet d'un minime cohabitation entre nations ne peut s'envisager tant qu'existe ce type d'armes de destruction massive.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T201742Z" creationid="william" creationdate="20161108T201538Z">
+        <seg>Aucun projet d'un minime cohabitation entre nations ne peut être envisagé tant qu'existe ce type d'armes de destruction massive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3727,6 +3727,22 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T201646Z" creationid="william" creationdate="20161024T201646Z">
         <seg>Nous sommes les fils de l'espèce humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Son el símbolo de la barbarie humana que es imprescindible erradicar como paso evolutivo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T201838Z" creationid="william" creationdate="20161108T201838Z">
+        <seg>Elles sont le symbole de la barbarie humaine qu'il est indispensable d'éradiquer comme pas évolutif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Son una constante amenaza que ejercen como chantaje quienes las poseen, a la hora de poner condiciones en la política internacional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T201709Z" creationid="william" creationdate="20161108T201709Z">
+        <seg>C'est une menace constante exercée comme chantage par ceux qui la possède à l'heure de poser des conditions dans la politique internationale.</seg>
       </tuv>
     </tu>
     <tu>
