@@ -3407,6 +3407,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Se debe ir avanzando hacia la abolición de las armas y la consecuente prohibición de su fabricación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T202913Z" creationid="william" creationdate="20161108T202913Z">
+        <seg>On doit avancer vers l'abolition des armes et la conséquente interdiction de leur fabrication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se debe planificar una reingeniería del aparato productivo para una reconversión gradual.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141208Z" creationid="la belle idee" creationdate="20161105T141208Z">
