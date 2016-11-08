@@ -1296,6 +1296,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>En ese sentido, si bien las democracias actuales son un paso más avanzado que los totalitarismos, su carácter representativo lejos está de considerar al pueblo como el verdadero soberano.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T204045Z" creationid="william" creationdate="20161108T204045Z">
+        <seg>En ce sens, même si les démocraties actuelles sont un pas plus avancées que les totalitarismes, leur caractère représentatif est loin de considérer le peuple comme le véritable souverain.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Croisée pour reprendre le titre</note>
       <tuv lang="ES-AR">
         <seg>En esta encrucijada de la historia, plagada de contradicciones, a menudo nos sentimos solos, divididos y desamparados; al punto tal que resulta imposible hablar de un “Nosotros”.</seg>
@@ -4164,6 +4172,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T180346Z" creationid="william" creationdate="20161105T180346Z">
         <seg>Et à ce moment là, tout s'assemblera et cette mystique sociale s'emparera de grands ensembles humains et le changement en sera une conséquence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y en ese sentido, los regímenes totalitarios y las democracias formales, son distintas modalidades de una misma concepción elitista y manipuladora.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T203925Z" creationid="william" creationdate="20161108T203925Z">
+        <seg>Et dans ce sens, les régimes totalitaires et les démocraties formelles sont différentes modalités d'une même conception élitiste et manipulatrice.</seg>
       </tuv>
     </tu>
     <tu>
