@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A veces se podrá ir más rápido y otras más lento.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T193838Z" creationid="william" creationdate="20161108T193838Z">
+        <seg>Parfois on pourra aller plus et parfois plus lentement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>ANÁLISIS Y FUNDAMENTOS</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161021T172655Z" creationid="william" creationdate="20161021T172655Z">
@@ -194,6 +202,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230529Z" creationid="Podium" creationdate="20161103T230529Z">
         <seg>Certaines législations l’admettent déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Algunas sociedades tendrán que recorrer una distancia mayor que otras.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T193859Z" creationid="william" creationdate="20161108T193859Z">
+        <seg>Certaines sociétés auront plus de chemin à parcourir que d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Algunas tendrán que concentrar energía antes de emprender el camino, y otras estarán más preparadas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T194015Z" creationid="william" creationdate="20161108T194015Z">
+        <seg>Certaines devront concentrer l'énergie avec d'entreprendre le chemin et d'autres seront plus préparées.</seg>
       </tuv>
     </tu>
     <tu>
