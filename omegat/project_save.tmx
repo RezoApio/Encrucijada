@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Allí donde la mayoría de las personas no estén consustanciadas con el objetivo, habrá que trabajar mucho para esclarecer, para reconciliar, para persuadir, para concientizar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T200506Z" creationid="william" creationdate="20161108T200506Z">
+        <seg>Aux endroits où la majorité des personnes ne coïncident pas avec l'objectif, il faudra travailler beaucoup pour éclaircir, pour réconcilier, pour persuader, pour conscientiser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Allí donde las organizaciones y los movimientos vacilen, o se desvíen del objetivo, las personas deberán ocuparse de remover a sus cúpulas y rectificar su rumbo, o de crear nuevas organizaciones y movimientos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161108T200138Z" creationid="william" creationdate="20161108T200138Z">
@@ -2813,6 +2821,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142905Z" creationid="la belle idee" creationdate="20161105T142905Z">
         <seg>Mais à tout moment la priorité doit être, en plus des objectifs spécifiques, le compromis de mettre en place des instruments de démocratie réelle pour les politiques publiques, comme ceux qui sont mentionnés par la suite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero en todos los casos la fuerza transformadora tendrá que ir desde abajo hacia arriba.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T200541Z" creationid="william" creationdate="20161108T200541Z">
+        <seg>Mais dans tous les cas la force transformatrice devra aller du bas vers le haut.</seg>
       </tuv>
     </tu>
     <tu>
