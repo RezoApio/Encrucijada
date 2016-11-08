@@ -799,6 +799,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Debieran movilizarse con mucha más fuerza para lograr esto, que para pedir reivindicaciones coyunturales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T212214Z" creationid="william" creationdate="20161108T212214Z">
+        <seg>Ils devraient se mobiliser avec beaucoup plus de force pour obtenir cela plutôt que de demander pour des revendications conjoncturelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>à voir en contexte (titre ou pas ?)</note>
       <tuv lang="ES-AR">
         <seg>Definiendo metas</seg>
