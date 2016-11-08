@@ -2236,6 +2236,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Los pasos a seguir pueden variar, según la distancia a recorrer, el tipo de terreno, las energías con las que se cuente los obstáculos por delante.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T193751Z" creationid="william" creationdate="20161108T193751Z">
+        <seg>Les pas à suivre peuvent varier, suivant la distance à parcourir, le type de terrain ou les énergies avec lesquelles on anticipe les obstacles à venir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Los pasos hacia la Nación Humana Universal</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20160924T163720Z" creationid="william" creationdate="20160924T163720Z">
