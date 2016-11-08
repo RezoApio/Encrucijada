@@ -2316,6 +2316,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Los gobernantes que se nieguen a ese desmantelamiento son los primeros que deben perder todo apoyo por parte de sus pueblos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T202258Z" creationid="william" creationdate="20161108T202258Z">
+        <seg>Les dirigeants qui se refusent à ce démantèlement sont les premiers qui doivent perdre tout appui de la part de leur peuple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Los gobiernos deben planificar la integración, social y laboral de los inmigrantes, de igual modo que deben hacerlo con los nativos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140417Z" creationid="la belle idee" creationdate="20161105T140417Z">
@@ -3743,6 +3751,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161108T201838Z" creationid="william" creationdate="20161108T201838Z">
         <seg>Elles sont le symbole de la barbarie humaine qu'il est indispensable d'éradiquer comme pas évolutif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Son precisamente esos países, los que tienen que dar el primer paso, desmantelando sus arsenales nucleares, antes de ocuparse de que otras naciones no los posean.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161108T202158Z" creationid="william" creationdate="20161108T202158Z">
+        <seg>Ce sont précisément ces pays détenteurs de l'arme nucléaire qui doivent faire le premier pas en démantelant leurs arsenaux nucléaires avant de s'occuper que d'autres nations ne la possède pas.</seg>
       </tuv>
     </tu>
     <tu>
