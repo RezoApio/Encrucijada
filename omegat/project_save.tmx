@@ -6044,6 +6044,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>“Cada parte en el Tratado se compromete a celebrar negociaciones de buena fe sobre medidas eficaces relativas a la cesación de la carrera de armamentos nucleares en fecha cercana y al desarme nuclear, y sobre un tratado de desarme general y completo bajo estricto control internacional”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T134739Z" creationid="Ricardito120" creationdate="20161111T134739Z">
+        <seg>« Chacune des Parties au Traité s'engage à poursuivre de bonne foi des négociations sur des mesures efficaces relatives à la cessation de la course aux armements nucléaires à une date rapprochée et au désarmement nucléaire, et sur un traité de désarmement général et complet sous un contrôle international strict et efficace ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>“Guillermo Wood, de 9 años, "tenía 7 años y 10 meses cuando comenzó a trabajar".</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125249Z" creationid="Ricardito120" creationdate="20161111T125249Z">
@@ -6062,8 +6070,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>“Los Estados No Nuclearmente Armados se comprometen a no desarrollar armas nucleares, ni adquirirlas de otro Estado, y a aceptar los controles del Organismo Internacional de Energía Atómica”.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T134611Z" creationid="Ricardito120" creationdate="20161111T134611Z">
-        <seg>« Tout État non doté d'armes nucléaires […] s'engage à n'accepter […] le transfert d'armes nucléaires, […] à ne fabriquer ni acquérir […] des armes nucléaires ». </seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T134701Z" creationid="Ricardito120" creationdate="20161111T134611Z">
+        <seg>« Tout État non doté d'armes nucléaires […] s'engage à n'accepter […] le transfert d'armes nucléaires, […] à ne fabriquer ni acquérir […] des armes nucléaires ». « Tout État non doté d'armes nucléaires  […] s'engage à accepter les garanties stipulées […] avec l'Agence internationale de l'énergie atomique ».</seg>
       </tuv>
     </tu>
     <tu>
