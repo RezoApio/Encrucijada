@@ -752,10 +752,26 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cuando perjudicas a los demás quedas encadenado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021734Z" creationid="Podium" creationdate="20161111T021734Z">
+        <seg>Lorsque tu portes préjudice aux autres, tu restes enchaîné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Cuando se llega al poder a través de la fuerza bruta, o con la seducción del dinero, o mediante la manipulación, el chantaje o la mentira, difícilmente se utilizará ese poder para el bien común.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T203503Z" creationid="william" creationdate="20161105T203503Z">
         <seg>Lorsqu'on arrive au pouvoir à travers la force brute, grâce à la séduction de l'argent ou par la manipulation, le chantage ou le mensonge, on utilisera difficilement ce pouvoir pour le bien commun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Cuando tratas a los demás como quieres que te traten te liberas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021757Z" creationid="Podium" creationdate="20161111T021757Z">
+        <seg>Lorsque tu traites les autres comme tu veux qu’ils te traitent, tu te libères.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2484,6 +2500,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Los actos contradictorios o unitivos se acumulan en ti.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021820Z" creationid="Podium" creationdate="20161111T021820Z">
+        <seg>Les actes contradictoires ou unitifs s’accumulent en toi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Los convenios entre naciones deben ampliarse hacia el objetivo de una total apertura de fronteras, intentando orientar la migración hacia donde existan las mejores oportunidades, pero sin poner restricciones.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140434Z" creationid="la belle idee" creationdate="20161105T140434Z">
@@ -2793,6 +2817,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T204637Z" creationid="william" creationdate="20161107T204637Z">
         <seg>Nous ne parlerons pas ici des buts de chaque être humain, liés au sens profond qu'il veut donner à sa vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>No importa en qué bando te hayan puesto los acontecimientos, lo que importa es que comprendas que tú no has elegido ningún bando.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021807Z" creationid="Podium" creationdate="20161111T021807Z">
+        <seg>Peu importe dans quel camp t’ont placé les événements : ce qui importe, c’est que tu comprennes que tu n’as choisi aucun camp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3245,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T173846Z" creationid="william" creationdate="20161105T173846Z">
         <seg>Et si ce réveil s'éprouve internement et ne peut être imposé, il peut être contagieux car il résonne dans l'essence de tout être humain et c'est ce qui nous permet de nous syntoniser au delà des mots.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero si no perjudicas a otros puedes hacer cuanto quieras con libertad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021745Z" creationid="Podium" creationdate="20161111T021745Z">
+        <seg>Mais si tu ne portes pas préjudice à d’autres, tu peux faire ce que tu veux avec liberté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3972,6 +4012,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021652Z" creationid="Podium" creationdate="20161111T021652Z">
         <seg>Si tu poursuis un but, tu t’enchaînes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si repites tus actos de unidad interna ya nada podrá detenerte.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021832Z" creationid="Podium" creationdate="20161111T021832Z">
+        <seg>Si tu répètes tes actes d’unité intérieure, rien ne pourra plus t’arrêter.</seg>
       </tuv>
     </tu>
     <tu>
