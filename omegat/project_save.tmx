@@ -1193,6 +1193,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El engaño proviene de creer que el propietario de riqueza desea un bien de capital por sí mismo, cuando en realidad lo que efectivamente desea es su rendimiento probable Ahora bien, el rendimiento probable depende enteramente de la expectativa de la futura demanda efectiva que habrá en relación con las futuras condiciones de la oferta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T015649Z" creationid="Podium" creationdate="20161111T015649Z">
+        <seg>Il vient de l’idée que le possesseur de richesse désire un capital en tant que tel, alors que l’objet réel de son désir c’est le rendement escompté de ce capital. Orle rendement escompté repose entièrement sur la prévision d’une demande effective future d’une certaine marchandise, compte tenu des conditions futures de l’offre de la même marchandise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El escalamiento es el trabajoso pero reconfortante camino que emprenden aquellos que, animados por la mística de su espíritu, reconcilian la fuerza de su corazón con la reflexión de su mente, para avanzar coherentemente hacia su meta sin claudicar.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T202814Z" creationid="william" creationdate="20161107T202814Z">
@@ -3240,6 +3248,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142634Z" creationid="la belle idee" creationdate="20161105T142634Z">
         <seg>Dans ce contexte, le plus important sera de réussir à ne pas affaiblir la puissance de l'ensemble par des dissentions secondaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por tanto, si un acto de ahorro no hace nada por mejorar el rendimiento probable, tampoco lo hará para estimular la inversión.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T015824Z" creationid="Podium" creationdate="20161111T015824Z">
+        <seg>Par conséquent, si un acte d’épargne n’est aucunement favorable au rendement escompté d’un capital, il ne contribue en rien à stimuler l’investissement.</seg>
       </tuv>
     </tu>
     <tu>
