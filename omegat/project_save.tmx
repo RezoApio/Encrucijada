@@ -1449,6 +1449,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En 1848 se celebró en Seneca Falls (Nueva York) la primera convención sobre los derechos de la mujer en Estados Unidos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T114136Z" creationid="Ricardito120" creationdate="20161111T114136Z">
+        <seg>En 1848 s’est tenue à Seneca Falls (New York) la première convention sur les droits de la femme aux Etats-Unis, organisée par Lucretia Mott et Elizabeth Cady Stanton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En 1988, en la 19º Conferencia Nacional del PSUS, Gorbachov realiza una crítica sobre las distorsiones del sistema soviético, evalúa los avances de las transformaciones económicas puestas en marcha, y propugna la profundización de las mismas y el avance sobre la democratización de la URSS.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T113031Z" creationid="Ricardito120" creationdate="20161111T113031Z">
@@ -4745,8 +4753,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Tanto Mandela como muchos en la CNA dudaban en los primeros tiempos acerca de las posibilidades de llevar adelante la lucha integrando a todos los sectores discriminados, y prefirieron trabajar con la mayoría negra, no obstante lucharon por una constitución no racista que beneficiara a todos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T113710Z" creationid="Ricardito120" creationdate="20161111T113710Z">
-        <seg>Mandela ainsi que beaucoup de  membres du Congrès national africain (ANC) doutaient dans les premiers temps de la possibilité de poursuivre la lutte en intégrant tous les secteurs discriminés, et ils ont préféré travailler avec la majorité noire.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T113952Z" creationid="Ricardito120" creationdate="20161111T113710Z">
+        <seg>Mandela ainsi que beaucoup de  membres du Congrès national africain (ANC) doutaient dans les premiers temps de la possibilité de poursuivre la lutte en intégrant tous les secteurs discriminés, et ils ont préféré travailler avec la majorité noire. Cependant, ils ont lutté pour une constitution non raciste qui devait profiter à tous.</seg>
       </tuv>
     </tu>
     <tu>
