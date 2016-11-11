@@ -1105,6 +1105,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde entonces, la industria de las zonas de libre comercio se ha multiplicado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132332Z" creationid="Ricardito120" creationdate="20161111T132332Z">
+        <seg>« Depuis lors, l’industrie des zones de libre-échange a subi une croissance fulgurante. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desde ese emplazamiento, la pasividad de la población justifica toda manipulación que pudiera ejercitarse para mantenerla conforme, mientras que los opositores son enemigos que deben ser destruidos mediante estrategias en el ejercicio del poder.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T111110Z" creationid="Ricardito120" creationdate="20161111T111110Z">
@@ -2267,6 +2275,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Hay 52 zonas económicas sólo en Filipinas, que emplean a 459 mil personas en un lugar donde en 1986 sólo se contabilizaban 23 mil trabajadores, y hasta 1994, 229 mil.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132405Z" creationid="Ricardito120" creationdate="20161111T132405Z">
+        <seg>Aux Philippines seulement, 52 zones économiques emploient 459 000 personnes – contre 12 000 en 1986 et 229 000 en 1994. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>la frase parece equivocada en espanol. </note>
       <tuv lang="ES-AR">
         <seg>Hay que comprender que la Nación Humana Universal, no representa solamente un ideal de mundo, sino que se ha tornado una verdadera necesidad histórica, ya que en un planeta globalizado no hay manera de enfrentar una crisis generalizada como no sea encontrando respuestas globales.</seg>
@@ -2558,6 +2574,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La Organización Internacional del Trabajo dice que hay al menos 850 ZPE en todo el mundo, pero que la cifra probable alcanza más bien las mil, que se extienden a 70 países y emplean alrededor de 27 millones de obreros.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132506Z" creationid="Ricardito120" creationdate="20161111T132506Z">
+        <seg>Au total, estime le Bureau international du travail, 850 ZFI au moins (mais leur nombre est probablement plus près du millier) se déploient dans 70 pays et emploient 27 millions de travailleurs(24). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La Sociedad Libertaria, donde no se contrapongan la espiritualidad y la razón.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T210628Z" creationid="william" creationdate="20161107T210628Z">
@@ -2666,6 +2690,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T211456Z" creationid="william" creationdate="20161105T211456Z">
         <seg>L'humanité est face à une voie sans issue puisqu'il n'existe pas de canal adapté pour que les aspirations de la majorité se transforme en actions qui modifient la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La idea de que las ZPE pueden ayudar al Tercer Mundo cobró vigencia en 1964, cuando el Consejo Económico y Social de las Naciones Unidas aprobó una resolución de apoyo a las zonas, considerándolas como medio de promocionar el comercio con los países en vías de desarrollo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132258Z" creationid="Ricardito120" creationdate="20161111T132258Z">
+        <seg>L’idée que les ZFI pouvaient aider les économies du Tiers-monde se répandit en 1964, lorsque le Conseil économique et social des Nations unies adopta une résolution en faveur des zones comme moyen de promouvoir le commerce avec les pays en voie de développement. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,6 +2834,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T223211Z" creationid="william" creationdate="20161105T223211Z">
         <seg>La violence sociale croissante, la course à l'armement déchainée, les interventions militaires unilatérales des puissances et son opposé du terrorisme nous conduisent à la destruction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La zona económica mayor es China, donde los cálculos más conservadores estiman que hay 18 millones de personas que trabajan en 124 zonas de procesamiento de exportaciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132442Z" creationid="Ricardito120" creationdate="20161111T132442Z">
+        <seg>La plus grande économie de zones se trouve en Chine, où 18 millions de gens, au bas mot, travaillent dans 124 zones franches industrielles(23). </seg>
       </tuv>
     </tu>
     <tu>
@@ -3768,6 +3808,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023746Z" creationid="Podium" creationdate="20161111T023746Z">
         <seg>Mais la clé réside dans l’intentionnalité que je dois mettre pour pouvoir observer mon intériorité (car je cherche les “registres” de cohérence et d’unité), et qui me permet de me situer dans d’autres espaces internes depuis lesquels mon observation de l’autre devient plus subtile et plus sensible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero la idea no cobró fuerza hasta principios de la década de 1980, cuando India otorgó cinco años de exención fiscal a las empresas manufactureras que funcionaban en sus zonas de salarios bajos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132316Z" creationid="Ricardito120" creationdate="20161111T132316Z">
+        <seg>Toutefois, l’idée ne devait gagner du terrain qu’au début des années 1980, quand l’Inde accorda une exemption fiscale de cinq ans aux sociétés s’adonnant à la fabrication dans ses zones à faibles salaires ».</seg>
       </tuv>
     </tu>
     <tu>
