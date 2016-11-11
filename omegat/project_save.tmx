@@ -2058,6 +2058,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Frente a ese panorama, la discriminación racial, la persecución política y las injusticias, eran sufridas por la mayor parte de la población.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T113633Z" creationid="Ricardito120" creationdate="20161111T113633Z">
+        <seg>Dans ce contexte, la plupart de la population souffrait de discrimination raciale, de persécution politique et des injustices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Frente a ese realismo mediocre, podríamos afirmar que es mucho más reconfortante soñar con utopías, que quedarse dormido a la sombra de la resignación.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T194133Z" creationid="william" creationdate="20161102T194133Z">
@@ -3712,6 +3720,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231427Z" creationid="Podium" creationdate="20161103T231427Z">
         <seg>Par conséquent, toute réclamation qui se fait en leur faveur a un sens, parce qu’elle montre aux pouvoirs actuels qu’ils ne sont pas tout-puissants et qu’ils n’ont pas le contrôle du futur. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por los años 50 a la discriminación por raza se le sumó la discriminación política con la prohibición del Partido Comunista.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T113611Z" creationid="Ricardito120" creationdate="20161111T113545Z">
+        <seg>Dans les années 50, à la discrimination raciale a été ajoutée la discrimination politique avec l'interdiction du Parti Communiste. </seg>
       </tuv>
     </tu>
     <tu>
