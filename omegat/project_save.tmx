@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>De ese modo, me represento que estoy en el lugar del otro, y entonces puedo conectar con una sensibilidad que si bien es propia (por eso la puedo sentir), la reconozco también en el otro, y esa coincidencia me pone en sintonía con lo humano de ambos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023616Z" creationid="Podium" creationdate="20161111T023616Z">
+        <seg>De cette façon, je me représente être à la place de l’autre et ainsi, je peux me connecter avec une sensibilité que je peux reconnaître également chez l’autre – même si elle m’est propre, et c’est pour cela que je peux la sentir. Cette coïncidence me met en syntonie avec l’humain qui est dans chacun des deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>De hecho, hay mucha gente trabajando en torno a algunos de estos temas en todo el mundo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145031Z" creationid="la belle idee" creationdate="20161105T145031Z">
@@ -1634,10 +1642,34 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Es claro que aquello de “ponerse en el lugar del otro”, no es posible de manera literal, ya que no puedo registrar lo que el otro está registrando; pero sí puedo captarlo a través de indicadores, a veces notorios, a veces sutiles, en tanto y en cuanto esté atento al otro, y no enfrascado en mis compulsiones, para lo cual a la vez debo estar atento a mi interior.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023553Z" creationid="Podium" creationdate="20161111T023553Z">
+        <seg>Cette idée de “se mettre à la place de l’autre” n’est pas possible littéralement : je ne peux en effet, “registrer” ce que l’autre “registre”. Je peux toutefois le capter à travers des indicateurs parfois évidents, (ou parfois plus subtils), dans la mesure où je suis attentif à l’autre et non pas lorsque je suis absorbé par mes compulsions, même si je dois également faire attention à mon intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Es decir, que se va levantando el nivel en el modo de relacionarme con el mundo, y me voy acercando a una experiencia más estructural de lo que es el interior y lo que es el exterior.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023835Z" creationid="Podium" creationdate="20161111T023835Z">
+        <seg>C’est-à-dire que, dans ce mode de relation avec le monde, le niveau s’élève et je m’approche alors d’une expérience plus structurelle de ce qu’est l’intérieur et de ce qu’est l’extérieur;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Es decir, traen dificultades a la mayor parte de la humanidad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230122Z" creationid="Podium" creationdate="20161103T230122Z">
         <seg>C’est-à-dire qu’ils posent des problèmes à la plus grande partie de l’Humanité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Es esa sintonía la que me permite tratar al otro como quiero ser tratado, y no un manual de instrucciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023648Z" creationid="Podium" creationdate="20161111T023648Z">
+        <seg>Cette syntonie est celle qui me permet de traiter l’autre comme je voudrais être traité; ce n’est pas un manuel d’instruction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1766,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221541Z" creationid="Podium" creationdate="20161103T221541Z">
         <seg>Cette passion tend à élever l’humble au rang du grand; mais il existe aussi dans le cœur humain un goût dépravé pour l’égalité, qui pousse le faible à abaisser le puissant à son propre niveau, et réduit des hommes à préférer l’égalité dans la servitude à l’inégalité dans la liberté. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Esa sintonía con lo humano de ambos, es lo que me permite encontrar, para cada particular situación, el modo de actuar de acuerdo al principio.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023634Z" creationid="Podium" creationdate="20161111T023634Z">
+        <seg>Cette syntonie avec l’humain qui nous est commun est ce qui me permet de trouver, pour chaque situation, le moyen d’agir en accord avec ce principe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,6 +3345,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero la clave está en que, esa intencionalidad que debo poner para observar mi interior, porque busco registros de coherencia y unidad, me permite irme ubicando en otros espacios internos, desde los cuales mi observación del otro también se torna más sutil y sensible.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023746Z" creationid="Podium" creationdate="20161111T023746Z">
+        <seg>Mais la clé réside dans l’intentionnalité que je dois mettre pour pouvoir observer mon intériorité (car je cherche les “registres” de cohérence et d’unité), et qui me permet de me situer dans d’autres espaces internes depuis lesquels mon observation de l’autre devient plus subtile et plus sensible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero la satisfacción de esas necesidades no puede convertirse ni en la línea de largada de una carrera consumista que obnubile a los privilegiados, ni en la meta inalcanzable que frustre o resienta a los marginados.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T172353Z" creationid="william" creationdate="20161105T172353Z">
@@ -4023,6 +4071,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Se podría argumentar, que si ese registro que tengo de la humanidad del otro, pasa a ser parte de mis representaciones, y es una reelaboración interna en memoria, con los nuevos datos sensoriales que la actualizan, no deja de ser una visión ilusoria de la realidad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023719Z" creationid="Podium" creationdate="20161111T023719Z">
+        <seg>On pourra argumenter que ce “registre” que j’ai de l’humanité de l’autre devient une partie de mes représentations; qu’il ne s’agit finalement que d’une réélaboration interne qui se fait dans ma mémoire et qui compte sur de nouvelles données sensorielles qui la réactualisent, mais qu’il n’en reste pas moins une vision illusoire de la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se trata de una primera aproximación de los pasos a dar, los que seguramente serán mejorados, completados y multiplicados durante la marcha.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161028T203038Z" creationid="william" creationdate="20161028T203038Z">
@@ -4495,6 +4551,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Tan ilusoria como otras, en todo caso, desde una concepción solipsista.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023735Z" creationid="Podium" creationdate="20161111T023735Z">
+        <seg>Il est vrai que depuis une vision solipsiste, elle est tout aussi illusoire que les autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Tendrán menos que gastar en los Estados Unidos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000326Z" creationid="Podium" creationdate="20161104T000326Z">
@@ -4663,6 +4727,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Una concepción más fenomenológica, si se quiere.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023847Z" creationid="Podium" creationdate="20161111T023847Z">
+        <seg>une conception plus phénoménologique si l’on veut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Una opción por el Desarrollo a Escala Humana requiere estimular el protagonismo de los sujetos para que hagan de la auto dependencia su propia opción de desenvolvimiento y tengan la capacidad de irradiarla a otros sectores de la sociedad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223810Z" creationid="Podium" creationdate="20161103T223810Z">
@@ -4776,10 +4848,26 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y esa búsqueda de coherencia interna, solo es compatible con la visión humanizadora sobre el otro, y el correspondiente trato.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023820Z" creationid="Podium" creationdate="20161111T023820Z">
+        <seg>Cette recherche de cohérence interne n’est compatible qu’avec la vision “humanisatrice” que je pose sur l’autre et avec le traitement qui lui correspond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y esa fuerza se despierta con la luz de las utopías, tal como lo proclamamos al comienzo en el exordio; difícilmente se encuentren las fuerzas para avanzar si sólo se cuenta con una teoría, o con diversas recetas de acción para problemas puntuales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145403Z" creationid="la belle idee" creationdate="20161105T145403Z">
         <seg>Et cette force s'éveille avec la lumière des utopies, comme nous l’avons proclamé au commencement du préambule; cette force s’anime difficilement pour avancer si on ne dispose que d'une théorie, ou de diverses recettes d'action pour des problèmes ponctuels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y esa sintonía me humaniza a mí, humanizando al otro, porque todo ocurre dentro mío, aunque desde luego tenga consecuencias afuera, mediante acciones o gestos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023702Z" creationid="Podium" creationdate="20161111T023702Z">
+        <seg>Cette syntonie m’humanise et humanise l’autre car tout se passe à l’intérieur de moi, même s’il y a ensuite des conséquences à l’extérieur, par des actions et des gestes.</seg>
       </tuv>
     </tu>
     <tu>
