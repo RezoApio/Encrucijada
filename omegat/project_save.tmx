@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -442,6 +442,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155857Z" creationid="la belle idee" creationdate="20161030T155857Z">
         <seg>7.	Se coordoner avec d'autres organisations au niveau local et national qui adhèrent à l'objectif de la Nation Humaine Universelle bien qu'elles agissent sur d'autres thèmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Asegurar, mediante la aceptación de principios y la adopción de métodos, que no se usará la fuerza armada sino en servicio del interés común, y a emplear un mecanismo internacional para promover el progreso económico y social de todos los pueblos.”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T151622Z" creationid="Ricardito120" creationdate="20161111T151406Z">
+        <seg>•	à accepter des principes et instituer des méthodes garantissant qu'il ne sera pas fait usage de la force des armes, sauf dans l'intérêt commun,  •	à recourir aux institutions internationales pour favoriser le progrès économique et social de tous les peuples ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -4451,6 +4459,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Practicar la tolerancia y a convivir en paz como buenos vecinos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T151312Z" creationid="Ricardito120" creationdate="20161111T151312Z">
+        <seg>•	à pratiquer la tolérance, à vivre en paix l'un avec l'autre dans un esprit de bon voisinage,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Profundizar el cuestionamiento a los paradigmas de la economía capitalista y neoliberal, como la teoría del derrame, la autorregulación de los mercados, el interés bancario, y el culto a la propiedad privada.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143744Z" creationid="la belle idee" creationdate="20161105T143744Z">
@@ -5696,6 +5712,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T205926Z" creationid="william" creationdate="20161107T205926Z">
         <seg>Une transformation sociale qui, pour arriver aux buts décrits précédemment, devra se proposer des étapes incontournables et des pas précis pour les obtenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Unir nuestras fuerzas para el mantenimiento de la paz y la seguridad internacionales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T151337Z" creationid="Ricardito120" creationdate="20161111T151337Z">
+        <seg>•	à unir nos forces pour maintenir la paix et la sécurité internationales,</seg>
       </tuv>
     </tu>
     <tu>
