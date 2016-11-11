@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ES-AR">
+        <seg>"Trabajo todos los días de la semana hasta las 9.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125410Z" creationid="Ricardito120" creationdate="20161111T125410Z">
+        <seg>‘Je travaille tous les jours de la semaine jusqu'à 9 heures du soir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>&lt;t1/&gt;Seguramente muchos compartimos ese sentimiento de rebeldía ante la aparente inmovilidad de una sociedad decadente, que solo intenta ofrecernos como motivación el espejismo del progreso económico.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T193411Z" creationid="william" creationdate="20161102T193411Z">
@@ -1513,6 +1521,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En el Capítulo VIII de “El Capital”, Marx describe las condiciones laborales en diferentes industrias, en base a diversos informes de la época, de los cuales transcribimos algunos a modo de ejemplo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125153Z" creationid="Ricardito120" creationdate="20161111T125153Z">
+        <seg>Dans le Chapitre VIII de l’ouvrage « Le Capital », Marx décrit les conditions de travail de différentes industries, sur la base de divers rapports de l'époque, nous en transcrivons certains à titre d'exemple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En el caso de no avanzar las propuestas en el seno de la ONU, conformar un bloque de “Países por la Nación Humana Universal”, que denuncien las manipulaciones de las potencias, desconociendo su autoridad moral para proponer iniciativas; y que emprendan acciones conjuntas acordadas por dicho bloque, en la dirección de los objetivos mencionados.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134630Z" creationid="la belle idee" creationdate="20161105T134630Z">
@@ -1774,6 +1790,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T194930Z" creationid="william" creationdate="20161107T194930Z">
         <seg>Donc, si c'est de transformer le monde qu'il s'agit, pour que les êtres humains se mettent en marche vers ce but, il faudra redéfinir de quoi nous sommes en train de parler quand nous parlons d'avancer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Entra todos los días, menos los domingos, a las 6 de la mañana y, abandona el trabajo a las 9 de la noche aproximadamente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125337Z" creationid="Ricardito120" creationdate="20161111T125337Z">
+        <seg>Il vient tous les jours de la semaine à 6 heures du matin et s'arrête environ à 9 heures du soir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,6 +2826,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T135604Z" creationid="la belle idee" creationdate="20161105T135604Z">
         <seg>Libre circulation des personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Llevo así, por ejemplo, 7 y 8 semanas." Resultado: ¡15 horas de trabajo diario para un niño de siete años!</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125449Z" creationid="Ricardito120" creationdate="20161111T125449Z">
+        <seg>Par exemple pendant les 7 ou 8 dernières semaines’. Soit un travail de 15 heures par jour pour un enfant de 7 ans ! »</seg>
       </tuv>
     </tu>
     <tu>
@@ -4450,6 +4482,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Se le dedicó desde el primer momento a "runmoulds" (es decir, a transportar al secadero las piezas acabadas y devolver al taller las formas vacías).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125314Z" creationid="Ricardito120" creationdate="20161111T125314Z">
+        <seg>Il portait la marchandise déjà moulée dans le séchoir et rapportait ensuite le moule vide (he ran moulds), et ce depuis le début.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se necesitará la unión de todos los humanistas del mundo, y que contagiemos de humanismo a muchos otros, mientras recorremos el camino de la transformación social.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T205809Z" creationid="william" creationdate="20161107T205809Z">
@@ -5704,6 +5744,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T172620Z" creationid="william" creationdate="20161105T172620Z">
         <seg>Et jusqu'où devrait aller l'être humain, quel devrait être l'horizon qui l'inspire et l'élève par dessus les sens provisoires ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>“Guillermo Wood, de 9 años, "tenía 7 años y 10 meses cuando comenzó a trabajar".</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125249Z" creationid="Ricardito120" creationdate="20161111T125249Z">
+        <seg>« Wilhelm Wood, 9 ans « avait 7 ans et 10 mois quand il a commencé à travailler. » </seg>
       </tuv>
     </tu>
     <tu>
