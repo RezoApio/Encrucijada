@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -655,6 +655,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Casi nadie estaba en Europa tan a salvo de las influencias de mercado que no sintiese alguna influencia en su salario, en sus ventas e incluso en sus compras más insignificantes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T141200Z" creationid="Podium" creationdate="20161111T141200Z">
+        <seg>Personne, ou presque, en Europe, n’était assez éloigné de l’influence du marché pour n’en pas ressentir les conséquences, fût-ce sur son salaire, sur ses ventes, ou sur le plus minime de ses achats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Caso contrario fortalecer la democracia real dentro de la coordinadora de organizaciones y conformar una nueva fuerza política que compita electoralmente.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160203Z" creationid="la belle idee" creationdate="20161030T160203Z">
@@ -1265,6 +1273,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Después, al pasar estos a Francia, a los Países Bajos y a Inglaterra, gracias al comercio (o tal vez, en menor medida, al contrabando o a la conquista), siguió la inflación en estos países.”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T141238Z" creationid="Podium" creationdate="20161111T141238Z">
+        <seg>puis, à mesure que les échanges (et, dans une moindre mesure, la contrebande ou la politique de conquête) le transférait en France, aux Pays-Bas et en Angleterre, l’inflation le suivit. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Después, se les emplea hasta las 4, las 5, las 6 y hasta las 7 de la tarde en el reparto, y a veces en la propia panadería, para la elaboración del bizcocho.”</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T131559Z" creationid="Ricardito120" creationdate="20161111T131559Z">
@@ -1389,6 +1405,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223506Z" creationid="Podium" creationdate="20161103T223506Z">
         <seg>L’auteur a écrit le livre « Au-delà du capitalisme, l’économie mixte » en 2000; il y présente les propositions d’un système alternatif au capitalisme et au communisme, et analyse en profondeur certains des thèmes mentionnés ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El aumento de precios se produjo ante todo en España, que era adonde llegaron primero los metales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T141221Z" creationid="Podium" creationdate="20161111T141221Z">
+        <seg>La flambée des prix se produisit d’abord en Espagne, où le métal arrivait;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2320,6 +2344,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T232502Z" creationid="Podium" creationdate="20161103T232502Z">
         <seg>Friedrich Nietzsche, un critique féroce de la morale judéo-chrétienne, a critiqué à fond les paradigmes de la morale  en vigueur dans tous ses livres, mais dans sa réaction contre la morale, il est tombé aux antipodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Galbraith, en su libro “El dinero”, relata la historia y evolución de los diversos instrumentos de pago en el mundo, y dice respecto de los efectos que tuvo la conquista de América en la cuestión monetaria: &lt;t0/&gt;“El descubrimiento y la conquista provocaron una enorme afluencia de metal precioso de América a Europa, y el resultado fue un increíble aumento de los precios, una inflación ocasionada por un incremento de la oferta del dinero más fuerte de todos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T141147Z" creationid="Podium" creationdate="20161111T141147Z">
+        <seg>Dans son livre « L’argent », John K. Galbraith, retrace l’histoire et l’évolution des divers instruments de paiement dans le monde, et déclare, au sujet des effets qu’a eu la conquête de l’Amérique dans la question monétaire : &lt;t0/&gt;« Découverte puis conquête furent à l’origine d’un vaste afflux de métal précieux d’Amérique en Europe qui entraîna d’énormes augmentations de prix – inflation occasionnée par l’augmentation de l’offre de la plus précieuse des monnaies métalliques.</seg>
       </tuv>
     </tu>
     <tu>
