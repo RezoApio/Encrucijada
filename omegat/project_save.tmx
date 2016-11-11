@@ -1666,6 +1666,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En otro pasaje dice: “Es imposible pensar que un país o grupo de países puede hoy lograr metas óptimas de crecimiento económico al margen de la globalización de la economía mundial.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T124628Z" creationid="Ricardito120" creationdate="20161111T124628Z">
+        <seg>Dans un autre passage il dit : « Il est impossible de penser qu'un pays ou un groupe de pays puisse aujourd'hui obtenir leurs objectifs optimales de croissance économique en dehors de la globalisation de l'économie mondiale. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En primer lugar intentando comprometer a partidos políticos afines a que tomen las propuestas como propias, y en caso afirmativo difundir públicamente el compromiso y pedir apoyo en las elecciones.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160154Z" creationid="la belle idee" creationdate="20161030T160154Z">
@@ -1694,6 +1702,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T232527Z" creationid="Podium" creationdate="20161103T232527Z">
         <seg>Dans sa « Généalogie de la morale », il écrit : “La révolte des esclaves dans la morale commence lorsque le ressentiment lui-même devient créateur et enfante des valeurs : le ressentiment de ces êtres, à qui la vraie réaction, celle de l’action, est interdite et qui ne trouvent de compensation que dans une vengeance imaginaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En un pasaje de su libro comenta: “&lt;t0/&gt;El neoliberalismo ha creado una gran confusión ideológica en las fuerzas sociales y políticas partidarias de profundizar la democracia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T124526Z" creationid="Ricardito120" creationdate="20161111T124526Z">
+        <seg>Dans un passage de son livre il écrit : « &lt;t0/&gt;Le néolibéralisme a créé une importante confusion idéologique dans les forces sociales et politiques favorables au renforcement de la démocratie. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +1926,16 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023533Z" creationid="Podium" creationdate="20161111T023533Z">
         <seg>Cette attention permet une réactualisation permanente entre la structure de mémoire de l’image de moi-même et l’image de l’autre qui, bien sûr, n’est pas neutres mais comportent des charges émotionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Esa confusión se plantea en los sindicatos en dos planos: a) en el plano estrictamente ideológico dado el agotamiento histórico de viejas concepciones sindicales, y b) en el plano táctico sindical, dado que las políticas de ajuste estructural están segmentando en el mundo del trabajo, haciendo difícil homogeneizar las reivindicaciones de diferentes sectores de asalariados”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T124606Z" creationid="Ricardito120" creationdate="20161111T124606Z">
+        <seg>Cette confusion est abordée par les syndicats sur deux plans : 
+a) Sur un plan strictement idéologique, vu l'épuisement historique des vieilles conceptions syndicales, et 
+b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel [NDT. Programmes de réformes économiques que le Fonds monétaire international (FMI) ou la Banque mondiale mettent en place pour sortir des pays de leur crise économique.] ont produit la segmentation du monde du travail, rendant difficile d’homogénéiser les revendications de différents secteurs de salariés ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3805,10 +3831,26 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Por el contrario, hoy es imprescindible fortalecer la acción mancomunada del sindicalismo a escala internacional”&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T124721Z" creationid="Ricardito120" creationdate="20161111T124721Z">
+        <seg>Au contraire, aujourd'hui il est indispensable de fortifier l'action conjointe du syndicalisme à une échelle internationale ».&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Por eso es importante que el verdadero motor en todo esto sea la búsqueda de esa coherencia interna, de esa unidad, que se construye en la dinámica de relación con el mundo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023930Z" creationid="Podium" creationdate="20161111T023930Z">
         <seg>Pour cette raison, il est important que le véritable moteur de tout cela soit la recherche de cette cohérence interne, de cette unité qui se construit dans la relation dynamique avec le monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por eso mismo, es imposible concebir un movimiento sindical exitoso, si éste se circunscribe a su radio de accionar exclusivamente nacional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T124651Z" creationid="Ricardito120" creationdate="20161111T124651Z">
+        <seg>C'est pourquoi, il est impossible de concevoir un mouvement syndical fructueux, si sa portée est exclusivement nationale. </seg>
       </tuv>
     </tu>
     <tu>
