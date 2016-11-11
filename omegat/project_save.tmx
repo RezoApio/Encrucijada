@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>"Un oficial panadero comienza generalmente a trabajar hacia las 11 de la noche.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T130925Z" creationid="Ricardito120" creationdate="20161111T130925Z">
+        <seg>« Le travail d'un compagnon boulanger de Londres commence généralement à 11 heures du soir. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>&lt;t1/&gt;Seguramente muchos compartimos ese sentimiento de rebeldía ante la aparente inmovilidad de una sociedad decadente, que solo intenta ofrecernos como motivación el espejismo del progreso económico.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T193411Z" creationid="william" creationdate="20161102T193411Z">
@@ -2906,6 +2914,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141403Z" creationid="la belle idee" creationdate="20161030T141403Z">
         <seg>L’important est d'avoir quelques images sur des objectifs fondamentaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Lo primero que hace es preparar la masa, operación fatigosísima que dura media hora o tres cuartos de hora, según la cantidad de pan que haya de amasar y su finura.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T130945Z" creationid="Ricardito120" creationdate="20161111T130945Z">
+        <seg>Il commence alors par faire la pâte, procédure très pénible qui dure entre une demi-heure et trois quart d'heure, suivant le volume et la finesse de ce qui doit être fait. </seg>
       </tuv>
     </tu>
     <tu>
