@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>&lt;t0/&gt;“Aunque las zonas de procesamiento de exportaciones (ZPE) tienen mucho en común con esos paraísos impositivos, pertenecen a una especie diferente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132050Z" creationid="Ricardito120" creationdate="20161111T132050Z">
+        <seg>&lt;t0/&gt;« Bien qu’elle ait beaucoup à voir avec ces différents abris fiscaux, la zone franche industrielle est, en réalité, une catégorie à part. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>&lt;t1/&gt;Seguramente muchos compartimos ese sentimiento de rebeldía ante la aparente inmovilidad de una sociedad decadente, que solo intenta ofrecernos como motivación el espejismo del progreso económico.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T193411Z" creationid="william" creationdate="20161102T193411Z">
@@ -3271,6 +3279,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Naomi Klein, en su libro No-Logo, describe las condiciones laborales en las zonas de libre comercio instaladas al servicio de las multinacionales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132024Z" creationid="Ricardito120" creationdate="20161111T132024Z">
+        <seg>Naomi Klein, dans son livre No-Logo, la tyrannie des marques décrit les conditions de travail dans les zones de libre commerce créées au profit des multinationales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Necesariamente debo atender mi interior y debo atender al otro.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023451Z" creationid="Podium" creationdate="20161111T023451Z">
@@ -3381,6 +3397,14 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200828Z" creationid="william" creationdate="20161024T200828Z">
         <seg>Il ne s'agit pas d'une société que quelqu'un doit transformer, c'est nous mêmes qui devons changer pour vivre d'une autre manière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>No siendo tanto un lugar de almacenaje cuanto un territorio soberano, las ZPE no son espacios por donde transitan los artículos sino donde se fabrican, y donde además no se pagan gravámenes de importación y exportación, y a menudo tampoco por los ingresos ni la propiedad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132204Z" creationid="Ricardito120" creationdate="20161111T132204Z">
+        <seg>Moins réservoir de stockage que territoire souverain, la ZFI ne sert pas seulement au transit des marchandises, mais à leur fabrication, exempte de douanes et, souvent, d’impôts sur le revenu ou sur la propriété.</seg>
       </tuv>
     </tu>
     <tu>
