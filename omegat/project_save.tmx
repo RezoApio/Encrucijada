@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A partir de aquí Keynes desarrolla el concepto de propensión al ahorro, y el aumento de la misma en relación al incremento en el ingreso, y la propensión marginal a consumir como dC/dY.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T010427Z" creationid="Podium" creationdate="20161111T010427Z">
+        <seg>À partir de là, Keynes développe le concept de propension à l’épargne, et l’augmentation de celle-ci en fonction de l’augmentation des revenus, et la propension marginale à consommer comme dC/dY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>A su vez, en América latina la mayor parte de la recaudación del impuesto a la renta es sobre las personas jurídicas, mientras que en Europa es sobre las personas físicas, lo que le da mayores posibilidades de elevar la alícuota según capacidad contributiva.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224231Z" creationid="Podium" creationdate="20161103T224231Z">
@@ -555,6 +563,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155405Z" creationid="la belle idee" creationdate="20161030T155405Z">
         <seg>6.	Collaborer à la diffusion des idéaux et des objectifs de la Nation Humaine Universelle dans son milieu immédiat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Como por definición el incremento del consumo es menor al incremento del ingreso, la diferencia estaría dada por la inversión.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T010457Z" creationid="Podium" creationdate="20161111T010457Z">
+        <seg>Étant donné que, par définition, l’augmentation de la consommation est inférieure à l’augmentation des revenus, la différence est donnée par l’investissement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3168,6 +3184,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231427Z" creationid="Podium" creationdate="20161103T231427Z">
         <seg>Par conséquent, toute réclamation qui se fait en leur faveur a un sens, parce qu’elle montre aux pouvoirs actuels qu’ils ne sont pas tout-puissants et qu’ils n’ont pas le contrôle du futur. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por otra parte, al aumentar el consumo y la inversión ante una aumento del ingreso, habría un efecto multiplicador que haría crecer también el empleo, al crecer la inversión; de allí el círculo virtuoso que genera en la economía la inversión pública.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T010523Z" creationid="Podium" creationdate="20161111T010523Z">
+        <seg>D’un autre côté, l’augmentation de la consommation et de l’investissement face à l’augmentation des revenus, donnerait lieu à un effet multiplicateur qui ferait également croître l’emploi en raison de la croissance de l’investissement; d’où le cercle vertueux que l’investissement public génère dans l’économie.</seg>
       </tuv>
     </tu>
     <tu>
