@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4065,6 +4065,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T192818Z" creationid="william" creationdate="20161024T192818Z">
         <seg>Mais nous pouvons uniquement partir de notre propre existence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero también alimentan conflictos en África y Asia, y ya no solamente venden armas, sino que además negocian con la contratación de ejércitos mercenarios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T142411Z" creationid="Ricardito120" creationdate="20161111T142411Z">
+        <seg>Mais aussi, il  alimente des conflits en Afrique et en Asie, non seulement par la vente d’armes, mais aussi avec l’engagement d’armées de mercenaires.</seg>
       </tuv>
     </tu>
     <tu>
