@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1173,6 +1173,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141800Z" creationid="la belle idee" creationdate="20161105T141800Z">
         <seg>L'art graphique, la littérature, le théâtre, le cinéma, la musique et d'autres expressions culturelles pourront contribuer à mettre en évidence et montrer le ridicule de la manipulation mediatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Desde el primer día nos convencimos de que no había espacio para la policía en nuestro sistema…los malos pagadores representan apenas el uno por ciento de nuestros clientes…Observamos cómo hacían los otros bancos, e hicimos lo contrario….Todo el trabajo del Grameen se sustenta en la idea de que no es la gente la que debe venir al banco, sino el banco el que debe ir hacia la gente…”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T162334Z" creationid="Podium" creationdate="20161111T162334Z">
+        <seg>Dès le tout premier jour, nous convînmes qu’il n’y avait pas de place pour la police dans notre système. [...] Les mauvais payeurs ne représentent pas plus d’un pour cent de nos clients. [...] Nous avons regardé comment fonctionnaient les autres banques, et nous avons fait le contraire. [...] Tout le système bancaire de Grameen part de l’idée que ce n’est pas au gens d’aller vers la banque, mais à la banque d’aller vers les gens, principe que nous avons adopté d’entrée de jeu. »</seg>
       </tuv>
     </tu>
     <tu>
