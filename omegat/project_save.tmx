@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A partir de 1845, esta industria comienza a propagarse rápidamente por Inglaterra, difundiéndose por los sectores más densos de población de Londres y por Manchester, Birmingham, Liverpool, Bristol, Norwich, Newcastle, Glasgow, etc., y con ella el trismo, enfermedad que un médico vienés descubre ya en 1845 como característica de los cerilleros.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T130130Z" creationid="Ricardito120" creationdate="20161111T130130Z">
+        <seg>Après 1845 elle s'est rapidement développée en Angleterre et a élargi son domaine, passant des quartiers très populeux de Londres à Manchester, Birmingham, Liverpool, Bristol, Norwich, Newcastle, Glasgow, développant à mesure dans le même temps le phosphorisme chronique [Nota de pied de page : Intoxication par le phosphore qui atteint principalement les gencives et les dents et entraîne la nécrose des maxillaires, d'où le terme allemand : Mundsperre.] dont un médecin viennois déclarait dès 1845 qu'il était la maladie spécifique des gens qui fabriquent les allumettes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>A partir de aquí Keynes desarrolla el concepto de propensión al ahorro, y el aumento de la misma en relación al incremento en el ingreso, y la propensión marginal a consumir como dC/dY.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T010427Z" creationid="Podium" creationdate="20161111T010427Z">
@@ -2638,10 +2646,26 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La manufactura cerillera tiene tal fama de malsana y repugnante, que sólo le suministra niños, "niños andrajosos, hambrientos, abandonados y sin educar", la parte más desamparada de la clase obrera, viudas medio muertas de hambre, etc.38 De los testigos de esta industria examinados por el comisario White (1863), 250 tenían menos de 18 años, 50 menos de 10, 10 menos de 8, y 5 no habían cumplido aún los 6 años.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T130333Z" creationid="Ricardito120" creationdate="20161111T130333Z">
+        <seg> L'insalubrité et le caractère répugnant de cette manufacture ont si mauvaise réputation qu'il n'y a que la partie la plus misérable de la classe ouvrière, les veuves à moitié mortes de faim, etc. qui y envoient leurs enfants, « des enfants en loques, crevant de faim, n'ayant jamais reçu aucun soin ni aucune éducation ». Parmi les témoins que le commissaire White a entendus (1863), 270 avaient moins de 18 ans, 40 moins de 10 ans, 10 n'avaient que 8 ans, et 5 n'en avaient que 6. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La manufactura de cerillas data de 1833, en que se inventó la aplicación del fósforo a la cerilla.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125523Z" creationid="Ricardito120" creationdate="20161111T125523Z">
         <seg>« La manufacture d'allumettes date de 1838, c'est-à-dire de l'invention du procédé qui permet d'appliquer directement le phosphore sur le bois. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La mitad de los obreros de esta industria son niños menores de 13 años y jóvenes de menos de 18.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T130200Z" creationid="Ricardito120" creationdate="20161111T130200Z">
+        <seg>La moitié des ouvriers sont des enfants de moins de 13 ans et des adolescents de moins de 18 ans.</seg>
       </tuv>
     </tu>
     <tu>
