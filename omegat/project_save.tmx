@@ -639,6 +639,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Charles Tilly, en su libro “Los Movimientos Sociales”, describe sus características a través de la historia, situando sus orígenes hacia fines del siglo XVIII en Europa occidental y Norteamérica, en concomitancia con el avance de las libertades de manifestación y derechos democráticos, multiplicándose durante el siglo XIX y expandiéndose e internacionalizándose durante el siglo XX.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T134257Z" creationid="Ricardito120" creationdate="20161111T134257Z">
+        <seg>Charles Tilly, dans son livre « Les Mouvements sociaux », décrit les caractéristiques des mouvements sociaux à travers de l'histoire, en situant leurs origines vers la fin du XVIIIe siècle en Europe occidentale et en Amérique du Nord. Il établit une concomitance entre  les avancées des libertés les manifestations publiques et les droits démocratiques. Ces mouvements se sont multipliés au cours du XIXe siècle, et se sont développés et sont devenus internationaux pendant le XXe siècle. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Claramente, la dialéctica entre la tesis universalista (poco universal en su propia área) y la cultural, no puede resolverse en el caso de la familia (que he tomado como uno de muchos ejemplos posibles) y me temo que tampoco pueda solucionarse en otros campos del quehacer social.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230729Z" creationid="Podium" creationdate="20161103T230729Z">
@@ -5278,6 +5286,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T205612Z" creationid="william" creationdate="20161107T205612Z">
         <seg>Terminer avec les guerres, abolir les armes, en finir avec l'iniquité, avec l'oppression, avec l'injustice, avec la discrimination, la marginalisation et le désastre écologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Tilly considera que un movimiento social debe realizar demostraciones públicas reuniendo cuatro condiciones organizativas a las que denomina con la sigla WUNC , y se refiere a “valor” (conducta sobria), “unidad” (insignias idénticas, pancartas, himnos”; “número”,(recuento de asistentes, firma de peticiones, ocupación de calles) y “compromiso“ (resistencia a la represión, desafiar al mal tiempo).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T134319Z" creationid="Ricardito120" creationdate="20161111T134319Z">
+        <seg>Tilly considère qu'un mouvement social doit réaliser des manifestations publiques en réunissant quatre conditions d’organisation qu’il identifie avec le sigle WUNC : « valeur » (une conduite sobre) ; « unité » (insignes identiques, banderoles, hymnes) ; « nombre », (décompte de participants, signature de pétitions, occupation de rues) et « engagement » (résistance à la répression, défier le mauvais temps).</seg>
       </tuv>
     </tu>
     <tu>
