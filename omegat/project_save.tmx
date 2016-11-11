@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1398,6 +1398,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161104T002426Z" creationid="Podium" creationdate="20161104T002426Z">
         <seg>Dans un autre passage, Friedman discrédite totalement la fonction sociale de l’État : Une partie essentielle de la liberté économique est la liberté de choisir comment utiliser notre revenu : combien on dépense pour soi-même et quels produits on achète ; combien on économise et sous quelle forme ; combien on donne et à qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En otro pasaje de su obra Keynes relativiza la vieja premisa de que “el ahorro es la base de la fortuna”, ya que si bien eso puede resultar individualmente, en una sociedad, un exceso de ahorro necesariamente implica una disminución del consumo, por lo tanto al bajar el consumo disminuye el ingreso de los fabricantes y disminuye el empleo, por lo cual disminuye la capacidad de ahorro.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T010336Z" creationid="Podium" creationdate="20161111T010336Z">
+        <seg>Dans un autre passage de son œuvre, Keynes relativise l’ancien principe selon lequel « l’épargne est le fondement de la fortune », car même si cela peut s’avérer individuellement, dans une société, un excès d’épargne implique nécessairement une diminution de la consommation. Par conséquent, si la consommation diminue, le revenu des fabricants diminue, l’emploi diminue et donc la capacité d’épargne diminue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3644,6 +3652,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T194707Z" creationid="william" creationdate="20161107T194707Z">
         <seg>Si quelqu'un s'aperçoit que chaque pas en avant est suivi de deux en arrière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si bien Keynes demostró la falsedad de esta teoría, con el posterior advenimiento del neoliberalismo se insistió en la falacia de la sabiduría de los mercados, en este caso a través de la desregulación y la flexibilización laboral, pretendiendo reinstalar el concepto de que la desutilidad marginal de la ocupación es igual al salario real y que la oferta crea su propia demanda.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T010310Z" creationid="Podium" creationdate="20161111T010310Z">
+        <seg>Bien que Keynes ait prouvé la fausseté de cette théorie, l’apparition ultérieure du néolibéralisme a mis l’accent sur l’illusion de la sagesse des marchés, dans le cas présent à travers la déréglementation et la flexibilité du travail, en prétendant réinstaller le concept selon lequel la désutilité marginale de l’emploi est égale au salaire réel et que l’offre crée sa propre demande.</seg>
       </tuv>
     </tu>
     <tu>
