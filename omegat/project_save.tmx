@@ -1451,8 +1451,8 @@
       <tuv lang="ES-AR">
         <seg>En 1848 se celebró en Seneca Falls (Nueva York) la primera convención sobre los derechos de la mujer en Estados Unidos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T114136Z" creationid="Ricardito120" creationdate="20161111T114136Z">
-        <seg>En 1848 s’est tenue à Seneca Falls (New York) la première convention sur les droits de la femme aux Etats-Unis, organisée par Lucretia Mott et Elizabeth Cady Stanton.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T114545Z" creationid="Ricardito120" creationdate="20161111T114136Z">
+        <seg>En 1848 s’est tenue à Seneca Falls (New York) la première convention sur les droits de la femme aux Etats-Unis</seg>
       </tuv>
     </tu>
     <tu>
@@ -3227,6 +3227,15 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155439Z" creationid="la belle idee" creationdate="20161030T155439Z">
         <seg>Pour les organisations et les mouvements sociaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Organizada por Lucretia Mott y Elizabeth Cady Stanton.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T114513Z" creationid="Ricardito120" creationdate="20161111T114513Z">
+        <seg>, organisée par Lucretia Mott et Elizabeth Cady Stanton.
+</seg>
       </tuv>
     </tu>
     <tu>
