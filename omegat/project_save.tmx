@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3653,6 +3653,22 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T225503Z" creationid="Podium" creationdate="20161103T225503Z">
         <seg>Non, j’entends la seule liberté qui soit vraiment digne de ce nom, la liberté qui consiste dans le plein développement de toutes les puissances matérielles, intellectuelles et morales qui se trouvent à l’état de facultés latentes en chacun, cette liberté qui ne reconnaît d’autres restrictions que celles qui nous sont tracées par les lois de notre propre nature. Ainsi, à proprement parler, il n’y a pas de restrictions, puisque ces lois ne nous sont pas imposées par quelque législateur du dehors, résidant soit à côté, soit au-dessus de nous; elles nous sont immanentes, inhérentes et constituent la base même de tout notre être, tant matériel qu’intellectuel et moral. Au lieu, donc, de trouver en elles une limite, nous devons les considérer comme les conditions réelles et comme la raison effective de notre liberté. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Noam Chomsky, en el libro 11 de septiembre, donde se describen muy bien las raíces de la escalada de violencia terrorista, como consecuencia del propio terrorismo de USA y sus aliados, relata como en una entrevista televisiva, a la entonces Secretaria de Estado Madeleine Albright, expresó con respecto a la muerte de medio millón de niños en Irak, como consecuencia de las sanciones al régimen: “tales consecuencias han sido una dura opción…pero creemos que el precio merecía la pena”.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T143110Z" creationid="Ricardito120" creationdate="20161111T143110Z">
+        <seg>Noam Chomsky, dans son livre « 11/9 : Autopsie des terrorismes », explique très bien les racines de l'escalade de la violence terroriste, comme conséquence du propre terrorisme des Etats-Unis et de ses alliés. Il raconte que  lors d’un entretien à la télévision, la Secrétaire d'État de l'époque, Madeleine Albright, s’est exprimée au sujet de la mort de 500.000 enfants en Irak, suite aux sanctions au régime dans ces termes : « …de telles conséquences ont été une option dure… mais nous croyons que le prix en valait la peine ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Noam Chomsky, en su libro Las intenciones del Tío Sam, realiza un análisis histórico pormenorizado de las sucesivas intervenciones militares de USA, a veces manifiestas, a veces encubiertas, en diversos países del mundo, explicando los verdaderos intereses que las motivaron.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T143022Z" creationid="Ricardito120" creationdate="20161111T143022Z">
+        <seg>Noam Chomsky, dans son livre « Les dessous de la politique de l'Oncle Sam », effectue une analyse historique détaillée des successives interventions militaires des États-Unis dans divers pays du monde, parfois manifestes, parfois sous couverture, en expliquant les vrais intérêts qui les ont motivées.</seg>
       </tuv>
     </tu>
     <tu>
