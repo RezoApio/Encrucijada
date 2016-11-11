@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A esto hay que sumarle que numerosos preceptos morales, transmitidos culturalmente de generación en generación, por repetición mecánica de hábitos de otro momento histórico, hoy resultan totalmente anacrónicos e incomprensibles.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022616Z" creationid="Podium" creationdate="20161111T022616Z">
+        <seg>À cela, il faut ajouter que de nombreux préceptes moraux – transmis culturellement de génération en génération par la simple répétition mécanique d’habitudes venues d’une autre époque sont devenus aujourd’hui totalement anachroniques et incompréhensibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>A nivel internacional, se debieran poner barreras a todos los productos provenientes de naciones que aún contaminen en la fabricación de los mismos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141329Z" creationid="la belle idee" creationdate="20161105T141329Z">
@@ -1438,6 +1446,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T135509Z" creationid="la belle idee" creationdate="20161105T135509Z">
         <seg>8.	À mesure que les transformations financières nationales avanceront, on pourra capitaliser davantage la banque Internationale Solidaire, qui commencera à financer des projets productifs régionaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En la monografía sobre la “Internalización de la moral”, luego de analizar las diferentes concepciones religiosas y filosóficas de la moral, nos referíamos a este tema de la externalidad e internalidad de la misma: &lt;t0/&gt;“La moral para sí y la moral para otros.-&lt;t1/&gt;Se podría suponer, que si todos los seres humanos actuaran por propia iniciativa de acuerdo a una moral objetiva y universal, no sería necesaria la presión social, y tampoco la justicia, ya que por lo general sus leyes comprenden situaciones en las que primero se viola la moral, y luego la gravedad de su consecuencia lo configura como delito.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022518Z" creationid="Podium" creationdate="20161111T022518Z">
+        <seg>Dans la monographie sur l’« Internalisation de la morale », après une analyse de différentes conceptions religieuses et philosophies de la morale, nous faisions référence au thème de l’externalité et l’internalité de la morale :  &lt;t0/&gt;« La morale pour soi et la morale pour les autres. - On peut penser que si tous les êtres humains agissaient de leur propre initiative en accord avec une morale objective et universelle, ni la pression sociale, ni même la justice ne seraient nécessaires : les lois, en général, contiendraient les situations dans lesquelles la morale est violée puis configureraient un délit en fonction de la gravité des conséquences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3241,6 +3257,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero queda claro a todas luces, que ni la presión social, ni la justicia, en este momento histórico, logran contener la creciente pérdida de valores morales, y sus consecuentes acciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022546Z" creationid="Podium" creationdate="20161111T022546Z">
+        <seg>Dans ce moment historique, il apparaît évident que ni la pression sociale ni la justice ne parviennent à contenir la perte croissante des valeurs morales et les actions conséquentes qui en découlent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero si bien ese despertar se experimenta internamente y no pude ser impuesto, puede ser contagioso al resonar en la esencia de todo ser humano, y eso hace que podamos sintonizarnos más allá de las palabras.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T173846Z" creationid="william" creationdate="20161105T173846Z">
@@ -3302,6 +3326,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200521Z" creationid="william" creationdate="20161024T200521Z">
         <seg>Mais nous ne pouvons continuer à chercher des coupables ; l'heure est venue de nous prendre en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero, como no vivimos en ese mundo ideal, parecen necesarias la presión social y la justicia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022530Z" creationid="Podium" creationdate="20161111T022530Z">
+        <seg>Mais comme nous ne vivons pas dans un monde idéal, la pression sociale et la justice semblent nécessaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,6 +3514,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T210027Z" creationid="william" creationdate="20161107T210027Z">
         <seg>Parce qu'une transformation sociale nécessite le démantèlement des structures de pouvoir qui opprime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Posiblemente, la exigencia de un comportamiento moral desde la sociedad hacia cada uno de los individuos, se ha transformado en una exigencia formal y cosificadora, en la que el comportamiento moral pasa a validarse en cuanto signifique un beneficio para los demás y no para quien actúe moralmente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022604Z" creationid="Podium" creationdate="20161111T022604Z">
+        <seg>Il est probable que l’exigence d’un comportement moral partant de la société vers chacun des individus s’est transformée en une exigence formelle et “chosifiante” où le comportement n’est validé comme moral que s’il signifie un bénéfice pour les autres et non pour celui qui agit moralement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4339,6 +4379,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142608Z" creationid="la belle idee" creationdate="20161105T142608Z">
         <seg>5.	Toute coordination entre organisations devrait avoir comme position claire de transformer le système, avec des objectifs politiques définis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Toda esta externalización de la moral, acarrea problemas en el comportamiento interno de las personas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022637Z" creationid="Podium" creationdate="20161111T022637Z">
+        <seg>Toute cette externalisation de la morale entraîne des problèmes dans le comportement interne des gens.</seg>
       </tuv>
     </tu>
     <tu>
