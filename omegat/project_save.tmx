@@ -1770,6 +1770,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Enseguida viene un trabajo veloz e ininterrumpido de 4 horas, consistente en trabajar, pesar, modelar la masa, meterla en el horno, sacarla del horno, etc. La temperatura de una panadería oscila entre 75 y 90 grados [24º y 32º C], y en las panaderías pequeñas más bien es mayor que menor.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T131428Z" creationid="Ricardito120" creationdate="20161111T131428Z">
+        <seg>Ensuite commence un travail rapide et ininterrompu de cinq heures : travailler, peser la pâte, la mettre en forme, l'enfourner, la retirer, etc. La température d'un fournil oscille entre 75 et 90° F, plutôt plus que moins dans les petits fournils. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Entonces la moral, como representación, se conforma siempre internamente, aunque tal representación pueda actualizarse permanentemente por vía sensorial en el contacto con el mundo, o por la reelaboración del recuerdo, o por vía de la imaginación, (las tres vías de la experiencia-Sicología II).</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022939Z" creationid="Podium" creationdate="20161111T022939Z">
@@ -3072,8 +3080,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Luego, se tiende en la tabla de amasar, que sirve al mismo tiempo de tapadera de la artesa en que se prepara la masa, y duerme un par de horas con la cabeza apoyada en un saco de harina y tapándose con otro.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T131140Z" creationid="Ricardito120" creationdate="20161111T131140Z">
-        <seg>Ensuite commence un travail rapide et ininterrompu de cinq heures : travailler, peser la pâte, la mettre en forme, l'enfourner, la retirer, etc. La température d'un fournil oscille entre 75 et 90° F, plutôt plus que moins dans les petits fournils. </seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T131400Z" creationid="Ricardito120" creationdate="20161111T131140Z">
+        <seg>Puis il se couche sur la planche à pétrir qui sert en même temps de couvercle au pétrin dans lequel se fait la pâte et il dort quelques heures avec un sac de farine sous la tète et un autre sur le corps. </seg>
       </tuv>
     </tu>
     <tu>
