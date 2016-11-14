@@ -4530,6 +4530,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Por lo tanto, así como en una democracia real, la palabra Estado será el sinónimo de gente organizada, en una economía humanista ese estado deberá velar por la igualdad de oportunidades.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T202447Z" creationid="william" creationdate="20161114T202447Z">
+        <seg>Donc, ainsi qu'il se doit dans une démocratie réelle où le mot État sera synonyme de gens organisés, dans une économie humaniste, cet état devra veiller à l'égalité d'opportunités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Por los años 50 a la discriminación por raza se le sumó la discriminación política con la prohibición del Partido Comunista.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T113611Z" creationid="Ricardito120" creationdate="20161111T113545Z">
@@ -6050,6 +6058,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023002Z" creationid="Podium" creationdate="20161111T023002Z">
         <seg>Et lorsque nous parlons d’une expérience, nous ne parlons pas d’un empirisme positiviste mais d’une expérience structurée entre internes et externes. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y de eso se trata una Economía Mixta; de un desarrollo equitativo y sustentable coordinado por la convergencia de las necesidades y aspiraciones individuales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T202709Z" creationid="william" creationdate="20161114T202709Z">
+        <seg>Et c'est ce à quoi tend une Économie mixte : un développement équitable et durable coordonné par la convergence des nécessités et des aspirations individuelles.</seg>
       </tuv>
     </tu>
     <tu>
