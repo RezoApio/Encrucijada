@@ -2108,6 +2108,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Entonces, la pregunta que más importa no es si el mundo alguna vez estará unificado, lo que debemos preguntarnos es qué signo tendrá y quien lo gobernará.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T213255Z" creationid="william" creationdate="20161114T213255Z">
+        <seg>Ainsi la question la plus importante n'est pas si le monde sera un jour unifié, ce que nous devrions nous demandé est quel signe il aura et qui le gouvernera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Entonces, quienes ya hoy sientan la necesidad de empezar a rebelarse ante la falta de sentido y ante la violencia social, debieran antes que nada mantener viva la llama interna de esa rebeldía, porque así otros la percibirán y encenderán la suya.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T180600Z" creationid="william" creationdate="20161105T180600Z">
@@ -6763,6 +6771,22 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T201643Z" creationid="william" creationdate="20161027T201643Z">
         <seg>S'agira-t-il d'un monde contrôlé et gouverné par les grande puissances ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Será un mundo gobernado por el poder financiero?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T213444Z" creationid="william" creationdate="20161114T213444Z">
+        <seg>S'agira-t-il d'un monde gouverné par le pouvoir financier ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Será un mundo gobernado por fuerzas militares?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T213403Z" creationid="william" creationdate="20161114T213403Z">
+        <seg>S'agira-t-il d'un monde gouverné par des forces militaires ?</seg>
       </tuv>
     </tu>
     <tu>
