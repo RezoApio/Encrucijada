@@ -4604,6 +4604,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Porque si bien en el capitalismo existe un motor de crecimiento permanente, como lo es la libre iniciativa de las personas para trabajar, producir, invertir y consumir, compatible a su vez con un sistema político que asegure las libertades.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T201010Z" creationid="william" creationdate="20161114T201010Z">
+        <seg>Car s'il est vrai que dans le capitalisme il existe un moteur de croissance permanente, tel que l'est la libre initiative des personnes pour travailler, produire, investir et consommer, il est aussi compatible avec un système politique qui assure les libertés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Porque una profunda transformación social requerirá el desmantelamiento de las estructuras de poder que oprimen.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T210027Z" creationid="william" creationdate="20161107T210027Z">
