@@ -4634,6 +4634,30 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Porque nunca serán suficientes las mejoras a las pequeñas empresas, en un sistema que tiende al monopolio y a la concentración del capital especulativo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T203333Z" creationid="william" creationdate="20161114T203333Z">
+        <seg>Parce que les améliorations aux petites entreprises ne seront jamais suffisantes dans un système qui tend au monopole et à la concentration du capital spéculatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Porque nunca serán suficientes los aumentos salariales en un sistema en el que cada vez es mayor la ganancia empresarial con respecto al salario.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T203103Z" creationid="william" creationdate="20161114T203103Z">
+        <seg>Parce que les augmentations salariales ne seront jamais suffisantes dans un système où les gains des entreprises sont toujours plus importants que le salaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Porque nunca serán suficientes los subsidios al desempleo en un sistema que cada vez excluye a más gente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T203226Z" creationid="william" creationdate="20161114T203226Z">
+        <seg>Parce les subsides au chômage ne seront jamais suffisants dans un système qui exclut de plus en pls de personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Porque posiblemente alguien que busque su unidad interna, de hacerlo con dedicación, llegaría a sintonizar con la Regla de Oro, aunque nunca la hubiese escuchado.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T024019Z" creationid="Podium" creationdate="20161111T024019Z">
