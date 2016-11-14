@@ -2622,6 +2622,22 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Hay que poner la energía en construir un barco nuevo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T203759Z" creationid="william" creationdate="20161114T203759Z">
+        <seg>Il faut mettre l'énergie à construire un nouveau bateau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Hay que trabajar por la participación de los trabajadores en las ganancias, la propiedad y la toma de decisiones en las empresas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T203857Z" creationid="william" creationdate="20161114T203857Z">
+        <seg>Il faut travailler pour la participation des travailleurs aux bénéfices, à la propriété et à la prise de décisions dans les entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>destino = destin ou destinée à voir</note>
       <tuv lang="ES-AR">
         <seg>Hay quienes pensarán que el desarrollo de ese proceso depende del azar, otros supondrán la preexistencia de un destino, y otros pensamos que la vida humana tiene un sentido que la impulsa evolutivamente, pero depende de la intencionalidad del ser humano la opción de construir una sociedad coherente o contradictoria con tal sentido.</seg>
@@ -3968,6 +3984,14 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021430Z" creationid="Podium" creationdate="20161111T021430Z">
         <seg>Nous nous opposons à toute discrimination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Nunca alcanzará con el reformismo que intenta achicar con una pequeña vasija las filtraciones de agua de un enorme barco averiado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161114T203739Z" creationid="william" creationdate="20161114T203739Z">
+        <seg>On n'y arrivera jamais avec le réformisme qui tente de réduire avec un petit flacon les filtrations d'eau d'un énorme bateau avarié.</seg>
       </tuv>
     </tu>
     <tu>
