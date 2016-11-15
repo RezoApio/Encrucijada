@@ -1916,6 +1916,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En las entrevistas publicadas por Jacobo Rivero, Pablo Iglesias afirma: &lt;t0/&gt;“Podemos es la ciudadanía haciendo política.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T182812Z" creationid="Ricardito120" creationdate="20161115T182812Z">
+        <seg>Dans les entretiens publiés par Jacobo Rivero, Pablo Iglesias affirme : &lt;t0/&gt;« Podemos se sont des citoyens faisant de la politique. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En los países de la Unión Europea, la participación del impuesto sobre la renta y los ingresos varía entre el 45 % y el 63 %, en tanto que en América Latina varía entre el 18 % y el 49 % como máximo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224218Z" creationid="Podium" creationdate="20161103T224218Z">
