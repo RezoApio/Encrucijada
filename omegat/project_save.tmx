@@ -4635,6 +4635,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero una constitución perfecta no admitiría nunca al artesano entre los ciudadanos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T184519Z" creationid="Ricardito120" creationdate="20161115T184519Z">
+        <seg> Mais la constitution parfaite n'admettra jamais l'artisan parmi les citoyens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero ya no podemos seguir buscando culpables; ha llegado pues, la hora de hacernos cargo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200521Z" creationid="william" creationdate="20161024T200521Z">
