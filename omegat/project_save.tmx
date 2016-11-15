@@ -4597,6 +4597,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero si el abuso es inevitable, ¿se sigue de aquí que no pueda al menos reglamentarse?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T194950Z" creationid="Ricardito120" creationdate="20161115T194950Z">
+        <seg>Mais si l'abus est inévitable, s'ensuit-il qu'il ne faille pas au moins le régler ? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero si no perjudicas a otros puedes hacer cuanto quieras con libertad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021745Z" creationid="Podium" creationdate="20161111T021745Z">
