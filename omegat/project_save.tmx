@@ -6858,6 +6858,16 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>«Esto es mucho más que la tradicional pérdida de interés en la política y los partidos políticos La gente ahora desprecia a sus representantes oficiales.” Luego continúa: “Una encuesta de SOFRES en 2003 mostró que el 90% de los franceses creen que no ejercen absolutamente ninguna influencia en la toma de decisiones políticas a nivel nacional; el 76% también cree esto sobre la política local (Lire la politique, 12 marzo 2003).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T214838Z" creationid="Ricardito120" creationdate="20161115T214838Z">
+        <seg>« Il y a bien plus qu’un simple manque d’intérêt traditionnel dans la politique et les partis politiques. Les gens désormais méprisent les représentants officiels. » »
+Ils continuent :
+« Un sondage de 2003 réalisé par la SOFRES en France montra que 90% des Français croient qu’ils n’exercent absolument aucune influence sur la prise de décision politique nationale ; 76% le croient aussi pour la politique locale. (Lire la Politique, 12 mars 2003). »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>¿Acaso la acumulación de riqueza, la fama o el poder?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T171353Z" creationid="william" creationdate="20161105T171353Z">
