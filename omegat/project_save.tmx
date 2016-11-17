@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4536,6 +4536,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021807Z" creationid="Podium" creationdate="20161111T021807Z">
         <seg>Peu importe dans quel camp t’ont placé les événements : ce qui importe, c’est que tu comprennes que tu n’as choisi aucun camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>No intentaremos abarcar aquí todos y cada uno de los temas que se podrían desarrollar a la hora de avanzar en la transformación profunda de un país, en sintonía con los ideales de la Nación Humana Universal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161117T171209Z" creationid="Françoise" creationdate="20161117T171209Z">
+        <seg>Il ne s’agit pas ici de couvrir tous les sujets que l’on pourrait développer quant à la transformation profonde d'un pays, en harmonie avec les idéaux de la Nation humaine universelle.</seg>
       </tuv>
     </tu>
     <tu>
