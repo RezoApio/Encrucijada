@@ -534,10 +534,26 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Articulo 35o...- Los ciudadanos de la Republica Popular China tienen liberta de palabra, de prensa, de reunión, de asociación, de desfiles y de manifestaciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161117T011742Z" creationid="Podium" creationdate="20161117T011742Z">
+        <seg>Article 35 : Les citoyens de la République populaire de Chine disposent de la liberté de parole, de presse, de réunion, d'association, de défilé et de manifestation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Articulo 3o...- El centralismo democrático se practica en los organismos del Estado de la Republica Popular China.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T011447Z" creationid="Podium" creationdate="20161117T011447Z">
         <seg>Article 3 : Les organes d’État de la République populaire de Chine mettent en pratique le principe de centralisme démocratique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Articulo 41o...- Los ciudadanos de la Republica Popular China tienen derecho a formular críticas a todo organismo del Estado y a sus funcionarios, y a plantearles sugerencias.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161117T011952Z" creationid="Podium" creationdate="20161117T011952Z">
+        <seg>Article 41 : Les citoyens de la République populaire de Chine ont le droit d’adresser des critiques et de faire des propositions à tout organisme ou tout travailleur de l’État.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6539,6 +6555,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T205612Z" creationid="william" creationdate="20161107T205612Z">
         <seg>Terminer avec les guerres, abolir les armes, en finir avec l'iniquité, avec l'oppression, avec l'injustice, avec la discrimination, la marginalisation et le désastre écologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Tienen derecho a presentar quejas, acusaciones o denuncias ante los organismos correspondientes del Estado contra cualquier entidad del Estado o sus funcionarios que hayan infringido la ley o faltado a sus deberes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012012Z" creationid="Podium" creationdate="20161117T012012Z">
+        <seg>Ils peuvent, à l’encontre de ces organismes ou travailleurs de l’État, présenter des requêtes, porter plainte ou procéder à des dénonciations auprès des services de l’État compétents pour enfreinte de la loi ou manquement à leur devoir,</seg>
       </tuv>
     </tu>
     <tu>
