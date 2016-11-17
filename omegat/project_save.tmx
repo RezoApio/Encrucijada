@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3871,6 +3871,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T120218Z" creationid="Ricardito120" creationdate="20161111T120218Z">
         <seg>Mais elle ne fait par là que se défendre ; ce n’est ni une immuable essence ni un coupable choix qui l’ont vouée à l’immanence, à l’infériorité. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Maurice Duverger, en su libro “Los Partidos Políticos”, realiza un exhaustivo análisis sobre el origen, estructura y características de los diferentes partidos políticos, como así también de las modalidades de elección de sus dirigentes, destacando la tendencia autocrática en los mismos, bajo la apariencia democrática.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161117T002422Z" creationid="Podium" creationdate="20161117T002422Z">
+        <seg>Dans « Les partis politiques », Maurice Duverger effectue une analyse exhaustive de l’origine, la structure et les caractéristiques des différents partis politiques, ainsi que des modalités d’élection de leurs dirigeants, en faisant ressortir la tendance autocratique de ces partis, sous une apparence de démocratie.</seg>
       </tuv>
     </tu>
     <tu>
