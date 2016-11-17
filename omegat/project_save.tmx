@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>(referencia de Charles Tilly en su libro “Los Movimientos Sociales”)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012349Z" creationid="Podium" creationdate="20161117T012349Z">
+        <seg>(source : Charles Tilly, « Les mouvements sociaux »).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>2) Foro Civil por el Desarme Nuclear Mundial.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T134928Z" creationid="Ricardito120" creationdate="20161111T134928Z">
@@ -5182,6 +5190,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141620Z" creationid="la belle idee" creationdate="20161030T141620Z">
         <seg>Pour les personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pese a las restricciones y a la censura, la cantidad de protestas ha ido en aumento, contabilizándose unas 10.000 en 1994, y unas 87.000 en el 2005, y la cifra sigue en aumento.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012337Z" creationid="Podium" creationdate="20161117T012337Z">
+        <seg>Malgré les restrictions et la censure, le nombre de protestations augmente. En effet, elles se sont élevées à environ 10 000 en 1994 et environ 87 000 en 2005; et le nombre ne cesse d’augmenter.</seg>
       </tuv>
     </tu>
     <tu>
