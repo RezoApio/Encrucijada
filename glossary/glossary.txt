@@ -4,3 +4,4 @@ concientizar	conscientiser	conscientiser = Faire que quelqu'un, un groupe prenne
 Estado	État	pour avoir la majuscule accentuée
 Derechos Humanos	Droits humains	Meilleur que Droit de l'homme vu la conception humaniste
 Nación Humana Universal	Nation humaine universelle	Une seule majuscule en français
+Economía Mixta Humanista	Économie mixte humaniste	1 seule majuscule + accent
