@@ -6401,8 +6401,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Se supone que los tres poderes de la democracia representan los intereses del pueblo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T165428Z" creationid="Françoise" creationdate="20161118T165428Z">
-        <seg>On suppose que les trois pouvoirs de la démocratie représentent les intérêts du peuple.</seg>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T165556Z" creationid="Françoise" creationdate="20161118T165428Z">
+        <seg>Les trois pouvoirs de la démocratie représentent soi-disant les intérêts du peuple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6708,6 +6708,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T212703Z" creationid="william" creationdate="20161114T212703Z">
         <seg>Cependant, cette force qui se manifeste déjà dans certains pays et qui le fera bientôt dans d'autres, a l'habitude de se heurter contre la muraille institutionnelle et commence à perdre force dans l'insupportable labyrinthe de la démocratie formelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sin embargo, gran paradoja, el pueblo los aborrece al poco tiempo de emitir el voto, y a veces los desprecia desde antes de votarlos pero siente que no tiene muchas opciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T165621Z" creationid="Françoise" creationdate="20161118T165621Z">
+        <seg>Cependant, grand paradoxe, la population les délaisse en période électorale et parfois les rejette avant de voter mais elle sent qu'elle n'a pas beaucoup d'options..</seg>
       </tuv>
     </tu>
     <tu>
