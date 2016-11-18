@@ -3600,6 +3600,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Hay quienes consideran que las proporciones adecuadas entre democracia representativa y democracia directa, se dan en un sistema parlamentario complementado con la iniciativa ciudadana y el referéndum obligatorio&lt;t0/&gt;; y desde luego que nos parece un buen punto de partida para desde ahí continuar avanzando.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223121Z" creationid="Françoise" creationdate="20161118T223121Z">
+        <seg>Il y a ceux qui considèrent que les proportions adaptées entre la démocratie représentative et la démocratie directe se réalisent dans un régime parlementaire complété avec l'initiative citoyenne et le référendum obligatoire. Bien sûr cela nous semble un bon point de départ pour continuer d'avancer à partir de là.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>destino = destin ou destinée à voir</note>
       <tuv lang="ES-AR">
         <seg>Hay quienes pensarán que el desarrollo de ese proceso depende del azar, otros supondrán la preexistencia de un destino, y otros pensamos que la vida humana tiene un sentido que la impulsa evolutivamente, pero depende de la intencionalidad del ser humano la opción de construir una sociedad coherente o contradictoria con tal sentido.</seg>
@@ -5833,6 +5841,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero este enfoque, basado fundamentalmente en la experiencia europea, exige un análisis más extenso, para asimilarse a la situación de otros puntos del planeta, y además requiere una revisión sobre el funcionamiento actual de este sistema allí donde se ha implementado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223148Z" creationid="Françoise" creationdate="20161118T223148Z">
+        <seg>Mais cet objectif, basé fondamentalement sur l'expérience européenne, exige une analyse plus étendue, pour s'imprégner de la situation d'autres points de la planète. De plus il requiert une révision du fonctionnement actuel de ce système, là où il a été mis en application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero esto es un error, por muy captado que esté-y lo está- porque eso implica asumir que las cosas sean fuentes de poder sobre personas.”</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223359Z" creationid="Podium" creationdate="20161103T223359Z">
@@ -5990,6 +6006,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T142411Z" creationid="Ricardito120" creationdate="20161111T142411Z">
         <seg>Mais aussi, il  alimente des conflits en Afrique et en Asie, non seulement par la vente d’armes, mais aussi avec l’engagement d’armées de mercenaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero también es cierto que si la &lt;t0/&gt;organización político-social descansa sobre instrumentos que no se utilizan, o se utilizan mal, eso puede derivar hacia las manipulaciones, o hacia un desorden que favorezca el regreso al autoritarismo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223023Z" creationid="Françoise" creationdate="20161118T223023Z">
+        <seg>Mais il est également certain que si l'organisation politico-sociale repose sur les instruments qui ne sont pas utilisés ou qui sont mal utilisés, cela peut dériver vers des manipulations ou vers un désordre qui favorise le retour à l'autoritarisme.</seg>
       </tuv>
     </tu>
     <tu>
