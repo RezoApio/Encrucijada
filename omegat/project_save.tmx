@@ -936,6 +936,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Con dinero se compran medios de prensa, legisladores, jueces, ministros y presidentes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T164845Z" creationid="Françoise" creationdate="20161118T164845Z">
+        <seg>Avec de l'argent on achète les médias, les législateurs, les juges, les ministres et les présidents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Con independencia del tiempo que puedan llevar otros objetivos, comenzar en el corto plazo con la apertura a la participación social a través de mecanismos de Democracia Real.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160339Z" creationid="la belle idee" creationdate="20161030T160339Z">
@@ -2549,6 +2557,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023553Z" creationid="Podium" creationdate="20161111T023553Z">
         <seg>Cette idée de “se mettre à la place de l’autre” n’est pas possible littéralement : je ne peux en effet, “registrer” ce que l’autre “registre”. Je peux toutefois le capter à travers des indicateurs parfois évidents, (ou parfois plus subtils), dans la mesure où je suis attentif à l’autre et non pas lorsque je suis absorbé par mes compulsions, même si je dois également faire attention à mon intérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Es común escuchar hablar en los medios de prensa acerca de los problemas que existen cuando no se respeta la división de poderes, cuando el Poder Ejecutivo invade o presiona al Poder Judicial, o cuando el Poder Judicial adopta bandos partidarios, o cuando los legisladores se alinean ciegamente con el Poder Ejecutivo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T164758Z" creationid="Françoise" creationdate="20161118T164758Z">
+        <seg>Il est courant d'entendre parler dans les medias des problèmes qui existent quand la séparation des pouvoirs n'est pas respectée, quand le Pouvoir Exécutif envahit ou met la pression sur le Pouvoir Judiciaire ou quand le Pouvoir Judiciaire approuve des coalitions partisanes ou quand les législateurs s'alignent aveuglément avec le Pouvoir exécutif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6620,6 +6636,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T115818Z" creationid="Ricardito120" creationdate="20161111T115818Z">
         <seg>Dans son livre “Le Deuxième Sexe”, Simone de Beauvoir aborde le thème de la lutte féministe depuis la philosophie  existentialiste, questionnant en profondeur les tabous culturels et sociaux qui vont bien au-delà que la simple égalité de droits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sin embargo, a nadie escapa el hecho de que hoy en día, los tres poderes, ejecutivo, legislativo y judicial, y hasta el denominado cuarto poder de la prensa, todos ellos responden a un único poder absoluto: el poder económico.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T164822Z" creationid="Françoise" creationdate="20161118T164822Z">
+        <seg>Cependant, il n'échappe à personne qu'à l'heure actuelle, les trois pouvoirs, exécutif, législatif et judiciaire et jusqu'au soi-disant quatrième pouvoir de la presse, tous répondent à un pouvoir unique absolu : le pouvoir économique.</seg>
       </tuv>
     </tu>
     <tu>
