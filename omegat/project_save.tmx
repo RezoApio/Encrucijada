@@ -2423,6 +2423,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En el caso de China, solamente la Asamblea Popular Nacional, máxima instancia de poder, cuenta con unos 3.000 diputados, elegidos en forma indirecta por decenas de miles de representantes de asambleas provinciales, municipales y cantonales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T230022Z" creationid="Françoise" creationdate="20161118T230022Z">
+        <seg>Dans le cas de la Chine, seulement l'Assemblée Populaire Nationale, l'instance maximale du pouvoir, dispose d'environ 3.000 députés, élus de façon indirecte par des dizaines de milliers de représentants des assemblées provinciales, municipales et cantonales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En el caso de no avanzar las propuestas en el seno de la ONU, conformar un bloque de “Países por la Nación Humana Universal”, que denuncien las manipulaciones de las potencias, desconociendo su autoridad moral para proponer iniciativas; y que emprendan acciones conjuntas acordadas por dicho bloque, en la dirección de los objetivos mencionados.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T134630Z" creationid="la belle idee" creationdate="20161105T134630Z">
@@ -2637,6 +2645,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145109Z" creationid="la belle idee" creationdate="20161105T145109Z">
         <seg>En plusieurs occasions les chemins qui se croisent,  génèrent des contradictions au lieu d'une convergence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En ocasiones el intervencionismo imperialista ha utilizado las armas para entrometerse en los asuntos de algunos países; pero en otras ocasiones también ha orquestado rebeliones pacíficas financiando campañas contra gobiernos que no le eran afines.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225932Z" creationid="Françoise" creationdate="20161118T225932Z">
+        <seg>Parfois l'interventionnisme impérialiste a utilisé les armes pour se mêler des affaires de certains pays ; mais à d'autres occasions il a aussi orchestré des rébellions pacifiques en finançant des campagnes contre des gouvernements qui ne lui étaient pas proches.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3628,6 +3644,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222918Z" creationid="Françoise" creationdate="20161118T222918Z">
         <seg>Parler des conditions propices ou non pour l'implémentation d'instruments démocratiques déterminés est un sujet extrêmement délicat, puisque l'argument de ceux qui refusent une plus grande démocratisation est précisément d'affirmer que la population n'est pas préparée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Habría que distinguir también entre aquellos gobiernos totalitarios en los que el poder es concentrado por un pequeño grupo, a veces sólo una familia, y aquellos casos en los que existe un aparato burocrático en el que participan miles de personas en diversos estamentos, ya que en este último caso hay mayores posibilidades de influir para que haya una transformación y una apertura desde adentro del sistema, como terminó ocurriendo con la URSS cuando la crisis del comunismo dio lugar a la Perestroika.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T230004Z" creationid="Françoise" creationdate="20161118T230004Z">
+        <seg>Il faut aussi distinguer entre ces gouvernements totalitaires dans lesquels le pouvoir est concentré par un petit groupe, parfois seulement une famille, et ces cas dans lesquels existe un appareil bureaucratique dans lequel participent des milliers de personnes de diverses classes, parce que dans ce dernier cas il y a de plus grandes possibilités d'influencer pour qu'il y ait une transformation et une ouverture depuis l’intérieur du système, comme il a fini par arriver avec l'URSS quand la crise du communisme a donné lieu à la Perestroïka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4639,6 +4663,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161108T202822Z" creationid="william" creationdate="20161108T202822Z">
         <seg>Les guerres doivent cesser de faire partie des options de la politique internationale et les énormes ressources qui sont destinées aujourd'hui à l'armement doivent commencer à être utilisées pour éliminer la pauvreté dans le monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Las herramientas de la lucha no violenta son simples herramientas, moralmente más válidas que la violencia, pero su uso no necesariamente garantiza que el objetivo perseguido sea el correcto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225913Z" creationid="Françoise" creationdate="20161118T225913Z">
+        <seg>Les outils de la lutte non-violente sont de simples outils, moralement plus valables que la violence mais leur usage ne garantit pas nécessairement que l'objectif poursuivi soit le plus adéquat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,6 +6085,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T231254Z" creationid="Podium" creationdate="20161103T231254Z">
         <seg>Il est vrai que ce “présent” dans lequel la loi commence à entrer en vigueur a des racines dans le passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero es fundamental que sea genuina la aspiración de un pueblo hacia la libertad para que el camino emprendido conduzca hacia la democracia real y no hacia otra dictadura o una democracia formal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225857Z" creationid="Françoise" creationdate="20161118T225857Z">
+        <seg>Mais il est fondamental que l'aspiration du peuple vers la liberté soit authentique pour que le chemin engagé conduise vers la démocratie réelle et non pas vers une autre dictature ou vers une démocratie formelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7592,6 +7632,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si bien es cierto que la burocratización y la hegemonía del Partido Comunista Chino producen una concentración del poder que contradice a la aparente plena democracia que consagra la Constitución&lt;t0/&gt;, los canales democráticos existen legalmente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T230037Z" creationid="Françoise" creationdate="20161118T230037Z">
+        <seg>Bien qu'il soit certain que la bureaucratisation et l'hégémonie du Parti Communiste Chinois produisent une concentration du pouvoir qui contredit l'apparente pleine démocratie que reconnait la Constitution, les canaux démocratiques existent légalement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Si bien hoy en la mayor parte de las sociedades se han superado esas concepciones naturalistas acerca de quiénes son capaces y quiénes no para opinar y participar en las decisiones, será necesario capacitar a la ciudadanía para que cuente con los elementos de juicio indispensables para poder evaluar y votar sobre determinados temas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T152047Z" creationid="Françoise" creationdate="20161118T152047Z">
@@ -8997,6 +9045,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T224324Z" creationid="Françoise" creationdate="20161118T224324Z">
         <seg>Bien qu'il soit certain que la qualité institutionnelle ne correspond pas avec l'idéal d'un gouvernement dans lequel le pouvoir serait exercé par un grand nombre de personnes, il est beaucoup plus certain encore que la démocratie représentative formelle a également déçu les citoyens, pour les raisons expliquées antérieurement, et alors leurs institutions ont l'habitude de mettre de nombreux obstacles aux processus transformateurs..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y si bien es cierto que muchos de los derechos y libertades individuales proclamados en el capítulo II de esa misma Constitución, son restringidos bajo el pretexto de asegurar la protección del sistema socialista de quienes intenten socavarlo, (así lo expresa desde su preámbulo), tales derechos tienen rango constitucional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T230124Z" creationid="Françoise" creationdate="20161118T230124Z">
+        <seg>Bien qu'il soit certain que beaucoup des droits et des libertés individuelles proclamés dans le chapitre II de cette même Constitution, sont restreints sous le prétexte d'assurer la protection du système socialiste envers ceux qui essaient de le détruire, (ainsi est exprimé dans le préambule), de tels droits sont constitutionnel.</seg>
       </tuv>
     </tu>
     <tu>
