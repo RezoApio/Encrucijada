@@ -3739,6 +3739,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La crisis de representatividad</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T175210Z" creationid="Françoise" creationdate="20161118T175210Z">
+        <seg>La crise de la représentativité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La crueldad, la maldad y la indiferencia, son alternativas que podrían aparecer como opciones moralmente válidas, en tanto se anulara al otro, en un falso camino para autoafirmar la propia libertad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022805Z" creationid="Podium" creationdate="20161111T022805Z">
@@ -5157,6 +5165,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T195147Z" creationid="william" creationdate="20161102T195147Z">
         <seg>Il y a ceux qui éteignent la passion avec la raison et ceux qui embrouillent la raison avec la passion et tous finissent tous par rester immobilisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pareciera ser entonces que, así como la democracia se supone que sirve para que los funcionarios representen a la gente y termina siendo al contrario, (por lo cual decimos que se trata de una democracia formal); así también podemos decir que los mecanismos partidarios a través de los cuales se supone que todo ciudadano tiene las mismas oportunidades para postularse, también son formales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T175137Z" creationid="Françoise" creationdate="20161118T175137Z">
+        <seg>Il semble alors que, comme la démocratie suppose qu'elle est utile à ce que les élus représentent les gens et que cela finit par être le contraire (en cela, nous disons qu'il s'agit d'une démocratie formelle) ; ainsi nous pouvons également dire que les mécanismes des partis à travers lesquels on présume que tout citoyen a les mêmes opportunités pour se porter candidat, sont également formels.</seg>
       </tuv>
     </tu>
     <tu>
