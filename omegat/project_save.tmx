@@ -1160,6 +1160,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cualquier entrevista mediática realizada a alguien que apoya un determinado punto de vista, debiera considerarse como parte del espacio de debate, por lo que otros tendrán derecho al mismo espacio en el mismo medio que difundiera tal entrevista, de modo de evitar el monopolio de los formadores de opinión financiados por quienes pueden comprar el espacio en los medios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222147Z" creationid="Françoise" creationdate="20161118T222147Z">
+        <seg>Toute interview médiatique réalisée avec quelqu'un qui appuie un point de vue déterminé, devrait être considérée comme une part de l'espace du débat et les autres auront par conséquent droit au même espace dans le même média qui a diffusé un tel entretien, de façon à éviter le monopole des formateurs d'opinion financés par ceux qui peuvent acheter de l'espace médiatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Cualquier variación en la estrategia debiera consensuarse entre la mayoría de los miembros de la organización.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180959Z" creationid="Françoise" creationdate="20161118T180959Z">
@@ -2167,6 +2175,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T024014Z" creationid="Podium" creationdate="20161111T024002Z">
         <seg>Le thème est : comment peut-on mettre en marche cette intention à travers une proposition morale ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El tipo de temas a ser consultados debieran por una parte pautarse previamente como de consulta obligatoria, por su relevancia para el interés general.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222204Z" creationid="Françoise" creationdate="20161118T222204Z">
+        <seg>• Le type de sujets faisant l'objet d'une consultation devrait d'une part être fixé préalablement avec un caractère de consultation obligatoire, selon son importance pour l'intérêt général.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,6 +4403,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Las decisiones sobre grandes inversiones, endeudamiento del estado, y afectación de partidas significativas, deben ser objeto de consultas populares.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222325Z" creationid="Françoise" creationdate="20161118T222325Z">
+        <seg>Les décisions sur les gros investissements, sur l'endettement de l'état et sur les affectations significatives de postes doivent faire l'objet de consultations populaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Las elecciones de los diputados a la Asamblea Popular Nacional son presididas por su Comité Permanente.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012245Z" creationid="Podium" creationdate="20161117T012245Z">
@@ -5641,6 +5665,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero además podrían darse situaciones no previstas que ameriten una consulta, a partir de iniciativas populares con suficiente apoyo ciudadano.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222220Z" creationid="Françoise" creationdate="20161118T222220Z">
+        <seg>De plus il pourrait arriver des situations non prévues, à partir d'initiatives populaires avec un appui citoyen suffisant, qui méritent une consultation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero ante esa posibilidad, el desafío consiste en que se puedan constituir otro tipo de orgánicas más dinámicas que permitan canalizar fluidamente la voluntad de las mayorías.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180018Z" creationid="Françoise" creationdate="20161118T180018Z">
@@ -6232,6 +6264,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T015824Z" creationid="Podium" creationdate="20161111T015824Z">
         <seg>Par conséquent, si un acte d’épargne n’est aucunement favorable au rendement escompté d’un capital, il ne contribue en rien à stimuler l’investissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por una parte deben ser mayores las partidas presupuestarias sujetas a las decisiones populares, pero también deben existir consultas acerca de decisiones económicas de gran relevancia, tanto en los niveles regionales como nacionales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222305Z" creationid="Françoise" creationdate="20161118T222305Z">
+        <seg>D'une part les postes budgétaires soumis aux décisions populaires doivent être plus grands, mais des consultations doivent aussi exister en ce qui concerne les décisions économiques de grande importance, tant au niveau régional que national.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6891,6 +6931,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140302Z" creationid="la belle idee" creationdate="20161105T140302Z">
         <seg>On doit désamorcer les préjugés, la crainte de la concurrence pour l’emploi et l'usage des services publics ou de l'insécurité..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se deben implementar los presupuestos participativos, pero en una escala mayor a la que hoy se conoce en algunos experimentos municipales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222251Z" creationid="Françoise" creationdate="20161118T222251Z">
+        <seg>• Les budgets participatifs doivent être mis en œuvre mais à une plus grande échelle que celle que l'on connaît aujourd'hui dans nos quelques expériences municipales.</seg>
       </tuv>
     </tu>
     <tu>
