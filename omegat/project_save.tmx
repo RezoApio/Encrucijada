@@ -2003,6 +2003,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En Bolivia, Colombia, Ecuador, Paraguay y Venezuela, los presidentes pueden convocar a consultas populares con efectos vinculantes (en la Argentina, la consulta no es vinculante).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161118T010126Z" creationid="Podium" creationdate="20161118T010126Z">
+        <seg>En Bolivie, en Colombie, en Équateur, au Paraguay et au Venezuela, les présidents peuvent convoquer des consultations populaires ayant des effets contraignants (en Argentine, la consultation n’est pas contraignante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En algunos casos se roza una ridícula ingenuidad, como en el artículo 6, cuando de establece que no se puede autorizar la venta de armas cuando se tiene conocimiento de que con ellas se va a cometer genocidio.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T143350Z" creationid="Ricardito120" creationdate="20161111T143350Z">
