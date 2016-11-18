@@ -2003,6 +2003,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El punto es que los partidos políticos en la actualidad, aunque en su origen y en su estructura pudieran responder a los modelos descriptos por especialistas en la materia como Duverger&lt;t0/&gt;, quien ya describía la dificultad para que las bases logren un poder de decisión real, frente a las tendencias autocráticas, y los círculos internos de los partidos; a todo eso hay que sumarle la creciente asociación entre líderes políticos, poder económico y medios de comunicación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T174830Z" creationid="Françoise" creationdate="20161118T174830Z">
+        <seg>Le point est que les partis politiques actuels, aussi bien que dans leur origine et dans leur structure, puissent répondre aux modèles décrits par des spécialistes en la matière comme Duverger, qui a décrit la difficulté pour que la base obtienne un réel pouvoir de décision face aux tendances autocratiques et aux circuits internes des partis ; à tout cela il faut ajouter l’entente croissante entre les leaders politiques, le pouvoir économique et les médias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El punto es saber si terminará de derrumbarse sobre nuestras cabezas distraídas, o si haremos algo para acelerar su desmantelamiento y reemplazo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T222634Z" creationid="william" creationdate="20161105T222634Z">
@@ -7524,6 +7532,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T180233Z" creationid="william" creationdate="20161105T180233Z">
         <seg>Et c'est de cela qu'il s'agit : une mystique sociale, un courant qui prend ses forces dans le profond de ceux qui commence à le mettre en marche mais qui entre en syntonie avec les aspirations profondes de tous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y desde ya que luego mucha gente puede decidir votar en blanco, o no votar, pero con eso sólo consigue disminuir el universo de votos válidos, ya que de todos modos los mismos de siempre se terminan repartiendo los cargos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T174352Z" creationid="Françoise" creationdate="20161118T174352Z">
+        <seg>Beaucoup de gens peuvent maintenant décider de voter blanc ou de ne pas voter mais avec cela on parvient seulement à diminuer le nombre de votes valides et de toute façon les mêmes finissent par se distribuer les postes.</seg>
       </tuv>
     </tu>
     <tu>
