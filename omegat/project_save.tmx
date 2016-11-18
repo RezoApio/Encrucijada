@@ -2925,6 +2925,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Estas conclusiones son sumamente elementales, pero ocurre que a veces, si no están claros los objetivos en cada momento, se pierde el rumbo y con ello la posibilidad de evaluar la eficacia de la organización.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180547Z" creationid="Françoise" creationdate="20161118T180547Z">
+        <seg>Ces conclusions sont extrêmement élémentaires mais il arrive parfois que si les objectifs ne sont pas toujours clairs, on perd la direction et avec elle, la possibilité d'évaluer l'efficacité de l'organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Este libro está dedicado a “Nosotros”.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T163008Z" creationid="william" creationdate="20160924T163531Z">
@@ -4860,6 +4868,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>No hay que perder de vista que es muy común que se mezclen los objetivos explícitos de la organización, con los objetivos implícitos de las personas que las componen, y muchas veces los intereses personales y los protagonismos terminan por tergiversar los objetivos del conjunto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180609Z" creationid="Françoise" creationdate="20161118T180609Z">
+        <seg>Il ne faut pas perdre de vue que c'est très courant que les objectifs explicites de l'organisation se mélangent avec les objectifs implicites des personnes qui la composent et souvent les intérêts personnels et les protagonistes finissent par déformer les objectifs de l'ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>No importa en qué bando te hayan puesto los acontecimientos, lo que importa es que comprendas que tú no has elegido ningún bando.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021807Z" creationid="Podium" creationdate="20161111T021807Z">
@@ -5768,6 +5784,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023930Z" creationid="Podium" creationdate="20161111T023930Z">
         <seg>Pour cette raison, il est important que le véritable moteur de tout cela soit la recherche de cette cohérence interne, de cette unité qui se construit dans la relation dynamique avec le monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por eso es muy importante que el conjunto tenga herramientas organizativas para corregir esas distorsiones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180632Z" creationid="Françoise" creationdate="20161118T180632Z">
+        <seg>C'est pourquoi il est très important que l'ensemble ait des outils d'aide à l'organisation pour corriger ces distorsions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6904,6 +6928,22 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si una forma organizativa es propensa a la dispersión de las voluntades individuales o grupales, impidiendo ello avanzar en conjunto hacia el objetivo, entonces esa forma organizativa tampoco sirve.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180531Z" creationid="Françoise" creationdate="20161118T180531Z">
+        <seg>Si une forme d'organisation est encline à la dispersion des volontés individuelles ou de groupe, en les empêchant d'avancer en ensemble vers l'objectif, alors cette forme d'organisation n'est pas utile non plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si una forma organizativa es propensa de ser manipulada por cúpulas que se desvían del objetivo, o se cristalizan sin avanzar, entonces esa forma organizativa no sirve.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180516Z" creationid="Françoise" creationdate="20161118T180516Z">
+        <seg>Si une forme d'organisation est encline à être manipulé par les dirigeants qui dévient l'objectif ou si elle cristallise sans avancer, alors cette forme d'organisation n'est pas utile..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Simone de Beauvoir, en su libro “El Segundo Sexo”, aborda la temática de la lucha feminista desde su filosofía existencialista, cuestionando en profundidad los tabúes culturales y sociales que persisten aún más allá de la igualdad de derechos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T115818Z" creationid="Ricardito120" creationdate="20161111T115818Z">
@@ -7251,6 +7291,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T211241Z" creationid="william" creationdate="20161105T211241Z">
         <seg>Il y a aussi ceux qui rejettent l'idée même de pouvoir parce qu'ils considèrent qu'il corrompt et d'autres parce que son simple exercice suppose la subordination d'êtres humains à d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>También hay que clarificar los objetivos de corto, mediano y largo plazo, y distinguir aquellos que dependen sólo de la acción de la organización, de los que dependen de una articulación mayor con otras organizaciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180655Z" creationid="Françoise" creationdate="20161118T180655Z">
+        <seg>Il faut aussi clarifier les objectifs à court, moyen et long terme et distinguer ceux qui dépendent seulement de l'action de l'organisation, de ceux qui dépendent d'une plus grande collaboration avec d'autres organisations.</seg>
       </tuv>
     </tu>
     <tu>
