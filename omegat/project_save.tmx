@@ -1713,6 +1713,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde nuestro punto de vista, para evaluar los pasos a seguir en cada caso, debiéramos atender en cada país a los siguientes indicadores:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225330Z" creationid="Françoise" creationdate="20161118T225330Z">
+        <seg>De notre point de vue, pour évaluer les pas à suivre dans chaque cas, nous devions dans chaque pays prêter attention aux indicateurs suivants :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desde octubre del año 2009 hasta enero del 2010, diversas organizaciones humanistas realizaron una Marcha Mundial que atravesó todo el planeta, difundiendo en diversos foros y actos públicos la necesidad del desarme y de terminar con la violencia.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T143131Z" creationid="Ricardito120" creationdate="20161111T143131Z">
@@ -4771,6 +4779,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Lo que queremos significar es que no son para nada confiables ni objetivos los criterios de estas clasificaciones sobre el estado de la democracia en el mundo, que lamentablemente son las que más se difunden entre la opinión pública, y que las situaciones reales son mucho más variadas y relativas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225317Z" creationid="Françoise" creationdate="20161118T225317Z">
+        <seg>Ce que nous voulons montrer, c'est que les critères de ces classements sur l'état de la démocratie dans le monde ne sont en rien fiables et objectifs et que ce sont malheureusement ceux qui sont le plus diffusés dans l'opinion publique et que les situations réelles sont beaucoup plus variées et relatives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Lo resumió de esta forma: «una larga mayoría de los votantes tiene la impresión de que su opinión y su voz no se filtra a través de los políticos en las políticas implementadas.”…&lt;t0/&gt; “&lt;t1/&gt;En el año 2002, Gallup organizo una encuesta gigantesca sobre el grado de confianza de los cuestionados sobre 17 instituciones sociales, desde el ejército y los sindicatos al parlamento y las multinacionales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T215117Z" creationid="Ricardito120" creationdate="20161115T215117Z">
@@ -5735,6 +5751,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Para estas organizaciones, mientras el poder económico controle al poder político, y los grandes medios de comunicación controlen a la opinión pública, la libertad será plena, y si algún gobierno pretende cuestionar estos poderes, se lo tildará de antidemocrático, aunque esté validado por las urnas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225157Z" creationid="Françoise" creationdate="20161118T225157Z">
+        <seg>Pour ces organisations, alors que le pouvoir économique contrôle le pouvoir politique et que les grands médias contrôlent l'opinion publique, la liberté sera considérée comme totale et si un gouvernement cherche à remettre en question ces pouvoirs, on qualifiera cela d'antidémocratique, bien qu'il soit validé par les urnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Para evaluar sus efectos debe entonces considerarse: el diseño legal de los mecanismos, las características de los actores que lo ejercen y el contexto social y político.”</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161118T005244Z" creationid="Podium" creationdate="20161118T005244Z">
@@ -6464,6 +6488,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T113611Z" creationid="Ricardito120" creationdate="20161111T113545Z">
         <seg>Dans les années 50, à la discrimination raciale a été ajoutée la discrimination politique avec l'interdiction du Parti Communiste. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por otra parte, Freedom House clasifica a la India casi como la única democracia plena del Asia, mientras que &lt;t1/&gt;Rusia y China están en la categoría de países no libres; sin embargo la sociedad en la India no es de las más democráticas, ya que culturalmente sigue vigente el sistema de castas; y en lo que a procedimientos democráticos respecta, si bien hay elecciones cada 5 años en las que se asegura la participación de todos los ciudadanos, es muy común el aprovechamiento de la pobreza para la compra de votos, y además un altísimo porcentaje de los candidatos a votar son familiares de los que ya están en el poder, conformando verdaderas dinastías de la política.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225243Z" creationid="Françoise" creationdate="20161118T225243Z">
+        <seg>D'autre part, Freedom House classe l'Inde presque comme l'unique démocratie totale d'Asie, tandis que la Russie et la Chine sont dans la catégorie des pays non libres ; cependant la société en Inde n'est pas des plus démocratiques puisque le système des castes continue d'être culturellement en vigueur ; et par rapport aux procédés démocratiques, bien qu'il y ait des élections toutes les 5 ans dans lesquelles on s'assure de la participation de tous les citoyens, l'exploitation de la pauvreté est très commune pour acheter des votes, de plus un très haut pourcentage des candidats sont proches de ceux qui sont déjà au pouvoir, façonnant de véritables dynasties de la politique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,10 +7576,34 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si es posible o no para los ciudadanos elegir a sus gobernantes por el voto popular.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225349Z" creationid="Françoise" creationdate="20161118T225349Z">
+        <seg>• S'il est possible ou non pour les citoyens de choisir leurs dirigeants par le vote populaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Si ese es el estado de la discusión, ¿se puede seguir hablando de un Derecho universalmente aplicable a la familia?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230613Z" creationid="Podium" creationdate="20161103T230613Z">
         <seg>Si tel est l’état de la discussion, peut-on encore parler d’un droit universellement applicable à la famille ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si existen mecanismos expeditivos para canalizar las iniciativas populares.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225423Z" creationid="Françoise" creationdate="20161118T225423Z">
+        <seg>• Si existent des mécanismes rapides pour canaliser les initiatives populaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si existen mecanismos expeditivos para que cualquier ciudadano pueda postularse a un cargo público.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225403Z" creationid="Françoise" creationdate="20161118T225403Z">
+        <seg>• Si existent des mécanismes rapides pour que tout citoyen puisse postuler à une charge publique.</seg>
       </tuv>
     </tu>
     <tu>
