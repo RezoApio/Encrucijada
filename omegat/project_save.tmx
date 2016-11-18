@@ -5033,6 +5033,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero en el mundo del futuro, no será suficiente con que salud y educación sean derechos básicos, sino que podremos aspirar a una permanente prolongación en años de la esperanza de vida, y al conocimiento sin límite para todos los habitantes del planeta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T140822Z" creationid="Françoise" creationdate="20161118T140822Z">
+        <seg>Mais dans le monde futur, ce ne sera pas suffisant car la santé et l’éducation sont des droits basiques et nous pourrons aspirer à une prolongation permanente de l'espérance de vie de plusieurs années et à la connaissance sans limite pour tous les habitants de la planète.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero en todo momento la prioridad debe ser, además de los objetivos específicos, el compromiso de instituir instrumentos de democracia real en las políticas públicas, como los que se mencionan a continuación.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142905Z" creationid="la belle idee" creationdate="20161105T142905Z">
@@ -7397,6 +7405,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T211030Z" creationid="william" creationdate="20161114T211030Z">
         <seg>Et tout ceci est la responsabilité de la voracité du Capital et de la complicité des gouvernements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y todo esto implica, además de las básicas coberturas estatales, un cambio cultural para que del paradigma del consumismo se pase al paradigma de la máxima salud y la máxima educación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T140905Z" creationid="Françoise" creationdate="20161118T140905Z">
+        <seg>Tout cela implique, en plus des couvertures étatiques basiques, un changement culturel pour que l’on passe du paradigme de la surconsommation au paradigme de la santé et de l'éducation de plus haut niveau.</seg>
       </tuv>
     </tu>
     <tu>
