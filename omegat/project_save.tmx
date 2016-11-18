@@ -1585,6 +1585,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde ya que mucha gente honesta que ha intentado incursionar en las marañas del poder de los partidos tradicionales, ha desistido del intento con impotencia y desencanto, y eso es totalmente comprensible.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T174142Z" creationid="Françoise" creationdate="20161118T174142Z">
+        <seg>Beaucoup de gens honnêtes qui ont essayé de réaliser une incursion dans les enchevêtrements du pouvoir des partis traditionnels ont maintenant renoncé à la tentative avec impuissance et désenchantement et c'est totalement compréhensible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desde ya que muchos ponen en duda la viabilidad de un sistema donde la población aumente su injerencia en las decisiones públicas, argumentando falta de conocimiento y capacidad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T150935Z" creationid="Françoise" creationdate="20161118T150935Z">
@@ -5446,6 +5454,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161108T202527Z" creationid="william" creationdate="20161108T202527Z">
         <seg>Mais c'est aussi une obligation pour tous les dirigeants du monde de faire pression au niveau international pour installer le thème du désarmement nucléaire comme priorité numéro une.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero también es verdad que cuanto menos participa la gente, más fácil es para los corruptos tener pista libre para convertirse en opción.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T174231Z" creationid="Françoise" creationdate="20161118T174231Z">
+        <seg>Mais il est vrai aussi que moins les gens participent, plus il est facile pour ceux qui sont corrompus d'avoir la voie libre pour se positionner en tant que solution.</seg>
       </tuv>
     </tu>
     <tu>
