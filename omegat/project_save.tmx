@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Algunas herramientas organizativas</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181851Z" creationid="Françoise" creationdate="20161118T181851Z">
+        <seg>Quelques outils d'aide à l’organisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Algunas legislaciones ya lo admiten.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230529Z" creationid="Podium" creationdate="20161103T230529Z">
@@ -1915,6 +1923,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El equipo toma elementos que vayan surgiendo de esas deliberaciones para incorporar en su gestión; de allí podrán surgir ideas de campañas, actividades y posicionamientos para proponer al conjunto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181700Z" creationid="Françoise" creationdate="20161118T181700Z">
+        <seg>L'équipe prend des éléments qui surgissent de ces délibérations pour les incorporer à sa gestion ; de là pourront surgir des idées de campagnes, d'activités et de positionnements à proposer à l'ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El escalamiento es el trabajoso pero reconfortante camino que emprenden aquellos que, animados por la mística de su espíritu, reconcilian la fuerza de su corazón con la reflexión de su mente, para avanzar coherentemente hacia su meta sin claudicar.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T202814Z" creationid="william" creationdate="20161107T202814Z">
@@ -3013,6 +3029,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Este sería un embrión de la democracia real en las organizaciones, que luego habría que intentar escalonar hacia la práctica política.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181727Z" creationid="Françoise" creationdate="20161118T181727Z">
+        <seg>Ce serait un embryon de démocratie réelle dans les organisations qu'il faudrait ensuite essayer d'amener vers la pratique politique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Este sistema era bueno para aquellos tiempos, porque la mayoría de la gente era capaz de encontrar sus opiniones e ideales políticos reflejados en un pequeño número de claras creencias humanas y sociales, que estaban encarnadas y representadas por grupos democristianos, socialistas o liberales, por ejemplo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T002619Z" creationid="Podium" creationdate="20161117T002619Z">
@@ -3284,6 +3308,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T150623Z" creationid="Françoise" creationdate="20161118T150623Z">
         <seg>Jusqu'à maintenant, c’est en Espagne où on est le plus avancé, puisque la force du Mouvement 15-M a réussi à être canalisée vers une participation citoyenne significative et l'expression politique de la force politique de Podemos a mis en échec la caste des partis politiques traditionnels en incorporant certaines des revendications issues de la participation citoyenne au sein de leur propre organisation politique, en utilisant les outils d'Internet pour leurs votes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Hasta ahí tenemos una democracia representativa, pero con un mecanismo ágil de revocatoria.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181620Z" creationid="Françoise" creationdate="20161118T181620Z">
+        <seg>Même là nous avons une démocratie représentative mais avec un mécanisme révocatoire souple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5409,6 +5441,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero a eso, aprovechando las nuevas tecnologías, le podemos sumar un “entorno deliberativo básico”, conformado por un porcentaje variable de personas que opinen y propongan sobre los temas en cuestión como aporte constructivo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181644Z" creationid="Françoise" creationdate="20161118T181644Z">
+        <seg>Mais à cela, en profitant des nouvelles technologies, nous pouvons ajouter un “environnement consultatif basique”, formé d'un pourcentage variable de personnes qui donnent leur avis et font des propositions pour faire un apport constructif sur les sujets en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero además de los obstáculos en el ascenso, está la fuerza de gravedad que nos empuja hacia abajo, que no son más que nuestras propias debilidades, de las que hay que sobreponerse con la fuerza que anida en el espíritu humano.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145351Z" creationid="la belle idee" creationdate="20161105T145351Z">
@@ -6782,6 +6822,14 @@ S'approcher semble plus proche.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Será importante mantener el equilibrio entre el rol deliberativo y el ejecutivo, para que el primero alimente al segundo en lugar de frenarlo, y las funciones puedan operar con eficacia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181821Z" creationid="Françoise" creationdate="20161118T181821Z">
+        <seg>Il sera important de maintenir l'équilibre entre le rôle consultatif et l'exécutif, pour que le premier nourrisse le deuxième au lieu de le freiner et que les fonctions puissent accomplir avec efficacité.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>avizorar = discerner pour le sens de voir avec attention</note>
       <tuv lang="ES-AR">
         <seg>Será importante que en estos próximos años, mucha gente, organizaciones, movimientos sociales, y ojala algunos gobernantes, apoyen esta causa, compartan este objetivo, y adhieran a sus propuestas, y así articularnos para actuar coordinadamente, poniendo en marcha un proyecto verdaderamente humano, que permita avizorar la luz al final del túnel.</seg>
@@ -6916,6 +6964,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T144428Z" creationid="Françoise" creationdate="20161118T144428Z">
         <seg>Bien que tous les pas vers la Nation Humaine Universelle soient importants, il reste clair que beaucoup des transformations seront très difficiles à mener en avant si se maintient l'actuel système de gouvernement qui, dans la majorité des pays, correspond à ce que nous appelons démocratie formelle, dans laquelle les populations ont le droit de vote, mais les représentants élus trahissent régulièrement leur électorat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si el germen de la democracia real debe existir previamente a la toma del poder, habría que comenzar lo antes posible a ponerla en práctica en la misma organización social que pretenda motorizar el cambio institucional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181911Z" creationid="Françoise" creationdate="20161118T181911Z">
+        <seg>Si le germe de la démocratie réelle doit exister préalablement à la prise de pouvoir, il faudrait commencer le plus tôt possible à la mettre en pratique dans l'organisation sociale qui cherche à automatiser le changement institutionnel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7852,6 +7908,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023002Z" creationid="Podium" creationdate="20161111T023002Z">
         <seg>Et lorsque nous parlons d’une expérience, nous ne parlons pas d’un empirisme positiviste mais d’une expérience structurée entre internes et externes. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y cuando haya puntos de vista diferentes con suficiente fuerza, se propondrán votaciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181711Z" creationid="Françoise" creationdate="20161118T181711Z">
+        <seg>Quand il y aura des points de vue différents avec suffisamment de force, des votes seront proposés.</seg>
       </tuv>
     </tu>
     <tu>
