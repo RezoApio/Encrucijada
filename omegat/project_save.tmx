@@ -2807,8 +2807,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esta es una trampa formidable de la democracia formal, elegir entre falsas opciones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T165639Z" creationid="Françoise" creationdate="20161118T165639Z">
-        <seg>C'est le piège formidable de la démocratie formelle, choisir entre de fausses options.</seg>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T170703Z" creationid="Françoise" creationdate="20161118T165639Z">
+        <seg>C'est le piège énorme de la démocratie formelle, choisir entre de fausses options.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6656,6 +6656,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si pudiéramos realizar un estudio con rigor científico sobre las condiciones en cuanto a capacidad de trabajo, idoneidad, honestidad, y eficacia, de todas las personas de un país, y de acuerdo a los resultados elegir lo que mejor nos parece, seguramente otro sería el resultado de las elecciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T170754Z" creationid="Françoise" creationdate="20161118T170754Z">
+        <seg>Si nous pouvions réaliser une étude avec une certaine rigueur scientifique sur les conditions quant à la capacité de travail, l'aptitude, l'honnêteté et l'efficacité de toutes les personnes d'un pays et si nous pouvions choisir, conformément aux résultats, ceux qui nous semble le mieux, le résultat des élections serait certainement différent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Si repites tus actos de unidad interna ya nada podrá detenerte.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021832Z" creationid="Podium" creationdate="20161111T021832Z">
@@ -6985,6 +6993,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023117Z" creationid="Podium" creationdate="20161111T023117Z">
         <seg>Ce relativisme n’est autre que la conséquence de l’interprétation exclusivement formelle du principe à l’instar peut-être de sa tentative formelle d’application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Tal vez descubriríamos que el mejor funcionario para determinado cargo, es algún profesor universitario, o una vecina, o un obrero.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T170809Z" creationid="Françoise" creationdate="20161118T170809Z">
+        <seg>Peut-être découvririons-nous que le meilleur fonctionnaire pour une charge déterminée serait un professeur universitaire ou un habitant ou un ouvrier.</seg>
       </tuv>
     </tu>
     <tu>
