@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Anteriormente hablábamos de lo importante que sería poner en práctica en la base social los instrumentos democráticos, independientemente de que aún no estén incluidos en la legislación; porque esa práctica no solamente puede conducir a generar una mayor presión para que se institucionalicen los canales democráticos, sino que sobre todo generaría la capacitación y ejercitación necesarias para que la sociedad incorpore a su estilo de vida la práctica democrática.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223418Z" creationid="Françoise" creationdate="20161118T223418Z">
+        <seg>Nous parlions antérieurement de combien il serait important de mettre en pratique les instruments démocratiques dans la base sociale, indépendamment du fait qu'ils ne soient pas encore inclus dans la législation ; parce que cette pratique peut non seulement conduire à générer une plus grande pression pour que les canaux démocratiques soient institutionnalisés, mais elle générerait surtout la formation nécessaire et la préparation pour que la société incorpore la pratique démocratique à son style de vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Antes de la crisis Islandia era considerado un ejemplo de prosperidad por el desproporcionado desarrollo de su sector financiero.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161114T163754Z" creationid="Ricardito120" creationdate="20161114T163754Z">
@@ -2287,6 +2295,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161118T010126Z" creationid="Podium" creationdate="20161118T010126Z">
         <seg>En Bolivie, en Colombie, en Équateur, au Paraguay et au Venezuela, les présidents peuvent convoquer des consultations populaires ayant des effets contraignants (en Argentine, la consultation n’est pas contraignante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En algunas sociedades ha venido creciendo el clamor popular por la democratización, motorizando muchas veces importantes movilizaciones, pero la falta de ejercicio democrático previo ha sido una dificultad para encontrar los caminos hacia un nuevo tipo de organización social.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223439Z" creationid="Françoise" creationdate="20161118T223439Z">
+        <seg>Dans certaines sociétés la clameur populaire a grandit par la démocratisation, en automatisant souvent d'importantes mobilisations, mais le manque d'exercice démocratique préalable a été une difficulté pour trouver les chemins vers un nouveau type d'organisation sociale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En algunos casos la efervescencia fue utilizada por ciertos grupos violentos opositores al gobierno que, con ayuda militar externa, desencadenaron guerras civiles.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223512Z" creationid="Françoise" creationdate="20161118T223512Z">
+        <seg>Dans quelques cas l'effervescence a été utilisée par des certains groupes violents opposés au gouvernement qui, avec une aide militaire externe, ont déchaîné des guerres civiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6184,6 +6208,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230150Z" creationid="Podium" creationdate="20161103T230150Z">
         <seg>Par conséquent, ces institutions et les droits de l’homme universels se référant à elles, sont remis en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ejemplo, durante la denominada “Primavera Árabe”, el descontento popular con los gobernantes y el reclamo de reformas, tuvo diferentes resultados en cada país, pero en general las expectativas que había generado este movimiento, quedaron frustradas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223454Z" creationid="Françoise" creationdate="20161118T223454Z">
+        <seg>Par exemple, pendant le “Printemps Arabe”, le mécontentement populaire avec les gouvernements et l'appel aux réformes ont eu différents résultats dans chaque pays mais en général les expectatives que ce mouvement avait générées sont restées frustrées.</seg>
       </tuv>
     </tu>
     <tu>
