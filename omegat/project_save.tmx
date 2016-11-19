@@ -8727,6 +8727,15 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Tomas Hirsch, en su libro “El fin de la prehistoria”, dice al respecto: &lt;t0/&gt;“Siempre que se habla de democracia, se la asocia obligatoriamente a la representatividad, como si existiera allí una frontera infranqueable para la imaginación, que pareciera no atreverse a ir más allá de esos límites: Por su parte, la clase política, temerosa de ser desplazada al baúl de los recuerdos, se encarga de reforzar esa vacilación martillando sin pausas acerca de la imposibilidad de gobernar sin partidos ni representantes.”</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161119T144027Z" creationid="Ricardito120" creationdate="20161119T144027Z">
+        <seg>Tomas Hirsch, dans son livre « La Fin de la Préhistoire. Un chemin vers la liberté », dit sur ce point :&lt;t0/&gt;
+« Quand on parle de démocratie, on l’associe toujours à la représentativité, comme s’il y avait là une frontière infranchissable pour l’imagination, qui semble ne pas oser aller au-delà de ces limites. De son côté, la classe politique, craignant d’être rangée dans le coffre des souvenirs, s’applique à renforcer cette hésitation, martelant sans cesse l’impossibilité de gouverner sans parti, ni représentants. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Tomemos, por ejemplo, el artículo 16.-1.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230016Z" creationid="Podium" creationdate="20161103T230016Z">
