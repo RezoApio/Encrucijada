@@ -9530,6 +9530,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>educación superior.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161119T143816Z" creationid="Ricardito120" creationdate="20161119T143816Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>gr.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223132Z" creationid="Podium" creationdate="20161103T223132Z">
