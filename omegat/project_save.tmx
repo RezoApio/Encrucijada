@@ -6789,6 +6789,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Perú es el país que más alcaldes han debido abandonar sus puestos por la utilización de este recurso.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T230406Z" creationid="Podium" creationdate="20161120T230406Z">
+        <seg>Le Pérou est le pays où le plus grand nombre de maires ont dû quitter leur poste en raison de l’utilisation de ce recours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pese a las restricciones y a la censura, la cantidad de protestas ha ido en aumento, contabilizándose unas 10.000 en 1994, y unas 87.000 en el 2005, y la cifra sigue en aumento.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012337Z" creationid="Podium" creationdate="20161117T012337Z">
