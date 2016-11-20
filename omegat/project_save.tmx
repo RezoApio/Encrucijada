@@ -2428,6 +2428,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En Bolivia, Colombia, Ecuador, Uruguay y Venezuela existe este instrumento, pero sólo Uruguay (1989, 1992 y 2003, Cuadro 3) lo han utilizado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T225433Z" creationid="Podium" creationdate="20161120T225433Z">
+        <seg>Cet instrument existe en Bolivie, en Colombie, en Équateur, en Uruguay et au Venezuela, mais seulement l’Uruguay (1989, 1992 et 2003, tableau 3) y a eu recours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En Holanda, de acuerdo a una encuesta SCP del 2002, el 81% de los votantes apoyaban la introducción del referéndum.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161119T143541Z" creationid="Ricardito120" creationdate="20161119T143541Z">
