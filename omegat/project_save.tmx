@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4015,6 +4015,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T191715Z" creationid="william" creationdate="20161105T191715Z">
         <seg>Il y a ceux qui qui ont défini la politique comme l'art de gouverner et d'administrer une société pour obtenir le bien commun et il y a ceux qui l'ont défini comme l'art d'atteindre et de se maintenir au pouvoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Hay una multiplicación de efectos dislocatorios y una proliferación de nuevos antagonismos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161120T224910Z" creationid="Ricardito120" creationdate="20161120T224910Z">
+        <seg>Il y a une multiplication des effets de dislocation et une prolifération de nouveaux antagonismes. </seg>
       </tuv>
     </tu>
     <tu>
