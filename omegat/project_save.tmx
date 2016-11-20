@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3069,6 +3069,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161119T143659Z" creationid="Ricardito120" creationdate="20161119T143659Z">
         <seg>Entre 1999 et 2000, eut lieu, aux USA, le sondage le plus vaste qui n’ait jamais été entrepris. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Ernesto Laclau, en su libro “La Razón Populista”, analiza los desafíos que tiene una sociedad, en la que las demandas e intereses pueden ser muy diversos, para lograr constituirse como “pueblo” en torno a un liderazgo al que denomina populista, reivindicando tal fenómeno frente a los detractores que lo asocian solamente con los gobiernos totalitarios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161120T223354Z" creationid="Ricardito120" creationdate="20161120T223354Z">
+        <seg>Ernesto Laclau, dans son livre « La Raison Populiste », analyse les défis qu’à une société, dans laquelle les demandes et les intérêts peuvent être très divers, pour arriver à se constituer comme « peuple » autour d'un dirigeant qu’il dénomme populiste, en revendiquant tel phénomène face à des détracteurs qui l'associent seulement aux gouvernements totalitaires. </seg>
       </tuv>
     </tu>
     <tu>
