@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7011,6 +7011,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141138Z" creationid="la belle idee" creationdate="20161030T141138Z">
         <seg>De plus, nous décrivons des pas très généraux. Chacun d'eux, pour être complété, nécessitera d'autres petits pas préalables puisque tout est un processus. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por su parte, el referendo abrogatorio o veto popular, es un recurso de los ciudadanos que buscan derogar leyes aprobadas por el parlamento.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T225226Z" creationid="Podium" creationdate="20161120T225226Z">
+        <seg>Quant au référendum abrogatoire ou veto populaire, c’est un recours à l’initiative des citoyens qui leur permet de voter sur l’abrogation de lois approuvées par le parlement.</seg>
       </tuv>
     </tu>
     <tu>
