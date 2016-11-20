@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8605,6 +8605,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T211241Z" creationid="william" creationdate="20161105T211241Z">
         <seg>Il y a aussi ceux qui rejettent l'idée même de pouvoir parce qu'ils considèrent qu'il corrompt et d'autres parce que son simple exercice suppose la subordination d'êtres humains à d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>También existen diferencias en cuanto a los temas que pueden ser objeto de iniciativa: mientras en Venezuela no se establecen limitaciones o restricciones en el uso de la iniciativa, en la mayoría de las constituciones los ciudadanos no pueden proponer leyes referidas a tributos o al presupuesto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T224536Z" creationid="Podium" creationdate="20161120T224536Z">
+        <seg>Il existe également des différences par rapport aux thèmes pouvant faire l’objet d’une proposition : au Venezuela, il n’existe pas de limites ou de restrictions concernant la présentation d’une proposition, mais dans la majorité des constitutions, les citoyens ne peuvent pas proposer des lois concernant les impôts ou le budget.</seg>
       </tuv>
     </tu>
     <tu>
