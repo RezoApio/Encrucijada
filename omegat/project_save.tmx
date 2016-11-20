@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2646,6 +2646,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T224105Z" creationid="william" creationdate="20161105T224105Z">
         <seg>Dans ce moment de l'histoire, la complexité des problèmes nous fait croire qu'ils sont impossibles à résoudre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En este punto, la “razón populista” pasa a operar plenamente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161120T224730Z" creationid="Ricardito120" creationdate="20161120T224730Z">
+        <seg>Ici, la « raison populiste » opère totalement. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5546,6 +5554,15 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T015434Z" creationid="Podium" creationdate="20161111T015434Z">
         <seg>Plus loin, Keynes remet en question l’idée ancienne selon laquelle l’épargne s’accompagne toujours d’un investissement, et que par conséquent elle génère également une consommation, dans ce cas, de biens durables  : &lt;t4/&gt;« …L’idée absurde, encore qu’à peu près universelle, qu’un acte d’épargne individuelle est tout aussi favorable à la demande effective qu’un acte de consommation individuelle procède du sophisme suivant, lequel est beaucoup plus spécieux que la conclusion qui en a été déduite : le désir de posséder plus de richesse, étant à très peu de chose près identique au désir de posséder plus de capitaux, doit, en accroissant la demande de capitaux, fournir un aiguillon à leur production ; par suite l’épargne individuelle favorise l’investissement courant dans la mesure même où elle diminue la consommation présente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Más adelante Laclau se refiere a los desafíos en un mundo globalizado, para poder articular demandas heterogéneas: &lt;t4/&gt;“ Pero cuanto más extendida es la cadena equivalencial menos natural se vuelve la articulación entre sus eslabones y más inestable es la identificación del enemigo (aquello que está del otro lado de la frontera): Esto es algo que hemos encontrado en varios puntos de nuestro análisis: en el caso de una demanda específica formulada dentro de un contexto localizado, determinar quién es el adversario es algo relativamente fácil; en cambio, cuando existe una equivalencia entre una multiplicidad de demandas heterogéneas, determinar cuál es el objetivo y contra quién se lucha se vuelve mucho más fácil.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161120T224712Z" creationid="Ricardito120" creationdate="20161120T224712Z">
+        <seg>Plus loin Laclau fait référence aux défis de pouvoir articuler des demandes hétérogènes dans un monde globalisé :  &lt;t4/&gt;
+ « Mais plus la chaîne équivalentielle est étendue, moins est naturelle l’articulation entre ses maillons, et plus est instable l’identité de l’ennemi (situé de l’autre côté de la frontière). C’est une chose que j’ai abordé à plusieurs reprises dans mon  analyse. Dans le cas d’une demande spécifique formulée dans un contexte localisé, il est relativement facile de déterminer qui est l’adversaire ; mais s’il y a une équivalence entre des multiples demandes hétérogènes, déterminer l’objectif et dire qui est l’ennemi contre lequel on combat devient beaucoup plus difficile.</seg>
       </tuv>
     </tu>
     <tu>
