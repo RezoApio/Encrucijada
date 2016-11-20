@@ -2403,6 +2403,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En Bolivia y Ecuador, los ciudadanos pueden convocar a un referendo; en Uruguay tienen la potestad de promover una reforma constitucional (que debe ser sometida a consulta popular para su ratificación o rechazo).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T222709Z" creationid="Podium" creationdate="20161120T222709Z">
+        <seg>En Bolivie et en Équateur, les citoyens peuvent organiser un référendum; en Uruguay, ils ont la possibilité d’entreprendre une réforme constitutionnelle (qui doit être soumise à une consultation populaire en vue de la ratification ou du refus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En Bolivia, Colombia, Ecuador, Paraguay y Venezuela, los presidentes pueden convocar a consultas populares con efectos vinculantes (en la Argentina, la consulta no es vinculante).</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161118T010126Z" creationid="Podium" creationdate="20161118T010126Z">
