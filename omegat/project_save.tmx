@@ -7063,6 +7063,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Por último, el referendo revocatorio es una herramienta que habilita a los ciudadanos a revocar el mandato de aquellas personas elegidas por voto popular (un instrumento similar al impeachment, pero ejercido por los ciudadanos).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T225849Z" creationid="Podium" creationdate="20161120T225849Z">
+        <seg>Enfin, le référendum révocatoire est un instrument qui permet aux citoyens de révoquer le mandat de personnes élues au vote populaire (un instrument semblable à l’impeachment, mais exercé par les citoyens).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Porque como hemos dicho, en el escalamiento hacia la transformación social, se debe ir escalón por escalón sin perder de vista el objetivo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T211112Z" creationid="william" creationdate="20161107T211112Z">
