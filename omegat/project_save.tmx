@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A nivel local, está previsto en algunas provincias argentinas, en Colombia, Ecuador, Perú y Venezuela.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T230233Z" creationid="Podium" creationdate="20161120T230233Z">
+        <seg>À l’échelle locale, cet instrument est prévu dans certaines provinces de l’Argentine, en Colombie, en Équateur, au Pérou et au Venezuela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>A nivel nacional se debe obligar a las empresas que contaminan a invertir en tecnología no contaminante.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141312Z" creationid="la belle idee" creationdate="20161105T141312Z">
@@ -1460,6 +1468,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T164151Z" creationid="Françoise" creationdate="20161118T164151Z">
         <seg>De la même manière, quand nous voyons que dans la justice et dans les forces policières il y a une grande quantité de fonctionnaires corrompus ou de policiers qui commettent des délits et assassinent : Pouvons-nous minimiser le sujet en disant qu'ils représentent seulement un pourcentage ? En aucune façon car il s'agit précisément de ceux qui sont supposés combattre les délits et faire appliquer la justice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>De los países que estamos presentando, Bolivia, Ecuador y Venezuela contemplan la revocatoria del presidente (y de todos los cargos electos).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161120T230113Z" creationid="Podium" creationdate="20161120T230113Z">
+        <seg>Parmi les pays dont il est question, la Bolivie, l’Équateur et le Venezuela sont ceux qui prévoient la révocation du président (et de tous les élus).</seg>
       </tuv>
     </tu>
     <tu>
