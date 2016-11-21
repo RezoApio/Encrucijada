@@ -2091,6 +2091,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El aumento de la temperatura, la distorsión de los ciclos estacionales, las lluvias torrenciales inéditas en algunas regiones, y sequías sin precedentes en otras; todo esto va afectando la vida de la gente, la vida de la flora y de la fauna, las cosechas, y los ecosistemas en general.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220649Z" creationid="Ricardito120" creationdate="20161121T220649Z">
+        <seg>L’augmentation de la température, la distorsion des cycles des saisons, les pluies torrentielles inédites dans certaines régions, et les sècheresses sans précédent dans d’autres ; tout cela est en train d’affecter les gens, la vie de la flore et de la faune, les récoltes, et les écosystèmes en général.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El aumento de precios se produjo ante todo en España, que era adonde llegaron primero los metales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T141221Z" creationid="Podium" creationdate="20161111T141221Z">
