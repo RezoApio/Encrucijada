@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3710,6 +3710,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Esto no es poco, si se procediera con objetividad y neutralidad, pero sabemos que a menudo estos instrumentos son utilizados políticamente por las potencias que controlan los organismos internacionales para castigar a sus enemigos políticos, mientras omiten ocuparse de las violaciones que cometen ellos mismos o sus aliados.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161121T221045Z" creationid="Françoise" creationdate="20161121T221045Z">
+        <seg>Ce n'est pas si mal, si on procédait avec objectivité et neutralité, mais nous savons que souvent ces instruments sont utilisés politiquement par les puissances qui contrôlent les organisations internationales afin de pénaliser leurs ennemis politiques, tandis qu'ils omettent de s'occuper des violations qu'ils commettent eux-mêmes ou leurs alliés. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Esto obligó a preguntar a 36.000 personas en 47 países.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T215145Z" creationid="Ricardito120" creationdate="20161115T215145Z">
@@ -6820,6 +6828,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero muy diferente es la situación en el nivel internacional, ya que de partida el Derecho Internacional tiene limitaciones en cuanto a su poder coercitivo, ya que las violaciones flagrantes de los derechos humanos en un país, a lo sumo pueden acarrear la consecuencia de sanciones económicas, embargos, exclusión de ciertos ámbitos internacionales, y otro tipo de presiones indirectas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161121T221015Z" creationid="Françoise" creationdate="20161121T221015Z">
+        <seg>Mais la situation au niveau international est très différente, en commençant par le fait que le Droit international est limité en ce qui concerne son pouvoir coercitif, puisque les flagrantes violations des droits humains dans un pays, tout au plus peuvent avoir comme conséquences des sanctions économiques, d'embargos, d'exclusion de certaines enceintes internationales, et d'autres types de pressions indirectes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero más allá de las diferencias, en general ha habido avances importantes, sobre todo en América del Sur.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223954Z" creationid="Françoise" creationdate="20161118T223954Z">
@@ -9584,6 +9600,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T174352Z" creationid="Françoise" creationdate="20161118T174352Z">
         <seg>Beaucoup de gens peuvent maintenant décider de voter blanc ou de ne pas voter mais avec cela on parvient seulement à diminuer le nombre de votes valides et de toute façon les mêmes finissent par se distribuer les postes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y desde ya que mucho más riesgoso es la aceptación de la intervención militar de países con el pretexto de la defensa de los derechos humanos, tal como ya lo advertía Silo hace más de veinte años&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161121T221115Z" creationid="Françoise" creationdate="20161121T221115Z">
+        <seg>Et maintenant, l'acceptation de l'intervention militaire des pays, sous prétexte de la défense des droits humains, est beaucoup plus risquée, comme Silo le constatait déjà il y a plus de vingt ans.</seg>
       </tuv>
     </tu>
     <tu>
