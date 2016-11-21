@@ -10120,6 +10120,14 @@ Ils continuent :
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>¿Qué pretenden?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T215759Z" creationid="Ricardito120" creationdate="20161121T215759Z">
+        <seg>Que prétendent-ils ? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>¿Qué puede impulsar al ser humano para seguir adelante en su evolución, y dotar de sentido a su existencia y a la del planeta mismo?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T170921Z" creationid="william" creationdate="20161105T170921Z">
