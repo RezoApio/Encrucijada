@@ -6588,6 +6588,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero en definitiva todos estamos en el mismo barco planetario, y algo tendremos que hacer antes de que se hunda.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220452Z" creationid="Ricardito120" creationdate="20161121T220452Z">
+        <seg>Mais en définitive, on est tous dans le même bateau planétaire et on devra faire quelque chose avant qu’il ne coule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero en el mundo del futuro, no será suficiente con que salud y educación sean derechos básicos, sino que podremos aspirar a una permanente prolongación en años de la esperanza de vida, y al conocimiento sin límite para todos los habitantes del planeta.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T140822Z" creationid="Françoise" creationdate="20161118T140822Z">
@@ -9633,6 +9641,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220156Z" creationid="Ricardito120" creationdate="20161121T220156Z">
         <seg> Et il existe un grand pourcentage de la population qui est impliqué par le travail dans ce processus, par lequel il a des rentrées d’argent avec lesquelles il consomme aussi, et comme il a pour modèle la consommation de l’élite d’en haut, il pousse pour gagner plus. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y finalmente, también se podrá recriminar a las poblaciones, su debilidad moral a la hora de dejarse llevar por las tentaciones del consumismo y la avaricia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220424Z" creationid="Ricardito120" creationdate="20161121T220424Z">
+        <seg>Et finalement, on pourrait aussi récriminer les populations, leur faiblesse morale à l’heure de se laisser emporter par les tentations de la consommation et de l’avarice. </seg>
       </tuv>
     </tu>
     <tu>
