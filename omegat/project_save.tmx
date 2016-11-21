@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1853,6 +1853,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T143131Z" creationid="Ricardito120" creationdate="20161111T143131Z">
         <seg>Entre octobre 2009 et janvier 2010, diverses organisations humanistes ont réalisé une Marche mondiale qui a traversé toute la planète, exprimant dans en divers forums et actes publics la nécessité du désarmement et d’en finir avec la violence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Desde ya que dentro de las fronteras de cada país habrá que trabajar para lograr que todos estos derechos se garanticen, y eso lo veremos en las propuestas de los pasos a dar en el nivel nacional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161121T220951Z" creationid="Françoise" creationdate="20161121T220951Z">
+        <seg>D’ores et déjà il faudra travailler à l’intérieur des frontières de chaque pays pour obtenir que tous ces droits soient garantis. Nous verrons cela dans les propositions des pas à réaliser au niveau national. </seg>
       </tuv>
     </tu>
     <tu>
