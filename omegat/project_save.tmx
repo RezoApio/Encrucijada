@@ -2698,6 +2698,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En este sentido, la DP por su potencial movilizador es ‘‘concientizador’’, permite a la ciudadanía ‘‘… redescubrir el Estado, apropiarlo y establecer un efecto revelador para otros sectores de la sociedad’.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T000644Z" creationid="Podium" creationdate="20161121T000644Z">
+        <seg>En ce sens, la démocratie participative par son pouvoir mobilisateur est « concientisante » et permet aux citoyens de « ...redécouvrir l’État, de se l’approprier et d’établir un effet révélateur pour d’autres secteurs de la société » [traduction].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En este sentido, no podemos dar por válidas algunas clasificaciones sobre el estado de la democracia en el mundo que realizan prestigiosas organizaciones internacionales financiadas por USA, como Freedom House&lt;t0/&gt; que coloca a Rusia en el mismo nivel que a Corea del Norte o los emiratos árabes, o Economist Intelligence Unit que considera que en América Latina sólo hay democracia plena en Uruguay y Costa Rica.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225124Z" creationid="Françoise" creationdate="20161118T225124Z">
@@ -7097,8 +7105,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por otro lado, la senda de la implantación de las instituciones modernas bajo el amparo de la continuidad hidalga y monárquica, seguida de la concesión del sufragio universal como consecuencia del cimbronazo provocado por la Comuna de París.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T000019Z" creationid="Podium" creationdate="20161120T235622Z">
-        <seg>D’un autre côté, le sentier de l’implantation des institutions modernes sous l’égide de la continuité noble et monarchiste, suivie de la concession du suffrage universel comme conséquence du choc provoqué par la Commune de Paris. »</seg>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T000433Z" creationid="Podium" creationdate="20161120T235622Z">
+        <seg>D’un autre côté, le sentier de l’implantation des institutions modernes sous l’égide de la continuité noble et monarchiste, suivie de la concession du suffrage universel comme conséquence du choc provoqué par la Commune de Paris. » [traduction]</seg>
       </tuv>
     </tu>
     <tu>
