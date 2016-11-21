@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -450,6 +450,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T150548Z" creationid="Françoise" creationdate="20161118T150548Z">
         <seg>Quelques années plus tard, la crise financière mondiale qui a éclaté en 2008 a déchaîné de nombreuses manifestations sociales, fondamentalement dans plusieurs pays arabes, en Europe et aux USA, et une des revendications les plus importantes a été celle d'une Démocratie réelle, face au manque de réponses de la part des politiques traditionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Algunos científicos hablan ya de una nueva era geológica, la del “Antropoceno”, queriendo significar la influencia determinante de la acción del hombre sobre el clima, una concepción un tanto soberbia si se quiere, ya que si bien el hombre es capaz de alterar el clima con su actividad, lejos está de ejercer control sobre los procesos naturales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T221146Z" creationid="Ricardito120" creationdate="20161121T221146Z">
+        <seg>Certains scientifiques parlent déjà d’une nouvelle ère géologique, celle de « l’Anthropocène », voulant signifier l’influence déterminante de l’action de l’homme sur le climat, une conception un peu hautaine si l’on veut, parce que si l’homme est déjà capable d’altérer le climat avec son activité, il est loin d’exercer un contrôle sur les processus naturels. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8964,6 +8972,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144919Z" creationid="la belle idee" creationdate="20161105T144919Z">
         <seg>Synthèse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sólo en las últimas tres décadas se ha consumido un tercio de la riqueza natural del planeta, y de continuar la tendencia actual en el 2030 se necesitarán dos planetas, lo que demuestra que la inviabilidad del proceso actual es en el corto plazo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T221118Z" creationid="Ricardito120" creationdate="20161121T221118Z">
+        <seg> Dans les seulement trois dernières décades on a consommé un tiers des richesses naturelles de la planète, et si on continue la tendance actuelle nous aurons besoin de 2 planètes en 2030, ce qui démontre la non-viabilité du processus actuel à court terme.</seg>
       </tuv>
     </tu>
     <tu>
