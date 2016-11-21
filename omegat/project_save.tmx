@@ -1931,8 +1931,8 @@
       <tuv lang="ES-AR">
         <seg>Detener el desastre ecológico</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T140922Z" creationid="la belle idee" creationdate="20161105T140922Z">
-        <seg>Stopper le désastre écologique</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T215319Z" creationid="la belle idee" creationdate="20161105T140922Z">
+        <seg>Stopper/Contenir???? le désastre écologique</seg>
       </tuv>
     </tu>
     <tu>
@@ -9825,6 +9825,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T122020Z" creationid="Ricardito120" creationdate="20161111T122020Z">
         <seg>Il ne s’agit plus d’une guerre entre individus enfermés chacun dans sa sphère : une caste revendicatrice monte à l’assaut et elle est tenue en échec par la caste privilégiée. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Ya nos hemos referido a la total inutilidad de las Naciones Unidas para cumplir con uno de sus principales objetivos enunciados en el preámbulo de su Carta, como el de mantener la paz en el planeta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T215354Z" creationid="Ricardito120" creationdate="20161121T215354Z">
+        <seg>Nous nous sommes déjà référés à la totale inutilité des Nations Unies pour accomplir un de ses principaux objectifs énoncés dans le préambule de sa Charte, comme celui de maintenir la paix sur la planète. </seg>
       </tuv>
     </tu>
     <tu>
