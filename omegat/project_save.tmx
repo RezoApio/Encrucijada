@@ -6836,6 +6836,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero no todos los problemas ecológicos generados por la acción humana se limitan al calentamiento global.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220907Z" creationid="Ricardito120" creationdate="20161121T220907Z">
+        <seg>Mais tous les problèmes écologiques générés par l’action humaine ne se limitent pas au réchauffement global. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero por distintos flancos, todos hacia la misma meta.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161108T194550Z" creationid="william" creationdate="20161108T194550Z">
