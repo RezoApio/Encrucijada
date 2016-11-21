@@ -24,8 +24,8 @@
       <tuv lang="ES-AR">
         <seg>(referencia de Charles Tilly en su libro “Los Movimientos Sociales”)</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012349Z" creationid="Podium" creationdate="20161117T012349Z">
-        <seg>(source : Charles Tilly, « Les mouvements sociaux »).</seg>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T002231Z" creationid="Podium" creationdate="20161117T012349Z">
+        <seg>(source : Charles Tilly, « Les mouvements sociaux » [« Los Movimientos Sociales »]).</seg>
       </tuv>
     </tu>
     <tu>
@@ -751,6 +751,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Autoorganización construida y constituida por la propia ciudadanía, Raúl Pont a este respecto señala ‘‘…en un saludable ejercicio de la soberanía popular que no quede a merced de leyes y decretos decididos por otros’’</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T002201Z" creationid="Podium" creationdate="20161121T002201Z">
+        <seg>Construction et constitution de l’auto-organisation par la population elle-même; à cet égard, Raúl Pont indique : « ... dans un exercice sain de la souveraineté populaire qui ne soit pas à la merci des lois et des décrets décidés par d’autres » [traduction].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Avanzar en la articulación con organizaciones afines en el nivel internacional, para intercambiar experiencias y para organizar conjuntamente acciones relacionadas a objetivos globales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T160244Z" creationid="la belle idee" creationdate="20161030T160244Z">
@@ -929,8 +937,8 @@
       <tuv lang="ES-AR">
         <seg>Carlos Marx, en el capítulo VII del primer tomo de El Capital referido a la cuota de plusvalía, decía lo siguiente: &lt;t0/&gt;“&lt;t1/&gt;La segunda etapa del proceso de trabajo, en que el obrero rebasa las fronteras del trabajo necesario, le cuesta, evidentemente, trabajo, supone fuerza de trabajo desplegada, pero no crea valor alguno para él.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221836Z" creationid="Podium" creationdate="20161103T221836Z">
-        <seg>Charles Marx, au chapitre VII du livre premier du Capital, évoquant la plus-value, disait : « La période d’activité, qui dépasse les bornes du travail nécessaire, coûte, il est vrai, du travail à l’ouvrier, une dépense de force, mais ne forme aucune valeur pour lui.</seg>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T002259Z" creationid="Podium" creationdate="20161103T221836Z">
+        <seg>Charles Marx, au chapitre IX du livre premier du Capital, évoquant la plus-value, disait : « La période d’activité, qui dépasse les bornes du travail nécessaire, coûte, il est vrai, du travail à l’ouvrier, une dépense de force, mais ne forme aucune valeur pour lui.</seg>
       </tuv>
     </tu>
     <tu>
