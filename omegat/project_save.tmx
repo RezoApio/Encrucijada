@@ -6340,6 +6340,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Participación popular directa e indirectamente, a través de distintos organismos de gobierno y de la sociedad civil.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T001108Z" creationid="Podium" creationdate="20161121T001108Z">
+        <seg>Participation populaire directe ou indirecte, au moyen de différentes instances gouvernementales et organismes de la société civile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Partimos del supuesto de que si un conjunto se organiza, lo hace para conseguir un objetivo que no se puede lograr individualmente, pues de otro modo no tendría sentido organizarse.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180413Z" creationid="Françoise" creationdate="20161118T180413Z">
