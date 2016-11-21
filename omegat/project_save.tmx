@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4672,6 +4672,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T214722Z" creationid="Ricardito120" creationdate="20161115T214722Z">
         <seg> La confiance dans le Parlement diminua, durant la même période, de 58 à 34%, et celle dans le gouvernement de 53 à 26%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>La contaminación de mares y ríos, la pérdida de reservas de agua dulce, la desaparición de especies animales y vegetales, la desertización, y tantos otros flagelos, son obra de la acción depredadora del hombre, bajo el actual sistema económico.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T221018Z" creationid="Ricardito120" creationdate="20161121T221018Z">
+        <seg>La contamination des mers et des fleuves, la perte des réserves d’eau douce, la disparition des espèces animales et végétales, la désertification et tant d’autres fléaux, sont l’œuvre de l’action prédatrice de l’homme, sous le système économique actuel.</seg>
       </tuv>
     </tu>
     <tu>
