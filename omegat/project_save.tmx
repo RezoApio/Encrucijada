@@ -8234,6 +8234,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Sabemos que varias fuentes de energía alternativa&lt;t0/&gt; no se han desarrollado en gran escala porque son más costosas que las energías fósiles y contaminantes (petróleo, gas, carbón), y en algunos casos requieren de inversiones muy grandes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T223249Z" creationid="Ricardito120" creationdate="20161121T223249Z">
+        <seg>Nous savons que de nombreuses sources d'énergie alternative ne se sont pas développées à grande échelle parce qu'elles sont plus coûteuses que les énergies fossiles et polluantes (pétrole, gaz, charbon), et dans quelques cas ils requièrent de très grands investissements. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se compran comisarios, policías y funcionarios de todo tipo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T164945Z" creationid="Françoise" creationdate="20161118T164945Z">
