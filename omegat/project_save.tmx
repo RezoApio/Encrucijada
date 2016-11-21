@@ -10141,6 +10141,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Ya en 1992 la Cumbre de Río de Janeiro comprometía a 172 países a trabajar por el desarrollo sustentable.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T221354Z" creationid="Ricardito120" creationdate="20161121T221354Z">
+        <seg>Déjà en 1992, au sommet de Rio de Janeiro 172 pays s’engageaient à travailler pour le développement durable. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Ya hemos dicho que el crecimiento económico, en los países en los que aún no se han resuelto las necesidades básicas, implicará necesariamente un aumento en el consumo de bienes materiales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T141854Z" creationid="Françoise" creationdate="20161118T141854Z">
