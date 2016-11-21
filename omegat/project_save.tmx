@@ -7401,6 +7401,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Práctica directa la acción directa de la ciudadanía en las distintas instancias de reuniones, debates y análisis de la información para la toma de decisiones, formar comisiones de control y fiscalización, así como tener espacio propio para el reclamo y la crítica.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161121T001726Z" creationid="Podium" creationdate="20161121T001726Z">
+        <seg>Pratique directe de l’action directe de la population dans les diverses instances de réunions, de débats et d'analyse de l’information pour la prise de décisions, dans la création de commissions de contrôle et d'imposition, ainsi que dans la création de leur propre tribune de réclamation et de critique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pudimos antes, podremos ahora.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T201720Z" creationid="william" creationdate="20161024T201720Z">
