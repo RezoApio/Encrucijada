@@ -7618,6 +7618,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Recientemente el PNUMA&lt;t0/&gt; advirtió a los países africanos, que debieran invertir en medidas de adaptación ante el cambio climático, que podría en las próximas décadas reducir al 50 % las fuentes de suministro de agua.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T215534Z" creationid="Ricardito120" creationdate="20161121T215534Z">
+        <seg>Récemment, le PNUMA a averti les pays africains, qu’ils devraient investir dans des mesures d’adaptation face au changement climatique, qui pourraient dans les prochaines décades réduire à 50 % les sources d’approvisionnement en eau. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Reconocemos y alentamos la diversidad de costumbres y culturas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021418Z" creationid="Podium" creationdate="20161111T021418Z">
