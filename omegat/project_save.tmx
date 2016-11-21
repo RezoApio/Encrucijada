@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6278,6 +6278,22 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230211Z" creationid="Podium" creationdate="20161103T230211Z">
         <seg>Il se produit la même chose si nous considérons la conception du droit en général et de la justice et si nous confrontons les idées de punition du délinquant avec celles de réhabilitation de celui-ci ; questions sur lesquelles il n’y a pas encore d’accord entre les pays du même contexte culturel occidental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Otros acusarán al gobierno chino&lt;t0/&gt; de acelerar el proceso depredador con su estrategia de dominar los mercados mundiales, con su eficaz fórmula de comunismo de mercado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220339Z" creationid="Ricardito120" creationdate="20161121T220339Z">
+        <seg>D’autres accuseront le gouvernement chinois d’accélérer le processus de déprédation avec leur stratégie visant à dominer les marchés mondiaux, avec leur efficace formule de communisme de marché. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Otros podrán apuntar a los gobiernos en general, que irresponsablemente no toman medidas para frenar esta voracidad del monstruo de dos cabezas, productivismo-consumismo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220401Z" creationid="Ricardito120" creationdate="20161121T220401Z">
+        <seg>D’autres pourraient désigner les gouvernements en général, qui, de manière irresponsable, ne prennent pas de mesures pour freiner cette voracité du monstre à deux têtes, productivisme-communisme. </seg>
       </tuv>
     </tu>
     <tu>
