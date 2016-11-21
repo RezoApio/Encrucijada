@@ -10149,6 +10149,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Ya en 1997 se adoptaba el Protocolo de Kyoto&lt;t0/&gt;, ratificado en el 2005 al cual adhirieron 187 países, menos Estados Unidos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T221454Z" creationid="Ricardito120" creationdate="20161121T221454Z">
+        <seg>Déjà en 1997, on adoptait le protocole de Kyoto, ratifié en 2005 auquel adhéreront 187 pays, moins les Etats Unis d’Amérique ; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Ya hemos dicho que el crecimiento económico, en los países en los que aún no se han resuelto las necesidades básicas, implicará necesariamente un aumento en el consumo de bienes materiales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T141854Z" creationid="Françoise" creationdate="20161118T141854Z">
