@@ -10485,6 +10485,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Ya en la crisis de 1929, más allá de las discusiones sobre qué fueron causas y qué fueron efectos&lt;t0/&gt;, lo cierto es que todas las variables que se fueron retroalimentando para provocar el estallido y la depresión, estaban relacionadas con la problemática de la distribución de la riqueza, y el uso irracional y especulativo de los excedentes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161122T185714Z" creationid="william" creationdate="20161122T185714Z">
+        <seg>Déjà lors de la crise de 1929, au delà des discussions sur les causes et les effets, il est certain que toutes les variables qui se sont rétro-alimentés pour provoquer  l'explosion et la dépression étaient liés à la problématique de la distribution de la richesse et l'usage irrationnel et spéculatif des excédents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Ya hemos dicho que el crecimiento económico, en los países en los que aún no se han resuelto las necesidades básicas, implicará necesariamente un aumento en el consumo de bienes materiales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T141854Z" creationid="Françoise" creationdate="20161118T141854Z">
