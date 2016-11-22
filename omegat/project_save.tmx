@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A su vez, merced a esas mismas políticas la distribución del ingreso en la economía real fue cada vez más desfavorable para los trabajadores, y se acentuó la acumulación de riqueza en pocas manos, lo que engrosó más aún el caudal de excedentes empresariales que terminaban en la especulación financiera.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161122T191849Z" creationid="william" creationdate="20161122T191849Z">
+        <seg>À son tour, grâce à ces mêmes politiques, la distribution du revenu dans l'économie réelle a été de plus en plus défavorable aux travailleurs, et l'accumulation de richesse en peu de mains s'est accentué, ce qui a augmenté encore plus le flot d'excédents des entreprises qui ont terminé dans la spéculation financière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>A su vez, quien en nombre de su propia “libertad”, maltrata a otros por autoafirmarse en sus propias compulsiones individuales, o es indiferente ante el maltrato de otros, compenetrado en su egoísta individualismo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023344Z" creationid="Podium" creationdate="20161111T023344Z">
@@ -9879,6 +9887,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T024035Z" creationid="Podium" creationdate="20161111T024035Z">
         <seg>Tout au contraire, il se peut que ceux qui en ont entendu parler, et la considèrent comme appropriée, ne l’internalisent pas suffisamment pour ressentir la nécessité interne de l’appliquer en tant qu’acte d’unité. »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y a su vez, como el mismo sistema necesita del consumismo de las poblaciones para seguir generando ganancias, el menor ingreso de los asalariados fue compensado con el auge del &lt;t3/&gt;crédito; es decir, se endeudó a las poblaciones para que sigan consumiendo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161122T192107Z" creationid="william" creationdate="20161122T192107Z">
+        <seg>Et à son tour, comme le système même avait besoin de la consommation des populations pour continuer à générer des gains, le revenu moindre des salariés a été compensé par le boom du &lt;t3/&gt;crédit ; c'est-à-dire qu'on a endetté les populations pour qu'elles continuent de consommer.</seg>
       </tuv>
     </tu>
     <tu>
