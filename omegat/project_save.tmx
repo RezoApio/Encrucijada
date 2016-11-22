@@ -7309,6 +7309,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero ya a comienzos de los 70 la crisis del petróleo dejó sin energía barata al aparato productivo, y con muchos petrodólares al sistema financiero.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161122T190444Z" creationid="william" creationdate="20161122T190444Z">
+        <seg>Mais déjà au début des années 70, la crise du pétrole a laissé l'appareil productif sans énergie bon marché et le système financier avec beaucoup de pétrodollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero ya no podemos seguir buscando culpables; ha llegado pues, la hora de hacernos cargo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200521Z" creationid="william" creationdate="20161024T200521Z">
@@ -10041,6 +10049,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T142000Z" creationid="Françoise" creationdate="20161118T142000Z">
         <seg>Dans ce contexte, le développement croissant de multiples services liés à la santé et à l'éducation devra être synonyme d'une qualité de la vie optimale..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y entonces se potenció la usura internacional que vio la posibilidad de multiplicar sus ganancias endeudando ya no solo a las empresas, sino también a los países.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161122T190556Z" creationid="william" creationdate="20161122T190556Z">
+        <seg>Et alors l'usure internationale s'est renforcé en voyant la possibilité de multiplier ses gains en endettant non seulement les entreprises mais aussi les pays.</seg>
       </tuv>
     </tu>
     <tu>
