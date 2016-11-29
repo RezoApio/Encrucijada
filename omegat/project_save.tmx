@@ -11034,8 +11034,8 @@ Ils continuent :
       <tuv lang="ES-AR">
         <seg>¿Deberá ser el pueblo organizado?</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T051033Z" creationid="Ricardito120" creationdate="20161129T051033Z">
-        <seg>Devra être le peuple organisé ? </seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T051139Z" creationid="Ricardito120" creationdate="20161129T051033Z">
+        <seg>Est-ce que ce devra être le peuple organisé ?  </seg>
       </tuv>
     </tu>
     <tu>
@@ -11044,6 +11044,14 @@ Ils continuent :
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T050545Z" creationid="Ricardito120" creationdate="20161129T050545Z">
         <seg>Est-ce que ce devront être les gouvernants, ceux qui ont un quelconque pouvoir, ceux qui se s’impliquent dans un projet transformateur ? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Deberán ser los movimientos sociales?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T051228Z" creationid="Ricardito120" creationdate="20161129T051228Z">
+        <seg>Est-ce que ce devront être les mouvements sociaux ? </seg>
       </tuv>
     </tu>
     <tu>
