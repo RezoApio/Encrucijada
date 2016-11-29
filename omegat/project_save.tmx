@@ -9856,6 +9856,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Tal como afirma el sociólogo Julio Godio&lt;t1/&gt; hablando de los desafíos actuales del sindicalismo: &lt;t2/&gt;“Como resultado de la fragmentación del mercado de trabajo se hace difícil homogeneizar los comportamientos de los trabajadores y se debilita la cadena de solidaridad entre categorías y dentro de las mismas”&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T054625Z" creationid="Ricardito120" creationdate="20161129T054625Z">
+        <seg>Comme l’affirme le sociologue Julio Godio en parlant des actuels défis du syndicalisme : "Comme résultat de la fragmentation du marché du travail il devient difficile d'homogénéiser les comportements des travailleurs et la chaîne de solidarité s'affaiblit entre des catégories et à l'intérieur de celles-ci ". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Tal es el problema fundamental al cual da solución el Contrato Social”&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T185525Z" creationid="Ricardito120" creationdate="20161115T185525Z">
