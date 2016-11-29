@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Así que comenzaremos ampliando lo dicho en el exordio.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T050055Z" creationid="Ricardito120" creationdate="20161129T050055Z">
+        <seg>Nous commencerons donc par agrandir ce qui a été dit dans ???l'exorde ???.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Así se llegó a la crisis de las deudas externas en América Latina a comienzo de los 80, y los acreedores, avalados por los organismos financieros internacionales fueron desangrando los presupuestos nacionales, empobreciendo a los pueblos y quedándose con el patrimonio público y privado&lt;t1/&gt;, mientras las deudas continuaban creciendo de todos modos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161122T190859Z" creationid="william" creationdate="20161122T190859Z">
@@ -11020,6 +11028,14 @@ Ils continuent :
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T003258Z" creationid="Podium" creationdate="20161117T003258Z">
         <seg>Comment pourrait-il en être autrement pour quelqu’un qui affirme incarner la nation tout entière ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Deberán ser los gobernantes, los que tienen algún poder, quienes se comprometan con un proyecto transformador?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T050545Z" creationid="Ricardito120" creationdate="20161129T050545Z">
+        <seg>Est-ce que ce devront être les gouvernants, ceux qui ont un quelconque pouvoir, ceux qui se s’impliquent dans un projet transformateur ? </seg>
       </tuv>
     </tu>
     <tu>
