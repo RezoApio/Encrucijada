@@ -2396,6 +2396,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El neoliberalismo reclama libertad absoluta en esas operaciones, y cualquier regulación es vista como un atentado a la libertad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T014908Z" creationid="Podium" creationdate="20161129T014908Z">
+        <seg>Le néolibéralisme réclame une liberté absolue dans ces transactions, et toute réglementation est perçue comme une atteinte à la liberté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El número de diputados a la Asamblea Popular Nacional y los métodos para su elección son estipulados por la ley.”</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012258Z" creationid="Podium" creationdate="20161117T012258Z">
@@ -2720,6 +2728,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161120T233140Z" creationid="Podium" creationdate="20161120T233140Z">
         <seg>Dans l’année où ce travail a été élaboré, la ferveur participative résultant de la crise institutionnelle de 2001-2002 était encore latente en Argentine, alors que les assemblées populaires demandaient à tous les politiciens traditionnels de « quitter leur poste ». Cette situation a certainement encouragé l’optimisme des auteurs envers l’engagement des citoyens, ce qui est essentiel à une démocratie participative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En el campo económico, se supone que las transacciones son libres entre las personas: empresario con asalariado; fabricante con comerciante, comerciante con consumidor y prestamista con deudor.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T014830Z" creationid="Podium" creationdate="20161129T014830Z">
+        <seg>Dans le domaine économique, les transactions sont censées être libres entre les personnes : employeur et employé; fabriquant et commerçant, commerçant et consommateur; et prêteur et emprunteur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7889,8 +7905,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque la libertad total, por definición &lt;t1/&gt;debe permitir que cada cual haga lo que quiera, por lo tanto es tan válido darle un garrotazo a un vecino, como que el vecino me atrape y me encierre, o simplemente me mate.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T014719Z" creationid="Podium" creationdate="20161129T014719Z">
-        <seg>Car la liberté totale, par définition, doit permettre que chacun fasse ce qu’il veut; alors il est tout aussi valable d’assommer un voisin que d’être attrapé par ce voisin et enfermé ou simplement tué.</seg>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T014846Z" creationid="Podium" creationdate="20161129T014719Z">
+        <seg>Car la liberté totale, par définition &lt;t1/&gt;, doit permettre que chacun fasse ce qu’il veut; alors il est tout aussi valable d’assommer un voisin que d’être attrapé par ce voisin et enfermé ou simplement tué.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9099,6 +9115,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Si la libertad fuera tan absoluta como exigen, entonces no debería existir ningún marco jurídico, y el asalariado podría quedarse con las máquinas del capitalista sin que este pueda reclamar a nadie; o el deudor podría no devolver el préstamo sin que haya una justicia que se lo exija.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T015007Z" creationid="Podium" creationdate="20161129T015007Z">
+        <seg>Si la liberté était aussi absolue qu’ils l’exigent, aucun cadre juridique ne devrait exister, et l’employé pourrait garder le matériel du capitaliste sans que celui-ci puisse faire de réclamation; ou l’emprunteur pourrait ne pas rembourser le prêt sans qu’il y ait une loi qui lui exige de le faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Si los aranceles se imponen en, digamos, los textiles, eso incrementará la producción y el empleo en la industrial textil doméstica.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161104T000257Z" creationid="Podium" creationdate="20161104T000257Z">
@@ -9319,6 +9343,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T151727Z" creationid="Françoise" creationdate="20161118T151727Z">
         <seg>Pourtant, non seulement son principe de souveraineté appartenant au peuple fut très appliqué, mais nous pourrions aussi dire que les conditions sociales et technologiques actuelles nous rapprochent de la possibilité que les citoyens puissent délibérer et s'autogouverner, en délimitant sensiblement l'arbitraire des représentants..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sin embargo, olvidan de que en eso que exigen, también hay una intervención del Estado, dando un marco jurídico que garantice las operaciones y la propiedad privada.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T014939Z" creationid="Podium" creationdate="20161129T014939Z">
+        <seg>Cependant, ils oublient que dans ces domaines, il y a également une intervention de l’État, car il établit un cadre juridique garantissant les transactions et la propriété privée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10980,6 +11012,14 @@ Ils continuent :
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T171119Z" creationid="Françoise" creationdate="20161118T171119Z">
         <seg>Mais comment pouvons-nous faire pour que toute la population connaisse ces attributs et puisse choisir avec cette connaissance ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>¿Por qué el alcance de las libertades debe ser hasta el nivel que les conviene a unos y no a otros?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T015042Z" creationid="Podium" creationdate="20161129T015042Z">
+        <seg>Pourquoi la portée des libertés doit-elle s’arrêter à un niveau qui convient à certains mais pas à d’autres ?</seg>
       </tuv>
     </tu>
     <tu>
