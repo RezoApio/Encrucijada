@@ -2227,6 +2227,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El avance de la sindicalización, en defensa de los derechos de los trabajadores, no ha sido otra cosa que la libertad de organizarse de los mismos, y obviamente que los neoliberales reniegan del ejercicio de estas libertades, con la argucia de que la flexibilidad laboral y la libre contratación entre empleador y empleado hará más eficiente a la economía.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T015128Z" creationid="Podium" creationdate="20161129T015128Z">
+        <seg>Les progrès de la syndicalisation, en défense des droits des travailleurs, n’est rien d’autre que la liberté de s’organiser de ces travailleurs et, évidemment, les néolibéraux renient l’exercice de ces libertés, en disant que la flexibilité du marché du travail et la libre négociation entre employeur et employé rendra l’économie plus efficace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El avance tecnológico en las comunicaciones es patrimonio de la humanidad y no de unos pocos que lo usufructúan para manipular.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T210649Z" creationid="william" creationdate="20161114T210649Z">
@@ -8858,6 +8866,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Según les convenga nos hablan de las libertades económicas desde el punto de vista del principio de libertad, o desde el principio de la eficiencia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T015211Z" creationid="Podium" creationdate="20161129T015211Z">
+        <seg>Ils nous parlent, à leur guise, des libertés économiques du point de vue du principe de la liberté ou de celui de l’efficience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Será fundamental entonces elevar el nivel del pensamiento y el debate mediante la capacitación, y sobre todo desarticulando la manipulación mediática.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T163429Z" creationid="Françoise" creationdate="20161118T163429Z">
@@ -10264,6 +10280,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T140434Z" creationid="Françoise" creationdate="20161118T140434Z">
         <seg>Et le troisième concerne le changement des paradigmes culturels, dans lequel nous incluons ce qui est relatif aux droits humains et aux thèmes migratoires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y en ambos casos sus argumentos no resisten un análisis medianamente profundo; porque si de libertad se trata, los individuos tienen la libertad para organizarse con un Estado, y dotarlo de las herramientas que consideren mejores para las mayorías; y si de eficiencia se trata, habrá que estudiar muy bien qué políticas económicas son eficientes para beneficio de esas mayorías, y no para unos pocos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Podium" changedate="20161129T015245Z" creationid="Podium" creationdate="20161129T015245Z">
+        <seg>Et dans les deux cas, leurs arguments ne résistent pas à une analyse exhaustive; car s’il est question de liberté, les personnes ont la liberté de s’organiser avec un État et de le doter des outils qu’ils considèrent les plus appropriés pour la majorité des citoyens; et s’il est question d’efficience, il faudra examiner à fond quelles politiques économiques sont efficientes au bénéfice de ces majorités, et non pour quelques-uns seulement.</seg>
       </tuv>
     </tu>
     <tu>
