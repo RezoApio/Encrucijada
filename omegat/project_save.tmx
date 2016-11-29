@@ -11221,6 +11221,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y este punto anterior nos lleva también al “cómo”, que tiene que ver con un aspecto importante de nuestro desarrollo, y que son los pasos escalonados que toda transformación requiere.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T062527Z" creationid="Ricardito120" creationdate="20161129T062527Z">
+        <seg>Et ce dernier point nous amène aussi au « comment », qui a à voir avec un aspect important de notre développement. Il s’agit des pas échelonnés que toute transformation ???requiert/ requis ??? par toute transformation. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y este punto es importante, porque ante el mismo conflicto podrían surgir las más variadas propuestas de resolución, pero no necesariamente todas nos conducirían en la misma dirección en el mediano y largo plazo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T060629Z" creationid="Ricardito120" creationdate="20161129T060629Z">
