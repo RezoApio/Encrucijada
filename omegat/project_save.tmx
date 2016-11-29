@@ -7452,6 +7452,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero paradójicamente, la movilización social ante determinados conflictos, aumenta en convocatoria merced la creciente interconectividad que permiten las nuevas tecnologías de comunicación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T052435Z" creationid="Ricardito120" creationdate="20161129T052435Z">
+        <seg>Mais paradoxalement, face à des conflits déterminés, la mobilisation sociale prend de l’ampleur grâce à l'interconnectivité croissante que permettent les nouvelles technologies de communication. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero por distintos flancos, todos hacia la misma meta.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161108T194550Z" creationid="william" creationdate="20161108T194550Z">
