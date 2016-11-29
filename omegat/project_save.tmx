@@ -7708,6 +7708,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero lo importante es que todas converjan en la misma dirección.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T062758Z" creationid="Ricardito120" creationdate="20161129T062758Z">
+        <seg>Mais l'important est que toutes convergent dans la même direction. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero luego hubo quienes pretendieron tomar las banderas de la libertad para justificar en su nombre la conformación de poderes opresivos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161129T013713Z" creationid="Podium" creationdate="20161129T013713Z">
