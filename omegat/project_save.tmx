@@ -7903,6 +7903,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Porque es obvio que no se puede abarcar en un libro todo lo que habría que hacer, y además la implementación de estas mismas propuestas de pasos requerirá de muchos pequeños sub-pasos que habrá que ir desarrollando sobre la marcha.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T050017Z" creationid="Ricardito120" creationdate="20161129T050017Z">
+        <seg>???(Parce qu)’il ??? est évident qu’un livre ne peut pas couvrir tout ce qu'il faudrait faire, et que de plus,  l'implémentation de ces mêmes propositions de pas à suivre requerra beaucoup de petits pas intermédiaires à développer en cours de route. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Porque la ausencia total de una organización social que restrinja la libertad de acción de cada individuo, debería permitir que un vecino le pegue un garrotazo a otro si le viene la gana.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161129T014509Z" creationid="Podium" creationdate="20161129T014509Z">
