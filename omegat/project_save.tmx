@@ -6921,6 +6921,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>O podemos encontrarnos con conflictos que afectan más transversalmente a la población y no existen formas organizativas previas abocadas a ese tipo de conflicto, por lo que deben emerger nuevas instancias organizativas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T055923Z" creationid="Ricardito120" creationdate="20161129T055923Z">
+        <seg>Nous pouvons aussi rencontrer des conflits qui affectent la population de façon plus transversale où n'existent pas de formes organisationnelles préalables liées à ce type de conflit, et donc de nouvelles instances organisationnelles doivent émerger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>O se trata de derechos que para ser vigentes dependen del poder establecido, o se trata de derechos como aspiraciones a cumplirse.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230818Z" creationid="Podium" creationdate="20161103T230818Z">
@@ -7995,6 +8003,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T223223Z" creationid="Ricardito120" creationdate="20161121T223223Z">
         <seg>Par exemple, si l'actuelle tendance de consommation de combustibles fossiles se maintenait, et que nous ne développions pas de sources d'énergie alternatives à l’échelle, bien que le problème de la pollution aurait été résolu technologiquement, nous continuerions d'avoir le problème de la pénurie d'énergie, et l'espèce en extinction serait l'espèce humaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ejemplo, un sindicato, una agrupación de vecinos, un centro de inmigrantes o una agrupación estudiantil.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T055857Z" creationid="Ricardito120" creationdate="20161129T055857Z">
+        <seg>par exemple : un syndicat, un groupe de voisins, un centre d'immigrants ou un groupe d’étudiants. </seg>
       </tuv>
     </tu>
     <tu>
