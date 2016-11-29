@@ -10078,6 +10078,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Supongamos que los medios de comunicación le dan espacio al tema, con lo cual se sensibiliza un alto porcentaje de la población.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T060913Z" creationid="Ricardito120" creationdate="20161129T060913Z">
+        <seg>Supposons que les médias accordent un espace au sujet. Un grand pourcentage de la population sera ainsi sensibilisé. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Supongamos que un sector de una ciudad carece de agua potable.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T231727Z" creationid="Françoise" creationdate="20161118T231727Z">
