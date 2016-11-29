@@ -7671,6 +7671,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Podría ocurrir que, independientemente del protagonismo del pueblo, emerjan gobernantes inspirados dispuestos a mejorar la situación de la gente; pero si los procesos de cambio no están cimentados sobre el compromiso de la población, ante una alternancia posterior de gobernantes, podrían revertirse.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T051741Z" creationid="Ricardito120" creationdate="20161129T051741Z">
+        <seg>Indépendamment du rôle actif du peuple, il est  possible qu’apparaissent des gouvernants inspirés disposés à améliorer la situation des gens; mais si les processus de changement ne sont pas basés sur un compromis de la population, et face à une alternance possible de dirigeants, ces processus de changement pourraient s’inverser. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Podría pensarse que ambos puntos de vista son complementarios, ya que para poder &lt;t0/&gt;gobernar y administrar una sociedad, primero hay que tener el poder de hacerlo, y a la vez una correcta administración favorece la permanencia en el poder del gobernante.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T191945Z" creationid="william" creationdate="20161105T191945Z">
