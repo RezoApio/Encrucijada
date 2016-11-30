@@ -8959,10 +8959,26 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Por ejemplo, establecer que cada país deba destinar un porcentaje de su presupuesto mayor al que destina en armamentos, a un fondo internacional destinado a financiar el desarrollo de las naciones más pobres.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050740Z" creationid="Ricardito120" creationdate="20161130T050740Z">
+        <seg>Par exemple, établir que chaque pays verse un pourcentage de son budget à l’armement à un fond international destiné à financer le développement des nations les plus pauvres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Por ejemplo, estamos de acuerdo con lo que se viene proponiendo desde el G77&lt;t0/&gt; en cuanto a reformular el Consejo de Seguridad, y particularmente terminar con la posición de privilegio de los cinco miembros permanentes.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050337Z" creationid="Ricardito120" creationdate="20161130T050337Z">
         <seg>Par exemple nous sommes en accord avec ce qui est proposé par le G77 quant à la reformulation du Conseil de Sécurité et particulièrement pour en finir avec la position privilégiée des 5 membres permanents. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ejemplo, la apertura de fronteras para todos los ciudadanos del mundo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050722Z" creationid="Ricardito120" creationdate="20161130T050722Z">
+        <seg>Par exemple, l’ouverture des frontières pour tous les citoyens du monde. </seg>
       </tuv>
     </tu>
     <tu>
