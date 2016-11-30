@@ -2185,6 +2185,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desmantelamiento de arsenales nucleares</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043358Z" creationid="Ricardito120" creationdate="20161130T043358Z">
+        <seg>Démantèlement de l’arsenal nucléaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desmantelamiento total de arsenales nucleares, y de toda arma de destrucción masiva.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T133523Z" creationid="la belle idee" creationdate="20161105T133523Z">
@@ -2495,6 +2503,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144202Z" creationid="la belle idee" creationdate="20161105T144202Z">
         <seg>Celui des travailleurs par le versement d’un pourcentage des gains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El desarme</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043346Z" creationid="Ricardito120" creationdate="20161130T043346Z">
+        <seg>Le désarmement</seg>
       </tuv>
     </tu>
     <tu>
