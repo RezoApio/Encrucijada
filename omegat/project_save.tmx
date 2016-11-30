@@ -6204,6 +6204,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La educación y la capacitación deberán acompañar este proceso, y sus tiempos deberán compatibilizarse con las demás etapas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T053809Z" creationid="Ricardito120" creationdate="20161130T053809Z">
+        <seg>L’éducation et la formation devront accompagner ce processus et ses temps devront être comptabilisés avec les autres étapes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La especie humana ha recorrido hasta aquí un camino que, si bien es relativamente corto respecto al surgimiento de la vida en el planeta, representa un importante proceso evolutivo en una permanente búsqueda lanzada hacia el futuro.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161027T193947Z" creationid="william" creationdate="20161027T193947Z">
@@ -11934,6 +11942,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161120T224536Z" creationid="Podium" creationdate="20161120T224536Z">
         <seg>Il existe également des différences par rapport aux thèmes pouvant faire l’objet d’une proposition : au Venezuela, il n’existe pas de limites ou de restrictions concernant la présentation d’une proposition, mais dans la majorité des constitutions, les citoyens ne peuvent pas proposer des lois concernant les impôts ou le budget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>También habrá que realizar reformas tributarias en las naciones más desarrolladas, para gravar más las grandes rentas, y sobre todo la renta financiera, y con esos recursos financiar también el desarrollo en los países más pobres.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T053824Z" creationid="Ricardito120" creationdate="20161130T053824Z">
+        <seg>Il faudra aussi réaliser des réformes fiscales dans les pays les plus développés pour ponctionner davantage les grands revenus et surtout le revenu financier et avec ces ressources financer aussi le développement des pays les plus pauvres. </seg>
       </tuv>
     </tu>
     <tu>
