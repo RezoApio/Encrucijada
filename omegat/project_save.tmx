@@ -1121,8 +1121,8 @@
       <tuv lang="ES-AR">
         <seg>Campaña por el desarrollo mundial</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161023T165058Z" creationid="william" creationdate="20161023T165058Z">
-        <seg>Campagne par le développement mondial</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052654Z" creationid="william" creationdate="20161023T165058Z">
+        <seg>Campagne pour le développement mondial</seg>
       </tuv>
     </tu>
     <tu>
@@ -12071,6 +12071,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155702Z" creationid="la belle idee" creationdate="20161030T155702Z">
         <seg>3.	Travailler sur quelques objectifs de la NHU en convoquant des volontaires. Travailler sur le thème, diffuser les activités, en rendant visible les conflits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Transformación progresiva de la matriz productiva enfocada en el consumismo, por una nueva matriz enfocada al desarrollo ecológicamente sustentable y a la equidad distributiva.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052627Z" creationid="Ricardito120" creationdate="20161130T052627Z">
+        <seg>•	Transformation progressive de la matrice productive concentrée dans le consumérisme pour une nouvelle matrice axée sur le développement écologique durable et la distribution équitable.</seg>
       </tuv>
     </tu>
     <tu>
