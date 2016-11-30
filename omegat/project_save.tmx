@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Algunos de los países más desarrollados, han visto florecer su economía a partir de la explotación de recursos naturales y de mano de obra esclava o cuasi esclava en los países del denominado tercer mundo, ya sea en las etapas coloniales anteriores a la segunda guerra mundial, o en las etapas neo colonialistas del capitalismo globalizado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T055035Z" creationid="Ricardito120" creationdate="20161130T055035Z">
+        <seg>Certains des pays les plus développés ont vu fleurir leur économie à partir de l’exploitation de ressources naturelles et d’une main d’œuvre esclave ou quasiment esclave dans les pays dits du tiers monde, depuis les étapes antérieures du colonialisme jusqu’à la seconde guerre mondiale, ou dans les étapes néo-colonialistes du capitalisme ???global (globalisé ?). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Algunos de los puntos más relevantes eran los siguientes:</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T114835Z" creationid="Ricardito120" creationdate="20161111T114835Z">
@@ -8512,6 +8520,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145351Z" creationid="la belle idee" creationdate="20161105T145351Z">
         <seg>Mais en plus des obstacles dans l'ascension, il y a la force de gravité qui nous pousse vers le bas qui ne sont que nos propres faiblesses qu’ il faut surmonter avec la force qui se niche dans l'esprit humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero además de mejorar la calidad de vida en los países de origen, evitando así los problemas de desarraigo que generan las migraciones forzosas, también habrá que facilitar el ingreso en los países de destino para quienes quieran emigrar, y obviamente para los refugiados que huyen de las guerras.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T055016Z" creationid="Ricardito120" creationdate="20161130T055016Z">
+        <seg>Mais en plus d’améliorer la qualité de vie dans les pays d’origines, évitant ainsi les problèmes de déracinement qui génèrent les migrations forcées, il faudrait aussi faciliter l’intégration dans les pays de destination à ceux qui veulent émigrer et évidemment pour les réfugiés qui fuient les guerres.</seg>
       </tuv>
     </tu>
     <tu>
