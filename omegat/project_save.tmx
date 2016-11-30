@@ -10962,6 +10962,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Todos alguna vez hemos cosido o visto coser un botón, o quizás algún remiendo, y tal vez hemos visto trabajar a un sastre o a una costurera.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T041325Z" creationid="Ricardito120" creationdate="20161130T041325Z">
+        <seg>Nous avons tous déjà cousu ou vu recoudre un bouton, ou peut être une retouche, et sûrement nous avons vu travailler un tailleur ou une couturière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Todos estos mecanismos, según el país del que se trate, pueden ser vinculantes o no, y pueden tener mayor o menor cantidad de filtros institucionales&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223943Z" creationid="Françoise" creationdate="20161118T223943Z">
