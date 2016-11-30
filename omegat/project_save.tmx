@@ -4654,6 +4654,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Existen numerosos conflictos limítrofes, pugnas por recursos naturales, separatismos regionales, enfrentamientos raciales y religiosos, y disputas de poder, que estallan en armas, provocando muerte y destrucción, y en ocasiones verdaderos genocidios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T045907Z" creationid="Ricardito120" creationdate="20161130T045907Z">
+        <seg>Il existe de nombreux conflits limitrophes, querelles pour des ressources naturelles, des séparatismes régionaux, des affrontements raciaux et religieux et des luttes de pouvoir qui éclatent avec des armes en provoquant la mort et la destruction et parfois en de véritables génocides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Facilitar la opinión, la crítica y las propuestas de las personas más participativas de la sociedad en un porcentaje significativo, generando un ambiente democrático dinámico, que neutralice la tendencia al anquilosamiento institucional.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143019Z" creationid="la belle idee" creationdate="20161105T143019Z">
@@ -8128,6 +8136,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T222259Z" creationid="Ricardito120" creationdate="20161121T222259Z">
         <seg>Mais le point c’est que les ressources que nous extrayons de la terre ne se limitent pas à l’alimentation, sinon que l’on doit alimenter la production de chaque fois plus d’objets, et chaque fois plus jetables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero el punto es que, si no existieran los factores 1 y 2, estos conflictos del punto 3 no provocarían tanta destrucción, y en muchos casos podrían resolverse pacíficamente.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T045934Z" creationid="Ricardito120" creationdate="20161130T045934Z">
+        <seg>Mais le point est que si les facteurs 1 et 2 n’existaient pas ces conflits du point 3 ne provoqueraient pas autant de destruction et dans beaucoup de cas on pourrait les résoudre pacifiquement.</seg>
       </tuv>
     </tu>
     <tu>
