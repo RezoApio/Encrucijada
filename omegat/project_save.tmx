@@ -9182,6 +9182,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero esto ya hubiese significado una osadía impensable para gobiernos comprometidos con el sistema.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161130T205011Z" creationid="william" creationdate="20161130T205011Z">
+        <seg>Mais cela aurait signifié une audace impensable de la part de gouvernements compromis avec le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero hoy es tanto lo que nos div&lt;t0/&gt;ide, que nos cuesta encontrar algo en común.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T172848Z" creationid="william" creationdate="20161024T172848Z">
