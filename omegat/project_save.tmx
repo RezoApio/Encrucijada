@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Ante existencia de conflictos armados, tratamiento en un Consejo de Seguridad elegido democráticamente, y posibilidad de envío de fuerzas internacionales de paz.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052208Z" creationid="Ricardito120" creationdate="20161130T052208Z">
+        <seg>Face aux conflits armés traitement dans un Conseil de Sécurité élu démocratiquement et la possibilité d’envoi de forces internationales de paix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Ante falta de respuestas denunciar públicamente a los gobernantes, exigiendo que se trate el tema mediante consultas populares y se habiliten instrumentos de democracia real.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T155731Z" creationid="la belle idee" creationdate="20161030T155731Z">
@@ -2075,8 +2083,8 @@
       <tuv lang="ES-AR">
         <seg>Desarme nuclear, reducción sustancial de armamentos convencionales, prohibición de comercialización de armas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052124Z" creationid="Ricardito120" creationdate="20161130T052124Z">
-        <seg>o	Désarmement nucléaire, réduction substantielle de l’armement conventionnel, prohibition de la vente des armes.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052320Z" creationid="Ricardito120" creationdate="20161130T052124Z">
+        <seg>•	Désarmement nucléaire, réduction substantielle de l’armement conventionnel, prohibition de la vente des armes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,8 +10204,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Resolución de conflictos de forma pacífica.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052159Z" creationid="Ricardito120" creationdate="20161130T052159Z">
-        <seg>o	Résolution des conflits de manière pacifique. </seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052334Z" creationid="Ricardito120" creationdate="20161130T052159Z">
+        <seg>•	Résolution des conflits de manière pacifique. </seg>
       </tuv>
     </tu>
     <tu>
