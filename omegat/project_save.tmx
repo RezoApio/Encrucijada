@@ -12264,6 +12264,14 @@ Ils continuent :
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>¿Quiénes?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T040625Z" creationid="Ricardito120" creationdate="20161130T040625Z">
+        <seg>Qui ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>¿Qué define entonces a la familia, su carácter “natural” o el compromiso voluntario de cumplir con determinadas funciones?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230545Z" creationid="Podium" creationdate="20161103T230545Z">
