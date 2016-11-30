@@ -2699,6 +2699,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El atentado a las torres gemelas fue perpetrado por extranjeros residentes en USA que tenían toda su documentación en regla.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T055645Z" creationid="Ricardito120" creationdate="20161130T055645Z">
+        <seg>L'attentat aux tours jumelles a été perpétré par des étrangers résidants aux USA et qui étaient en règle concernant leur statut (leurs papiers ?) ???..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El auge neoliberal de los 80 y los 90, potenciado y globalizado luego de la caída del comunismo, terminó con las pocas barreras que aún tenía el capital financiero internacional, el que pasó a tener libertad absoluta para depredar.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161122T191233Z" creationid="william" creationdate="20161122T191233Z">
@@ -12960,6 +12968,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161121T221115Z" creationid="Françoise" creationdate="20161121T221115Z">
         <seg>Et maintenant, l'acceptation de l'intervention militaire des pays, sous prétexte de la défense des droits humains, est beaucoup plus risquée, comme Silo le constatait déjà il y a plus de vingt ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y el mayor atentado en USA anterior al de las torres, fue el de Oklahoma, perpetrado por un ciudadano estadounidense, militante de ultraderecha.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T055702Z" creationid="Ricardito120" creationdate="20161130T055702Z">
+        <seg>Et l’attentat le plus important aux USA antérieur aux tours du wall street center, a été celui de l’Oklahoma, perpétré par un citoyen américain, militant d’extrême-droite. </seg>
       </tuv>
     </tu>
     <tu>
