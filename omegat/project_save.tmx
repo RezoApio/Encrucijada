@@ -8877,6 +8877,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero como los excedentes financieros eran demasiados y por su propia mecánica debían invertirse para generar más ganancia, se utilizaron para inflar burbujas, sobrevaluando activos y tomando ganancias antes de que tales burbujas estallen; la última y más grande, en el 2008, con las hipotecas sub-prime y la sobrevaluación inmobiliaria.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161130T200735Z" creationid="william" creationdate="20161130T200735Z">
+        <seg>Mais comme les excédents financiers étaient trop gros et que par leur propre mécanique devaient être investi pour générer plus de gains, ils ont été utilisés pour gonfler des bulles, surévaluant des actifs et prenant les bénéfices avant que ces bulles n'éclatent, comme la dernière et plus grande de toutes, celle de 2008, avec les hypothèques sub-prime et la surévaluation immobilière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero como suele ocurrir con algunas enfermedades, este diagnóstico no refleja más que los síntomas externos de un problema mucho más profundo, y de nada sirven entonces las recetas para atenuar tales síntomas si no se comprende la raíz de los fenómenos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T224035Z" creationid="william" creationdate="20161105T224035Z">
