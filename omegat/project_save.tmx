@@ -2201,6 +2201,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde luego que siempre será necesario trabajar por el desarme en todos los países, porque la concientización debe llegar a cada rincón del planeta, pero sepamos que mientras no se logre esto entre las poblaciones de las potencias armamentistas, el mundo será un lugar cada vez más violento.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050135Z" creationid="Ricardito120" creationdate="20161130T050135Z">
+        <seg>Bien sûr il sera nécessaire de travailler pour le désarmement dans tous les pays afin que la sensibilisation parvienne dans chaque lieu de la planète mais nous savons que tant que nous n’aurons pas obtenu cela entre les populations des puissances armées, le monde sera un lieu chaque fois plus violent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desde luego que sí.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230431Z" creationid="Podium" creationdate="20161103T230431Z">
@@ -8576,6 +8584,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T021745Z" creationid="Podium" creationdate="20161111T021745Z">
         <seg>Mais si tu ne portes pas préjudice à d’autres, tu peux faire ce que tu veux avec liberté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero si queremos avanzar realmente con el desarme, dando pasos reales e irreversibles como buscamos que lo sean todos los pasos planteados en este libro, debemos concientizar también acerca de los falsos pasos que solamente sirven para engañar a las poblaciones, y un ejemplo de ello es el Tratado sobre el Comercio de Armas&lt;t0/&gt; aprobado por la ONU a principios del 2013.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050152Z" creationid="Ricardito120" creationdate="20161130T050152Z">
+        <seg>Mais nous voulons réellement progresser avec le désarmement, en faisant des pas réels et irréversibles comme nous voulons que le soient toutes les étapes posées dans ce livre, nous devons aussi sensibiliser au sujet des fausses étapes qui servent seulement à tromper les populations, et un exemple de cela et le Traité sur le Commerce des armes approuvé par l’ONU début 2013. </seg>
       </tuv>
     </tu>
     <tu>
