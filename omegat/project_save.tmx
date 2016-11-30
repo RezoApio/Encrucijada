@@ -8484,6 +8484,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero precisamente el problema es que los miembros permanentes del Consejo de Seguridad&lt;t1/&gt; son los mayores proveedores de armas del planeta, por lo cual tienen intereses en alimentar los conflictos, y son también los que más intereses económicos y políticos tienen distribuidos en buena parte del mundo, por lo cual difícilmente haya algún conflicto en el que no tengan un interés propio o de algún aliado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050014Z" creationid="Ricardito120" creationdate="20161130T050014Z">
+        <seg>Mais le problème c’est précisément que les membres permanents du Conseil de Sécurité sont les plus importants vendeurs d’armes sur la planète, par conséquent ceux qui ont des intérêts à alimenter les conflits, et se sont aussi ceux qui ont le plus d’intérêts économiques et politiques répartis dans une bonne partie du monde, c’est pourquoi il est difficile qu’il n’y ait aucun conflit dans lequel ils n’auraient pas un intérêt propre ou celui d’un allié. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero puede desfallecer si no percibe claramente que está avanzando, que está ganando terreno.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T193543Z" creationid="william" creationdate="20161107T193543Z">
@@ -9285,6 +9293,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T201010Z" creationid="william" creationdate="20161114T201010Z">
         <seg>Car s'il est vrai que dans le capitalisme il existe un moteur de croissance permanente, tel que l'est la libre initiative des personnes pour travailler, produire, investir et consommer, il est aussi compatible avec un système politique qui assure les libertés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Porque si bien es cierto que habría que refundar a la ONU (y de eso hablaremos en otro capítulo), también es cierto que hoy por hoy, de acuerdo a los capítulos V, VI y VII de la Carta de las Naciones Unidas&lt;t0/&gt;, ya existen mecanismos previstos para llegar a la resolución pacífica de muchos conflictos, o al menos para morigerar la violencia de los mismos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T045955Z" creationid="Ricardito120" creationdate="20161130T045955Z">
+        <seg>Parce que même s’il faudrait reformer l’ONU (et de cela nous parlerons dans un autre chapitre), il aussi vrai au jour d’aujourd’hui, qu’en accord avec les chapitres V, VI et VII de la Charte des Nations Unies, il existe déjà des mécanismes prévus pour parvenir à une résolution pacifique de beaucoup de conflits ou au moins pour modérer la violence de ceux-là. </seg>
       </tuv>
     </tu>
     <tu>
