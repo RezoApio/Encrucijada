@@ -4743,8 +4743,8 @@ Mais dans le chapitre XII précise à nouveau :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>Es sabido que las recetas recesivas del FMI, en nombre de la ortodoxia monetarista a la hora de pautar las políticas de los países endeudados, han producido el efecto contrario, porque no solamente generaron recesión y desempleo, sino que además las deudas crecieron.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161130T211004Z" creationid="william" creationdate="20161130T211004Z">
-        <seg>Il est connu que les recettes récessives du FMI, au nom de l'orthodoxie monétariste à l'heure de fixer les règles pour les pays endettés ont produit l'effet contraire, puisque non seulement elles ont générés récession et chômage mais en plus les dettes ont augmentés.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161201T193916Z" creationid="william" creationdate="20161130T211004Z">
+        <seg>On sait que les recettes récessives du FMI, à l'heure de fixer les règles pour les pays endettés au nom de l'orthodoxie monétariste ont produit l'effet contraire, puisque non seulement elles ont générés récession et chômage mais en plus les dettes ont augmentés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12632,6 +12632,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T060458Z" creationid="Ricardito120" creationdate="20161129T060458Z">
         <seg>Il est aussi évident que la visualisation de conflits déterminés par la société, est parfois en lien  avec la diffusion médiatique qui lui est donnée. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>También es sabido que los condicionamientos de los préstamos del Banco Mundial siguen una línea similar respecto a las políticas económicas que consideran correctas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161201T194038Z" creationid="william" creationdate="20161201T194038Z">
+        <seg>On sait aussi que les conditions d'obtention des prêts de la Banque mondiale suivent le même principe par rapport aux politiques économiques considérées comme correctes.</seg>
       </tuv>
     </tu>
     <tu>
