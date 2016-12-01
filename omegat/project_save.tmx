@@ -13068,6 +13068,15 @@ phrase trop longue</note>
       </tuv>
     </tu>
     <tu>
+      <note>Le Centre International de Règlement des Différends en matière d'investissement (CIRDI)</note>
+      <tuv lang="ES-AR">
+        <seg>Un caso particular y paradigmático es el CIADI&lt;t1/&gt;, herramienta jurídica del Banco Mundial, y por lo tanto funcional a los intereses de las multinacionales de los principales accionistas del BM (USA, Reino Unido, Francia, Japón y Alemania).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161201T200108Z" creationid="william" creationdate="20161201T200108Z">
+        <seg>Un cas particulier et démonstratif est celui du CIRDI (Centre international de réglement des différends en matière d'investissement), outil juridique de la Banque mondiale et donc proche des intérêts des multinationales des principaux actionnaires de la Banque mondiale (États-unis, Royaume-uni, France, Japon et Allemagne).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="ES-AR">
         <seg>Un mundo sin fronteras, una Confederación de Naciones Humanistas, sin guerras, sin violencia, sin hambre, sin discriminación, con justicia social, con democracia real, con equilibrio ambiental, con solidaridad, y por sobre todo, con el futuro abierto.</seg>
       </tuv>
