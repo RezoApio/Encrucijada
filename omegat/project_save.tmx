@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6228,6 +6228,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Iguales derechos e idénticas oportunidades, un paradigma a partir del cual debieran derivarse el resto de los paradigmas de una nueva economía.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161204T222736Z" creationid="Ricardito120" creationdate="20161204T222736Z">
+        <seg>Les mêmes droits et les mêmes chances, un paradigme à partir duquel devrait dériver le reste des paradigmes d’une nouvelle économie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Implementar en todos los niveles educativos, la Educación para la No-Violencia.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T144526Z" creationid="la belle idee" creationdate="20161105T144526Z">
@@ -7770,6 +7778,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161117T163937Z" creationid="Françoise" creationdate="20161117T163937Z">
         <seg>Les grands pas au niveau national</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Los humanistas partimos de un paradigma totalmente opuesto, los humanistas afirmamos que todo ser humano, por el simple hecho de nacer, debe tener iguales derechos e idénticas oportunidades.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161204T222712Z" creationid="Ricardito120" creationdate="20161204T222659Z">
+        <seg>Nous, les humanistes, nous partons d’un paradigme totalement opposé, nous affirmons que tout être humain du seul fait de naître, doit avoir les mêmes droits et les mêmes chances.</seg>
       </tuv>
     </tu>
     <tu>
