@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10381,6 +10381,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050722Z" creationid="Ricardito120" creationdate="20161130T050722Z">
         <seg>Par exemple, l’ouverture des frontières pour tous les citoyens du monde. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ejemplo, la teoría del derrame, aquello de que si algunos se enriquecen comenzarán a gastar su dinero, y su gasto será como una cascada de inversiones y recursos que se volcará sobre los más pobres, ya no resulta tan creíble para las mayorías empobrecidas que ven como cada día los ricos son más ricos y los pobres son más pobres.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161204T222049Z" creationid="Ricardito120" creationdate="20161204T222049Z">
+        <seg>Par exemple, la théorie du reversement, qui nous dit : si certains s’enrichissent, ils commenceront à dépenser leur argent, et leur dépense sera comme une cascade d’investissement et de ressources qui basculera sur les plus pauvres, mais cela n’est déjà plus crédible pour les majorités appauvries qui voient comment chaque jour les riches deviennent plus riches et les pauvres plus pauvres. </seg>
       </tuv>
     </tu>
     <tu>
