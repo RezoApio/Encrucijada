@@ -1352,6 +1352,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Como ya hemos dicho antes, allí donde las poblaciones sean refractarias a estas transformaciones, habrá que esforzarse en concientizar, en persuadir, en explicar, en sensibilizar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182717Z" creationid="la belle idee" creationdate="20161204T182717Z">
+        <seg>Comme nous l’avons déjà dit précédemment, là où les populations sont réfractaires à ces transformations, il faudra s'efforcer à faire prendre conscience, à persuader, à expliquer, à sensibiliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Como ya hemos dicho, es sumamente importante para avanzar hacia la Nación Humana Universal, tener claros los objetivos y los pasos a seguir en cada escalón del ascenso, porque las imágenes nítidas movilizan, dan fuerza y cohesión.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T045918Z" creationid="Ricardito120" creationdate="20161129T045918Z">
@@ -1948,6 +1956,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132719Z" creationid="Ricardito120" creationdate="20161111T132719Z">
         <seg>En fait, les usines de libre-échange situées le long de la frontière entre les États-Unis et le Mexique – en espagnol, les maquiladoras – sont probablement les seules structures qui prolifèrent aussi rapidement que les magasins Wal-Mart : il y avait, en 1985, 789 maquiladoras ; 2 747 en 1995 ; et dès 1997, 3 508 employant environ 900 000 travailleurs »..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>De hecho, todo esto pasa, y es una de &lt;t0/&gt;las principales razones por las que las transformaciones demoran en llegar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182659Z" creationid="la belle idee" creationdate="20161204T182659Z">
+        <seg>En fait, tout cela existe, et c’est l'une des raisons principales pour lesquelles les transformations ont de la peine à se produire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +10005,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T061025Z" creationid="Ricardito120" creationdate="20161129T061025Z">
         <seg>Il pourrait en avoir d’autres qui demandent des subventions pour organiser des soupes populaires. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Podría ocurrir que muchos sean refractarios a los inmigrantes, o que discriminen a otras razas y credos, o que crean en la violencia como metodología para resolver diferencias.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182629Z" creationid="la belle idee" creationdate="20161204T182629Z">
+        <seg>Il pourrait arriver que beaucoup soient réfractaires aux immigrants, ou qu'ils discriminent d'autres races et croyances, ou qu'ils croient à la violence comme une méthodologie pour résoudre des différences.</seg>
       </tuv>
     </tu>
     <tu>
