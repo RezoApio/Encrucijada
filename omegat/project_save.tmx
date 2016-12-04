@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161102T193411Z" creationid="william" creationdate="20161102T193411Z">
         <seg>&lt;t1/&gt;Nous sommes surement beaucoup à partager ce sentiment de rébellion devant l'apparente immobilité d'une société décadente qui propose comme unique motivation l'illusion du progrès économique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>&lt;t11/&gt;Porque a&lt;t12/&gt;unque no se identifique a nadie en particular, habrá muchos que&lt;t13/&gt; se&lt;t14/&gt; reconozcan &lt;t15/&gt;en&lt;t16/&gt; esas actitudes,&lt;t17/&gt; que&lt;t18/&gt; no les guste internamente verse de ese modo, y traten de sobreponerse a su propia tendencia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T183638Z" creationid="la belle idee" creationdate="20161204T183638Z">
+        <seg>Parce que bien que nous identifions personne en particulier, il y en aura certains qui se reconnaitront dans ces attitudes qui d’un point de vue interne n’aimeront pas se voir ainsi, et essayeront de surmonter leur propre tendance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3276,6 +3284,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El valor de la coherencia y de la Regla de Oro, y el contraste con los comportamientos no deseados, es algo que debiera ser destacado permanentemente, pero no como una prédica moralista en el vacío, sino en la misma dinámica de las acciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T183604Z" creationid="la belle idee" creationdate="20161204T183604Z">
+        <seg>La valeur de la cohérence et celle de la Règle d'Or ainsi que le contraste avec les comportements non souhaités, devraient être soulignés de façon permanente, non pas comme un sermon moraliste dans le vide, mais dans la même dynamique des actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El verdadero avance se debe percibir como el escalamiento de una montaña, donde a pesar de la distancia, no se pierde de vista la cumbre.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161107T200205Z" creationid="william" creationdate="20161107T200205Z">
@@ -3496,6 +3512,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T045611Z" creationid="Ricardito120" creationdate="20161130T045611Z">
         <seg>Dans diverses occasions on a affirmé que l’économie de certains pays, notamment les USA, se verrait énormément affectée si on arrêtait l’énorme machinerie du Complexe Militaro Industriel car le nombre d’emplois qu’il génère est énorme. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En consecuencia, habrá gente que después de haberlo dudado contribuirá, al menos con su firma o con el apoyo a una movilización, lo que sumará fuerzas en el objetivo de la actividad, pero además se habrá logrado el otro objetivo hacia el cambio cultural, al lograr que al menos algunas personas cambien algo de sus conductas, lo cual será muy bueno para ellos también.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T183657Z" creationid="la belle idee" creationdate="20161204T183657Z">
+        <seg>Par conséquent, il y aura des personnes qui après avoir douté sur cette campagne contribueront, au moins avec leur signature ou en participant à une mobilisation, ce qui additionnera les forces vis-à-vis de l'objectif de l'activité, mais de plus l'autre objectif vers le changement culturel aura été obtenu, car quelques personnes auront changé quelque chose de leur conduite, ce qui sera très bon pour eux aussi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12465,6 +12489,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T180516Z" creationid="Françoise" creationdate="20161118T180516Z">
         <seg>Si une forme d'organisation est encline à être manipulé par les dirigeants qui dévient l'objectif ou si elle cristallise sans avancer, alors cette forme d'organisation n'est pas utile..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Si, por ejemplo, se estuviera realizando una &lt;t0/&gt;determinada campaña&lt;t1/&gt;, para la cual se estuvieran &lt;t2/&gt;recogiendo firmas&lt;t3/&gt;, &lt;t4/&gt;y ejerciendo&lt;t5/&gt; presión con &lt;t6/&gt;movilizaciones; en el marco de esa campaña habría que difundir, no solament&lt;t7/&gt;e las explicaciones pertinentes&lt;t8/&gt;, sino &lt;t9/&gt;realizar &lt;t10/&gt;también una caricaturización de la actitud autoritaria de los funcionarios que podrían oponerse a tal iniciativa, y de la actitud indiferente y pasiva de los ciudadanos obsecuentes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T183623Z" creationid="la belle idee" creationdate="20161204T183623Z">
+        <seg>Si, par exemple, une campagne était réalisée, pour recueillir des signatures, et exercer une pression avec des mobilisations; il faudrait, dans le cadre de cette campagne, non seulement diffuser des explications pertinentes, mais aussi réaliser une caricature de l'attitude autoritaire des politiciens qui pourraient s'opposer à une telle initiative, et de l'attitude indifférente et passive des citadins soumis.</seg>
       </tuv>
     </tu>
     <tu>
