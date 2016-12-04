@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Al parecer la vieja premisa de que “el enemigo de mi enemigo es mi amigo”, sigue impidiendo a muchos la objetividad en el pensamiento, y tratándose de la defensa de los derechos humanos, esto es muy grave.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T172518Z" creationid="Françoise" creationdate="20161204T172518Z">
+        <seg>Apparemment la vieille prémisse « l'ennemi de mon ennemi est mon ami », continue d'empêcher à beaucoup une objectivité de pensée et en ce qui concerne la défense des droits de l'homme, c'est très grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Al parecer, es la situación previa de poder la que instala una determinada ley que a su vez legaliza al poder.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230917Z" creationid="Podium" creationdate="20161103T230917Z">
@@ -1364,6 +1372,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T165000Z" creationid="Françoise" creationdate="20161118T165000Z">
         <seg>Avec de l'argent on achète les syndicalistes et les hommes politiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Con el Medio Oriente este fenómeno se potencia: por una parte están los que denuncian las violaciones a los derechos humanos en algunos países árabes, muchas veces para manipular a la opinión pública antes de una intervención militar cuya misión no son los derechos humanos sino los pozos de petróleo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T172442Z" creationid="Françoise" creationdate="20161204T172442Z">
+        <seg>Avec le Moyen-Orient ce phénomène est amplifié : d'une part on trouve ceux qui dénoncent les violations des droits humains dans quelques pays arabes, souvent pour manipuler l'opinion publique avant une intervention militaire dont la mission n’est pas les droits humains mais les puits de pétrole. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,6 +3040,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T221731Z" creationid="Ricardito120" creationdate="20161121T221731Z">
         <seg>le même protocole qui en 2013 a été prorogé jusqu’en 2020, sans grandes espérances d’obtenir des résultats. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El mismo comportamiento, aunque a la inversa lo tienen algunas organizaciones que se especializan en denunciar los atropellos de los gobiernos que definen como derechas, mientras miran para otro lado cuando no se respetan los derechos en naciones a las que consideran de izquierda o progresistas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T172419Z" creationid="Françoise" creationdate="20161204T172419Z">
+        <seg>Le même comportement mais à l'inverse est pratiqué par quelques organisations qui se spécialisent dans la dénonciation des violations des droits humains par les gouvernements qui se définissent de droite, tandis qu'elles regardent de l’autre côté quand les droits humains ne sont pas respectés par des nations qui sont considérées comme de gauche ou progressistes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5297,8 +5321,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Evidentemente en este tema del doble estándar para los derechos humanos, los medios de comunicación han hecho un buen trabajo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T171316Z" creationid="Françoise" creationdate="20161204T171316Z">
-        <seg>lEvidentemente en este tema del doble estándar para los derechos humanos, los medios de comunicación han hecho un buen trabajo.</seg>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T172353Z" creationid="Françoise" creationdate="20161204T171316Z">
+        <seg>Évidemment dans cette partialité à propos des droits de l'homme, les médias ont fait un bon travail. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14204,6 +14228,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T145537Z" creationid="la belle idee" creationdate="20161105T145537Z">
         <seg>Et c'est cela que nous avons analysé les secteurs principaux dans lesquelles des transformations profondes doivent être réalisées, et nous avons détaillé les pas qu'il faudrait donner dans chaque cas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y por otra parte están los que cuestionan, con mucha razón a los invasores, pero ni antes ni después han denunciado las atrocidades de algunos dictadores de esa región.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T172504Z" creationid="Françoise" creationdate="20161204T172504Z">
+        <seg>D'autre part se trouvent ceux qui questionnent, à juste titre, les envahisseurs, mais à aucun moment ils ne dénoncent les atrocités des dictateurs de cette région. .</seg>
       </tuv>
     </tu>
     <tu>
