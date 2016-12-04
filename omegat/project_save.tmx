@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4239,6 +4239,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050427Z" creationid="Ricardito120" creationdate="20161130T050427Z">
         <seg>En synthèse l’ONU est un appareil au service des puissances, qui offre un écran de légalité à ses violations et un maquillage philanthropique qui dissimule son total désintérêt pour résoudre la racine de pauvreté dans le monde. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En síntesis, si se trabaja por la construcción de una Nación Humana Universal, se estará trabajando por la vigencia de los Derecho Humanos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T201241Z" creationid="Françoise" creationdate="20161204T201241Z">
+        <seg>En synthèse, si l’on travaille pour la construction d'une Nation humaine universelle, on sera en train de travailler pour l’application des Droits Humains.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11099,6 +11107,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pues hay que decir que en lo que hace a los derechos humanos de primera generación, se avanzará realmente cuando se termine con el tráfico de armas y con las guerras, porque es imposible que se respeten los derechos humanos mientras se ponen cada vez más armas en manos de los gobiernos y de las poblaciones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T201214Z" creationid="Françoise" creationdate="20161204T201214Z">
+        <seg>Ainsi, il faut dire que concernant les droits humains de première génération, on avancera réellement quand on en terminera avec le trafic d'armes et avec les guerres car il est impossible respecter les droits humains si l’on met de plus en plus d'armes dans les mains des gouvernements et des populations. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pues la misma inutilidad e hipocresía demuestra este organismo cuando se trata de avanzar sobre la problemática ambiental.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T215437Z" creationid="Ricardito120" creationdate="20161121T215437Z">
@@ -14080,6 +14096,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y en lo que hace a los derechos humanos de segunda generación, se avanzará realmente cuando haya solidaridad entre las naciones para acelerar el ritmo de desarrollo en los países más pobres, para que sus habitantes puedan tener trabajo, vivienda, salud y educación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T201233Z" creationid="Françoise" creationdate="20161204T201233Z">
+        <seg>Par rapport aux droits humains de deuxième génération, on avancera réellement quand il y aura de la solidarité entre les nations pour accélérer le rythme du développement des pays les plus pauvres pour que leurs habitants puissent obtenir : travail, logement, santé et éducation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y en los ejemplos que acabamos de dar, nuevamente surge la pregunta de “quiénes” trabajarán por las transformaciones que proponemos; posiblemente entre los que proponen la expulsión de inmigrantes no los encontremos, pero entre el resto quizás sí, y será posible articular acciones conjuntas en la medida que se concientice sobre cuáles son las mejores alternativas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T061803Z" creationid="Ricardito120" creationdate="20161129T061803Z">
@@ -14804,6 +14828,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T141854Z" creationid="Françoise" creationdate="20161118T141854Z">
         <seg>Nous avons déjà dit que dans les pays dans lesquels les besoins essentiels ne sont pas encore réglés, la croissance économique implique nécessairement une augmentation de la consommation de biens matériels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Ya hemos hablado de otros grandes pasos que hay que dar en el nivel internacional, y nos hemos referido por una parte al desarme y por otra parte a una campaña por el desarrollo mundial.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161204T201159Z" creationid="Françoise" creationdate="20161204T201159Z">
+        <seg>Nous avons déjà parlé d'autres grands pas qu'il faut faire au niveau international et nous faisions référence d'une part au désarmement et d'autre part à une campagne pour le développement mondial. </seg>
       </tuv>
     </tu>
     <tu>
