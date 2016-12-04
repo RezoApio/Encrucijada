@@ -3027,6 +3027,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El dinero surgió solamente como una herramienta de cambio, para dinamizar una economía de trueque, no tenía capacidad de generar un nuevo valor por sí mismo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161204T222407Z" creationid="Ricardito120" creationdate="20161204T222407Z">
+        <seg>L’argent est apparue seulement comme un outil d’échange, pour dynamiser une économie de troc, elle n’avait pas la capacité de générer une nouvelle valeur en elle-même. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El economista francés Thomas Piketty, en su libro “La economía de las Desigualdades”, analiza las diferentes políticas para disminuir las desigualdades, ya sea entre ingresos salariales, o entre ingresos de renta de capital respecto a salarios, o la desigualdad patrimonial, producto de las diferencias en los ingresos más el proceso de acumulación hereditaria.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224139Z" creationid="Podium" creationdate="20161103T224139Z">
