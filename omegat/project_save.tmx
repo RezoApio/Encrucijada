@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7680,8 +7680,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>Los sistemas de valores</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T181940Z" creationid="la belle idee" creationdate="20161204T181940Z">
-        <seg>Les systèmes de valeurs</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182510Z" creationid="la belle idee" creationdate="20161204T181940Z">
+        <seg>Les systèmes de valeu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9598,6 +9598,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero podría pasar que un segmento de la población no creyera en que es posible hacerse cargo de su propio destino, y se conformara con ser manejada por los políticos profesionales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182538Z" creationid="la belle idee" creationdate="20161204T182538Z">
+        <seg>Mais il se pourrait qu'un segment de la population ne croit pas qu'il soit possible de prendre en charge notre propre destin, et se contenterait à être mené par les hommes politiques professionnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero por distintos flancos, todos hacia la misma meta.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161108T194550Z" creationid="william" creationdate="20161108T194550Z">
@@ -9953,6 +9961,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Podemos hablar de lo que deberían hacer los pueblos para lograr las transformaciones hacia una democracia real, y también explicar lo que pensamos que se debe hacer para transformar la economía, o proponer abrir las puertas a todos los inmigrantes del mundo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182520Z" creationid="la belle idee" creationdate="20161204T182520Z">
+        <seg>Nous pourrions parler de ce que devraient faire les peuples pour obtenir les transformations pour aller vers une démocratie réelle, et aussi expliquer ce que nous pensons sur ce qu’il faudrait faire pour transformer l'économie, ou proposer d'ouvrir les portes à tous les immigrants du monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Podría argumentarse que ese era un pensamiento demasiado antiguo, sin embargo, luego de siglos de gobiernos autoritarios y absolutistas, habiendo pasado por el colapso de las monarquías a partir de fines del siglo XVIII, fue recién promediando el siglo XX que las mujeres tuvieron derecho a voto, mientras que los afroamericanos tuvieron que esperar aún más en algunos países que se autoproclamaban como democracias ejemplares.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T151124Z" creationid="Françoise" creationdate="20161118T151124Z">
@@ -9981,6 +9997,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T051741Z" creationid="Ricardito120" creationdate="20161129T051741Z">
         <seg>Indépendamment du rôle actif du peuple, il est  possible qu’apparaissent des gouvernants inspirés disposés à améliorer la situation des gens; mais si les processus de changement ne sont pas basés sur un compromis de la population, et face à une alternance possible de dirigeants, ces processus de changement pourraient s’inverser. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Podría pasar también que a una porción importante de la población no le importe el sufrimiento de sus hermanos por efectos de una economía injusta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182558Z" creationid="la belle idee" creationdate="20161204T182558Z">
+        <seg>Il pourrait aussi arriver qu’une importante partie de la population soit indifférente à la souffrance de leurs frères due aux effets d'une économie injuste.</seg>
       </tuv>
     </tu>
     <tu>
