@@ -2673,6 +2673,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Después de más de un siglo de intentos de lucha contra el dominio del capitalismo, tanto en el terreno de la praxis como en el de la teoría, muchos no creen ya tan ciegamente en algunos de los paradigmas del liberalismo económico, pero de todos modos terminan aceptando con resignación su predominio, y la idea de que no existe una alternativa mejor se va instalando con resignación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161204T222016Z" creationid="Ricardito120" creationdate="20161204T222016Z">
+        <seg>Après plus d’un siècle de tentatives de luttes contre la domination du capitalisme tant sur le terrain de la pratique que de la théorie, nombreux sont ceux qui ne croient plus aveuglément dans certains paradigmes du libéralisme économique, mais qui de toute façon finissent  par accepter avec résignation sa prédominance, et l’idée qu’il n’existe pas une meilleure alternative s’installe avec résignation. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Después se podrá avanzar sobre otras áreas cuyo mal funcionamiento está montado sobre esos cimientos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T204711Z" creationid="william" creationdate="20161114T204711Z">
@@ -10237,6 +10245,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023144Z" creationid="Podium" creationdate="20161111T023144Z">
         <seg>Nous pouvons dire que ce principe contient à la fois la morale pour soi et la morale pour les autres, incluant en un même acte l’humanisation de soi et l’humanisation des autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Podríamos diferenciar entre aquellos paradigmas defendidos por los ideólogos del sistema económico imperante, y aquellos en los que la gente cree.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161204T221951Z" creationid="Ricardito120" creationdate="20161204T221951Z">
+        <seg>Nous pourrions faire la différence entre les paradigmes défendus par les idéologues du système économique régnant, et ceux auxquels les gens croient. </seg>
       </tuv>
     </tu>
     <tu>
