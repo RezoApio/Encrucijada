@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -186,6 +186,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161114T163558Z" creationid="Ricardito120" creationdate="20161114T163558Z">
         <seg>À partir du moratoire du Mexique en 1982, différentes recettes d’ajustements budgétaires ont été testées : des processus bien mal nommés « ajustements avec croissance » comme le décevant plan Baker ; des opérations de conversion de la dette à travers desquelles les créanciers achetaient des actions d'entreprises nationales ; et dans les années 90 simplement ils ont privatisé toutes les entreprises publiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>A partir de la regla de oro &lt;t1/&gt;“Trata a los demás como quieres que te traten”, &lt;t2/&gt;la que bajo diferentes formas se encuentra en todas las religiones y culturas,&lt;t3/&gt; &lt;t4/&gt;se puede encontrar un lenguaje común para comunicar la idea-fuerza de un proyecto transformador que comience ocupándose de lo local pero que se pueda proyectar en el mundo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182948Z" creationid="la belle idee" creationdate="20161204T182948Z">
+        <seg>À partir de la règle d'or “ Traite les autres comme tu veux qu'ils te traitent”, qui sous différentes formes se retrouve dans toutes les religions et cultures, on peut trouver un langage commun pour communiquer l'idée - force d'un projet transformateur qui commence par s'occuper du local mais qui peut se projeter dans le monde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6100,6 +6108,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Inclusive dentro de lo que se denominan derechos humanos universales, se ha puesto en duda su universalidad desde la tesis cultural, tal como mencionaba Silo en 1993.&lt;t0/&gt;No obstante, existen derechos básicos de primera generación por los que debiera lucharse en cualquier país, y la concientización sobre los mismos, y sobre todo la lucha contra la indiferencia ante sus violaciones, implican un sistema de valores por los que está claro que se debe trabajar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182922Z" creationid="la belle idee" creationdate="20161204T182922Z">
+        <seg>Y compris sur ce que l’on nomme les droits de l'homme universels, son universalité a été mise en cause depuis la thèse culturelle, comme le mentionnait Silo en 1993. Cependant, il existe des droits basiques de première génération pour lesquels on devrait lutter dans tous les pays, mais arriver à une prise de conscience, et surtout à lutter contre l'indifférence face à leurs violations, impliquent un système de valeurs sur lequel il est clair qu'il faut travailler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Incorporación de los presupuestos participativos en el nivel municipal, y de consultas sobre líneas presupuestarias generales en niveles regionales y nacionales.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T143434Z" creationid="la belle idee" creationdate="20161105T143434Z">
@@ -7696,8 +7712,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>Los sistemas de valores</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182510Z" creationid="la belle idee" creationdate="20161204T181940Z">
-        <seg>Les systèmes de valeu</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182806Z" creationid="la belle idee" creationdate="20161204T181940Z">
+        <seg>Les systèmes de valeurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -8924,6 +8940,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Para muchos el diagnóstico de un mundo donde crece la violencia y la injusticia, tiene su raíz en la pérdida de los valores morales; y algo de cierto hay en esa afirmación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T183009Z" creationid="la belle idee" creationdate="20161204T183009Z">
+        <seg>Pour beaucoup le diagnostic d'un monde où grandissent la violence et l'injustice, a sa racine dans la perte des valeurs morales; et il y a une part de vérité dans cette affirmation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Para poder abordar las etapas de un proceso de desarme convencional, habría que denunciar profusamente los intereses reales que se ocultan detrás de las falsas argumentaciones de los gobernantes de las potencias, obsecuentes con el poder del Complejo Militar Industrial.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T044626Z" creationid="Ricardito120" creationdate="20161130T044626Z">
@@ -9074,6 +9098,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181644Z" creationid="Françoise" creationdate="20161118T181644Z">
         <seg>Mais à cela, en profitant des nouvelles technologies, nous pouvons ajouter un “environnement consultatif basique”, formé d'un pourcentage variable de personnes qui donnent leur avis et font des propositions pour faire un apport constructif sur les sujets en question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero a la hora de concientizar entonces, habrá que ver sobre qué valores se lo hace, porque hay diferentes pueblos y diferentes culturas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161204T182832Z" creationid="la belle idee" creationdate="20161204T182832Z">
+        <seg>Mais à l'heure de faire prendre conscience, il faudra alors voir sur quelles valeurs le faire, parce qu'il existe différents peuples et différentes cultures.</seg>
       </tuv>
     </tu>
     <tu>
