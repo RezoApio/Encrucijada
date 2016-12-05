@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Analizar las potencialidades de la región, en cuanto a recursos humanos, naturales, capital instalado e infraestructura.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213256Z" creationid="Ricardito120" creationdate="20161205T213256Z">
+        <seg>Analyser les potentialités de la région, en ce qui concerne les ressources humaines et naturelles, le capital installé et les infrastructures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Ante coyunturas electorales se deberá evaluar si las organizaciones se limitan a un rol de presión política, comprometiendo a determinados candidatos a llevar sus propuestas; o si por el contrario, se incursiona en la arena política con candidatos propios.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T212150Z" creationid="la belle idee" creationdate="20161105T142819Z">
@@ -6808,6 +6816,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211758Z" creationid="la belle idee" creationdate="20161030T160049Z">
         <seg>Intervenir politiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Investigar en qué áreas es posible aumentar la producción, y qué otras es posible iniciar nuevos procesos productivos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213315Z" creationid="Ricardito120" creationdate="20161205T213315Z">
+        <seg>Examiner dans quel domaine il est possible d’augmenter la production et voir la possibilité d’initier de nouveaux processus productifs.</seg>
       </tuv>
     </tu>
     <tu>
