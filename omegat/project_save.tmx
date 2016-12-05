@@ -1127,6 +1127,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Avanzar hacia un sistema de Economía Mixta, no significa que el Estado se convierta en empresario, pero tampoco que se quede esperando a que el sector privado y las fuerzas del mercado generen trabajo genuino con una equitativa distribución de la renta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212533Z" creationid="Ricardito120" creationdate="20161205T212533Z">
+        <seg>Avancer vers le système d’Économie Mixte, ne signifie pas que l’État se convertisse en chef d’entreprise ni qu’il attende ingénument que le secteur privé et les forces du marché génèrent du travail avec une redistribution équitable des gains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Avanzar progresivamente en la exigencia del apoyo gubernamental, hasta lograr acuerdos internacionales por los que cada país se comprometa de destinar un porcentaje de su PBI, escalonadamente desde el 0,3 % hasta el 3 % según el nivel de desarrollo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211958Z" creationid="la belle idee" creationdate="20161105T134907Z">
@@ -10708,6 +10716,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T055308Z" creationid="Ricardito120" creationdate="20161129T055308Z">
         <seg>Mais tout tend à se diluer dans le temps, par manque d'organisation et parce que les responsabilités sont aussi diluées dans une interaction complexe qui rend les solutions complexes, et rend donc stérile l'effort des personnes qui se mobilisent. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero trataremos de mencionar algunos puntos que nos parecen de relevancia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212510Z" creationid="Ricardito120" creationdate="20161205T212510Z">
+        <seg>Nous essayerons de mentionner quelques points qui nous semblent pertinents.</seg>
       </tuv>
     </tu>
     <tu>
