@@ -1223,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cada vez son más los autores que cuestionan al economicismo, porque no se trata solamente de distribuir mejor la riqueza, sino de superar la alienación que genera la carrera por conseguirla.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T211906Z" creationid="Ricardito120" creationdate="20161205T211906Z">
+        <seg>Les auteurs sont chaque fois plus nombreux à questionner l'économie, parce qu'il ne s'agit pas seulement de mieux distribuer la richesse, mais de dépasser l'aliénation que génère une carrière pour l'obtenir cette richesse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Cambiando todo</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T204227Z" creationid="william" creationdate="20161021T172628Z">
@@ -6306,6 +6314,14 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Hay quienes nos hablan de una Economía para la Vida&lt;t0/&gt;, hay quienes nos hablan de un Desarrollo a Escala Humana&lt;t1/&gt;, otros nos hablan de desarrollo sustentable, y hay quienes, como ya vimos anteriormente, proponen directamente el decrecimiento y la sobriedad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212011Z" creationid="Ricardito120" creationdate="20161205T212011Z">
+        <seg>Il y a des gens qui nous parlent d'une Économie pour la Vie et ceux qui nous parlent d'un Développement à l’Échelle Humaine, d'autres nous parlent de développement durable et enfin d'autres qui comme nous l'avons déjà vu, proposent directement la décroissance et la sobriété.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>destino = destin ou destinée à voir</note>
       <tuv lang="ES-AR">
         <seg>Hay quienes pensarán que el desarrollo de ese proceso depende del azar, otros supondrán la preexistencia de un destino, y otros pensamos que la vida humana tiene un sentido que la impulsa evolutivamente, pero depende de la intencionalidad del ser humano la opción de construir una sociedad coherente o contradictoria con tal sentido.</seg>
@@ -10620,6 +10636,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161024T200521Z" creationid="william" creationdate="20161024T200521Z">
         <seg>Mais nous ne pouvons continuer à chercher des coupables ; l'heure est venue de nous prendre en charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero, como decíamos al principio, una nueva sensibilidad está naciendo, y las nuevas generaciones ya no podrán ser hipnotizadas del mismo modo, y esa nueva sensibilidad necesita de nuevos paradigmas, y uno de ellos es, precisamente, el de que todo lo relacionado a la economía debe ser un tema más entre otros, y no el tema fundamental.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T211840Z" creationid="Ricardito120" creationdate="20161205T211840Z">
+        <seg>Mais comme nous le disions au début, une nouvelle sensibilité est en train de naître, et déjà les nouvelles générations ne pourront plus être hypnotisées de la même façon, car cette nouvelle sensibilité a besoin de nouveaux paradigmes, et l'un d'eux est précisément que tout ce qui est en relation avec l'économie doit être un thème parmi les autres et non le thème fondamental. </seg>
       </tuv>
     </tu>
     <tu>
