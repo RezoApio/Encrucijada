@@ -10930,6 +10930,22 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Política tributaria que aumente el impuesto a las ganancias empresariales en tasas crecientes, con destino a un fondo para el desarrollo; disminuyendo dicho gravamen a las empresas que reinviertan en proyectos de desarrollo local.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212721Z" creationid="Ricardito120" creationdate="20161205T212721Z">
+        <seg>Politique fiscale, qui augmente l’impôt sur les gains des entreprises à tau croissant destiné à un fond pour le développement, et des prélèvements décroissants pour les entreprises qui réinvestissent dans des projets de développement local. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Políticas nacionales</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212642Z" creationid="Ricardito120" creationdate="20161205T212642Z">
+        <seg>Politiques nationales </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pondremos como ejemplo el resumen de la ponencia que tuve ocasión de desarrollar en el foro sobre “Desarrollo Local y Políticas Públicas”, realizado en la Universidad Nacional Autónoma de Costa Rica en el 2009, donde se tratan las propuestas para los diferentes niveles.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212456Z" creationid="Ricardito120" creationdate="20161205T212456Z">
@@ -13839,6 +13855,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T053736Z" creationid="Ricardito120" creationdate="20161130T053736Z">
         <seg>Une telle progression sera nécessaire pour donner viabilité à la reconversion industrielle mais en même temps elle permettra d’échelonner l’impact politique des décisions des gouvernements qui s’engageront dans cette campagne internationale. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Tal integración, que en la práctica se dará en los niveles locales, deberá contar con un marco adecuado de políticas nacionales y locales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212632Z" creationid="Ricardito120" creationdate="20161205T212632Z">
+        <seg>Cette intégration qui en pratique se donnera dans les niveaux locaux, devra compter avec cadre adéquat des politiques nationales et locales.</seg>
       </tuv>
     </tu>
     <tu>
