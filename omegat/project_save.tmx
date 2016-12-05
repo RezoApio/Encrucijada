@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Además, el Estado debe asegurar que todos los seres humanos puedan beneficiarse por igual de los adelantos tecnológicos que permitirían que cada vez sea menor el esfuerzo laboral de las personas para cubrir sus necesidades.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T062406Z" creationid="Ricardito120" creationdate="20161205T062406Z">
+        <seg>De plus, l’État doit assurer que tous les êtres humains bénéficient de façon égale des avancées technologiques qui permettront que l'effort de travail pour couvrir leur besoin soit chaque fois moins grand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Además, la imposibilidad que en el corto plazo la ONU atienda los reclamos de los pueblos, no será óbice para que algunos gobiernos progresistas puedan llevar adelante unilateralmente algunas de estas propuestas, lo que constituiría verdaderos efectos demostración.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050835Z" creationid="Ricardito120" creationdate="20161130T050835Z">
@@ -9706,6 +9714,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T221723Z" creationid="Podium" creationdate="20161103T221723Z">
         <seg>Mais, d’un point de vue moral, y a-t-il une différence entre les deux ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero el Estado debe garantizar que todos tengan las mismas oportunidades de realizar tales esfuerzos económicos, en mayor o menor medida, que sus compensaciones económicas sean proporcionales, y sobre todo que aquellos que realicen un mayor esfuerzo económico, no por ello acumulen poder por sobre los demás, y mucho menos sobre el Estado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T062311Z" creationid="Ricardito120" creationdate="20161205T062311Z">
+        <seg> Mais l’état doit dans une plus ou moins grande mesure, garantir que tous aient les mêmes chances de réaliser de tels efforts économiques, que ses compensations économiques soient proportionnelles, et surtout que ce qui font un effort économique plus grand n'accumulent pas de pouvoir sur les autres et encore moins sur l’État. </seg>
       </tuv>
     </tu>
     <tu>
