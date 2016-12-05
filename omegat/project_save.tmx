@@ -2561,6 +2561,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde luego que no es lo único que debiera ser gratuito y público (también la salud y otros derechos), pero ponemos a la educación pública y gratuita como un paradigma en el campo de una nueva economía, porque es uno de los factores que asegura la igualdad de oportunidades.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T062504Z" creationid="Ricardito120" creationdate="20161205T062504Z">
+        <seg>bien sûr  ce n'est pas le seul qui devrait être gratuit et publique (la santé aussi et d'autres droits), mais nous mettons l'éducation publique et gratuite comme un paradigme dans le champ d'une nouvelle économie, parce que c'est un des facteurs qui garantit l'égalité des chances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desde luego que no estamos en los albores del siglo XIX, cuando muchas enfermedades hoy superadas hacían estragos en la población, y cuando la tecnología no se había desarrollado como ahora para multiplicar la producción de alimentos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T222207Z" creationid="Ricardito120" creationdate="20161121T222207Z">
@@ -9240,6 +9248,14 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T140342Z" creationid="Françoise" creationdate="20161118T140342Z">
         <seg>Un autre est celui de la transformation du système économique, en avançant vers une Économie mixte humaniste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Otro paradigma derivado es el de la concepción del Patrimonio Social.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T062804Z" creationid="Ricardito120" creationdate="20161205T062804Z">
+        <seg>Un autre paradigme dérivé est le concept de Patrimoine Social. </seg>
       </tuv>
     </tu>
     <tu>
