@@ -8867,6 +8867,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>No tiene iguales oportunidades aquel que no tiene acceso a la educación, porque es costosa, o porque el estado se desentiende de la educación pública, o se desentiende de las problemáticas sociales o familiares que dificultan el acceso a la misma.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061440Z" creationid="Ricardito120" creationdate="20161205T061440Z">
+        <seg>Celui qui n’a pas accès à l’éducation parce qu’elle est coûteuse, ou parce que l’état se désintéresse de l’éducation publique, ou se désintéresse des problématiques sociales ou familiales qui rendent difficile l’accès à celle-ci, n’a pas les mêmes chances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>No un cambio de modas ni de estilos sino un cambio de concepciones profundas, un cambio de valores.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T174020Z" creationid="william" creationdate="20161105T174020Z">
@@ -13768,6 +13776,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223943Z" creationid="Françoise" creationdate="20161118T223943Z">
         <seg>Selon le pays, tous ces mécanismes peuvent être contraignants ou non et peuvent avoir une plus ou moins grande quantité de filtres institutionnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Todos los procedimientos de un nuevo sistema económico, a la medida del ser humano, debieran cimentarse en un paradigma fundamental: Iguales oportunidades para todos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061405Z" creationid="Ricardito120" creationdate="20161205T061405Z">
+        <seg>Tous les procédés d’un nouveau système économique, à la mesure de l’être humain, devraient se cimenter dans un paradigme fondamental : égalité des chances pour tous.</seg>
       </tuv>
     </tu>
     <tu>
