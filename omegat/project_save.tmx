@@ -10906,6 +10906,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pondremos como ejemplo el resumen de la ponencia que tuve ocasión de desarrollar en el foro sobre “Desarrollo Local y Políticas Públicas”, realizado en la Universidad Nacional Autónoma de Costa Rica en el 2009, donde se tratan las propuestas para los diferentes niveles.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212456Z" creationid="Ricardito120" creationdate="20161205T212456Z">
+        <seg>Nous prendrons comme exemple le résumé de l’exposé que j’eus l’occasion de développer lors du forum sur « Le développement Local et les Politiques Publiques », à l’Université Nationale Autonome du Costa Rica en 2009, et ou y étaient traitées des propositions pour différents niveaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Poner a disposición la capacidad organizativa de la ONU para facilitar todas las iniciativas que emerjan desde las poblaciones, convergentes con el avance hacia una Nación Humana Universal.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211936Z" creationid="la belle idee" creationdate="20161105T134552Z">
@@ -14387,6 +14395,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161201T200108Z" creationid="william" creationdate="20161201T200108Z">
         <seg>Un cas particulier et démonstratif est celui du CIRDI (Centre international de réglement des différends en matière d'investissement), outil juridique de la Banque mondiale et donc proche des intérêts des multinationales des principaux actionnaires de la Banque mondiale (États-unis, Royaume-uni, France, Japon et Allemagne).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Un ejemplo para el desarrollo local</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212429Z" creationid="Ricardito120" creationdate="20161205T212429Z">
+        <seg>Un exemple pour le développement local</seg>
       </tuv>
     </tu>
     <tu>
