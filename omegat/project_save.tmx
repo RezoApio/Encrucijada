@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Ante esta aparente contradicción entre un ideal y la realidad, el capitalismo propone que cada cual se ocupe de resolver sus necesidades, y de ese modo nadie podrá consumir más de lo que produce.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061951Z" creationid="Ricardito120" creationdate="20161205T061951Z">
+        <seg>Face à cette contradiction entre un idéal et la réalité, le capitalisme propose que chacun  s’occupe de résoudre ses nécessités et ainsi personne ne pourra consommer plus que ce qu’il produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Ante existencia de conflictos armados, tratamiento en un Consejo de Seguridad elegido democráticamente, y posibilidad de envío de fuerzas internacionales de paz.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T052208Z" creationid="Ricardito120" creationdate="20161130T052208Z">
@@ -14692,6 +14700,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T060629Z" creationid="Ricardito120" creationdate="20161129T060629Z">
         <seg>Et ce point est important, parce que devant le même conflit des propositions les plus variées de résolution pourraient surgir, mais non nécessairement toutes nous conduiraient dans la même direction dans le moyen et le long terme. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y esto tiene más contradicciones aún, ya que la mayoría de quienes se esfuerzan trabajando consumen muy por debajo de lo que producen&lt;t0/&gt; y de sus necesidades, mientras otros que los explotan consumen mucho más que el resultado de sus esfuerzos y muchísimo más que sus necesidades, y además cada vez es mayor la cantidad de personas, que ni siquiera tienen oportunidad de poder aplicar su esfuerzo por falta de trabajo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T062016Z" creationid="Ricardito120" creationdate="20161205T062016Z">
+        <seg> Mais ceci a encore plus de contradictions, car la majorité de ceux qui s’efforcent à travailler consomment bien en deçà de ce qu’ils produisent et de leurs nécessités, alors que d’autres qui les exploitent consomment  beaucoup plus que le résultat de leurs efforts et beaucoup plus que leur nécessités, de plus la  quantité de personnes qui n’ont même pas l’opportunité de pouvoir appliquer leur effort par manque d’emploi est chaque fois plus grande. </seg>
       </tuv>
     </tu>
     <tu>
