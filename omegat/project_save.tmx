@@ -11122,6 +11122,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Políticas fiscales en una Economía Mixta</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213821Z" creationid="Ricardito120" creationdate="20161205T213821Z">
+        <seg>Politiques fiscales dans une Économie Mixte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Políticas locales</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212841Z" creationid="Ricardito120" creationdate="20161205T212841Z">
@@ -15269,6 +15277,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161122T190556Z" creationid="william" creationdate="20161122T190556Z">
         <seg>Et alors l'usure internationale s'est renforcé en voyant la possibilité de multiplier ses gains en endettant non seulement les entreprises mais aussi les pays.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y es en esta interacción, en la dinámica de la elaboración, puesta en marcha y seguimiento de los proyectos de desarrollo local, que se debe dar la articulación eficaz entre el Estado y los actores sociales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213801Z" creationid="Ricardito120" creationdate="20161205T213801Z">
+        <seg>C’est dans cette interaction, entre, l’état et les acteurs sociaux que doit se donner l’articulation efficace, qui permette la dynamique de l’élaboration, de la mise en marche et en fin le suivi des projets de développement locaux. </seg>
       </tuv>
     </tu>
     <tu>
