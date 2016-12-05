@@ -5257,8 +5257,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esta concepción integral hace que debamos descartar entonces muchas propuestas parciales que, aunque bien intencionadas, no han sido pensadas sistémicamente; pero desde luego que existen numerosas herramientas sugeridas en tales propuestas, que podrían ser consideradas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161205T203859Z" creationid="william" creationdate="20161205T201328Z">
-        <seg>Cette conception intégrale fait que nous devons écarter de nombreuses propositions partielles qui taga Esta concepción integral hace que debamos descartar entonces muchas propuestas parciales que, aunque bien intencionadas, no han sido pensadas sistémicamente; pero desde luego que existen numerosas herramientas sugeridas en tales propuestas, que podrían ser consideradas.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161205T211640Z" creationid="william" creationdate="20161205T201328Z">
+        <seg>Cette conception intégrale fait que nous devons écarter de nombreuses propositions partielles pleines de bonnes intentions qui n'ont pas été pensé de façon systématique ; mais de nombreux outils suggérés dans ces propositions pourraient être pris en considération.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10894,6 +10894,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050722Z" creationid="Ricardito120" creationdate="20161130T050722Z">
         <seg>Par exemple, l’ouverture des frontières pour tous les citoyens du monde. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ejemplo, la idea de una moneda mundial común, objetivo loable en el largo plazo, y al cual se podría llegar luego de pasar por una primera etapa de monedas comunes regionales, debiera compatibilizarse con los cambios políticos necesarios para que la emisión de tal moneda responda a las necesidades de desarrollo de los pueblos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161205T211924Z" creationid="william" creationdate="20161205T211924Z">
+        <seg>Par exemple, l'idée d'une monnaie mondiale communePor ejemplo, la idea de una moneda mundial común, objetivo loable en el largo plazo, y al cual se podría llegar luego de pasar por una primera etapa de monedas comunes regionales, debiera compatibilizarse con los cambios políticos necesarios para que la emisión de tal moneda responda a las necesidades de desarrollo de los pueblos.</seg>
       </tuv>
     </tu>
     <tu>
