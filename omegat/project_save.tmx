@@ -9565,6 +9565,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Organizar la puesta en marcha del proyecto por etapas, de modo de permitir evaluar el cumplimiento de cada etapa, y poder efectuar las correcciones necesarias.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213442Z" creationid="Ricardito120" creationdate="20161205T213442Z">
+        <seg>Organiser la mise en marche du projet par étapes, de façon à évaluer la réalisation de chaque étape et de pouvoir effectuer les corrections nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Organizarse internamente mediante la práctica de la Democracia Real.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211735Z" creationid="la belle idee" creationdate="20161030T155641Z">
@@ -12297,6 +12305,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043509Z" creationid="Ricardito120" creationdate="20161130T043509Z">
         <seg>Récemment, 30 ans plus tard, depuis la chute du mur de Berlin, il y a eu quelques avancées de la part des USA et de l’URSS/Russie, au moyen de la signature ??des accords (?) START mais on sait que les réductions accordées maintiennent de toute façon les deux puissances avec suffisamment de pouvoir pour détruire la planète. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Recoger la experiencia de las partes involucradas en cada proyecto en marcha, para mejorar los mismos, para analizar el impacto social respectivo, y para optimizar el diseño de nuevos proyectos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213455Z" creationid="Ricardito120" creationdate="20161205T213455Z">
+        <seg>Collecter l’expérience des parties impliquées dans chaque projet en marche, afin d’améliorer ces derniers, pour analyser l’impact social respectif de chacun et pour optimiser l’élaboration de nouveaux projets. </seg>
       </tuv>
     </tu>
     <tu>
