@@ -10930,6 +10930,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Política de comercio exterior que priorice la generación de condiciones de mercado para la sustentabilidad de los proyectos de desarrollo local.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212825Z" creationid="Ricardito120" creationdate="20161205T212825Z">
+        <seg>Politique de commerce extérieur qui favorise la création de conditions de marché pour la viabilité des projets de développement local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Política laboral y societaria que permita la participación de los trabajadores en las ganancias de las empresas, y flexibilice la asociación entre empresas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212748Z" creationid="Ricardito120" creationdate="20161205T212748Z">
@@ -10958,6 +10966,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212721Z" creationid="Ricardito120" creationdate="20161205T212721Z">
         <seg>Politique fiscale, qui augmente l’impôt sur les gains des entreprises à tau croissant destiné à un fond pour le développement, et des prélèvements décroissants pour les entreprises qui réinvestissent dans des projets de développement local. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Políticas locales</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212841Z" creationid="Ricardito120" creationdate="20161205T212841Z">
+        <seg>Politiques locales s</seg>
       </tuv>
     </tu>
     <tu>
