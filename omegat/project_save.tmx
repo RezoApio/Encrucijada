@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Analizar la posibilidad de insertar eslabones en las cadenas de valor de los procesos productivos vigentes en lo local o regional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213334Z" creationid="Ricardito120" creationdate="20161205T213334Z">
+        <seg>Analyser la possibilité d’insérer des maillons dans les chaînes de valeur des processus productifs existants localement et dans la région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Analizar las potencialidades de la región, en cuanto a recursos humanos, naturales, capital instalado e infraestructura.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213256Z" creationid="Ricardito120" creationdate="20161205T213256Z">
@@ -5787,6 +5795,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223909Z" creationid="Podium" creationdate="20161103T223909Z">
         <seg>Sur un plan stratégique, elle signifie que ce que l’on peut produire (ou résoudre) au niveau local est ce qui doit être produit (ou être résolu) au niveau local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Estudiar la potencialidad del mercado local, nacional e internacional, para los bienes y servicios que pudieran generarse.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213351Z" creationid="Ricardito120" creationdate="20161205T213351Z">
+        <seg>Etudier la potentialité du marché local, national et international pour les biens et les services qui pourraient être produits. </seg>
       </tuv>
     </tu>
     <tu>
