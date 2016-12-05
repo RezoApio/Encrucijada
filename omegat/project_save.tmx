@@ -1688,6 +1688,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Cuando Milton Friedman&lt;t0/&gt; argumenta a favor de lo que él considera libertad de oportunidades, en contraposición a lo que denomina igualdad de resultados; no solamente busca sólo los ejemplos que se acomodan a su argumento, sino que minimiza totalmente la desproporcionada ventaja &lt;t1/&gt;que posee el capital acumulado (muy bien explicado recientemente por Piketty), frente a las virtudes y potencialidades de los individuos, a la hora de hablar de igualdad de oportunidades.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061755Z" creationid="Ricardito120" creationdate="20161205T061755Z">
+        <seg>. Lorsque, au moment de parler de l’égalité des chances, Milton Friedman argumente en faveur de ce que lui, considère comme la liberté des chances, en opposition à ce qu’il nomme égalité de résultats, non seulement, il ne sélectionne que les exemples qui conviennent à son argumentaire, mais il minimise totalement les avantages disproportionnés que possède le capital accumulé (très bien expliqué récemment par Piketty), face aux vertus et potentialités des individus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Cuando alguien se propone llegar al poder para cumplir nobles ideales, y para lograrlo toma el atajo de la especulación, está cruzando una frontera sin retorno.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T203642Z" creationid="william" creationdate="20161105T203642Z">
@@ -9946,6 +9954,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T062758Z" creationid="Ricardito120" creationdate="20161129T062758Z">
         <seg>Mais l'important est que toutes convergent dans la même direction. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero lo que estamos queriendo explicar al hablar de garantizar desde el Estado la igualdad de oportunidades, no se refiere a forzar la igualdad en las metas alcanzadas, sino a tratar de asegurar la igualdad en el punto de partida hacia tales metas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061725Z" creationid="Ricardito120" creationdate="20161205T061725Z">
+        <seg>Mais ce que nous voulons essayer d’expliquer en parlant de l’égalité des chances garantir depuis l’État, ce n’est pas de forcer l’égalité dans les objectifs atteints mais d’essayer d’assurer l’égalité au début de ces objectifs. </seg>
       </tuv>
     </tu>
     <tu>
