@@ -2625,6 +2625,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Desde luego que en cada país se debieran cuantificar estas alícuotas variables paso por paso, buscando el punto de equilibrio para que la disminución en el impuesto de algunos contribuyentes se compense con el incremento de otros, de manera de no desfinanciar al fisco en sus erogaciones corrientes e inversiones.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214502Z" creationid="Ricardito120" creationdate="20161205T214502Z">
+        <seg>Bien sûr chaque pays devra, pas à pas, quantifier ce pourcentage variable, en recherchant le point d’équilibre pour que la diminution de l’impôt de certains contribuables soit compensée par l’accroissement des autres, de telle sorte que le fisc ne se trouve pas sans moyens pour ses redistributions courantes et ses investissements. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Desde luego que en muchos casos son los mismos Estados los que obtienen una parte importante de la renta petrolera o gasífera, la cual suele destinarse a diversas erogaciones presupuestarias; en ese caso los Estados deberán dar prioridad a la inversión en energías alternativas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T061017Z" creationid="Ricardito120" creationdate="20161130T061017Z">
@@ -10467,6 +10475,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161130T205011Z" creationid="william" creationdate="20161130T205011Z">
         <seg>Mais cela aurait signifié une audace impensable de la part de gouvernements compromis avec le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero gradualmente se debe avanzar hacia una creciente participación de los impuestos directos en la carga impositiva, disminuyendo la regresividad de los impuestos indirectos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214521Z" creationid="Ricardito120" creationdate="20161205T214521Z">
+        <seg>Mais dans la charge fiscale, on doit graduellement avancer vers une participation croissante des impôts directs, en diminuant la dégressivité des impôts indirects. </seg>
       </tuv>
     </tu>
     <tu>
