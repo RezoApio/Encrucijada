@@ -3716,6 +3716,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En definitiva, como decíamos en nuestro exordio, no es posible cambiar una parte sin cambiar el todo, que a su vez es mucho más que la sumatoria de las partes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161205T200500Z" creationid="william" creationdate="20161205T200500Z">
+        <seg>En définitive, comme nous le disons dans notre En definitiva, como decíamos en nuestro exordio, no es posible cambiar una parte sin cambiar el todo, que a su vez es mucho más que la sumatoria de las partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En definitiva, la realidad es que Obama no tuvo demasiadas chances una vez desatada la crisis, ya que si se dejaba caer a los bancos involucrados, el efecto dominó arrastraría a muchos otros, la cadena de pagos en la economía real se hubiese roto, y la sucesión de quiebras habría llevado la desocupación a los niveles de 1929.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161130T204409Z" creationid="william" creationdate="20161130T204024Z">
@@ -8637,6 +8645,15 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T040223Z" creationid="Ricardito120" creationdate="20161130T040223Z">
         <seg>Nous ne partageons pas la méfiance de Tilly à l'égard de la possibilité qu'un mouvement social s'appuyant substantiellement sur les réseaux sociaux, puisse se convertir en élitiste à cause des limitations d’accès à la technologie  par des secteurs marginalisés. En effet le nombre de personnes ayant accès aux nouvelles technologies grandit en permanence et va élargir suffisamment la surface de contact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>pragmatique semble avoir un sens moins péjoratif en français ...</note>
+      <tuv lang="ES-AR">
+        <seg>No en vano el actual sistema financiero ha sido engendrado por el sistema capitalista liberal, que echó raíces en una sociedad individualista y consumista, gobernada a su vez por políticos pragmáticos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161205T200427Z" creationid="william" creationdate="20161205T200427Z">
+        <seg>Ce n'est pas pour rien que l'actuel système financier a été engendré par le système capitaliste, qui trouve ses racines dans une société individualiste et consumériste, gouvernée à son tour par des politiciens pragmatiques.</seg>
       </tuv>
     </tu>
     <tu>
