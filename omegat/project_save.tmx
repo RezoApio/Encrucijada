@@ -4291,6 +4291,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>En la actualidad el impuesto a la renta en la mayor parte de los países es una tasa fija para las empresas, y es una tasa variable con un tope máximo para las personas físicas, pero siempre en función del monto de la renta, sin importar cómo se generó esa renta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214338Z" creationid="Ricardito120" creationdate="20161205T214338Z">
+        <seg>Actuellement l'impôt sur le revenu dans la plus grande majorité des pays est un taux fixe pour les entreprises et un taux variable avec un maximum pour les personnes physiques, mais toujours calculé en fonction du montant du revenu, sans savoir comment ce revenu a été obtenu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>En la actualidad se habla de tres generaciones de Derechos Humanos&lt;t0/&gt;, y hasta hay quienes ya están hablando de una cuarta y quinta generación de derechos vinculados al uso de la informática.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161120T134524Z" creationid="Françoise" creationdate="20161120T134524Z">
@@ -10611,6 +10619,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T012025Z" creationid="Podium" creationdate="20161117T012025Z">
         <seg>mais ils ne peuvent créer de toutes pièces ou déformer la vérité et porter de fausses accusations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero no debiera ser equivalente la situación de una empresa que obtiene una renta de un millón, habiendo invertido un capital de 10 millones y habiendo generado 500 puestos de trabajo, que otra que haya obtenido igual renta habiendo invertido 2 millones y habiendo generado solamente 10 puestos de trabajo, por dar un ejemplo concreto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214410Z" creationid="Ricardito120" creationdate="20161205T214410Z">
+        <seg>Pour donner un exemple concret, la situation d'une entreprise qui obtient un gain d'un million en ayant investi un capital de 10 millions et ayant généré 500 emplois ne devrait pas être la même que celle qui a eu le même gain avec un investissement de 2 millions et qui n'a produit que 10 emplois. </seg>
       </tuv>
     </tu>
     <tu>
