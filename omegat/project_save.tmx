@@ -3139,6 +3139,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El dinero se ha convertido &lt;t0/&gt;en un nuevo Dios que regula la vida de las personas; la ansiedad por acumularlo o el temor a no tenerlo se han transformado en el sentido de la vida El consumismo se ha transformado en el estilo de vida al que se aspira y que establece los códigos de relación y la escala de valores sociales; quienes detentan el poder económico se han adueñado del poder político y los medios de difusión, y desde allí controlan a la sociedad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T063257Z" creationid="Ricardito120" creationdate="20161205T063257Z">
+        <seg>L'argent s'est converti en un nouveau dieu qui régule la vie des personnes ; l'anxiété pour l'accumuler et la peur de ne pas en avoir se sont transformés dans le sens de la vie, le consumérisme s'est transformé en style de vie auquel on aspire et qui établit les codes de relation et l'échelle de valeurs sociales ; ceux qui possèdent le pouvoir économique se sont approprié le pouvoir politique et les moyens de diffusion et depuis là contrôlent  la société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El dinero surgió solamente como una herramienta de cambio, para dinamizar una economía de trueque, no tenía capacidad de generar un nuevo valor por sí mismo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161204T222407Z" creationid="Ricardito120" creationdate="20161204T222407Z">
@@ -14040,6 +14048,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161104T010003Z" creationid="Podium" creationdate="20161104T010003Z">
         <seg>Toute tentative de cette nature qui vise à augmenter l’épargne en diminuant la consommation agit sur les revenus de telle sorte qu’elle se neutralise nécessairement elle-même. »&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Todo se mide en términos económicos, en una irracional lógica de lo viable y lo inviable, que termina descartando a la mayor parte de la humanidad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T063319Z" creationid="Ricardito120" creationdate="20161205T063319Z">
+        <seg>Tout se mesure en termes économiques dans une logique irrationnelle de ce qui est viable ou  non viable, et finit par exclure la plus grande partie de l'humanité.</seg>
       </tuv>
     </tu>
     <tu>
