@@ -4453,8 +4453,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En esa situación, además de que cada país evaluará hasta qué punto acude al financiamiento de esa banca privada sin comprometer su soberanía económica, esto no será óbice para que se avance en mecanismos monetarios compensatorios entre algunas naciones, que reduzcan sensiblemente las necesidades de financiamiento privado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161206T194255Z" creationid="william" creationdate="20161206T194255Z">
-        <seg>Dans cette situation, outre que chaque pays évaluera jusqu'à quel point il participera au financement de cette banque privée sans compromettre sa souveraineté économique, cela ne sera pas un obstacle pour qu'on avance dans des mécanismes compensatoires entre certaines nations qui réduisent sensiblement les nécessités de finacement privé.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T195809Z" creationid="william" creationdate="20161206T194255Z">
+        <seg>Dans cette situation, outre que chaque pays évaluera jusqu'à quel point il participera au financement de cette banque privée sans compromettre sa souveraineté économique, cela ne sera pas un obstacle pour qu'on avance dans des mécanismes compensatoires entre certaines nations qui réduisent sensiblement les nécessités de financement privé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12579,6 +12579,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Por otra parte se pueden implementar mecanismos compensatorios para el flujo comercial entre estas naciones, evitando así el uso de otras divisas en el mismo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T200254Z" creationid="william" creationdate="20161206T200254Z">
+        <seg>D'autre part on peut mettre en place des mécanismes compensatoires pour le flux commercial entre nations pour éviter ainsi l'utilisation d'autres devises dans ce contexte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Por otra parte, Freedom House clasifica a la India casi como la única democracia plena del Asia, mientras que &lt;t1/&gt;Rusia y China están en la categoría de países no libres; sin embargo la sociedad en la India no es de las más democráticas, ya que culturalmente sigue vigente el sistema de castas; y en lo que a procedimientos democráticos respecta, si bien hay elecciones cada 5 años en las que se asegura la participación de todos los ciudadanos, es muy común el aprovechamiento de la pobreza para la compra de votos, y además un altísimo porcentaje de los candidatos a votar son familiares de los que ya están en el poder, conformando verdaderas dinastías de la política.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T225243Z" creationid="Françoise" creationdate="20161118T225243Z">
@@ -12717,8 +12725,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por una parte las mismas reservas de divisas de las naciones que lo acuerden, pueden utilizarse, en cierta proporción, para el financiamiento de una banca internacional propia a la cual acudir ante urgencias financieras.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161206T195405Z" creationid="william" creationdate="20161206T194440Z">
-        <seg>D'une part les réserves mêmes de devises des nations qui sont d'accord, peuvent s'utiliser dans une certaine proportion Por una parte las mismas reservas de divisas de las naciones que lo acuerden, pueden utilizarse, en cierta proporción, para el financiamiento de una banca internacional propia a la cual acudir ante urgencias financieras.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T200129Z" creationid="william" creationdate="20161206T194440Z">
+        <seg>D'une part les réserves de devises des nations qui sont d'accord peuvent s'utiliser dans une certaine proportion pour le financement d'une propre banque internationale à laquelle s'en remettre pour les urgences financières.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14034,6 +14042,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T023719Z" creationid="Podium" creationdate="20161111T023719Z">
         <seg>On pourra argumenter que ce “registre” que j’ai de l’humanité de l’autre devient une partie de mes représentations; qu’il ne s’agit finalement que d’une réélaboration interne qui se fait dans ma mémoire et qui compte sur de nouvelles données sensorielles qui la réactualisent, mais qu’il n’en reste pas moins une vision illusoire de la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Se puede avanzar incluso hacia el concepto de Balanza Comercial Consolidada, por el cual las naciones que lo acuerden podrían planificar su desarrollo intentando un equilibrio comercial como conjunto, aunque haya desequilibrios transitorios entre las partes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T200512Z" creationid="william" creationdate="20161206T200512Z">
+        <seg>On peut même aller jusqu'au concept de Balance commerciale consolidée, par lequel les nations qui en conviennent pourrait planifier leur développement en tentant un équilibre commercial dans son ensemble, même s'il peut y avoir des déséquilibres transitoires entre les parties.</seg>
       </tuv>
     </tu>
     <tu>
