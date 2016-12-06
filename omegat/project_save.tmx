@@ -11306,6 +11306,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Política Monetaria y Financiera</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T023320Z" creationid="Ricardito120" creationdate="20161206T023320Z">
+        <seg>Politique Monétaire et Financière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Política de comercio exterior que priorice la generación de condiciones de mercado para la sustentabilidad de los proyectos de desarrollo local.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212825Z" creationid="Ricardito120" creationdate="20161205T212825Z">
@@ -11590,6 +11598,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T124721Z" creationid="Ricardito120" creationdate="20161111T124721Z">
         <seg>Au contraire, aujourd'hui il est indispensable de fortifier l'action conjointe du syndicalisme à une échelle internationale ».&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ello, no es conveniente depender de los impuestos de la industria petrolera para financiar gasto corriente ni mucho menos afrontar pagos de deuda externa, sino que se debieran aplicar al desarrollo de una &lt;t0/&gt;política energética de largo plazo, dosificando la extracción para cuidar las reservas, a la vez que se desarrollan las energías alternativas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T023303Z" creationid="Ricardito120" creationdate="20161206T023303Z">
+        <seg>C'est pour cela qu'il n'est pas convenable de dépendre des impôts sur l'industrie pétrolière pour financer les dépenses courantes et encore moins de répondre au paiement de la dette externe, mais ces impôts devraient appliqués au développement d'une politique énergétique à long terme, dosant l'extraction pour prendre soin des réserves, en même temps que se développent les énergies alternatives.</seg>
       </tuv>
     </tu>
     <tu>
