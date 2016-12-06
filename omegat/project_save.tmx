@@ -1712,6 +1712,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Con los años se ha ido conformando toda una cultura comercial en torno a las marcas, y sus publicidades son pensadas por especialistas en conducta humana.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T214410Z" creationid="la belle idee" creationdate="20161206T214410Z">
+        <seg>Avec les années toute une culture commerciale s’est construite autour des marques, et les publicités sont pensées par des spécialistes sur le comportement humain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Con respecto a esta propuesta comenta Humberto Maturana: &lt;t0/&gt;“…Pero si lo que queremos es que los niños crezcan como ciudadanos, como seres éticos, responsables, que posean un vivir digno, estético, grato, creativo, en el sentido de que tengan imaginación, que tengan presencia para el bienestar, hay que preocuparse de las emociones, y eso es lo que veo en esta propuesta, y eso es en el fondo la fundamentación que tiene.”</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T020949Z" creationid="Podium" creationdate="20161111T020949Z">
@@ -7743,6 +7751,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Joseph Stiglitz, en su libro “El precio de la desigualdad”, en el capítulo 6 “1984 está al caer”, analiza la manipulación y el lavado de cerebro que se hace a través de los medios, para lograr que el 1 % más poderoso de USA, convenza al resto de la población de que comparten los mismos intereses.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T214153Z" creationid="la belle idee" creationdate="20161206T214153Z">
+        <seg>JJoseph Stiglitz, dans son livre “Le prix de l'inégalité”, au chapitre 6 intitulé “Nous sommes en 1984”, analyse la manipulation et le lavage de cerveau qui est fait par les médias, pour obtenir que le 1 %  des plus puissants des USA, convainquent le reste de la population qu'ils partagent les mêmes intérêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Joseph Stiglitz, premio nobel de Economía, en su libro “El precio de la desigualdad”, y en diversos artículos periodísticos, acuñó este concepto del 1 % de la población que concentra la riqueza, frente al 99 % que se empobrece cada vez más, consigna utilizada por el Movimiento Occupy Wall Street en sus manifestaciones de protestas contra las políticas económicas y la especulación financiera.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161114T163924Z" creationid="Ricardito120" creationdate="20161114T163924Z">
@@ -9879,6 +9895,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T132024Z" creationid="Ricardito120" creationdate="20161111T132024Z">
         <seg>Naomi Klein, dans son livre No-Logo, la tyrannie des marques décrit les conditions de travail dans les zones de libre commerce créées au profit des multinationales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Naomi Klein, en su libro No-Logo, realiza un exhaustivo análisis histórico y contemporáneo, acerca de cómo las principales marcas han impuesto sus productos en todo el mundo mediante la publicidad, arribando a una situación de poder desde la cual explotan a los trabajadores y a las empresas con las que subcontratan la producción, mientras ganan fortunas al imponer precios monopólicos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T214338Z" creationid="la belle idee" creationdate="20161206T214338Z">
+        <seg>Dans son livre No-Logo, Naomi Klein effectue une analyse exhaustive historique et contemporaine, sur comment les marques principales ont imposé leurs produits partout dans le monde grâce à la publicité, arrivant à une situation de pouvoir par laquel ils exploitent les travailleurs et les entreprises avec lesquelles ils sous-traitent la production, tandis qu'ils gagnent des fortunes après avoir imposé des prix monopolistes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12572,6 +12596,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Por ejemplo, está claro que si ese 1 % pagara más impuestos, el 99 % restante se beneficiaría; sin embargo han convencido a la población de que el Estado es ineficiente y que si los de arriba ganan más, por efecto del derrame todos estarán mejor, afirmación que se contradice con la realidad, pero es más fuerte el poder de convencimiento mediático.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T214236Z" creationid="la belle idee" creationdate="20161206T214236Z">
+        <seg>Par exemple, il est clair que si ce 1 % paierait plus d'impôts, cela bénéficierait aux 99 % restant; cependant ils ont convaincu la population que l'État est inefficace et que si ceux d’en haut gagnent plus, ce sera mieux pour tous par effet de déversement, affirmation que contredit  la réalité, mais le pouvoir de conviction médiatique est plus fort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Por ejemplo, la apertura de fronteras para todos los ciudadanos del mundo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050722Z" creationid="Ricardito120" creationdate="20161130T050722Z">
@@ -12608,6 +12640,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T054051Z" creationid="Ricardito120" creationdate="20161130T054051Z">
         <seg>Par exemple, il pourrait arriver que dans un pays déterminé développé, on commence à réaliser des campagnes pour que la technologie militaire soit convertie soit utilisée pour aider au développement dans les régions les plus défavorisées. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ejemplo, si el encuadre general es que se vive en una sociedad en la que cada cual obtiene sus logros por merecimientos, habrá mayor predisposición a creer que el 1 % más rico lo es porque se lo merece, porque trabajó duro, mientras que los pobres lo son porque son holgazanes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T214313Z" creationid="la belle idee" creationdate="20161206T214313Z">
+        <seg>Par exemple, si le cadrage général est que vous vivez dans une société dans laquelle chacun obtient ses réussites par des mérites, il y aura une plus grande prédisposition à croire que le 1 % le plus riche l'est parce qu'il l’a mérité, parce qu’il travaille dure, tandis que les pauvres le sont parce qu'ils sont paresseux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14359,6 +14399,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Se hace mención en particular a lo que se denomina “encuadre”, como el contexto en el que se plantea el análisis, para este caso se pone el ejemplo del fenómeno que se produce en las ruedas de reconocimiento de sospechosos de parte de testigos, donde aunque se haga desfilar a presuntos sospechosos que nunca estuvieron en el lugar del crimen los testigos siempre identifican a alguien, porque el “encuadre” previo les hace suponer que allí tiene que estar el culpable.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T214255Z" creationid="la belle idee" creationdate="20161206T214255Z">
+        <seg>En particulier, il fait mention à ce qu'il appelle “cadrage“, comme contexte dans lequel s’élabore l'analyse, et il donne comme exemple le phénomène qui se produit lors de la reconnaissance de suspects de la part des témoins, où, bien que l’on fasse défiler des suspects présumés qui n'ont jamais été dans le lieu du crime les témoins  identifient toujours quelqu'un, parce que le "cadrage" préalable les fait supposer qu’il y a le coupable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se le dedicó desde el primer momento a "runmoulds" (es decir, a transportar al secadero las piezas acabadas y devolver al taller las formas vacías).</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125314Z" creationid="Ricardito120" creationdate="20161111T125314Z">
@@ -14563,6 +14611,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T050816Z" creationid="Ricardito120" creationdate="20161130T050816Z">
         <seg> Il est probable que ces propositions comme d’autres exemples qui pourront être donnés ne pourront voir le jour dans les conditions actuelles de l’ONU mais la mobilisation autour de celles-ci mettra en évidence auprès des populations les contradictions et l’hypocrisie qui règnent dans cet organisme et en particulier entre les gouvernements des puissances qui le gère et l’opinion publique sentira chaque fois plus la nécessité d’une transformation totale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Según expone Klein, ya no interesa cómo es el producto ni quien lo fabrica, lo único que interesa es vender una marca.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T214352Z" creationid="la belle idee" creationdate="20161206T214352Z">
+        <seg>Comme l’expose Klein, savoir comment est le produit ne les intéresse pas, ni celui qui le fabrique, l'unique chose qui les intéresse est de vendre une marque..</seg>
       </tuv>
     </tu>
     <tu>
