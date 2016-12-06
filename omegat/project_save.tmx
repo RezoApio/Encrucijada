@@ -1616,6 +1616,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Con respecto al financiamiento de la inversión pública, si bien una parte puede provenir de la misma banca estatal en la que se canalicen los ahorros generados en el país, seguirá siendo necesario el financiamiento externo cuando las restricciones de balanza comercial limiten la capacidad de gasto en divisas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T185733Z" creationid="william" creationdate="20161206T185733Z">
+        <seg>Sur le financement de l'investissement public, même si une partie peut provenir de la banque publique dans laquelle sont canalisés les épargnes générés dans le pays, il restera nécessaire un financement externe quand les restrictions de balance commerciale limiteront la capacité de dépenses en devises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Con respecto al mercado de capitales se debiera avanzar paso a paso en limitar las inversiones en títulos y acciones a un genuino interés de inversión productiva, despejándolas de todo componente especulativo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T032600Z" creationid="Ricardito120" creationdate="20161206T032600Z">
@@ -12254,6 +12262,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T202447Z" creationid="william" creationdate="20161114T202447Z">
         <seg>Donc, ainsi qu'il se doit dans une démocratie réelle où le mot État sera synonyme de gens organisés, dans une économie humaniste, cet état devra veiller à l'égalité d'opportunités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por lo tanto, cuando hablamos de Banca Pública, debemos hablar no solo de bancos nacionales, sino sobre todo de bancos provinciales y municipales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T185500Z" creationid="william" creationdate="20161206T185500Z">
+        <seg>C'est pourquoi quand nous parlons de Banque publique, nous devons parler de banques nationales mais surtout de banques provinciales et municipales.</seg>
       </tuv>
     </tu>
     <tu>
