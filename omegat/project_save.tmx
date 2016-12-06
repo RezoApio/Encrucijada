@@ -13469,6 +13469,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Se habrá generado mayor cantidad de empleos, y habrá crecido la producción de bienes durables.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T030918Z" creationid="Ricardito120" creationdate="20161206T030918Z">
+        <seg>On aura généré une plus grande quantité d'emplois, et la production de biens durables aura crû. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Se le dedicó desde el primer momento a "runmoulds" (es decir, a transportar al secadero las piezas acabadas y devolver al taller las formas vacías).</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T125314Z" creationid="Ricardito120" creationdate="20161111T125314Z">
@@ -15257,6 +15265,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024410Z" creationid="Ricardito120" creationdate="20161206T024410Z">
         <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours, on y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité d'argent(M) multiplié par sa vitesse de circulation (V). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Todo en un circuito integrado que no debiera generar mayor inflación ya que el aumento de M se compensa con un equivalente aumento de Q.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T030938Z" creationid="Ricardito120" creationdate="20161206T030938Z">
+        <seg>Tout cela dans un circuit intégré qui ne devrait pas produire une plus grande inflation car l'augmentation de M est compensée par une augmentation équivalente de Q.</seg>
       </tuv>
     </tu>
     <tu>
