@@ -9724,6 +9724,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Nos referimos a que una política monetaria que potencie el consumo interno de modo general, en los países industrializados de mediados del siglo pasado, tenía un importante efecto dinamizador sobre el empleo nacional, ya que buena parte de lo que la gente consumía se fabricaba en el propio país, con mano de obra intensiva.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024201Z" creationid="Ricardito120" creationdate="20161206T024201Z">
+        <seg>Nous référant à une politique monétaire qui de façon générale renforce la consommation interne, dans les pays industrialisé de la moitié du siècle passé, celle-ci avait un effet dynamisant important sur l'emploi national, car un bonne partie de ce que consommait les gens était fabriqué dans leur propre pays avec une main-d’œuvre intense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Nos referimos sobre todo a los &lt;t0/&gt;intentos sutiles, casi subliminales, y a veces hasta inconscientes de tener el control.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T041527Z" creationid="Ricardito120" creationdate="20161130T041527Z">
@@ -10499,6 +10507,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T061645Z" creationid="Ricardito120" creationdate="20161130T061645Z">
         <seg>Mais au niveau international il faudra travailler beaucoup plus une re-conscientisation sur le sujet, pour dépasser une certaine vision superficielle que de vastes secteurs ont sur le sujet, et pour dénoncer les manœuvres de distraction des gouvernements et des organisations internationales, qui cherchent à installer la croyance qu'ils s'occupent très sérieusement de la question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero en estos tiempos, en muchos países una gran parte de ese incremento del consumo, termina impactando en la demanda de importaciones, y por lo tanto genera empleo de otros países.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024222Z" creationid="Ricardito120" creationdate="20161206T024222Z">
+        <seg>Mais en ces temps-ci, dans de nombreux pays une grande partie de la croissance de la consommation, finit par impacter la demande à l’importation, et donc crée de l'emploi dans les autres pays.</seg>
       </tuv>
     </tu>
     <tu>
