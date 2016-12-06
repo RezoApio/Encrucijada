@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>2-Desaparición de especies.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203506Z" creationid="la belle idee" creationdate="20161206T203506Z">
+        <seg>2-la disparitions d’espèces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>3) Conferencia de países por el Desarme Nuclear Mundial.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T134948Z" creationid="Ricardito120" creationdate="20161111T134948Z">
@@ -54,10 +62,58 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>3-Perturbación del ciclo natural del nitrógeno.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203528Z" creationid="la belle idee" creationdate="20161206T203528Z">
+        <seg>3-la perturbation du cycle naturel de l'azote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>4) Equipo Internacional de técnicos y expertos civiles y militares en eliminación y reconversión de armas nucleares.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T135005Z" creationid="Ricardito120" creationdate="20161111T135005Z">
         <seg>4) La formation dune Équipe Internationale de techniciens et experts civils et militaires pour l’élimination et la reconversion des armes nucléaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>4-Acidificación de los océanos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203542Z" creationid="la belle idee" creationdate="20161206T203542Z">
+        <seg>4-L’ acidification des océans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>5-Excesiva demanda de agua dulce.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203559Z" creationid="la belle idee" creationdate="20161206T203559Z">
+        <seg>5-L’excès d’utilisation d’eau doucee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>6- Tala de bosques.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203614Z" creationid="la belle idee" creationdate="20161206T203614Z">
+        <seg>6- La déforestation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>7-Posible catástrofe marina por exceso de fósforo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203637Z" creationid="la belle idee" creationdate="20161206T203637Z">
+        <seg>7-Une catastrophe marine envisageable par excès de phosphore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>8 Reducción de la capa de ozono.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203652Z" creationid="la belle idee" creationdate="20161206T203652Z">
+        <seg>8 la réduction de la couche d'ozone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +170,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142658Z" creationid="la belle idee" creationdate="20161105T142658Z">
         <seg>Chaque étape délibérative, permettant de clarifier la direction, devra être suivie d’une étape d'action accompagnée par tous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>A comienzos de los 90 en la Universidad de British Columbia, se desarrolló el concepto de Ecological Footprint, con el que se intenta medir el impacto sobre la naturaleza y los ecosistemas que generan las actividades humanas, y lo contrastan con la Bio-capacidad de cada territorio, de lo cual surge el balance que determina si se está utilizando los recursos naturales por encima de las posibilidades del territorio.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203708Z" creationid="la belle idee" creationdate="20161206T203708Z">
+        <seg>Au début des années 90, à l'Université de British Columbia, s'est développé le concept d'Ecological Footprint, par lequel on essaie de mesurer l'impact sur la nature et les écosystèmes que génèrent les activités humaines, et la Bio-capacité de chaque territoire. Il en découle un bilan qui détermine si les ressources naturelles sont utilisées au-dessus des possibilités du territoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3373,6 +3437,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El Protocolo de Kyoto propone una reducción en la emisión de gases para disminuir el incremento de la temperatura por el efecto invernadero que contribuyen al calentamiento global, determinando objetivos por país.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203723Z" creationid="la belle idee" creationdate="20161206T203723Z">
+        <seg>Le Protocole de Kyoto propose une réduction des émissions de gaz à effet de serre qui participent au réchauffement climatique, en déterminant des objectifs par pays.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El armamentismo de naciones que padecen conflictos armados reales, internos o con otras naciones.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T044233Z" creationid="Ricardito120" creationdate="20161130T044233Z">
@@ -6037,6 +6109,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T212928Z" creationid="Ricardito120" creationdate="20161205T212928Z">
         <seg>Mise en place de règles claires de contrôle de l’application des fonds en fonction des objectifs énoncés. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Estados Unidos jamás lo ratificó, y potencias emergentes como Rusia, Brasil y China se han resistido a respetarlo para no frenar su desarrollo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T203747Z" creationid="la belle idee" creationdate="20161206T203747Z">
+        <seg>Les États-Unis ne l'ont jamais ratifié, et des puissances émergentes comme la Russie, le Brésil et la Chine se sont refusées à le respecter pour ne pas freiner leur développement.</seg>
       </tuv>
     </tu>
     <tu>
