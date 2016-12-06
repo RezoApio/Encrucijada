@@ -8101,6 +8101,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>La participación ciudadana en una democracia real, y la descentralización administrativa, serán lo que garantice que en cada comuna, cada provincia y cada estado, los ahorros de la población vuelvan en inversiones productivas, en crédito para la vivienda, y en financiamiento de obras públicas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T185353Z" creationid="william" creationdate="20161206T185353Z">
+        <seg>La participation citoyenne dans une démocratie réelle et la décentralisation administrative seront les garanties que dans chaque commune, chaque province et chaque état, les épargnes de la population servent pour des investissements productifs, en crédit pour le logement et en financement des ouvrages publics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>La participación de la gente suele ser inversamente proporcional al tiempo que necesita dedicar a la misma, por lo tanto habrá que maximizar la simplificación en el uso de las redes para que cada persona interesada pueda, mínimamente en 15 minutos una vez a la semana, involucrarse con opiniones, aprobación o desaprobación de mociones, propuesta de ideas, y otras iniciativas.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T181109Z" creationid="Françoise" creationdate="20161118T181109Z">
@@ -10747,6 +10755,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161105T212420Z" creationid="william" creationdate="20161105T212420Z">
         <seg>Mais quand par nécessité les grands groupes humains commenceront à prendre en main leur destin social, il faudra avoir clair les chemins et les procédures, parce que dans les époques de confusion n'importe quel leader charismatique pourrait manipuler la situation et concentrer de nouveau le pouvoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero desde luego que, volviendo a la concepción sistémica de las transformaciones; no se puede estatizar la banca privada manteniendo incólume a un estado corrupto; el cambio en las finanzas debe ir acompañado del cambio político.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T185146Z" creationid="william" creationdate="20161206T185146Z">
+        <seg>Mais bien entendu, en revenant à la conception systémique des transformations, on ne peut pas nationaliser la banque privée en conversant indemne un état corrompu : le changement dans les finances soit s'accompagner d'un changement politique.</seg>
       </tuv>
     </tu>
     <tu>
