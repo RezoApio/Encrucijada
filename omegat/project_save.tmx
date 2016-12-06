@@ -4941,8 +4941,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En tal sentido, el Nuevo Banco de Desarrollo creado por el grupo de los BRICS, es una iniciativa loable en esa dirección.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161206T191144Z" creationid="william" creationdate="20161206T191144Z">
-        <seg>En ce sens, la Nouvelle banque de développement crée par le groupe des BRICS est une initiative louable dans cette direction.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T191235Z" creationid="william" creationdate="20161206T191144Z">
+        <seg>En ce sens, la Nouvelle banque de développement créée par le groupe des BRICS est une initiative louable dans cette direction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11451,6 +11451,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T023758Z" creationid="Ricardito120" creationdate="20161206T023758Z">
         <seg>Mis à part cette restriction externe que nous avons mentionné, tout ce qui concerne le financement de l'économie locale avec leur propre monnaie ou avec des devises de cette banque internationale solidaire citée précédemment, la politique monétaire devrait être clairement expansive tel que le demande le développement et ce thème devra être résolu avec soin, tant que le système financier actuel international restera si dominant. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero se debiera lograr avanzar hacia una alternativa de alcance mundial, y sobre todo inspirada en principios solidarios, para ponerse al servicio del desarrollo de las naciones más desfavorecidas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T191346Z" creationid="william" creationdate="20161206T191346Z">
+        <seg>Mais il faudrait arriver à avancer vers une alternative de portée mondiale et surtout inspirée par des principes solidaires pour se mettre au service du développement des nations les plus défavorisées.</seg>
       </tuv>
     </tu>
     <tu>
