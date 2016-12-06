@@ -12353,6 +12353,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Porque precisamente, si tal como afirmaba Keynes, a mayor ingreso, mayor propensión al ahorro, entonces el efecto multiplicador del gasto del Estado se esteriliza rápidamente; porque si bien en un primer momento el dinero del Estado puede ir a los bolsillos de los trabajadores, (con menor propensión al ahorro y mayor propensión al consumo), cuando éstos consumen bienes y servicios, el precio que pagan por los mismos tiene un componente de mano de obra muy bajo, y un alto componente de ganancia empresarial (que en lugar de reciclarse en el gasto va hacia el ahorro).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T030122Z" creationid="Ricardito120" creationdate="20161206T030122Z">
+        <seg>En effet c’est précisément ce qu’affirme Keynes, lorsque les travailleurs consomment des biens et des services et que le prix qu’ils payent à une composante de main-d’œuvre très bas, et une composante élevée de gains pour l’entreprise (qui au lieu de se recycler dans la dépense va vers l’épargne), alors le revenu est plus grand et donc plus importante est la propension à l’épargne, ainsi l’effet multiplicateur des dépenses de l’État se stérilise, même si dans un premier temps l’argent de l’État peut aller dans les poches des travailleurs (avec une plus faible propension à l’épargne et une plus grande propension à la consommation). </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>asechar : le sens litéral espagnol ne semble pas aller ici.
 S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
