@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A lo largo de ese proceso habrá momentos en que solamente algunos países estarán dispuestos a realizar esas transformaciones en sus bancos, y en el nivel internacional deberán convivir con una banca privada que continuará manipulando a su antojo el flujo de divisas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T194014Z" creationid="william" creationdate="20161206T194014Z">
+        <seg>Tout au long de ce processus il y aura des moments dans lesquels seulement certains pays seront disposés à réaliser ces transformations de leurs banques et au niveau international il faudra vivre avec une banque privée qui continuera de manipuler à sa guise le flux de devises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>A nivel internacional, se debieran poner barreras a todos los productos provenientes de naciones que aún contaminen en la fabricación de los mismos.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T141329Z" creationid="la belle idee" creationdate="20161105T141329Z">
@@ -2784,6 +2792,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>la phrase est bancale en e	spagnol.</note>
       <tuv lang="ES-AR">
         <seg>Desde luego que durante el proceso de construcción de un nuevo sistema financiero mundial, en el que como decíamos antes, el flujo financiero internacional lo manejen las diferentes bancas públicas, para que los excedentes de liquidez de un país puedan contribuir al desarrollo de otro.</seg>
       </tuv>
@@ -4438,6 +4447,14 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220254Z" creationid="Ricardito120" creationdate="20161121T220254Z">
         <seg>Dans cette pyramide, nous avons la plus grande partie de l’explication du désastre environnemental actuel. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>En esa situación, además de que cada país evaluará hasta qué punto acude al financiamiento de esa banca privada sin comprometer su soberanía económica, esto no será óbice para que se avance en mecanismos monetarios compensatorios entre algunas naciones, que reduzcan sensiblemente las necesidades de financiamiento privado.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20161206T194255Z" creationid="william" creationdate="20161206T194255Z">
+        <seg>Dans cette situation, outre que chaque pays évaluera jusqu'à quel point il participera au financement de cette banque privée sans compromettre sa souveraineté économique, cela ne sera pas un obstacle pour qu'on avance dans des mécanismes compensatoires entre certaines nations qui réduisent sensiblement les nécessités de finacement privé.</seg>
       </tuv>
     </tu>
     <tu>
