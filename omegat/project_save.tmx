@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Algo de esto vimos anteriormente en el ejemplo de desarrollo local, donde el Estado, entre otras cosas, debería apoyar con financiamiento actividades productivas, pero no solamente desde la oferta sino también desde la demanda, para lograr el circuito integrado creciente del desarrollo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T030713Z" creationid="Ricardito120" creationdate="20161206T030713Z">
+        <seg>Comme dans l'exemple de développement local nous avons vu quelque chose comme ça, l’état entre autre chose devrait appuyer financièrement les activités productives pas seulement depuis l'offre mais aussi depuis la demande, pour parvenir au circuit intégré croissant de développement. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Algo similar ha ocurrido en todos los casos de discriminación social en los que se ha ido avanzando escalonadamente en la obtención de los derechos civiles, sorteando primero el condicionamiento cultural y la naturalización de situaciones de injusticia arraigadas por siglos en las sociedades.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T052703Z" creationid="Ricardito120" creationdate="20161129T052703Z">
@@ -16877,6 +16885,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T122020Z" creationid="Ricardito120" creationdate="20161111T122020Z">
         <seg>Il ne s’agit plus d’une guerre entre individus enfermés chacun dans sa sphère : une caste revendicatrice monte à l’assaut et elle est tenue en échec par la caste privilégiée. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Ya no son suficientes las políticas macroeconómicas que se limitan a administrar la tasa de interés y la cantidad de moneda circulante, es necesario avanzar hacia nuevos instrumentos que resulten idóneos en el espacio integrador entre la macroeconomía y la microeconomía, lo que algunos han dado en llamar la Mesoeconomía.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T030655Z" creationid="Ricardito120" creationdate="20161206T030655Z">
+        <seg>Les politiques macroéconomiques qui se limitent à administrer le taux d'intérêt et la quantité de liquidité en circulation, ne sont déjà plus pas suffisantes, il est nécessaire d'avancer vers de nouveaux instruments qui soient plus adéquates dans un espace d'intégration entre la macroéconomie et la microéconomie, ce que certains nomment la Mésoéconomie.</seg>
       </tuv>
     </tu>
     <tu>
