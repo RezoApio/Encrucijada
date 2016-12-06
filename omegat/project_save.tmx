@@ -9772,6 +9772,14 @@ espiritu : esprit</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>O impacta en la demanda de bienes y servicios con dificultades para incrementar la oferta y por lo tanto lo que aumentan son los precios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024307Z" creationid="Ricardito120" creationdate="20161206T024307Z">
+        <seg>ou encore impacte la demande de biens de service avec des difficultés pour accroître l'offre et par conséquent ce qui augmente ce sont les prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>O impacta en la demanda de productos en cuyo precio la mano de obra es un porcentaje muy bajo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024252Z" creationid="Ricardito120" creationdate="20161206T024252Z">
@@ -11019,6 +11027,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T220521Z" creationid="Ricardito120" creationdate="20161121T220521Z">
         <seg>Mais revenons un peu sur ce que nous disions à propos du désastre environnemental, même si chaque fois il y a plus de gens qui connaissent ce thème, grâce à la prise de conscience faite lors des dernières décades. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Pero retomemos desde algunos conceptos básicos de las políticas keynesianas para comprender mejor lo que estamos diciendo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024349Z" creationid="Ricardito120" creationdate="20161206T024349Z">
+        <seg>Mais reprenons quelques concepts de base des politiques keynésiennes pour comprendre mieux ce que nous disons.</seg>
       </tuv>
     </tu>
     <tu>
