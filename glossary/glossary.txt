@@ -9,3 +9,5 @@ democracias delegativa	délégation (par procuration?)	Je ne sais pas trop comme
 Banca Estatal	Banque publique
 USA	États-unis
 Nuevo Banco de Desarrollo	Nouvelle banque de développement 	https://fr.wikipedia.org/wiki/Nouvelle_banque_de_d%C3%A9veloppement 
+commodities	commodité	https://fr.wikipedia.org/wiki/Commodit%C3%A9
+complementación	complementation	Pas de terme français a priori. 
