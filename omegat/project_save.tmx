@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>A su vez, como el dinero circula y pasa de manos varias veces (lo que define su velocidad V, considerada la variable más estable de la fórmula), se produce un efecto multiplicador en el aumento del consumo y en el crecimiento de la producción para cubrirlo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024803Z" creationid="Ricardito120" creationdate="20161206T024803Z">
+        <seg>L’argent circulant de mains en mains plusieurs fois (ce qui définit sa vitesse V, considérée comme la variable la plus stable de la formule), se produit alors un effet multiplicateur dans l’augmentation de la consommation et de la production pour le couvrir. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>A su vez, en América latina la mayor parte de la recaudación del impuesto a la renta es sobre las personas jurídicas, mientras que en Europa es sobre las personas físicas, lo que le da mayores posibilidades de elevar la alícuota según capacidad contributiva.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T224231Z" creationid="Podium" creationdate="20161103T224231Z">
@@ -3037,6 +3045,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161105T142543Z" creationid="la belle idee" creationdate="20161105T142543Z">
         <seg>Cette articulation  entre organisations devrait aussi mettre en pratique la démocratie réelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Dicho de manera simple, cuando el Estado a través de obras públicas, subsidios, u otra política expansiva, vuelca dinero en la economía, ese dinero tiene un primer destinatario (los nuevos trabajadores de la obra pública, los proveedores, los beneficiarios de subsidios, etc.), y ese primer destinatario luego gasta el dinero en bienes y servicios (comida, ropa, electrodomésticos, etc.), por lo cual ahora hay un segundo destinatario que recibe ese dinero, y que a su vez lo gastará en otros bienes y servicios, generándose una cadena de demanda y oferta de bienes, a la que se llama el efecto multiplicador.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024824Z" creationid="Ricardito120" creationdate="20161206T024824Z">
+        <seg>Dit d’une manière simple, lorsque l’Etat, à travers les travaux publics, les subventions, et toutes autres politiques d’expansion, injecte de l’argent dans l’économie, cet argent à un premier destinataire (les nouveaux employés des travaux publics, les fournisseurs, et les bénéficiaires des aides etc.) puis ce premier destinataire dépense cet argent en biens et services (alimentation, habillement, électroménager, etc.), et donc maintenant apparaît un second destinataire qui reçoit cet argent, qui à son tour le dépensera en d’autres services, générant une chaîne de demande et d’offre de biens que l’on appelle l’effet multiplicateur. </seg>
       </tuv>
     </tu>
     <tu>
