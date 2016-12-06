@@ -8,3 +8,4 @@ Economía Mixta Humanista	Économie mixte humaniste	1 seule majuscule + accent
 democracias delegativa	délégation (par procuration?)	Je ne sais pas trop comment traduire. Comme il y a une note associée, ce sera à corriger en fonction de la note. Merci !
 Banca Estatal	Banque publique
 USA	États-unis
+Nuevo Banco de Desarrollo	Nouvelle banque de développement 	https://fr.wikipedia.org/wiki/Nouvelle_banque_de_d%C3%A9veloppement 
