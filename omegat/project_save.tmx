@@ -10441,8 +10441,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero en una primera etapa de compatibilización, en la integración comercial y económica entre naciones se puede atender a la potenciación de los sectores productivos con ventajas comparativas sin descuidar el impacto sobre sectores que ocupan mayor cantidad de trabajadores; primero se avanza en la complementación entre aquellos sectores productivos entre los que no hay conflicto y todo suma, para luego recién pasar a una gradual reconversión de aquellos sectores que deben competir con sus similares de otro país.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022330Z" creationid="Ricardito120" creationdate="20161206T022330Z">
-        <seg>Dans une première étape pour rendre compatible l’intégration commerciale et économique entre les nations, on peut prêter attention au renforcement des secteurs productifs qui ont des avantages après les avoir comparés, sans pour autant délaisser l’impact produit sur les secteurs qui emploient une plus grande quantité de travailleurs. Premièrement l’avancée se fera parmi les secteurs productifs qui n’ont pas de conflit entre eux tout en se complémentant, ce qui sera un plus, puis on passera graduellement vers une reconversion de ces secteurs qui doivent rivaliser avec leurs semblables dans d’autres pays, toujours en donnant la priorité au développement de toutes les parties.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022424Z" creationid="Ricardito120" creationdate="20161206T022330Z">
+        <seg>Dans une première étape pour rendre compatible l’intégration commerciale et économique entre les nations, on peut prêter attention au renforcement des secteurs productifs qui ont des avantages après les avoir comparés, sans pour autant délaisser l’impact produit sur les secteurs qui emploient une plus grande quantité de travailleurs. Premièrement l’avancée se fera parmi les secteurs productifs qui n’ont pas de conflit entre eux tout en se complémentant, ce qui sera un plus, puis on passera graduellement vers une reconversion de ces secteurs qui doivent rivaliser avec leurs semblables dans d’autres pays,</seg>
       </tuv>
     </tu>
     <tu>
@@ -13774,6 +13774,14 @@ S'approcher semble plus proche.</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Siempre dando prioridad al desarrollo de todas las partes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022357Z" creationid="Ricardito120" creationdate="20161206T022357Z">
+        <seg>toujours en donnant la priorité au développement de toutes les parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Siempre estamos hablando del ejercicio de la libertad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161129T014805Z" creationid="Podium" creationdate="20161129T014805Z">
@@ -14745,6 +14753,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T212123Z" creationid="la belle idee" creationdate="20161105T142040Z">
         <seg>Toutes les propositions en faveur de la Nation Humaine Universelle sont liées à un type de Droit de l'homme parmi lesquelles est comprise la prise de conscience de ceux-ci. Mais de toute façon, il faudra toujours les mettre en valeur et surtout mettre en évidence l'hypocrisie de leur déclamation de la part de ceux qui les violent systématiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Todo esto es de total sentido común y por lo tanto posible; lo que dificulta estos procesos de real integración de los pueblos en su comercio y su economía, son los intereses de las corporaciones multinacionales y de la banca especulativa.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022501Z" creationid="Ricardito120" creationdate="20161206T022501Z">
+        <seg>Tout cela est d'un total sens commun et par conséquent possible ; ce sont les intérêts des corporations, des multinationales et de la banque spéculative qui rend difficile ces processus d’intégration réelle de l’économie et du commerce entre les peuples.</seg>
       </tuv>
     </tu>
     <tu>
