@@ -2176,6 +2176,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>De esta fórmula se pueden desprender varias conclusiones, una de ellas es que si aumentamos la cantidad de dinero y las demás variables permanecen constantes, (el conocido &lt;t0/&gt;ceteris paribus&lt;t1/&gt; de los economistas, indispensable para el análisis teórico, pero difícil de encontrar en la realidad), para que la fórmula mantenga el equilibrio deberían aumentar los precios.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024442Z" creationid="Ricardito120" creationdate="20161206T024442Z">
+        <seg>Divers conclusions peuvent découler de cette formule, (le très connu ceteris paribus des économistes, indispensable pour l'analyse théorique, mais difficile à rencontrer dans la réalité), une d'entre-elles pour que la formule maintienne son équilibre, est qu'en augmentant la quantité d'argent et en maintenant constant les autres variables, et il faudra augmenter les prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>De este paradigma de iguales oportunidades para todos, se derivan algunos más en el ámbito de la economía.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T062421Z" creationid="Ricardito120" creationdate="20161205T062421Z">
@@ -15017,6 +15025,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T212123Z" creationid="la belle idee" creationdate="20161105T142040Z">
         <seg>Toutes les propositions en faveur de la Nation Humaine Universelle sont liées à un type de Droit de l'homme parmi lesquelles est comprise la prise de conscience de ceux-ci. Mais de toute façon, il faudra toujours les mettre en valeur et surtout mettre en évidence l'hypocrisie de leur déclamation de la part de ceux qui les violent systématiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Todavía existen discusiones acerca de la vieja fórmula de la teoría cuantitativa, P.Q = M.V, en la que se afirma que el nivel de precios (P) multiplicado por la cantidad de bienes y servicios (Q), debe ser igual a la cantidad de moneda (M), multiplicada por su velocidad de circulación (V).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024410Z" creationid="Ricardito120" creationdate="20161206T024410Z">
+        <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours, on y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité d'argent(M) multiplié par sa vitesse de circulation (V). </seg>
       </tuv>
     </tu>
     <tu>
