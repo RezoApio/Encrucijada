@@ -6047,6 +6047,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Esto ocurre en primer lugar porque los efectos deflacionarios de toda recesión mantienen cierta inercia ante una incipiente reactivación, lo que hace que ante la mayor demanda los empresarios antes de tender a subir los precios tiendan a aumentar su producción, ganando más por la mayor cantidad vendida y no tanto por el mayor precio, a la vez que los trabajadores dan prioridad a tener un empleo más que a pedir aumentos salariales.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T030501Z" creationid="Ricardito120" creationdate="20161206T030501Z">
+        <seg>Ceci se passe en premier lieu, parce que les effets déflationnistes de toute récession maintiennent une certaine inertie face à un début de réactivation, ce qui fait que devant une plus grande demande les entrepreneurs avant de monter les prix tendent à augmenter la production gagnant plus par la vente d’une plus grande quantité et non par de prix plus chers, à leur tour les travailleurs donnent la priorité à avoir un emploi plus qu’à l’augmentation des salaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Esto permitirá que una parte importante de la población se vaya capacitando y ejercitando en los mecanismos, a la vez que se podrá evaluar la mayor o menor eficacia de los mismos para la toma de decisiones.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T231702Z" creationid="Françoise" creationdate="20161118T231702Z">
@@ -12262,6 +12270,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T055430Z" creationid="Ricardito120" creationdate="20161130T055430Z">
         <seg>Car quand la population grandit il y a aussi plus de mouvement dans l’économie et cela génère plus de poste de travail. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Porque cuando una economía está en recesión, y la mayor parte de su industria está trabajando muy por debajo de su capacidad, es sabido que una activa política de incentivo al consumo por parte del gobierno, tiende a reactivar rápidamente la producción para atender a la mayor demanda.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T030439Z" creationid="Ricardito120" creationdate="20161206T030439Z">
+        <seg>Lorsqu’une économie est en récession et que la majeure partie de son industrie travaille très en-deçà de sa capacité, il est bien connu qu’une politique active d’incitation à la consommation de la part du gouvernement tend à réactiver rapidement la production pour faire face à la une plus grande demande.</seg>
       </tuv>
     </tu>
     <tu>
