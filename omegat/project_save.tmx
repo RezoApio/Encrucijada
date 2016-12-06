@@ -2176,6 +2176,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>De esta conclusión surge la explicación de que si se expande la masa monetaria por encima del crecimiento de bienes y servicios, lo que se genera es inflación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024506Z" creationid="Ricardito120" creationdate="20161206T024506Z">
+        <seg>De cette conclusion, surgit l'explication suivante qui dit que l'inflation se produit lorsque augmente la masse monétaire au-dessus de la croissance des biens et des services. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>De esta fórmula se pueden desprender varias conclusiones, una de ellas es que si aumentamos la cantidad de dinero y las demás variables permanecen constantes, (el conocido &lt;t0/&gt;ceteris paribus&lt;t1/&gt; de los economistas, indispensable para el análisis teórico, pero difícil de encontrar en la realidad), para que la fórmula mantenga el equilibrio deberían aumentar los precios.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024442Z" creationid="Ricardito120" creationdate="20161206T024442Z">
@@ -15740,6 +15748,14 @@ phrase trop longue</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161129T015245Z" creationid="Podium" creationdate="20161129T015245Z">
         <seg>Et dans les deux cas, leurs arguments ne résistent pas à une analyse exhaustive; car s’il est question de liberté, les personnes ont la liberté de s’organiser avec un État et de le doter des outils qu’ils considèrent les plus appropriés pour la majorité des citoyens; et s’il est question d’efficience, il faudra examiner à fond quelles politiques économiques sont efficientes au bénéfice de ces majorités, et non pour quelques-uns seulement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Y en cierta manera esto es verdad (&lt;t2/&gt;ceteris paribus)&lt;t3/&gt;, pero como las variables no están aisladas y el movimiento en una puede modificar el de otra, hay quienes sostienen (Keynes entre ellos), que si se incrementa la oferta de dinero, lo que aumenta es la demanda de bienes, aumenta el consumo, y ante ese aumento de la demanda, puede ocurrir que también aumente la oferta, es decir que se fabriquen más objetos o se ofrezcan más servicios, y por lo tanto, al aumentar M también aumenta Q y la fórmula mantiene su equilibrio.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024744Z" creationid="Ricardito120" creationdate="20161206T024744Z">
+        <seg>D'une certaine façon c'est vrai (ceteris paribus), mais comme les variables ne sont pas isolées le mouvement de l'une peut modifier celui de l'autre, il y en a qui soutiennent (en autre Keynes ), que si l'offre d'argent augmente , ce qui augmente, c'est la demande de biens et la consommation croît, mais avant cette croissance la demande augmente, il peut se produire que l'offre augmente aussi, c'est à dire que plus d'objets sont fabriqués et l'offre de service est plus grande, et par conséquent en augmentant M, Q augmente et la formule maintient son équilibre.</seg>
       </tuv>
     </tu>
     <tu>
