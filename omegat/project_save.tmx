@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Antes de eso, la visión que las personas tenían sobre la vida y sobre el mundo, dependía básicamente de sus experiencias con su medio inmediato (su pueblo, o a lo sumo su región), y de la transmisión de información que otros pudieran darle, ya sea a través de relatos, o de la educación, o de la formación religiosa.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T130046Z" creationid="Françoise" creationdate="20161210T130046Z">
+        <seg>Avant cela, la vision que les personnes avaient sur la vie et sur le monde dépendait essentiellement de leurs expériences avec leur milieu immédiat (leur village ou tout au plus leur région) et de la transmission de l'information que d’autres pouvaient leur apporter, que ce soit au travers de récits ou de l'éducation ou de la formation religieuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Antes de la crisis Islandia era considerado un ejemplo de prosperidad por el desproporcionado desarrollo de su sector financiero.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161114T163754Z" creationid="Ricardito120" creationdate="20161114T163754Z">
@@ -6139,6 +6147,14 @@ Mais dans le chapitre XII précise à nouveau :&lt;t2/&gt;
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T015530Z" creationid="Podium" creationdate="20161111T015530Z">
         <seg>C’est de ce sophisme qu’on a le plus de peine à désabuser l’opinion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Es muy difícil imaginarse hoy un mundo sin TV o sin medios masivos de comunicación; sin embargo sólo hace poco más de medio siglo que los medios comenzaron a tomar un rol cada vez más protagónico en la formación cultural de los pueblos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T130031Z" creationid="Françoise" creationdate="20161210T130031Z">
+        <seg>Il est très difficile d'imaginer aujourd'hui un monde sans télévision ou sans moyens massifs de communication ; cependant cela fait seulement un peu plus d'un demi-siècle que les médias ont commencé à prendre un rôle de plus en plus décisif dans la formation culturelle des peuples. </seg>
       </tuv>
     </tu>
     <tu>
