@@ -10128,6 +10128,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Luego cuando aparecen políticos y economistas neoliberales con propuestas privatizadoras y desreguladoras, el público tiene la percepción de que están acertando en sus opiniones, porque coinciden con la idea que ese público se había formado de la realidad.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T150829Z" creationid="Françoise" creationdate="20161210T150829Z">
+        <seg>Ensuite, lorsqu’apparaissent des politiciens et des économistes néolibéraux avec des propositions de privatisation et de dérégulation, les auditeurs auront la perception qu’ils ont des opinions justes car elles coïncident avec l'idée que ces gens s’étaient créés de la réalité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Luego de la segunda guerra mundial, hubo que invertir muchos capitales en la reconstrucción, y las políticas keynesianas parecieron brindar dos décadas de bonanza.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161122T190319Z" creationid="william" creationdate="20161122T190319Z">
@@ -13472,6 +13480,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T054051Z" creationid="Ricardito120" creationdate="20161130T054051Z">
         <seg>Par exemple, il pourrait arriver que dans un pays déterminé développé, on commence à réaliser des campagnes pour que la technologie militaire soit convertie soit utilisée pour aider au développement dans les régions les plus défavorisées. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por ejemplo, si algunos medios de &lt;t1/&gt;comunicación comienzan a destacar todas las noticias que pudieran estar relacionadas con alguna ineficiencia del Estado, en columnas de periodistas supuestamente independientes, se logra ir generando en el público una atmósfera de rechazo hacia cualquier intervención del Estado en la economía.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T150804Z" creationid="Françoise" creationdate="20161210T150804Z">
+        <seg>Par exemple, si quelques médias commencent à mettre l’accent sur toutes les informations relatives à une certaine inefficacité de la part de l'État, à travers des articles de journalistes supposés indépendants, cela va générer pour le public une atmosphère de rejet vers toute intervention de l'État dans l'économie. </seg>
       </tuv>
     </tu>
     <tu>
