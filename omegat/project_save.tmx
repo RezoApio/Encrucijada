@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="ES-AR"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="ES-AR"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3894,6 +3894,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El materialismo, el nihilismo y el egoísmo, sólo pueden superarse por acción de un cambio personal y social simultáneo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T124052Z" creationid="Françoise" creationdate="20161210T124052Z">
+        <seg>Le matérialisme, le nihilisme et l'égoïsme peuvent seulement se surpasser par l’action d'un changement personnel et social simultané.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El mismo Occidente, arrastrado por el cambio de usos y costumbres se ve en un aprieto a la hora de sostener su idea tradicional de la familia “natural”.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T230353Z" creationid="Podium" creationdate="20161103T230353Z">
@@ -4110,6 +4118,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El sistema de creencias instalado por los medios de comunicación, es un cerco invisible que deberemos saltar.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T124036Z" creationid="Françoise" creationdate="20161210T124036Z">
+        <seg>Le système de croyances installé par les médias est une clôture invisible que nous devrons sauter. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El sistema socialista es el sistema básico de la Republica Popular China.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161117T011302Z" creationid="Podium" creationdate="20161117T011302Z">
@@ -4138,6 +4154,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T222204Z" creationid="Françoise" creationdate="20161118T222204Z">
         <seg>• Le type de sujets faisant l'objet d'une consultation devrait d'une part être fixé préalablement avec un caractère de consultation obligatoire, selon son importance pour l'intérêt général.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>El término cultura abarca muchos temas que podrían ser materia de discusión y análisis; pero aquí nos limitaremos a aquellos aspectos que están íntimamente relacionados con los cambios profundos que se deben realizar para avanzar hacia la Nación Humana Universal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T123937Z" creationid="Françoise" creationdate="20161210T123937Z">
+        <seg>Le terme culture comprend beaucoup de thèmes qui pourraient être matière à discussion et à analyse mais ici nous nous limiterons aux aspects qui sont intimement relatifs aux changements profonds qui doivent être réalisés pour avancer vers la Nation Humaine Universelle. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9956,6 +9980,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T212108Z" creationid="la belle idee" creationdate="20161105T141348Z">
         <seg>Les accords commerciaux internationaux devraient se débarrasser de leur empreinte néolibérale de libre marché et réguler le commerce international sur la base d’une diminution drastique des facteurs polluants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Los valores o anti-valores en los que se sustenta una sociedad violenta, individualista y consumista, seguramente son un escollo a sortear si se quiere avanzar en esa dirección.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T124014Z" creationid="Françoise" creationdate="20161210T124014Z">
+        <seg>Les valeurs ou les anti-valeurs sur lesquelles est fondée une société violente, individualiste et consumériste, sont certainement un écueil à surmonter si on veut avancer dans cette direction. .</seg>
       </tuv>
     </tu>
     <tu>
