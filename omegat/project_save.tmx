@@ -9656,6 +9656,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Lo cual nos deja en el círculo vicioso en el cual nos encontramos en este momento histórico; el poder económico controla los grandes medios de comunicación, no solo para tener más ganancias comerciales, sino también para imponer al público a los políticos que les serán funcionales para seguir acumulando riqueza, con la cual tendrán cada vez más control de la situación.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T163427Z" creationid="Françoise" creationdate="20161210T163427Z">
+        <seg>Ce qui nous maintient dans le cercle vicieux dans lequel nous nous trouvons dans ce moment historique ; le pouvoir économique contrôle les grands médias, non seulement pour avoir plus de gains commerciaux mais aussi pour imposer au public les hommes politiques qui leur seront les plus adaptés pour continuer à accumuler de la richesse, avec laquelle ils auront de plus en plus le contrôle de la situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Lo decisivo para este desarrollo es cómo y qué recursos generar y utilizar para potenciar micro-espacios y sujetos con voluntad de auto dependencia.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223828Z" creationid="Podium" creationdate="20161103T223828Z">
@@ -10194,8 +10202,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>Luego cuando aparecen políticos y economistas neoliberales con propuestas privatizadoras y desreguladoras, el público tiene la percepción de que están acertando en sus opiniones, porque coinciden con la idea que ese público se había formado de la realidad.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T150829Z" creationid="Françoise" creationdate="20161210T150829Z">
-        <seg>Ensuite, lorsqu’apparaissent des politiciens et des économistes néolibéraux avec des propositions de privatisation et de dérégulation, les auditeurs auront la perception qu’ils ont des opinions justes car elles coïncident avec l'idée que ces gens s’étaient créés de la réalité.</seg>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T163339Z" creationid="Françoise" creationdate="20161210T150829Z">
+        <seg>Ensuite, lorsqu’apparaissent des hommes politiques et des économistes néolibéraux avec des propositions de privatisation et de dérégulation, les auditeurs auront la perception qu’ils ont des opinions justes car elles coïncident avec l'idée que ces gens s’étaient créés de la réalité.</seg>
       </tuv>
     </tu>
     <tu>
