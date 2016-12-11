@@ -3225,6 +3225,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES-AR">
+        <seg>Desde luego que no siempre todo está controlado, y muchas veces por el interés de captar audiencia, algunos medios otorgan espacio y dan visibilidad a líderes sociales y políticos con propuestas y puntos de vista que confrontan con el sistema.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Françoise" changedate="20161211T121340Z" creationid="Françoise" creationdate="20161211T121340Z">
+        <seg>Bien sûr que tout n’est pas toujours contrôlé et souvent par intérêt de capter de l’audience, certains médias donnent de l’espace et de la visibilité à des leaders sociaux et politiques qui font des propositions et ont des points de vue qui confrontent le système.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Eduardo Galeano Les veines ouvertes de l'amérique latine.</note>
       <tuv lang="ES-AR">
         <seg>Desde luego que para avanzar en este camino, en el comercio internacional se debe fortalecer el concepto de complementación en lugar que el de competencia, pero debe ser una complementación solidaria, y no la desigual división internacional del trabajo que tan bien describiera Galeano al decir que &lt;t0/&gt;“la división internacional del trabajo consiste en que unos países se especializan en ganar y otros en perder”</seg>
