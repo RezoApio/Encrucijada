@@ -1264,8 +1264,8 @@
       <tuv lang="ES-AR">
         <seg>Así como poníamos antes el ejemplo de las diversas respuestas que podían darse ante un problema de desempleo, así también puede pasar en diversas áreas, en las que la búsqueda de soluciones puntuales no debe contradecirse con el proyecto general.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T062818Z" creationid="Ricardito120" creationdate="20161129T062818Z">
-        <seg>Tout comme nous avions indiqué auparavant les réponses diverses à apporter face au problème du chômage, la même chose peut se produire appliquée à d’autres domaines. Cette recherche de solutions ponctuelles ne doit pour autant pas aller à l’encontre du projet général.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161224T162555Z" creationid="Ricardito120" creationdate="20161129T062818Z">
+        <seg>Tout comme nous l'avions indiqué avec les diverses réponses qu'on pouvait apporter face au problème du chômage, et qui pourrait se produire dans bien d'autres domaines, la recherche de solutions ponctuelles ne doit pas aller à l’encontre du projet général.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12780,8 +12780,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero lo importante es que todas converjan en la misma dirección.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T062758Z" creationid="Ricardito120" creationdate="20161129T062758Z">
-        <seg>Mais l'important est que toutes convergent dans la même direction. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161224T162257Z" creationid="Ricardito120" creationdate="20161129T062758Z">
+        <seg>Mais l'important est que toutes convergent dans la même direction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13879,8 +13879,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por eso es sumamente importante la interconexión entre todos los que trabajan por el mismo proyecto, para que cada avance en un lugar lo registren como propio en otros lugares, y sirva también como ejemplo o efecto demostración.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161129T062707Z" creationid="Ricardito120" creationdate="20161129T062707Z">
-        <seg>C’est pour cela que l'interconnexion entre tous ceux qui travaillent pour le même projet est extrêmement importante, pour que chaque avancée réalisée dans un lieu soit vécue comme propre dans d'autres lieux, et serve aussi d’exemple ou un d’effet démonstratif.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161224T162218Z" creationid="Ricardito120" creationdate="20161129T062707Z">
+        <seg>C’est pour cela que l'interconnexion entre tous ceux qui travaillent pour le même projet est extrêmement importante : pour que chaque avancée réalisée dans un lieu soit vécue comme la sienne propre dans d'autres lieux et serve aussi d’exemple ou d’effet démonstratif.</seg>
       </tuv>
     </tu>
     <tu>
