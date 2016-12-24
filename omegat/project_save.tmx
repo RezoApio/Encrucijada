@@ -4870,8 +4870,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En el minucioso &lt;t0/&gt;estudio que realizó Charles Tilly sobre la evolución histórica de los movimientos sociales&lt;t1/&gt;, se puede observar que su desarrollo casi siempre fue simultáneo con el avance de las libertades democráticas, a la vez que estos derechos democráticos se fueron conquistando y afianzando gracias a la labor de los movimientos sociales; pero siempre fue dificultoso ese desarrollo bajo gobiernos autoritarios y represores que censuraban y prohibían las manifestaciones públicas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T040143Z" creationid="Ricardito120" creationdate="20161130T040143Z">
-        <seg>Dans l'étude minutieuse que Charles Tilly a réalisée sur l'évolution historique des mouvements sociaux, on peut observer que leur développement a été presque toujours simultané avec la progression des libertés démocratiques. Dans le même temps, ces droits démocratiques ont été conquis et consolidés grâce au travail des mouvements sociaux, bien qu’un tel développement ait toujours été difficile sous des gouvernements autoritaires et répressifs qui censuraient et interdisaient les manifestations publiques.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161224T164349Z" creationid="Ricardito120" creationdate="20161130T040143Z">
+        <seg>Dans l'étude minutieuse&lt;t0/&gt; que Charles Tilly a réalisée sur l'évolution historique des mouvements sociaux&lt;t1/&gt;, on peut observer que leur développement a été presque toujours simultané avec la progression des libertés démocratiques. Dans le même temps, ces droits démocratiques ont été conquis et consolidés grâce au travail des mouvements sociaux, bien qu’un tel développement ait toujours été difficile sous des gouvernements autoritaires et répressifs qui censuraient et interdisaient les manifestations publiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6892,8 +6892,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Este punto cobra mayor relevancia a la hora de pensar en la internacionalización de los movimientos sociales&lt;t2/&gt;, ya que las nuevas tecnologías de comunicación se tornan indispensables para la coordinación de acciones globales, y por lo tanto podrían aumentar las probabilidades de caer en una tendencia hacia un “activismo virtual”; pero por otra parte está demostrado que cuando se han logrado coordinar internacionalmente acciones concretas en varios países, estas se han potenciado mucho más que si se hubiera tratado de acciones meramente locales.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T040322Z" creationid="Ricardito120" creationdate="20161130T040322Z">
-        <seg>Ce point prend une importance toute particulière au moment de penser à l'internationalisation des mouvements sociaux, puisque les nouvelles technologies de communication deviennent indispensables pour la coordination d'actions globales, et par conséquent elles pourraient augmenter les probabilités de tomber dans une tendance « d’activisme virtuel ». Mais d'un autre coté, il a été démontré que lorsqu’on a réussi à coordonner des actions concrètes au niveau international dans plusieurs pays, ces actions ont été beaucoup plus renforcées que si elles avaient été simplement traitées comme des actions locales.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161224T164729Z" creationid="Ricardito120" creationdate="20161130T040322Z">
+        <seg>Ce point prend une importance toute particulière au moment de penser à l'internationalisation des mouvements sociaux&lt;t2/&gt;, puisque les nouvelles technologies de communication deviennent indispensables pour la coordination d'actions globales, et par conséquent elles pourraient augmenter les probabilités de tomber dans une tendance «d’activisme virtuel». Mais d'un autre coté, il a été démontré que lorsqu’on a réussi à coordonner des actions concrètes au niveau international dans plusieurs pays, ces actions ont été grandement renforcées par rapport à des actions traités eu simple niveau local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10902,8 +10902,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>No compartimos la desconfianza de Tilly con respecto a la posibilidad de que un movimiento social que se apoye sustancialmente en las redes, pueda convertirse en elitista por las limitaciones de sectores marginados a la tecnología; porque el permanente crecimiento del universo de personas con acceso a las nuevas tecnologías ampliará suficientemente la superficie de contacto.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T040223Z" creationid="Ricardito120" creationdate="20161130T040223Z">
-        <seg>Nous ne partageons pas la méfiance de Tilly à l'égard de la possibilité qu'un mouvement social s'appuyant substantiellement sur les réseaux sociaux, puisse se convertir en élitiste à cause des limitations d’accès à la technologie  par des secteurs marginalisés. En effet le nombre de personnes ayant accès aux nouvelles technologies grandit en permanence et va élargir suffisamment la surface de contact.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161224T164447Z" creationid="Ricardito120" creationdate="20161130T040223Z">
+        <seg>Nous ne partageons pas la méfiance de Tilly à l'égard de la possibilité qu'un mouvement social s'appuyant substantiellement sur les réseaux sociaux, puisse se convertir en élitiste à cause des limitations d’accès à la technologie par des secteurs marginalisés. En effet le nombre de personnes ayant accès aux nouvelles technologies grandit en permanence et va élargir suffisamment la surface de contact.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12428,8 +12428,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero el problema puede radicar en que una desmedida interconexión en redes genere una suerte de “ilusión de participación” masiva, que luego no decante en una comunicación y participación presencial que conduzca hacia el nivel organizativo mínimo necesario para ejercer presión y ocupar el espacio político.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T040240Z" creationid="Ricardito120" creationdate="20161130T040240Z">
-        <seg>Mais un problème peut se poser si l’interconnexion démesurée à travers les réseaux sociaux génère une sorte « d'illusion de participation » massive, qui ne soit pas suivie d’une communication et d’une participation physique, essentielles pour configurer un niveau minimum d’organisation nécessaire pour faire pression et occuper l'espace politique.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161224T164524Z" creationid="Ricardito120" creationdate="20161130T040240Z">
+        <seg>Mais un problème peut se poser si l’interconnexion démesurée à travers les réseaux sociaux génère une sorte «d'illusion de participation» massive, qui ne soit pas suivie d’une communication et d’une participation physique, essentielles pour configurer le niveau minimum d’organisation nécessaire pour faire pression et occuper l'espace politique.</seg>
       </tuv>
     </tu>
     <tu>
