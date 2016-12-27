@@ -208,16 +208,16 @@
       <tuv lang="ES-AR">
         <seg>A diferencia del armamento nuclear, con el que resulta más sencillo explicar a las poblaciones acerca de la irracionalidad que implica tener armas capaces de hacer desaparecer todo vestigio de vida en el planeta, el armamento convencional suele tener mayor cantidad de defensores, según la situación de cada país.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T044003Z" creationid="Ricardito120" creationdate="20161130T044003Z">
-        <seg>A la différence de l’armement nucléaire, avec lequel il est plus simple d'expliquer aux populations l'irrationalité qu'implique avoir des armes capables de faire disparaître tout vestige de vie sur la planète, l’armement conventionnel a habituellement plus de défenseurs selon la situation de chaque pays.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105204Z" creationid="Ricardito120" creationdate="20161130T044003Z">
+        <seg>À la différence de l’armement nucléaire, avec lequel il est plus simple d'expliquer aux populations l'irrationalité qu'implique avoir des armes capables de faire disparaître tout vestige de vie sur la planète, l’armement conventionnel a habituellement plus de défenseurs selon la situation de chaque pays.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>A ese poder hay que sumarle los arsenales que mantienen Francia, Inglaterra, China, Corea del Norte, India Pakistán e Israel (estos últimos cuatro países ni siquiera adhieren al tratado).</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043527Z" creationid="Ricardito120" creationdate="20161130T043527Z">
-        <seg>A ce pouvoir, il faut ajouter les arsenaux que maintiennent la France, l’Angleterre, la Chine, la Corée du Nord, l’Inde, le Pakistan et Israël (ces 4 derniers pays n’ont même pas adhéré au traité). </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104313Z" creationid="Ricardito120" creationdate="20161130T043527Z">
+        <seg>À ce pouvoir, il faut ajouter les arsenaux que maintiennent la France, l’Angleterre, la Chine, la Corée du Nord, l’Inde, le Pakistan et Israël (ces 4 derniers pays n’ayant même pas adhéré au traité).</seg>
       </tuv>
     </tu>
     <tu>
@@ -680,8 +680,8 @@
       <tuv lang="ES-AR">
         <seg>Al respecto podríamos distinguir al menos cinco situaciones:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T044039Z" creationid="Ricardito120" creationdate="20161130T044039Z">
-        <seg>A ce sujet, on pourrait distinguer au moins 5 situations :</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105330Z" creationid="Ricardito120" creationdate="20161130T044039Z">
+        <seg>À ce sujet, on pourrait distinguer au moins 5 situations :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3188,8 +3188,8 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que existen numerosas organizaciones especializadas que trabajan sobre este tema, entre las cuales podemos citar a la Fundación Mundo Sin Guerras, desde donde se impulsa la creación de diversos niveles de trabajo&lt;t0/&gt;, para coordinar y sumar esfuerzos en la dirección del desarme nuclear.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043815Z" creationid="Ricardito120" creationdate="20161130T043815Z">
-        <seg>Bien sûr, il existe de nombreuses organisations spécialisées qui travaillent sur ce thème parmi lesquelles nous pouvons citer la Fondation Monde sans guerres depuis laquelle s’impulse la création de divers niveaux de travail pour coordonner et ajouter des efforts dans la direction du désarmement nucléaire. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104947Z" creationid="Ricardito120" creationdate="20161130T043815Z">
+        <seg>Bien sûr, il existe de nombreuses organisations spécialisées qui travaillent sur ce thème parmi lesquelles nous pouvons citer la Fondation Monde sans guerres depuis laquelle est impulsée la création de divers niveaux de travail&lt;t0/&gt; pour coordonner et ajouter les efforts dans la direction du désarmement nucléaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3719,8 +3719,8 @@
       <tuv lang="ES-AR">
         <seg>El armamentismo generado por el Complejo Militar Industrial&lt;t0/&gt;, que busca retroalimentarse como negocio con la creación de conflictos armados, o con la potenciación y perpetuación de conflictos existentes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T044108Z" creationid="Ricardito120" creationdate="20161130T044108Z">
-        <seg>1- L’armement créé par le Complexe Militaro-Industriel cherchant à se rétro alimenter commercialement avec la création de conflits armés ou avec la puissance et la perpétuation des conflits existants.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105528Z" creationid="Ricardito120" creationdate="20161130T044108Z">
+        <seg>L’armement créé par le complexe militaro-industriel cherchant à se rétro alimenter commercialement avec la création de conflits armés ou avec l'augmentation et la perpétuation des conflits existants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4000,8 +4000,8 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       <tuv lang="ES-AR">
         <seg>El mantenimiento de un nivel de armamento defensivo para la protección nacional, sin hipótesis de conflictos en el corto o mediano plazo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T044327Z" creationid="Ricardito120" creationdate="20161130T044327Z">
-        <seg>5- Le maintien d’un niveau d’armement défensif pour la protection nationale, sans hypothèse de conflits à court ou moyen terme..</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105521Z" creationid="Ricardito120" creationdate="20161130T044327Z">
+        <seg>Le maintien d’un niveau d’armement défensif pour la protection nationale, sans hypothèse de conflits à court ou moyen terme..</seg>
       </tuv>
     </tu>
     <tu>
@@ -5935,8 +5935,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>Entonces, lo que hay que hacer en este sentido es presionar a los gobiernos a que se definan sobre este tema, y esclarecer a las poblaciones de que no sigan votando a los gobernantes que no trabajen activamente por el desarme nuclear.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043730Z" creationid="Ricardito120" creationdate="20161130T043730Z">
-        <seg>Alors ce qu’il faut faire dans ce sens est de faire pression sur les gouvernements afin qu’ils se définissent sur ce sujet et éclairer les populations de sorte qu’ils ne continuent pas d’élire des gouvernements qui ne travailleraient pas activement pour le désarmement nucléaire. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104653Z" creationid="Ricardito120" creationdate="20161130T043730Z">
+        <seg>Alors ce qu’il faut faire dans ce sens est de faire pression sur les gouvernements afin qu’ils se définissent sur ce sujet et éclairer les populations de sorte qu’ils ne continuent pas d’élire des gouvernements qui ne travailleraient pas activement pour le désarmement nucléaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8834,8 +8834,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>La disminución del armamento convencional requeriría de un proceso complejo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043946Z" creationid="Ricardito120" creationdate="20161130T043946Z">
-        <seg>La diminution de l’armement conventionnel requiert un processus complexe. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105143Z" creationid="Ricardito120" creationdate="20161130T043946Z">
+        <seg>La diminution de l’armement conventionnel demandera un processus complexe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12868,8 +12868,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero nada dicen acerca del poder de chantaje que tienen las potencias atómicas con respecto al resto del mundo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043604Z" creationid="Ricardito120" creationdate="20161130T043604Z">
-        <seg>Mais ils ne disent rien à propos du pouvoir de chantage que les puissances atomiques ont à l'égard du reste du monde. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104346Z" creationid="Ricardito120" creationdate="20161130T043604Z">
+        <seg>Mais ils ne disent rien à propos du pouvoir de chantage que les puissances atomiques ont à l'égard du reste du monde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14986,8 +14986,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Quienes quieran trabajar en campañas dirigidas a apoyar este importantísimo paso hacia la Nación Humana Universal, seguramente que debieran hacerlo en coordinación con los especialistas y los activistas sociales involucrados en la temática.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043835Z" creationid="Ricardito120" creationdate="20161130T043835Z">
-        <seg>Quiconque veut travailler sur des campagnes dirigées à appuyer ce très important pas vers la Nation Humaine Universelle devra sûrement le faire en coordination avec les spécialistes et les activistes sociaux engagés dans cette thématique. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105021Z" creationid="Ricardito120" creationdate="20161130T043835Z">
+        <seg>Quiconque veut travailler sur des campagnes dirigées à appuyer ce très important pas vers la Nation humaine universelle devrait sûrement le faire en coordination avec les spécialistes et les activistes sociaux engagés dans cette thématique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15090,8 +15090,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Recién 30 años más tarde, luego de la caída del muro de Berlín hubo algunos avances por parte de USA y URSS/Rusia, mediante la firma de los tratados START &lt;t2/&gt;, pero se sabe que las reducciones acordadas mantienen de todas maneras a ambas potencias con suficiente poder como para destruir el planeta.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043509Z" creationid="Ricardito120" creationdate="20161130T043509Z">
-        <seg>Récemment, 30 ans plus tard, depuis la chute du mur de Berlin, il y a eu quelques avancées de la part des USA et de l’URSS/Russie, au moyen de la signature ??des accords (?) START mais on sait que les réductions accordées maintiennent de toute façon les deux puissances avec suffisamment de pouvoir pour détruire la planète. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104239Z" creationid="Ricardito120" creationdate="20161130T043509Z">
+        <seg>À peine 30 ans plus tard, après la chute du mur de Berlin, il y a eu quelques avancées de la part des USA et de l’URSS/Russie, au moyen de la signature des accords START&lt;t2/&gt; mais on sait que les réductions accordées laissent de toute façon aux deux puissances de quoi pouvoir détruire la planète.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15362,8 +15362,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Se debe dar sobre todo una lucha cultural, primero para explicar que el peligro del holocausto nuclear sigue vigente y no se terminó con la Guerra Fría, segundo para desvanecer los fantasmas de las amenazas externas como justificación para mantener esas armas, y tercero para comprender que no habrá paz para nadie mientras unas pocas potencias pretendan imponer su voluntad desde la prepotencia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043752Z" creationid="Ricardito120" creationdate="20161130T043752Z">
-        <seg>On doit entreprendre une lutte culturelle, en premier lieu pour expliquer que le ??danger (risque) ?? d’un holocauste nucléaire demeure en vigueur et ne s’est pas éteint avec la fin de la Guerre Froide, ensuite pour dissiper les fantômes de menaces externes comme justifications pour maintenir ces armes et enfin pour comprendre qu’il n’y aura de paix pour personne tandis que quelques puissances prétendent imposer leur volonté avec arrogance.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104814Z" creationid="Ricardito120" creationdate="20161130T043752Z">
+        <seg>On doit surtout entreprendre une lutte culturelle, en premier lieu pour expliquer que le risque d’un holocauste nucléaire demeure en vigueur et ne s’est pas éteint avec la fin de la Guerre Froide, ensuite pour dissiper les fantômes de menaces externes comme justifications pour maintenir ces armes et enfin pour comprendre qu’il n’y aura de paix pour personne tandis que quelques puissances prétendent imposer leur volonté avec arrogance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15923,8 +15923,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Será necesario entonces concientizar a las poblaciones, y sobre todo en los países que disponen &lt;t0/&gt;de esas armas, de que no pueden seguir apoyando a los gobernantes que defienden los intereses del complejo militar industrial, y los intereses del poder económico, que se escuda precisamente tras el poder de las armas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043708Z" creationid="Ricardito120" creationdate="20161130T043708Z">
-        <seg>Il faudra sensibiliser les populations, surtout dans les pays qui disposent de ces armes, afin qu’ils puissent continuer à appuyer les gouvernements qui défendent les intérêts du complexe militaro-industriel et les intérêts du pouvoir économique qui s’abrite précisément derrière le pouvoir des armées ???(de l’armement).</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104628Z" creationid="Ricardito120" creationdate="20161130T043708Z">
+        <seg>Il faudra donc sensibiliser les populations, surtout dans les pays qui disposent &lt;t0/&gt;de ces armes, afin qu’elles cessent d'appuyer les gouvernements qui défendent les intérêts du complexe militaro-industriel et les intérêts du pouvoir économique qui s’abrite précisément derrière le pouvoir des armes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15955,8 +15955,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Será necesario entonces, para iniciar un proceso de concientización en las poblaciones que conduzca hacia el desarme progresivo, analizar los diferentes niveles de armamentismo y trabajar con las respectivas argumentaciones, paso por paso.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T044024Z" creationid="Ricardito120" creationdate="20161130T044024Z">
-        <seg>Il sera nécessaire alors, pour initier un processus de sensibilisation des populations qui conduise jusqu’à un désarmement progressif, d’analyser les différents niveaux d’armement et travailler avec les ??argumentations respectives ( ?), pas à pas. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105314Z" creationid="Ricardito120" creationdate="20161130T044024Z">
+        <seg>Il sera alors nécessaire, pour initier un processus de sensibilisation des populations qui conduise jusqu’à un désarmement progressif, d’analyser les différents niveaux d’armement et travailler les argumentations respectives, pas à pas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16091,8 +16091,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Si bien el poder devastador de las armas nucleares las coloca en un nivel de máxima prioridad a la hora de hablar de la necesidad de un desarme, son las armas convencionales las que están causando el mayor daño, cobrándose miles de vidas en los cuantiosos conflictos armados que hay en el planeta.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043926Z" creationid="Ricardito120" creationdate="20161130T043926Z">
-        <seg>Bien que le pouvoir dévastateur des armes nucléaires les place dans un niveau de priorité maximale à l'heure où nous parlons de la nécessité d'un désarmement, ce sont les armes conventionnelles qui causent le plus ?? grand mal ( ?), coûtant des milliers de vies dans les nombreux conflits armés qu’il y a sur la planète. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T105126Z" creationid="Ricardito120" creationdate="20161130T043926Z">
+        <seg>Bien que le pouvoir dévastateur des armes nucléaires les place à un niveau de priorité maximale à l'heure où nous parlons de la nécessité d'un désarmement, ce sont les armes conventionnelles qui causent le plus grand mal, coûtant des milliers de vies dans les nombreux conflits armés qu’il y a sur la planète.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16227,8 +16227,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Si el argumento del poder disuasivo de las armas nucleares para mantener la paz, resultaba poco creíble durante la Guerra Fría, mucho menos creíble resulta ahora, y el mantenimiento de los arsenales nucleares sólo se explica por el interés de mantener situaciones de dominio por parte de las principales potencias.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043624Z" creationid="Ricardito120" creationdate="20161130T043624Z">
-        <seg>Si l’argument du pouvoir dissuasif des armes nucléaires pour maintenir la paix était peu crédible durant la Guerre Froide, ça l’est encore moins maintenant et le maintien des arsenaux nucléaires s’explique uniquement par l’intérêt de maintenir des situations de domination de la part des principales puissances.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104427Z" creationid="Ricardito120" creationdate="20161130T043624Z">
+        <seg>Si l’argument du pouvoir dissuasif des armes nucléaires pour maintenir la paix était peu crédible durant la Guerre Froide, il l’est encore moins maintenant et le maintien des arsenaux nucléaires s’explique uniquement par l’intérêt de maintenir des situations de domination de la part des principales puissances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16563,8 +16563,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Sin duda que el obstáculo para que la humanidad se quite de encima la amenaza de su propia aniquilación, son los intereses de las potencias armamentistas, que son las que debieran cambiar sus políticas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T043644Z" creationid="Ricardito120" creationdate="20161130T043644Z">
-        <seg>Il ne fait aucun doute que l’obstacle pour que l’humanité se débarrasse de la menace de sa propre destruction est l’intérêt des puissances armées qui devraient changer leur politique. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20161227T104504Z" creationid="Ricardito120" creationdate="20161130T043644Z">
+        <seg>Il ne fait aucun doute que l’obstacle pour que l’humanité se débarrasse de la menace de sa propre destruction est l’intérêt des puissances armées qui devraient changer leur politique.</seg>
       </tuv>
     </tu>
     <tu>
