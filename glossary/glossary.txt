@@ -14,3 +14,4 @@ complementación	complementation	Pas de terme français a priori.
 funcionarios	élus	Je propose élus qui semble plus juste vu le contexte
 concientización	conscientisation
 Economía Mixta	Économie mixte
+mente	mental
