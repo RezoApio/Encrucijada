@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Aristóteles, "Política"</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T203615Z" creationid="Ricardito120" creationdate="20170122T203615Z">
+        <seg>Aristóteles, La politique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Aristóteles, en su “Política”, ya en el libro primero define tal naturaleza del siguiente modo: &lt;t0/&gt;“La naturaleza, teniendo en cuenta la necesidad de la conservación, ha creado a unos seres para mandar y a otros para obedecer.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T184124Z" creationid="Ricardito120" creationdate="20161115T184124Z">
