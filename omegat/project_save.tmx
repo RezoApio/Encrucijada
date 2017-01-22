@@ -1447,6 +1447,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Bibliografía</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T200709Z" creationid="Ricardito120" creationdate="20170122T200709Z">
+        <seg>Bibliographie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Buena parte del subdesarrollo tiene que ver con la expoliación de los recursos naturales, el sometimiento de las poblaciones.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T055054Z" creationid="Ricardito120" creationdate="20161130T055054Z">
