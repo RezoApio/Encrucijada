@@ -2618,8 +2618,8 @@
       <tuv lang="ES-AR">
         <seg>De igual manera, cuando vemos que en la justicia y en las fuerzas policiales hay gran cantidad de funcionarios corruptos, o policías que delinquen y asesinan, ¿Podemos minimizar el tema hablando de que son sólo un porcentaje?, de ninguna manera porque se trata precisamente de quienes se supone deben combatir los delitos y aplicar la justicia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T164151Z" creationid="Françoise" creationdate="20161118T164151Z">
-        <seg>De la même manière, quand nous voyons que dans la justice et dans les forces policières il y a une grande quantité de fonctionnaires corrompus ou de policiers qui commettent des délits et assassinent : Pouvons-nous minimiser le sujet en disant qu'ils représentent seulement un pourcentage ? En aucune façon car il s'agit précisément de ceux qui sont supposés combattre les délits et faire appliquer la justice.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170122T184616Z" creationid="Françoise" creationdate="20161118T164151Z">
+        <seg>De la même manière, quand nous voyons que dans la justice et dans les forces policières il y a une grande quantité de fonctionnaires corrompus ou de policiers qui commettent des délits et assassinent : pouvons-nous minimiser le sujet en disant qu'ils représentent seulement un pourcentage ? En aucune façon car il s'agit précisément de ceux qui sont supposés combattre les délits et faire appliquer la justice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13806,8 +13806,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por ejemplo, si entrevistáramos a 100 médicos recién recibidos y nos percatáramos que 30 de ellos no saben qué función tiene el hígado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T163949Z" creationid="Françoise" creationdate="20161118T163949Z">
-        <seg>Par exemple, si nous interviewons 100 médecins récemment diplômés et que nous nous apercevrons que 30 d'entre eux ne savent pas quelle fonction a le foie.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170122T184525Z" creationid="Françoise" creationdate="20161118T163949Z">
+        <seg>Par exemple, si nous interviewons 100 médecins récemment diplômés et que nous nous apercevons que 30 d'entre eux ne savent pas quelle fonction a le foie.</seg>
       </tuv>
     </tu>
     <tu>
