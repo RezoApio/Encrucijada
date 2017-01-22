@@ -1296,8 +1296,8 @@
       <tuv lang="ES-AR">
         <seg>Así que comenzaremos ampliando lo dicho en el exordio.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161222T142733Z" creationid="Ricardito120" creationdate="20161129T050055Z">
-        <seg>Nous commencerons donc par amplifier ce qui a été dit dans le préambule.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170122T101901Z" creationid="Ricardito120" creationdate="20161129T050055Z">
+        <seg>Nous commencerons donc par développer ce qui a été dit dans le préambule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12275,8 +12275,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero antes de comenzar con el análisis del QUÉ, hablaremos sobre quiénes serán los actores del cambio, y cómo, cuándo y dónde podrían actuar.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161222T142657Z" creationid="Ricardito120" creationdate="20161129T050036Z">
-        <seg>Mais avant de commencer avec l'analyse du QUOI, nous parlerons de qui seront les acteurs du changement, et comment, quand et où ceux-ci pourraient agir. </seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170122T101832Z" creationid="Ricardito120" creationdate="20161129T050036Z">
+        <seg>Mais avant de commencer avec l'analyse de QUOI, nous traiterons ici de qui seront les acteurs du changement, et comment, quand et où ils pourraient agir. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14374,8 +14374,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque es obvio que no se puede abarcar en un libro todo lo que habría que hacer, y además la implementación de estas mismas propuestas de pasos requerirá de muchos pequeños sub-pasos que habrá que ir desarrollando sobre la marcha.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161222T142614Z" creationid="Ricardito120" creationdate="20161129T050017Z">
-        <seg>Il est évident qu’un livre ne peut pas couvrir tout ce qu'il faudrait faire, et de plus,  l'implémentation de ces mêmes propositions de pas à suivre requerra de nombreux petits pas intermédiaires qui seront développés en cours de route. </seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170122T101744Z" creationid="Ricardito120" creationdate="20161129T050017Z">
+        <seg>Parce qu’il est évident qu’un livre ne peut pas couvrir tout ce qu'il faudrait faire, et que, de plus, la mise en place de ces mêmes propositions de pas à suivre requerra beaucoup de petits pas intermédiaires à développer au fur et à mesure. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19712,8 +19712,8 @@ Ils continuent :
       <tuv lang="ES-AR">
         <seg>¿Deberán ser los gobernantes, los que tienen algún poder, quienes se comprometan con un proyecto transformador?</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161222T142851Z" creationid="Ricardito120" creationdate="20161129T050545Z">
-        <seg>Est-ce que ce sont les gouvernants, ceux qui ont un quelconque pouvoir, qui doivent s’impliquer dans un projet transformateur ?</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170122T101920Z" creationid="Ricardito120" creationdate="20161129T050545Z">
+        <seg>Est-ce que ce seront les gouvernants, ceux qui ont un pouvoir insignifiant, ceux qui s’impliquent dans un projet transformateur  ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19760,8 +19760,8 @@ Ils continuent :
       <tuv lang="ES-AR">
         <seg>¿O no se puede confiar en ellos porque son parte del problema?</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161222T142923Z" creationid="Ricardito120" creationdate="20161129T050929Z">
-        <seg>Ou bien ne peut-on pas avoir confiance en eux parce qu’ils font partie du problème?</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170122T101937Z" creationid="Ricardito120" creationdate="20161129T050929Z">
+        <seg>Ou ne peut-on pas avoir confiance en eux parce qu’ils font partie du problème même ?</seg>
       </tuv>
     </tu>
     <tu>
