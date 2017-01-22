@@ -568,8 +568,8 @@
       <tuv lang="ES-AR">
         <seg>Aguilar Mario y Bize Rebeca, "Pedagogía de la diversidad"; Virtual Ediciones, Santiago de Chile, 2003</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T203037Z" creationid="Ricardito120" creationdate="20170122T201034Z">
-        <seg>AGUILAR Mario - BIZE Rebeca, Pedagogía de la diversidad (Pédagogie de la diversité), Virtual Ediciones, Santiago de Chile, 2003</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T204441Z" creationid="Ricardito120" creationdate="20170122T201034Z">
+        <seg>AGUILAR Mario - BIZE Rebeca, Pedagogía de la diversidad (Pédagogie de la diversité), Virtual Ediciones, Santiago de Chile, 2003.</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="ES-AR">
         <seg>Amnistía Internacional, "La situación de los Derechos Humanos en el Mundo", Informe 2014/2015</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T203342Z" creationid="Ricardito120" creationdate="20170122T203342Z">
-        <seg>AMNESTY INTERNATIONAL, Rapport 2014/15 : La situation des Droits humains dans le monde</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T204431Z" creationid="Ricardito120" creationdate="20170122T203342Z">
+        <seg>AMNESTY INTERNATIONAL, Rapport 2014/15 : La situation des Droits humains dans le monde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@
       <tuv lang="ES-AR">
         <seg>Aristóteles, "Política"</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T203615Z" creationid="Ricardito120" creationdate="20170122T203615Z">
-        <seg>Aristóteles, La politique</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T204423Z" creationid="Ricardito120" creationdate="20170122T203615Z">
+        <seg>Aristóteles, La politique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,6 +1475,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T220504Z" creationid="la belle idee" creationdate="20161206T220504Z">
         <seg>Il suffit de rechercher dans la pratique l’origine et la composition de chacun d’eux pour démontrer les relations intimes qui les unissent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Bentham, Jeremy, "En defensa de la usura", Ediciones Sequitur, Madrid, 2009.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T204413Z" creationid="Ricardito120" creationdate="20170122T204413Z">
+        <seg>BENTHAM Jérémie, En defense de la usura (Défense de l'usure), Ediciones Sequitur, Madrid, 2009.</seg>
       </tuv>
     </tu>
     <tu>
