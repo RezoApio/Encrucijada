@@ -15,3 +15,4 @@ funcionarios	élus	Je propose élus qui semble plus juste vu le contexte
 concientización	conscientisation
 Economía Mixta	Économie mixte
 mente	mental
+articulación	collaboration	bien meilleure traduction que articulation
