@@ -3935,8 +3935,8 @@
       <tuv lang="ES-AR">
         <seg>El caso de los presupuestos participativos&lt;t0/&gt; es un buen ejemplo de que a nivel municipal es posible comenzar a empoderar a la ciudadanía en el ejercicio de una democracia directa, que no se limita al voto entre opciones, sino que implica el involucramiento de los ciudadanos en un proceso deliberativo que incorpora calidad a las decisiones, y sobre todo los ejercita y los anima para exigir una mayor participación en todas las áreas y niveles del estado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T224740Z" creationid="Françoise" creationdate="20161118T224740Z">
-        <seg>Le cas des budgets participatifs est un bon exemple du fait qu'au niveau municipal, il est possible de commencer à habiliter les citoyens dans l'exercice de la démocratie directe, qui ne se limite pas au vote entre différentes options, mais implique l'investissement des citoyens dans un processus délibératif qui ajoute de la qualité aux décisions et surtout forme et anime les citoyens pour exiger leur plus grande participation dans tous les domaines et à tous les niveaux de l'état.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T214333Z" creationid="Françoise" creationdate="20161118T224740Z">
+        <seg>Le cas des budgets participatifs&lt;t0/&gt; est un bon exemple du fait qu'au niveau municipal, il est possible de commencer à habiliter les citoyens dans l'exercice de la démocratie directe, qui ne se limite pas au vote entre différentes options, mais implique l'investissement des citoyens dans un processus délibératif qui ajoute de la qualité aux décisions et surtout forme et anime les citoyens pour exiger leur plus grande participation dans tous les domaines et à tous les niveaux de l'état.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4884,8 +4884,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En el caso de América Latina, región que durante varias décadas fue sometida por gobiernos de facto, a partir de los años 90 se ha ido avanzando en la inclusión constitucional de mecanismos de democracia directa, tales como las consultas populares, las iniciativas ciudadanas y los referendos revocatorios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223930Z" creationid="Françoise" creationdate="20161118T223930Z">
-        <seg>Dans le cas de l'Amérique Latine, région qui pendant quelques décennies a été soumise à des gouvernements de facto, à partir des années 90, elle a avancé dans l'inclusion constitutionnelle de mécanismes de démocratie directe, comme les consultations populaires, les initiatives citoyennes et les referendums révocatoires.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T213431Z" creationid="Françoise" creationdate="20161118T223930Z">
+        <seg>Dans le cas de l'Amérique Latine, région qui pendant quelques décennies a été soumise à des gouvernements de facto, à partir des années 90, elle a avancé dans l'inclusion constitutionnelle de mécanismes de démocratie directe, comme les consultations populaires, les initiatives citoyennes et les référendums révocatoires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5591,8 +5591,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En otras palabras, si las élites que dominan en las democracias formales, acostumbradas a privilegiar sus propios intereses de casta y los del poder económico, han logrado echar raíces en todas las instituciones del estado, es de esperar que desde esos lugares de poder se resistan a un gobernante que busque transformar el sistema y terminar con los privilegios y las desigualdades.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T224351Z" creationid="Françoise" creationdate="20161118T224351Z">
-        <seg>En d'autres mots, si les élites qui dominent dans la démocratie formelle, habituées à privilégier leurs propres intérêts de caste et ceux du pouvoir économique, ont réussi à s’établir dans toutes les institutions de l'état, il faut s’attendre à ce que depuis ces lieux de pouvoir, ils résistent à un gouvernement qui cherche à transformer le système et à en finir avec les privilèges et l'inégalité.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T214116Z" creationid="Françoise" creationdate="20161118T224351Z">
+        <seg>En d'autres mots, si les élites qui dominent dans les démocraties formelles, habituées à privilégier leurs propres intérêts de caste et ceux du pouvoir économique, ont réussi à s’établir dans toutes les institutions de l'état, il faut s’attendre à ce que depuis ces lieux de pouvoir, ils résistent à un gouvernement qui cherche à transformer le système et à en finir avec les privilèges et l'inégalité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11406,8 +11406,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>No obstante, hay quienes cuestionan la calidad democrática de algunos de estos países, en los que los instrumentos de la democracia directa podrían utilizarse para eludir otras instancias institucionales, generando una relación directa entre el pueblo y el líder, en lo que se ha dado en llamar democracias delegativas&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T224243Z" creationid="Françoise" creationdate="20161118T224243Z">
-        <seg>Cependant, certains s'interrogent sur la qualité démocratique de certains de ces pays, dans lesquels les instruments de la démocratie directe pourraient être utilisés pour éviter d'autres instances institutionnelles, générant une relation directe entre le peuple et le leader, dans ce que l'on nomme démocratie par délégation (par procuration?).</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T213941Z" creationid="Françoise" creationdate="20161118T224243Z">
+        <seg>Cependant, certains s'interrogent sur la qualité démocratique de certains de ces pays, dans lesquels les instruments de la démocratie directe pourraient être utilisés pour éviter d'autres instances institutionnelles, générant une relation directe entre le peuple et le leader, dans ce que l'on nomme démocratie par délégation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12987,8 +12987,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero más allá de las diferencias, en general ha habido avances importantes, sobre todo en América del Sur.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223954Z" creationid="Françoise" creationdate="20161118T223954Z">
-        <seg>Mais au-delà des différences, il y a eu en général des avances importantes, surtout en Amérique du Sud.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T213457Z" creationid="Françoise" creationdate="20161118T223954Z">
+        <seg>Mais au-delà des différences, il y a eu en général des avancées importantes, surtout en Amérique du Sud.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14110,8 +14110,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por lo tanto el escalonamiento hacia la democracia real debería contemplar una estrategia de pasos que en cada país puedan adaptarse a las distintas dimensiones de resistencia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T224913Z" creationid="Françoise" creationdate="20161118T224913Z">
-        <seg>Par conséquent l'échelonnement vers la démocratie réelle devrait envisager une stratégie de pas qui dans chaque pays peuvent s'adapter aux différentes dimensions de résistance.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T214419Z" creationid="Françoise" creationdate="20161118T224913Z">
+        <seg>Par conséquent l'échelonnement vers la démocratie réelle devrait envisager une stratégie de pas qui dans chaque pays puissent s'adapter aux différentes dimensions de résistance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14736,8 +14736,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Porque tal vez una democracia formal devenida en plutocracia, en la que el poder económico aprovecha los canales institucionales para gobernar, esté igual de lejos de la democracia real que una dictadura.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223828Z" creationid="Françoise" creationdate="20161118T223828Z">
-        <seg>Peut-être qu'une démocratie formelle transformée en oligarchie, dans laquelle le pouvoir économique profite des canaux institutionnels pour gouverner, est aussi loin de la démocratie réelle qu'une dictature.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T213348Z" creationid="Françoise" creationdate="20161118T223828Z">
+        <seg>Peut-être qu'une démocratie formelle transformée en ploutocratie, dans laquelle le pouvoir économique profite des canaux institutionnels pour gouverner, est aussi loin de la démocratie réelle qu'une dictature.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17873,8 +17873,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Todos estos mecanismos, según el país del que se trate, pueden ser vinculantes o no, y pueden tener mayor o menor cantidad de filtros institucionales&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T223943Z" creationid="Françoise" creationdate="20161118T223943Z">
-        <seg>Selon le pays, tous ces mécanismes peuvent être contraignants ou non et peuvent avoir une plus ou moins grande quantité de filtres institutionnels.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T213443Z" creationid="Françoise" creationdate="20161118T223943Z">
+        <seg>Selon le pays, tous ces mécanismes peuvent être contraignants ou non et peuvent avoir une plus ou moins grande quantité de filtres institutionnels&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19285,8 +19285,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y si bien es cierto que la calidad institucional no se corresponde con el ideal de una poliarquía, mucho más cierto es que la democracia representativa formal &lt;t2/&gt;también ha decepcionado a los ciudadanos, por las razones explicadas anteriormente, y entonces sus instituciones suelen poner numerosos obstáculos a los procesos transformadores.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T224324Z" creationid="Françoise" creationdate="20161118T224324Z">
-        <seg>Bien qu'il soit certain que la qualité institutionnelle ne correspond pas avec l'idéal d'un gouvernement dans lequel le pouvoir serait exercé par un grand nombre de personnes, il est beaucoup plus certain encore que la démocratie représentative formelle a également déçu les citoyens, pour les raisons expliquées antérieurement, et alors leurs institutions ont l'habitude de mettre de nombreux obstacles aux processus transformateurs..</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170123T214037Z" creationid="Françoise" creationdate="20161118T224324Z">
+        <seg>Bien qu'il soit certain que la qualité institutionnelle ne correspond pas avec l'idéal d'un gouvernement dans lequel le pouvoir serait exercé par un grand nombre de personnes, il est beaucoup plus certain encore que la démocratie représentative formelle&lt;t2/&gt; a également déçu les citoyens, pour les raisons expliquées antérieurement, et alors leurs institutions ont l'habitude de mettre de nombreux obstacles aux processus transformateurs.</seg>
       </tuv>
     </tu>
     <tu>
