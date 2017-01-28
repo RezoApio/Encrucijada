@@ -3220,8 +3220,8 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que el ser humano necesita alimentos, vestimenta, trabajo, recreación y protección social.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161105T171928Z" creationid="william" creationdate="20161105T171928Z">
-        <seg>Bien sur que l'être humain a besoin de nourriture, de vêtements, de travail, de loisir et de protection sociale.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170128T165815Z" creationid="william" creationdate="20161105T171928Z">
+        <seg>Bien sûr, l'être humain a besoin de nourriture, de vêtements, de travail, de loisir et de protection sociale. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12939,8 +12939,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero la satisfacción de esas necesidades no puede convertirse ni en la línea de largada de una carrera consumista que obnubile a los privilegiados, ni en la meta inalcanzable que frustre o resienta a los marginados.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161105T172353Z" creationid="william" creationdate="20161105T172353Z">
-        <seg>Mais la seule satisfaction de ces nécessités ne peut se convertir en la ligne de départ d'une course consumériste qui obnubile les privilégiés, ni dans le but inaccessible qui frustre les marginalisés.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170128T165835Z" creationid="william" creationdate="20161105T172353Z">
+        <seg>Le fait de satisfaire ces nécessités ne peut être réduit en ligne de départ d'une course consumériste obnubilant les privilégiés, ni en un but inaccessible frustrant les marginalisés. </seg>
       </tuv>
     </tu>
     <tu>
