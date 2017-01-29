@@ -7459,8 +7459,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Facultad de Ciencias Sociales-UBA-"Democracia Participativa, una utopía en marcha", Bs.As., 2005.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170123T211301Z" creationid="Ricardito120" creationdate="20170123T211301Z">
-        <seg>Facultad de Ciencias Sociales-UBA, Democracia Participativa, una utopía en marcha (Démocratie participative, une utopie en marche), Buenos Aires, 2005.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170129T162847Z" creationid="Ricardito120" creationdate="20170123T211301Z">
+        <seg>Facultad de Ciencias Sociales - UBA, Democracia Participativa - una utopía en marcha (Démocratie participative, une utopie en marche), Buenos Aires, 2005.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7773,6 +7773,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161224T170612Z" creationid="Ricardito120" creationdate="20161130T041712Z">
         <seg>Une grande partie des personnes qui travaillent dans ces organisations, voire même des élus de gouvernements progressistes, mettront toute leur énergie sur leur objectif, en sachant qu'il converge avec le projet général.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Greenpeace España, "Hoja de ruta para Europa, hacia un suministro energético independiente y sostenible", España 2014</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170129T162820Z" creationid="Ricardito120" creationdate="20170129T162820Z">
+        <seg>GREENPEACE Espagne, Hoja de ruta para Europa, hacia un suministro energético independiente y sostenible (), España, 2014.</seg>
       </tuv>
     </tu>
     <tu>
