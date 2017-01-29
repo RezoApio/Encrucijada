@@ -544,8 +544,8 @@
       <tuv lang="ES-AR">
         <seg>Además, si la riqueza se sigue concentrando, cada vez será menor el universo de empresas y personas con capacidad contributiva, y se deberán aplicar alícuotas cada vez más altas para poder recaudar lo necesario, pudiéndose arribar al límite de lo confiscatorio.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214057Z" creationid="Ricardito120" creationdate="20161205T214057Z">
-        <seg>De plus, si la richesse continue de se concentrer, l’univers des entreprises sera chaque fois moins important et donc des personnes avec des capacités de contribuer et l’on devra appliquer des aliquotes chaque fois plus hauts pour pouvoir collecter le nécessaire, pouvant arriver à des limites confiscatoires. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170129T215342Z" creationid="Ricardito120" creationdate="20161205T214057Z">
+        <seg>De plus, si la richesse continue de se concentrer, l’univers des entreprises et des personnes ayant des capacités contributives sera de moins en moins important et l’on devra donc appliquer des taux chaque fois plus hauts pour pouvoir collecter ce qui est nécessaire, pouvant arriver à la limite du confiscatoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,8 +2458,8 @@
       <tuv lang="ES-AR">
         <seg>Cuando se analizan los diversos sistemas tributarios se suele partir de la pregunta acerca de cuáles son las mejores estrategias y herramientas para lograr la suficiencia (cubrir todas las erogaciones del estado) y la equidad (lograr que el Estado se financie con quienes detentan mayor capacidad contributiva).</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213909Z" creationid="Ricardito120" creationdate="20161205T213909Z">
-        <seg>Lorsque l’on analyse les différents systèmes fiscaux, on a l’habitude de partir de la question suivante: quelles sont les meilleurs stratégies et outils pour atteindre la suffisance (couvrir tous les décaissements de l’état) et l’équité (c’est-à-dire que l’état se finance à partir de ceux qui détiennent la plus grande capacité de contribution) ??? </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170129T214043Z" creationid="Ricardito120" creationdate="20161205T213909Z">
+        <seg>Lorsqu’on analyse les différents systèmes fiscaux, on a l’habitude de partir de la question suivante : quelles sont les meilleurs stratégies et outils pour atteindre la suffisance (couvrir tous les décaissements de l’état) et l’équité (c’est-à-dire que l’état se finance à partir de ceux qui détiennent la plus grande capacité de contribution) ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,8 +5166,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En ese contexto, pareciera ser que los gobiernos tuvieran solamente dos opciones: o bien despreocuparse de lo que le pasa a la gente y que el sistema encuentre su punto de equilibrio en el fondo de un proceso recesivo, o bien apelar a las políticas tributarias para tratar de dar contención a su pueblo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214002Z" creationid="Ricardito120" creationdate="20161205T214002Z">
-        <seg>Dans ce contexte, il semble que les gouvernements n’aient que deux options : Ou bien, ils se désintéressent de ce qui arrive aux gens et le système trouvera son point d’équilibre dans le fond d’un processus récessif, ou bien ils font appel à des politiques fiscales pour essayer de contenir leur peuple.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170129T214837Z" creationid="Ricardito120" creationdate="20161205T214002Z">
+        <seg>Dans ce contexte, il semble que les gouvernements n’aient que deux options : ou bien, ils se désintéressent de ce qui arrive aux gens et le système trouvera son point d’équilibre dans le fond d’un processus récessif, ou bien ils font appel à des politiques fiscales pour essayer de contenir leur peuple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13692,8 +13692,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero, aún asumiendo que la segunda opción es mejor que la primera, habría que preguntarse hasta qué punto el Estado podrá recaudar suficientes impuestos como para poder compensar las crecientes inequidades sociales del sistema y el creciente endeudamiento producto de los manejos especulativos del sistema financiero.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214018Z" creationid="Ricardito120" creationdate="20161205T214018Z">
-        <seg>Mais en assumant toujours que la seconde option est meilleure que la première, il faudra se demander jusqu’à quel point l’État pourra prélever suffisamment d’impôts pour pouvoir compenser les inégalités sociales croissantes du système et l’endettement croissant produit par les maniements spéculatifs du système financier.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170129T214910Z" creationid="Ricardito120" creationdate="20161205T214018Z">
+        <seg>Mais en assumant toujours que la seconde option est meilleure que la première, il faudrait se demander jusqu’à quel point l’État pourra prélever suffisamment d’impôts pour pouvoir compenser les inégalités sociales croissantes du système et l’endettement croissant produit par les maniements spéculatifs du système financier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14638,8 +14638,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque como hemos dicho en otras oportunidades, la concentración de la riqueza es un proceso progresivo que opera como un plano inclinado, que cuanto más se inclina más se concentra la riqueza, y cuanto más se concentra la riqueza, más se inclina ese plano a favor de los que más tienen, en un círculo vicioso que expulsa gente y genera crisis cada vez más profundas y duraderas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213944Z" creationid="Ricardito120" creationdate="20161205T213944Z">
-        <seg>Car, comme nous l’avons déjà signalé dans d’autres occasions, la concentration de la richesse est un processus progressif qui agit comme un plan incliné, qui plus il s’incline plus se concentre la richesse et plus se concentre la richesse et plis le plan s’incline en faveur de ceux qui possèdent le plus, dans un cercle vicieux qui expulse des gens et génère des crises chaque fois plus profondes et durables.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170129T214658Z" creationid="Ricardito120" creationdate="20161205T213944Z">
+        <seg>Car, comme nous l’avons déjà signalé dans d’autres occasions, la concentration de la richesse est un processus progressif qui agit comme un plan incliné : plus il s’incline plus se concentre la richesse et plus se concentre la richesse et plus le plan s’incline en faveur de ceux qui possèdent le plus, dans un cercle vicieux qui expulse des gens et génère des crises chaque fois plus profondes et durables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14742,8 +14742,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque está muy bien que los Estados subsidien a los desocupados, a los pobres y a los marginados, pero si no se cambia el sistema que cada vez margina a más gente, éstos necesitarán un presupuesto cada vez mayor sólo para palear las inequidades sistémicas, y tendrán menos recursos para invertir en otras áreas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214038Z" creationid="Ricardito120" creationdate="20161205T214038Z">
-        <seg>C’est très bien que les États subventionnent les chômeurs, les pauvres et les marginaux, mais si l’on ne change pas le système qui marginalise chaque fois plus de gens, ces états auront besoin budgets chaque fois plus importants pour seulement pallier aux inégalités systémiques, et ils auront moins de ressources pour investir dans d’autres domaines. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170129T214944Z" creationid="Ricardito120" creationdate="20161205T214038Z">
+        <seg>C’est très bien que les États subventionnent les chômeurs, les pauvres et les marginaux, mais si l’on ne change pas le système qui marginalise chaque fois plus de gens, ces états auront besoin de budgets chaque fois plus importants pour seulement pallier aux inégalités systémiques, et ils auront moins de ressources pour investir dans d’autres domaines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16962,8 +16962,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Sin embargo, antes de hacerse esa pregunta, habría que cuestionarse si es correcto que el Estado deba compensar permanente y crecientemente las inequidades intrínsecas del sistema económico.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T213922Z" creationid="Ricardito120" creationdate="20161205T213922Z">
-        <seg>Cependant, avant de se poser cette question, il faudrait se demander s’il est correct que l’État doit compenser en permanence et de façon croissante les inégalités intrinsèques du système économique. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170129T214540Z" creationid="Ricardito120" creationdate="20161205T213922Z">
+        <seg>Cependant, avant de se poser cette question, il faudrait se demander s’il est correct que l’État doive compenser en permanence et de façon croissante les inégalités intrinsèques du système économique.</seg>
       </tuv>
     </tu>
     <tu>
