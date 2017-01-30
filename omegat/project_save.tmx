@@ -3276,8 +3276,8 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que en cada país se debieran cuantificar estas alícuotas variables paso por paso, buscando el punto de equilibrio para que la disminución en el impuesto de algunos contribuyentes se compense con el incremento de otros, de manera de no desfinanciar al fisco en sus erogaciones corrientes e inversiones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214502Z" creationid="Ricardito120" creationdate="20161205T214502Z">
-        <seg>Bien sûr chaque pays devra, pas à pas, quantifier ce pourcentage variable, en recherchant le point d’équilibre pour que la diminution de l’impôt de certains contribuables soit compensée par l’accroissement des autres, de telle sorte que le fisc ne se trouve pas sans moyens pour ses redistributions courantes et ses investissements. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T194915Z" creationid="Ricardito120" creationdate="20161205T214502Z">
+        <seg>Bien sûr chaque pays devra, pas à pas, quantifier ce pourcentage variable, en recherchant le point d’équilibre pour que la diminution de l’impôt de certains contribuables soit compensée par l’accroissement des autres, de telle sorte que le fisc ne se trouve pas sans moyens pour ses redistributions courantes et ses investissements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,8 +5078,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En el primer caso la alícuota del impuesto debiera acercarse al mínimo, y en el segundo caso debiera acercarse al máximo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214428Z" creationid="Ricardito120" creationdate="20161205T214428Z">
-        <seg>Dans le premier cas, l'aliquote de l'impôt devrait approcher le minimum alors que dans le second elle devrait s’approcher du maximum. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T194712Z" creationid="Ricardito120" creationdate="20161205T214428Z">
+        <seg>Dans le premier cas, le taux de l'impôt devrait approcher le minimum alors que dans le second il devrait s’approcher du maximum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8424,8 +8424,8 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       <tuv lang="ES-AR">
         <seg>Hoy la situación varía en diferentes regiones, pero en general, sobre todo en los países con mayor desigualdad, tienen preponderancia los impuestos al consumo, que son regresivos&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T021842Z" creationid="Ricardito120" creationdate="20161206T021842Z">
-        <seg>Aujourd’hui, la situation varie dans les différentes régions, mais en général et sur tout dans les pays où les inégalités sont grandes, sont prépondérants les impôts sur la consommation&lt;t0/&gt;.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T200105Z" creationid="Ricardito120" creationdate="20161206T021842Z">
+        <seg>Aujourd’hui, la situation varie dans les différentes régions, mais en général et surtout dans les pays où les inégalités sont les plus grandes, les impôts à la consommation, qui sont régressifs, sont prépondérants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12201,8 +12201,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Otro tema a considerar es el de la descentralización de las potestades tributarias, de manera de otorgar mayor nivel de autonomía a municipios y provincias, pero siempre manteniendo un equilibrio para no caer en las “guerras fiscales” para atraer inversiones, ni mucho menos en la segregación entre municipios ricos y municipios pobres, según la capacidad contributiva de sus pobladores.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T021906Z" creationid="Ricardito120" creationdate="20161206T021906Z">
-        <seg>Un autre thème qu’il convient de considérer est celui de la décentralisation des pouvoirs fiscaux, de façon à donner un plus grand niveau d’autonomie aux municipalités et aux provinces, tout en maintenant un équilibre afin de ne pas tomber dans “ les guerres fiscales“ pour attirer les investissements, pas plus que de créer une ségrégation entre les municipalités pauvres et riches, en fonction de la capacité de contribution de leurs habitants. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T200224Z" creationid="Ricardito120" creationdate="20161206T021906Z">
+        <seg>Un autre thème à envisager est la décentralisation des pouvoirs fiscaux, de façon à donner un plus grand niveau d’autonomie aux municipalités et aux provinces, tout en maintenant un équilibre afin de ne pas tomber dans “les guerres fiscales“ pour attirer les investissements, pas plus que de créer une ségrégation entre les municipalités pauvres et riches, en fonction de la capacité de contribution de leurs habitants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13019,8 +13019,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero gradualmente se debe avanzar hacia una creciente participación de los impuestos directos en la carga impositiva, disminuyendo la regresividad de los impuestos indirectos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214521Z" creationid="Ricardito120" creationdate="20161205T214521Z">
-        <seg>Mais dans la charge fiscale, on doit graduellement avancer vers une participation croissante des impôts directs, en diminuant la dégressivité des impôts indirects. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T195940Z" creationid="Ricardito120" creationdate="20161205T214521Z">
+        <seg>Mais dans la charge fiscale, on doit graduellement avancer vers une participation croissante des impôts directs, en diminuant les impôts indirects régressifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13235,8 +13235,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero no debiera ser equivalente la situación de una empresa que obtiene una renta de un millón, habiendo invertido un capital de 10 millones y habiendo generado 500 puestos de trabajo, que otra que haya obtenido igual renta habiendo invertido 2 millones y habiendo generado solamente 10 puestos de trabajo, por dar un ejemplo concreto.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214410Z" creationid="Ricardito120" creationdate="20161205T214410Z">
-        <seg>Pour donner un exemple concret, la situation d'une entreprise qui obtient un gain d'un million en ayant investi un capital de 10 millions et ayant généré 500 emplois ne devrait pas être la même que celle qui a eu le même gain avec un investissement de 2 millions et qui n'a produit que 10 emplois. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T194630Z" creationid="Ricardito120" creationdate="20161205T214410Z">
+        <seg>Pour donner un exemple concret, la situation d'une entreprise qui obtient un gain d'un million en ayant investi un capital de 10 millions et ayant généré 500 emplois ne devrait pas être la même que celle qui a eu le même gain avec un investissement de 2 millions et qui n'a produit que 10 emplois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16674,8 +16674,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Si los impuestos sobre estas dos manifestaciones de solvencia económica fueran lo suficientemente elevados en proporción a la riqueza, y se administraran eficazmente evitando la evasión y la elusión fiscal, se podrían eliminar numerosos impuestos regresivos y distorsionadores, a la vez que se podrían bajar sensiblemente los impuestos al consumo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022026Z" creationid="Ricardito120" creationdate="20161206T022026Z">
-        <seg>Si les impôts sur ces deux manifestations de solvabilité économiques étaient suffisamment élevés en proportion à la richesse, et s’ils sont administrés efficacement en évitant l’évasion et la fraude fiscale, on pourrait éliminer de nombreux impôts régressifs et des distorsions et dans le même temps on pourrait baisser sensiblement les impôts sur la consommation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T201508Z" creationid="Ricardito120" creationdate="20161206T022026Z">
+        <seg>Si les impôts sur ces deux manifestations de solvabilité économique étaient suffisamment élevés en proportion à la richesse, et s’ils sont administrés efficacement en évitant l’évasion et la fraude fiscale, on pourrait éliminer de nombreux impôts régressifs ou apportant des distorsions et dans le même temps on pourrait baisser sensiblement les impôts à la consommation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17721,8 +17721,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>También se debiera avanzar hacia una simplificación tributaria, logrando que la mayor carga impositiva recaiga sobre las dos exteriorizaciones de capacidad contributiva por excelencia, como lo son los ingresos y el patrimonio.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022001Z" creationid="Ricardito120" creationdate="20161206T022001Z">
-        <seg> Il faudra également avancer vers une simplification fiscale, cherchant à obtenir que la plus grande charge d’impôt retombe sur les recettes et le patrimoine qui sont par excellence, les deux capacités d’externalisation des capacités contributives. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T201321Z" creationid="Ricardito120" creationdate="20161206T022001Z">
+        <seg>Il faudra également avancer vers une simplification fiscale, pour obtenir que la plus grande charge d’impôt retombe sur les revenus et le patrimoine qui sont les deux sources de capacité contributive par excellence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18507,8 +18507,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y a su vez, del impuesto resultante a pagar, debiera haber una reducción si una proporción de esa ganancia se destinara a una reinversión productiva generadora de nuevos empleos, y ninguna reducción de no existir tal reinversión.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T214447Z" creationid="Ricardito120" creationdate="20161205T214447Z">
-        <seg>De plus l'impôt qu'il reste à payer, devrait être réduit si une proportion de ce gain est destiné à l'investissement productif générateur de nouveaux emplois, et aucune réduction s'il n'existe aucun investissement. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T194840Z" creationid="Ricardito120" creationdate="20161205T214447Z">
+        <seg>Et à son tour, l'impôt restant à payer devrait être réduit si une proportion de ces gains est destiné à l'investissement productif générateur de nouveaux emplois et aucune réduction s'il n'existe aucun investissement. </seg>
       </tuv>
     </tu>
     <tu>
