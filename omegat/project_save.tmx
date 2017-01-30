@@ -2306,8 +2306,8 @@
       <tuv lang="ES-AR">
         <seg>Cuando Stiglitz&lt;t0/&gt; analiza las razones por las cuales en USA, el 1 % más adinerado logra que las políticas económicas que lo favorecen, sean apoyadas por buena parte de la población, que ni remotamente pertenece a esa élite, hace referencia a las técnicas de manipulación de la opinión pública, y a como el encuadre en el que se presentan las cosas, puede hacer variar la percepción de la gente hasta hacer que opine y vote en contra de sus propios intereses.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170120T220859Z" creationid="Françoise" creationdate="20161210T144428Z">
-        <seg>Quand Stiglitz&lt;t0/&gt; analyse les raisons par lesquelles aux États-unis, les 1 % le plus riche obtiennent que les politiques économiques qui les favorisent soient appuyés par une grande partie de la population qui n’appartient même pas à cette élite, il fait référence aux techniques de manipulation de l'opinion publique et à la façon dont le cadre, dans lequel sont présentées les choses, peut faire varier la perception des gens, jusqu'à faire en sorte qu'ils pensent et votent contre leurs propres intérêts.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T191145Z" creationid="Françoise" creationdate="20161210T144428Z">
+        <seg>Quand Stiglitz&lt;t0/&gt; analyse les raisons par lesquelles aux États-unis, les 1 % les plus riches obtiennent que les politiques économiques qui les favorisent soient appuyés par une grande partie de la population qui n’appartient même pas à cette élite, il fait référence aux techniques de manipulation de l'opinion publique et à la façon dont le cadre, dans lequel sont présentées les choses, peut faire varier la perception des gens, jusqu'à faire en sorte qu'ils pensent et votent contre leurs propres intérêts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5367,8 +5367,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En la medida que los especialistas que asesoran a las empresas que quieren vender sus productos, o a los políticos que quieren vender su imagen, se dieron cuenta de esto, comenzaron a manipular esa ventana al mundo, y pudieron hacerlo porque precisamente contaban con los recursos económicos como para manejar los medios de comunicación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170120T220417Z" creationid="Françoise" creationdate="20161210T135744Z">
-        <seg>À mesure que les spécialistes qui conseillent les entreprises qui veulent vendre leurs produits ou les hommes politiques qui veulent vendre leur image, se sont rendus compte de ceci, ils ont commencé à manipuler cette fenêtre sur le monde et ils ont pu le faire précisément parce qu'ils disposaient des ressources économiques pour manœuvrer les médias.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T190924Z" creationid="Françoise" creationdate="20161210T135744Z">
+        <seg>Dans la mesure où les spécialistes qui conseillent les entreprises désireuses de vendre leurs produits, ou les hommes politiques qui veulent vendre leur image, se sont rendu compte de ceci, ils ont commencé à manipuler cette fenêtre sur le monde et ont pu le faire précisément parce qu'ils comptaient sur les ressources économiques pour manipuler les médias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11454,8 +11454,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>No hay libertad de opinión si no hay libertad de pensamiento e incentivo para el esfuerzo de pensar, y no hay libertad de pensamiento cuando se condiciona a las poblaciones a través de la manipulación mediática, la cual obviamente se apoya en cierta desidia intelectual de buena parte de la población.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170120T220642Z" creationid="Françoise" creationdate="20161210T143041Z">
-        <seg>Il n'y a pas de liberté d'opinion s'il n'y a pas de liberté de pensée et d’incitation à l'effort de penser et il n'y a pas de liberté de pensée quand les populations sont conditionnées à travers la manipulation médiatique, qui s'appuie évidemment sur un certain laisser-aller intellectuel d’une grande partie de la population.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T191019Z" creationid="Françoise" creationdate="20161210T143041Z">
+        <seg>Il n'y a pas de liberté d'opinion s'il n'y a pas de liberté de pensée et d’incitation à l'effort de penser, et il n'y a pas de liberté de pensée quand les populations sont conditionnées à travers la manipulation médiatique, qui s'appuie évidemment sur un certain laisser-aller intellectuel d’une grande partie de la population.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13588,8 +13588,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero también hay que decir que los pueblos con educación, son manipulados por los medios de comunicación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170120T220716Z" creationid="Françoise" creationdate="20161210T143327Z">
-        <seg>Mais il faut aussi dire que les peuples avec éducation, sont manipulés par les médias.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T191103Z" creationid="Françoise" creationdate="20161210T143327Z">
+        <seg>Mais il faut dire – aussi  que les peuples avec éduqués, sont manipulés par les médias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,8 +14126,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por ejemplo, si algunos medios de &lt;t1/&gt;comunicación comienzan a destacar todas las noticias que pudieran estar relacionadas con alguna ineficiencia del Estado, en columnas de periodistas supuestamente independientes, se logra ir generando en el público una atmósfera de rechazo hacia cualquier intervención del Estado en la economía.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170120T220931Z" creationid="Françoise" creationdate="20161210T150804Z">
-        <seg>Par exemple, si quelques médias &lt;t1/&gt;commencent à mettre l’accent sur toutes les informations relatives à une certaine inefficacité de la part de l'État, à travers des articles de journalistes supposés indépendants, cela va générer pour le public une atmosphère de rejet vers toute intervention de l'État dans l'économie.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T191206Z" creationid="Françoise" creationdate="20161210T150804Z">
+        <seg>Par exemple, si quelques médias &lt;t1/&gt;commencent à mettre l’accent sur toutes les informations relatives à une certaine inefficacité de l'État, dans des articles de journalistes supposés indépendants, cela va générer - dans le public une atmosphère de rejet envers toute intervention de l'État dans l'économie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14246,8 +14246,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por eso hay que rebelarse doblemente ante quienes nos pretenden adormecer y ante nuestro propio letargo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T143052Z" creationid="Françoise" creationdate="20161210T143052Z">
-        <seg>C'est pourquoi il faut doublement se rebeller devant ceux qui prétendent nous endormir et devant notre propre léthargie.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T191030Z" creationid="Françoise" creationdate="20161210T143052Z">
+        <seg>C'est pourquoi il faut doublement se rebeller, contre ceux qui prétendent nous endormir, et contre notre propre léthargie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14654,8 +14654,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque cuando alguien se acostumbra a mirar por una ventana, ya no repara en la ventana, solo ve lo que la ventana le deja ver, y lo ve como la realidad misma, nunca pone en cuestión la ventana, sólo se forma opinión sobre las situaciones que alcanza a visualizar, y entonces asume como propia esa opinión.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161210T132401Z" creationid="Françoise" creationdate="20161210T132401Z">
-        <seg>Parce que quand quelqu'un prend l'habitude de regarder par une fenêtre, il ne remarque déjà plus la fenêtre, il voit seulement ce que la fenêtre lui montre et le voit comme la réalité même, il ne remet jamais en question la fenêtre, il se forme seulement une opinion sur les situations qu'il arrive à visualiser et qu’il assume alors comme sa propre opinion.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T190910Z" creationid="Françoise" creationdate="20161210T132401Z">
+        <seg>Parce que quand quelqu'un prend l'habitude de regarder par une fenêtre, il ne remarque déjà plus la fenêtre, il voit seulement ce que la fenêtre lui laisse voir et le  perçoit comme la réalité même, il ne remet jamais en question la fenêtre, il se forme seulement une opinion sur les situations qu'il arrive à visualiser et qu’il assume alors  comme  étant sa propre opinion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16786,8 +16786,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Si tuviéramos que reinterpretar desde el presente algunos conceptos del funcionamiento del hombre-masa, explicados por Ortega y Gasset&lt;t0/&gt;, necesariamente tendríamos que ponderar la relevancia que los medios de comunicación tienen hoy en la generación de creencias desde las cuales se opina, suponiendo que se tienen ideas propias, cuando en realidad a veces solemos transformarnos en meras repetidoras de las supuestas verdades instaladas desde los medios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170120T220551Z" creationid="Françoise" creationdate="20161210T142752Z">
-        <seg>Si nous avions à réinterpréter depuis le présent quelques concepts du fonctionnement de l'homme-masse, expliqués par Ortega y Gasset&lt;t0/&gt;, nous aurions nécessairement à soupeser l'importance que les médias ont aujourd'hui dans la génération de croyances depuis lesquelles on pense en supposant qu'existent nos propres idées, quand en réalité parfois nous avons tendance à nous transformer en simples répétiteurs de supposées vérités installées depuis les médias.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T190953Z" creationid="Françoise" creationdate="20161210T142752Z">
+        <seg>Si nous avions à réinterpréter aujourd’hui quelques concepts du fonctionnement de l'homme- masse, expliqués par Ortega et  Gasset&lt;t0/&gt;, nous aurions nécessairement à soupeser l'importance que les médias ont aujourd'hui dans  l’élaboration des croyances à partir  desquelles on se fait une opinion, en supposant  que ce sont nos propres idées, alors qu’en réalité nous avons parfois tendance à nous transformer en simples répétiteurs de supposées vérités établies par  les médias.</seg>
       </tuv>
     </tu>
     <tu>
