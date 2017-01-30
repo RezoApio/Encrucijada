@@ -3412,8 +3412,8 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que no estamos en los albores del siglo XIX, cuando muchas enfermedades hoy superadas hacían estragos en la población, y cuando la tecnología no se había desarrollado como ahora para multiplicar la producción de alimentos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T222207Z" creationid="Ricardito120" creationdate="20161121T222207Z">
-        <seg>Bien sûr nous ne sommes plus aux abords du XIXème siècle, quand de nombreuses maladies aujourd’hui vaincues faisaient des ravages dans la population et quand la technologie ne s’était pas développée comme aujourd’hui pour multiplier la production d’aliments. </seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181152Z" creationid="Ricardito120" creationdate="20161121T222207Z">
+        <seg>Bien sûr nous ne sommes plus aux abords du XIXème siècle, quand de nombreuses maladies aujourd’hui vaincues faisaient des ravages dans la population, et  que la technologie ne s’était pas développée comme aujourd’hui pour multiplier la production d’aliments. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8191,8 +8191,8 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       <tuv lang="ES-AR">
         <seg>Hay quienes alertan sobre el crecimiento poblacional, pero el principal problema no es la cantidad de habitantes, sino la “huella ecológica” que dejan, sobre todos algunos sectores de esa población.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T222325Z" creationid="Ricardito120" creationdate="20161121T222325Z">
-        <seg>Il y a ceux qui alertent sur la croissance de la population, mais le principal problème n’est pas la quantité d’habitants mais la « trace écologique » qu’ils laissent, surtout quelques secteurs de cette population.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181252Z" creationid="Ricardito120" creationdate="20161121T222325Z">
+        <seg>Il y a ceux qui  mettent en garde sur la croissance de la population, mais le principal problème n’est pas tant la quantité d’habitants que la « trace écologique » qu’ils laissent, sur tous les secteurs de cette population.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11003,8 +11003,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>Muchos sostienen que es justo que toda la población mundial eleve su nivel de vida, pero suponen que tal cosa se dará a través de un crecimiento lineal de la producción mundial, bajo la misma matriz distributiva que existe ahora, y eso será imposible.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T222704Z" creationid="Ricardito120" creationdate="20161121T222641Z">
-        <seg>Beaucoup soutienne qu’il est juste que toute la population mondiale élève son niveau de vie, mais ils supposent qu’une telle chose se donnera par une croissance linéaire de la production mondiale, à partir de la même matrice distributrice qui existe aujourd'hui, et cela sera impossible.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181400Z" creationid="Ricardito120" creationdate="20161121T222641Z">
+        <seg>Beaucoup soutiennent qu’il est juste que la population mondiale dans son entier élève son niveau de vie, mais ils supposent qu’une telle chose se  réalisera par une croissance linéaire de la production mondiale, à partir du même moule dispensateur que celui qui existe aujourd'hui, et  çà ce sera impossible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11752,8 +11752,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>No será extraño que en estos tiempos que vienen se levanten cada vez más voces contra el crecimiento demográfico de los países emergentes, y sobre todo contra su pretensión de potenciar su desarrollo económico.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T222559Z" creationid="Ricardito120" creationdate="20161121T222408Z">
-        <seg>Il ne serait pas bizarre que dans ces temps qui viennent de plus en plus de voix s’élèvent contre la croissance démographique des pays émergents, et surtout contre leur prétention à augmenter leur développement économique.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181326Z" creationid="Ricardito120" creationdate="20161121T222408Z">
+        <seg>Il ne serait pas étonnant que dans les  temps qui viennent de plus en plus de voix s’élèvent contre la croissance démographique des pays émergents, et surtout contre leur prétention à augmenter leur développement économique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12787,8 +12787,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero el punto es que los recursos que extraemos de la tierra no se limitan a la alimentación, sino que se debe abastecer la producción de cada vez más objetos, y cada vez más descartables.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T222459Z" creationid="Ricardito120" creationdate="20161121T222259Z">
-        <seg>Mais le point c’est que les ressources que nous extrayons de la terre ne se limitent pas à l’alimentation, sinon que l’on doit alimenter la production de plus en plus d’objets et chaque fois plus jetables.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181236Z" creationid="Ricardito120" creationdate="20161121T222259Z">
+        <seg>Mais  le fait est que les ressources que nous extrayons de la terre ne se limitent pas à l’alimentation,  mais  que l’on doit alimenter la production par de plus en plus d’objets, et chaque fois plus - périssables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15128,8 +15128,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Pues a no ser que estén apostando a una regulación malthusiana&lt;t0/&gt; de la población, en la que la imposibilidad de alimentarse extermine a millones, para que luego los que queden se equilibren con la limitada capacidad del planeta, no pareciera que otra regulación sea posible.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T222405Z" creationid="Ricardito120" creationdate="20161121T222143Z">
-        <seg>Donc à moins qu’ils ne misent sur une régulation malthusienne&lt;t0/&gt; de la population, dans laquelle l’impossibilité de s’alimenter conduit à l’extermination de millions de personnes, pour qu’ensuite ceux qui restent s’équilibrent avec la limite de capacité de la planète, il ne semble pas qu’une autre régulation soit possible.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181131Z" creationid="Ricardito120" creationdate="20161121T222143Z">
+        <seg>Donc à moins qu’ils ne misent sur une régulation malthusienne &lt;t0/&gt; de la population,  pour laquelle l’impossibilité de s’alimenter conduit à l’extermination de millions de personnes,  et qu’ensuite ceux qui survivent – trouvent un équilibre avec la limite de capacité de la planète, il ne semble pas qu’une autre régulation soit possible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15649,8 +15649,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Sabemos que es posible hoy alimentar a una población aún mayor que la que tiene el planeta.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161121T222232Z" creationid="Ricardito120" creationdate="20161121T222232Z">
-        <seg>Nous savons aujourd’hui qu’il est possible d’alimenter une population même plus importante que celle que contient la planète.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181211Z" creationid="Ricardito120" creationdate="20161121T222232Z">
+        <seg>Nous savons aujourd’hui qu’il est possible d’alimenter une population même plus importante que celle de la planète.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15953,8 +15953,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Se estima que las reservas de los principales metales y las reservas energéticas se acabarán entre los próximos 30 a 60 años según los casos, ¿y luego qué?</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T222520Z" creationid="Ricardito120" creationdate="20161121T222345Z">
-        <seg>On estime que les réserves des principaux métaux et les réserves énergétiques s’épuiseront dans les prochaines 30 à 60 années selon les cas, et ensuite quoi ?</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170130T181306Z" creationid="Ricardito120" creationdate="20161121T222345Z">
+        <seg>On estime que les réserves des principaux métaux et les réserves énergétiques s’épuiseront dans les prochaines 30 à 60 années selon les cas, et ensuite ?</seg>
       </tuv>
     </tu>
     <tu>
