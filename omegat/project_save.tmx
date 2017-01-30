@@ -360,8 +360,8 @@
       <tuv lang="ES-AR">
         <seg>A su vez, como el dinero circula y pasa de manos varias veces (lo que define su velocidad V, considerada la variable más estable de la fórmula), se produce un efecto multiplicador en el aumento del consumo y en el crecimiento de la producción para cubrirlo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024803Z" creationid="Ricardito120" creationdate="20161206T024803Z">
-        <seg>L’argent circulant de mains en mains plusieurs fois (ce qui définit sa vitesse V, considérée comme la variable la plus stable de la formule), se produit alors un effet multiplicateur dans l’augmentation de la consommation et de la production pour le couvrir. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T222410Z" creationid="Ricardito120" creationdate="20161206T024803Z">
+        <seg>L’argent circulant de mains en mains plusieurs fois (ce qui définit sa vitesse V, considérée comme la variable la plus stable de la formule), se produit alors un effet multiplicateur dans l’augmentation de la consommation et de la production pour le couvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,16 +2714,16 @@
       <tuv lang="ES-AR">
         <seg>De esta conclusión surge la explicación de que si se expande la masa monetaria por encima del crecimiento de bienes y servicios, lo que se genera es inflación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024506Z" creationid="Ricardito120" creationdate="20161206T024506Z">
-        <seg>De cette conclusion, surgit l'explication suivante qui dit que l'inflation se produit lorsque augmente la masse monétaire au-dessus de la croissance des biens et des services. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T221951Z" creationid="Ricardito120" creationdate="20161206T024506Z">
+        <seg>De cette conclusion, surgit l'explication qui dit que l'inflation se produit lorsque augmente la masse monétaire au-dessus de la croissance des biens et des services.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>De esta fórmula se pueden desprender varias conclusiones, una de ellas es que si aumentamos la cantidad de dinero y las demás variables permanecen constantes, (el conocido &lt;t0/&gt;ceteris paribus&lt;t1/&gt; de los economistas, indispensable para el análisis teórico, pero difícil de encontrar en la realidad), para que la fórmula mantenga el equilibrio deberían aumentar los precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024442Z" creationid="Ricardito120" creationdate="20161206T024442Z">
-        <seg>Divers conclusions peuvent découler de cette formule, (le très connu ceteris paribus des économistes, indispensable pour l'analyse théorique, mais difficile à rencontrer dans la réalité), une d'entre-elles pour que la formule maintienne son équilibre, est qu'en augmentant la quantité d'argent et en maintenant constant les autres variables, et il faudra augmenter les prix.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T221917Z" creationid="Ricardito120" creationdate="20161206T024442Z">
+        <seg>Diverses conclusions peuvent découler de cette formule, une d'entre-elles est que si on augmente la quantité d'argent et que les autres variables restent constantes (le très connu &lt;t0/&gt;ceteris paribus&lt;t1/&gt; des économistes, indispensable pour l'analyse théorique, mais difficile à rencontrer dans la réalité), alors il faudra augmenter les prix pour que la formule maintienne son équilibre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3701,8 +3701,8 @@
       <tuv lang="ES-AR">
         <seg>Dicho de manera simple, cuando el Estado a través de obras públicas, subsidios, u otra política expansiva, vuelca dinero en la economía, ese dinero tiene un primer destinatario (los nuevos trabajadores de la obra pública, los proveedores, los beneficiarios de subsidios, etc.), y ese primer destinatario luego gasta el dinero en bienes y servicios (comida, ropa, electrodomésticos, etc.), por lo cual ahora hay un segundo destinatario que recibe ese dinero, y que a su vez lo gastará en otros bienes y servicios, generándose una cadena de demanda y oferta de bienes, a la que se llama el efecto multiplicador.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024824Z" creationid="Ricardito120" creationdate="20161206T024824Z">
-        <seg>Dit d’une manière simple, lorsque l’Etat, à travers les travaux publics, les subventions, et toutes autres politiques d’expansion, injecte de l’argent dans l’économie, cet argent à un premier destinataire (les nouveaux employés des travaux publics, les fournisseurs, et les bénéficiaires des aides etc.) puis ce premier destinataire dépense cet argent en biens et services (alimentation, habillement, électroménager, etc.), et donc maintenant apparaît un second destinataire qui reçoit cet argent, qui à son tour le dépensera en d’autres services, générant une chaîne de demande et d’offre de biens que l’on appelle l’effet multiplicateur. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T222524Z" creationid="Ricardito120" creationdate="20161206T024824Z">
+        <seg>Dit d’une manière simple, lorsque l'État, à travers les travaux publics, les subventions ou toutes autres politiques d’expansion, injecte de l’argent dans l’économie, cet argent a un premier destinataire (les nouveaux employés des travaux publics, les fournisseurs, et les bénéficiaires des aides etc.) puis ce premier destinataire dépense cet argent en biens et services (alimentation, habillement, électroménager, etc.), et donc maintenant apparaît un second destinataire qui reçoit cet argent, qui à son tour le dépensera en d’autres services, générant une chaîne de demande et d’offre de biens que l’on appelle l’effet multiplicateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5439,8 +5439,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En lo que respecta a la función del Estado vinculada a la circulación de la moneda, la prioridad siempre debiera ser asegurar el flujo suficiente de dinero para se logre financiar la inversión y la producción, el empleo y el consumo, evitando que queden bolsones de capacidad ociosa, desocupación involuntaria, y potencialidades dormidas, por falta de recursos financieros.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024104Z" creationid="Ricardito120" creationdate="20161206T024104Z">
-        <seg>En ce qui concerne la fonction de l’État, liée à la circulation de la monnaie, la priorité devra toujours être d'assurer un flux suffisant d'argent pour pouvoir financer l'investissement et la production, l'emploi et la consommation, en évitant que ne restent des poches aux capacités inutilisées, un chômage involontaire et des potentialités endormies par manque de ressources financières. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T220122Z" creationid="Ricardito120" creationdate="20161206T024104Z">
+        <seg>En ce qui concerne la fonction de l’État, liée à la circulation de la monnaie, la priorité devra toujours être d'assurer un flux suffisant d'argent pour pouvoir financer l'investissement et la production, l'emploi et la consommation, en évitant qu'il reste des poches de capacité inutilisée, un chômage involontaire et des potentialités endormies par manque de ressources financières.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11936,8 +11936,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Nos referimos a que una política monetaria que potencie el consumo interno de modo general, en los países industrializados de mediados del siglo pasado, tenía un importante efecto dinamizador sobre el empleo nacional, ya que buena parte de lo que la gente consumía se fabricaba en el propio país, con mano de obra intensiva.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024201Z" creationid="Ricardito120" creationdate="20161206T024201Z">
-        <seg>Nous référant à une politique monétaire qui de façon générale renforce la consommation interne, dans les pays industrialisé de la moitié du siècle passé, celle-ci avait un effet dynamisant important sur l'emploi national, car un bonne partie de ce que consommait les gens était fabriqué dans leur propre pays avec une main-d’œuvre intense.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T221151Z" creationid="Ricardito120" creationdate="20161206T024201Z">
+        <seg>Nous nous référons à ce qu'une politique monétaire qui renforce la consommation interne de façon générale, dans les pays industrialisés de la moitié du siècle passé, avait un effet dynamisant important sur l'emploi national, car un bonne partie de ce que consommait les gens était fabriqué dans leur propre pays avec une main-d’œuvre intensive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11984,16 +11984,16 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>O impacta en la demanda de bienes y servicios con dificultades para incrementar la oferta y por lo tanto lo que aumentan son los precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024307Z" creationid="Ricardito120" creationdate="20161206T024307Z">
-        <seg>ou encore impacte la demande de biens de service avec des difficultés pour accroître l'offre et par conséquent ce qui augmente ce sont les prix.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T221345Z" creationid="Ricardito120" creationdate="20161206T024307Z">
+        <seg>Ou encore impacte la demande de biens et de services avec des difficultés pour accroître l'offre et par conséquent ce qui augmente ce sont les prix.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>O impacta en la demanda de productos en cuyo precio la mano de obra es un porcentaje muy bajo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024252Z" creationid="Ricardito120" creationdate="20161206T024252Z">
-        <seg>Ou impacte la demande de produits dont le coût de la main-d’œuvre représente est un pourcentage très bas,</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T221308Z" creationid="Ricardito120" creationdate="20161206T024252Z">
+        <seg>Ou impacte la demande de produits dont le coût de la main-d’œuvre représente est un pourcentage très bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12851,8 +12851,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero en estos tiempos, en muchos países una gran parte de ese incremento del consumo, termina impactando en la demanda de importaciones, y por lo tanto genera empleo de otros países.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024222Z" creationid="Ricardito120" creationdate="20161206T024222Z">
-        <seg>Mais en ces temps-ci, dans de nombreux pays une grande partie de la croissance de la consommation, finit par impacter la demande à l’importation, et donc crée de l'emploi dans les autres pays.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T221227Z" creationid="Ricardito120" creationdate="20161206T024222Z">
+        <seg>Mais en ces temps-ci, dans de nombreux pays une grande partie de la croissance de la consommation, finit par impacter la demande des importations, et donc crée de l'emploi dans d'autres pays.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12987,8 +12987,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero esta política monetaria activa, no debiera convertirse en un gasto público lanzado a ciegas con impacto incierto, sino en inversiones dirigidas con precisión casi quirúrgica.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024122Z" creationid="Ricardito120" creationdate="20161206T024122Z">
-        <seg>Mais cette politique monétaire active ne devrait pas se convertir en un gaspillage publique lancé aveuglément et aux impacts incertains, mais devra être plutôt un investissement dirigé avec précision quasi chirurgical.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T220147Z" creationid="Ricardito120" creationdate="20161206T024122Z">
+        <seg>Mais cette politique monétaire active ne devrait pas se convertir en un gaspillage publique lancé aveuglément et aux impacts incertains, mais devrait être plutôt un investissement dirigé avec une précision quasi chirurgicale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15609,8 +15609,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Retomando lo que decíamos acerca de que en estos tiempos de globalización, una política monetaria expansiva del tipo keynesiano, no es suficiente, lo que intentamos significar es en parte algo que ya preveía Keynes aunque en su época tenía otra proporción.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024139Z" creationid="Ricardito120" creationdate="20161206T024139Z">
-        <seg>Reprenons ce que nous disions à propos de ces temps de globalisation, une politique monétaire expansive du type keynésien n'est pas suffisante, ce que nous essayons de dire c'est en partie quelque chose qu'avait déjà prévu Keynes bien qu'à son époque la globalisation n'avait pas la même proportion. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T220541Z" creationid="Ricardito120" creationdate="20161206T024139Z">
+        <seg>Quand nous disions qu'en ces temps de globalisation, une politique monétaire expansive du type keynésien n'est pas suffisante, ce que nous voulons dire est en partie quelque chose qu'avait déjà prévu Keynes bien qu'à son époque cela n'avait pas la même proportion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17945,8 +17945,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Todavía existen discusiones acerca de la vieja fórmula de la teoría cuantitativa, P.Q = M.V, en la que se afirma que el nivel de precios (P) multiplicado por la cantidad de bienes y servicios (Q), debe ser igual a la cantidad de moneda (M), multiplicada por su velocidad de circulación (V).</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024410Z" creationid="Ricardito120" creationdate="20161206T024410Z">
-        <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours, on y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité d'argent(M) multiplié par sa vitesse de circulation (V). </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T221455Z" creationid="Ricardito120" creationdate="20161206T024410Z">
+        <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours, on y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité de monnaie (M) multiplié par sa vitesse de circulation (V).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18780,8 +18780,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y en cierta manera esto es verdad (&lt;t2/&gt;ceteris paribus)&lt;t3/&gt;, pero como las variables no están aisladas y el movimiento en una puede modificar el de otra, hay quienes sostienen (Keynes entre ellos), que si se incrementa la oferta de dinero, lo que aumenta es la demanda de bienes, aumenta el consumo, y ante ese aumento de la demanda, puede ocurrir que también aumente la oferta, es decir que se fabriquen más objetos o se ofrezcan más servicios, y por lo tanto, al aumentar M también aumenta Q y la fórmula mantiene su equilibrio.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024744Z" creationid="Ricardito120" creationdate="20161206T024744Z">
-        <seg>D'une certaine façon c'est vrai (ceteris paribus), mais comme les variables ne sont pas isolées le mouvement de l'une peut modifier celui de l'autre, il y en a qui soutiennent (en autre Keynes ), que si l'offre d'argent augmente , ce qui augmente, c'est la demande de biens et la consommation croît, mais avant cette croissance la demande augmente, il peut se produire que l'offre augmente aussi, c'est à dire que plus d'objets sont fabriqués et l'offre de service est plus grande, et par conséquent en augmentant M, Q augmente et la formule maintient son équilibre.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T222346Z" creationid="Ricardito120" creationdate="20161206T024744Z">
+        <seg>D'une certaine façon c'est vrai (&lt;t2/&gt;ceteris paribus&lt;t3/&gt;), mais comme les variables ne sont pas isolées et que le mouvement de l'une peut modifier celui de l'autre, il y en a qui soutiennent (en autre Keynes), que si l'offre d'argent augmente, ce qui augmente, c'est la demande de biens et la consommation croît, et devant cette croissance de la demande, il peut se produire que l'offre augmente aussi, c'est à dire que plus d'objets sont fabriqués ou que l'offre de service est plus grande, et par conséquent en augmentant M, Q augmente et la formule maintient son équilibre.</seg>
       </tuv>
     </tu>
     <tu>
