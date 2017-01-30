@@ -600,8 +600,8 @@
       <tuv lang="ES-AR">
         <seg>Ahora bien, Keynes trata de establecer un valor para ese factor multiplicador, porque no todo el dinero que va cambiando de mano se destina al consumo, sino que existe lo que se denomina propensión al consumo, que no es otra &lt;t4/&gt;cosa que el porcentaje que la gente gasta de su ingreso total, y que complementado con su ahorro totaliza el ingreso, por lo cual también hablamos de propensión al ahorro como la inversa de la propensión al consumo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024941Z" creationid="Ricardito120" creationdate="20161206T024941Z">
-        <seg>Maintenant ??? Keynes essaie d’établir une valeur pour ce facteur multiplicateur, car tout l’argent qui circule n’est pas destiné à la consommation, mais il existe ce que l’on nomme la propension à la consommation, qui n’est autre qu’un pourcentage de leur revenu total que les gens dépensent et qui associé à leur épargne totalise leur revenu, mais nous disons qu’il y a aussi une propension à l’épargne comme l’inverse de la propension à la consommation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T222926Z" creationid="Ricardito120" creationdate="20161206T024941Z">
+        <seg>Cependant, Keynes essaie d’établir une valeur pour ce facteur multiplicateur, car tout l’argent qui circule n’est pas destiné à la consommation, mais il existe ce que l’on nomme la propension à la consommation, qui n’est autre&lt;t4/&gt; qu’un pourcentage de leur revenu total que les gens dépensent et qui associé à leur épargne représente leur revenu total, c'est pourquoi nous disons qu’il y a aussi une propension à l’épargne comme l’inverse de la propension à la consommation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,8 +4328,8 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       <tuv lang="ES-AR">
         <seg>El propio Keynes reconocía que siempre habría un impacto en los precios al aumentar la demanda por expansión del gasto, y que siempre habría “cuellos de botella” en el aparato productivo que no responderían al incremento de demanda con mayor oferta de bienes sino con aumento de precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T025838Z" creationid="Ricardito120" creationdate="20161206T025838Z">
-        <seg>Keynes, lui-même, reconnaissait qu’il y avait toujours un impact sur les prix lorsqu’on augmentait la demande par l’expansion de la dépense, et qu’il y aurait toujours des “ culs de bouteille“ dans l’appareil productif qui ne répondrait pas à la croissance de la demande par une plus grande offre mais par une augmentation des prix. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T223414Z" creationid="Ricardito120" creationdate="20161206T025838Z">
+        <seg>Keynes lui-même reconnaissait qu’il y avait toujours un impact sur les prix lorsqu’on augmentait la demande par l’expansion de la dépense, et qu’il y aurait toujours des "goulots d'étranglement" dans l’appareil productif qui ne répondrait pas à la croissance de la demande par une plus grande offre mais par une augmentation des prix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6723,8 +6723,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esa propensión al consumo es muy variable según la persona, pero en general se sabe que las personas que tienen ingresos bajos tienden a consumir la mayor parte de los mismos, mientras que a medida que los ingresos aumentan, también es mayor el porcentaje destinado al ahorro.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T025007Z" creationid="Ricardito120" creationdate="20161206T025007Z">
-        <seg>Cette propension à la consommation est très variable selon les personne, mais en général on sait que les personnes qui ont de bas revenus tendent à en consommer la plus grande part, mais à mesure que les revenus augmentent, le pourcentage destiné à l’épargne augment aussi. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T222946Z" creationid="Ricardito120" creationdate="20161206T025007Z">
+        <seg>Cette propension à la consommation est très variable selon les personne, mais en général on sait que les personnes qui ont de bas revenus tendent à en consommer la plus grande part, mais à mesure que les revenus augmentent, le pourcentage destiné à l’épargne augmente aussi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11582,8 +11582,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>No obstante, hay que considerar que ese porcentaje que se destina al ahorro, también podría indirectamente terminar en consumo, en la medida que se canalice hacia inversiones productivas, y así el círculo virtuoso del crecimiento estaría completo; pero precisamente ese es uno de los problemas, ya que en la práctica la inversión no siempre es proporcional al ahorro, como creían algunos economistas clásicos; pero volveremos sobre esto más adelante.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T025048Z" creationid="Ricardito120" creationdate="20161206T025048Z">
-        <seg>Cependant, il faudrait considérer que ce pourcentage destiné à l’épargne pourrait aussi terminer indirectement dans la consommation dans la mesure où il serait canalisé vers des investissements productifs, et ainsi le cercle vertueux de la croissance serait complet. Mais c’est précisément un des problèmes car en pratique l’investissement n’est pas toujours proportionnel à l’épargne comme le croyaient certains économistes classiques nous reviendrons sur ceci ??plus avant ??. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T223030Z" creationid="Ricardito120" creationdate="20161206T025048Z">
+        <seg>Cependant, il faudrait considérer que ce pourcentage destiné à l’épargne pourrait aussi terminer indirectement dans la consommation dans la mesure où il serait canalisé vers des investissements productifs, et ainsi le cercle vertueux de la croissance serait complet. Mais c’est précisément un des problèmes car en pratique l’investissement n’est pas toujours proportionnel à l’épargne comme le croyaient certains économistes classiques, nous y  reviendrons plus avant. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12763,8 +12763,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero el problema para nosotros no es que haya algo de inflación, si a cambio se logra aumentar el empleo y el ingreso real de la población; pero como es sabido que cuando la inflación supera determinados límites, se torna contraproducente, habrá que considerar qué características debe tener el gasto estatal para mejorar el nivel de empleo sin generar una inflación importante.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T025857Z" creationid="Ricardito120" creationdate="20161206T025857Z">
-        <seg>Le problème pour nous n’est pas qu’il y ait un peu d’inflation, si en échange on obtient une augmentation de l’emploi et du revenu réel de la population. Il est connu que lorsque l’inflation dépasse certaines limites, elle devient contre-productive, il faudra donc considérer quelles sont les caractéristiques que devrait avoir la dépense publique pour améliore le niveau de l’emploi sans générer une inflation trop importante. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T223533Z" creationid="Ricardito120" creationdate="20161206T025857Z">
+        <seg>Mais le problème pour nous n’est pas qu’il y ait un peu d’inflation, si en échange on obtient une augmentation de l’emploi et du revenu réel de la population. Mais comme on sait que lorsque l’inflation dépasse certaines limites, elle devient contre-productive, il faudra donc considérer quelles sont les caractéristiques que devrait avoir la dépense publique pour améliorer le niveau de l’emploi sans générer une inflation trop importante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18788,8 +18788,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y en el campo de la política esta discusión a veces termina en posturas más extremas que las reales diferencias de criterio que pudieron haber tenido economistas como Keynes y Friedman, ya que están los fanáticos del monetarismo, capaces de dejar que crezca la desocupación con tal de no tener inflación, y también están los fanáticos del incentivo al consumo, capaces de afirmar que aunque se emita dinero en exceso, eso no es causa de inflación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T025755Z" creationid="Ricardito120" creationdate="20161206T025755Z">
-        <seg>Dans le champ politique, cette discussion parfois se termine sur des postures plus extrêmes que les réelles différences de critères que pouvaient avoir eu des économistes comme Keynes et Friedman. Car il y a les fanatiques du monétarisme, capables de laisser croître le chômage au point de ne pas avoir d’inflation, et il y a aussi les fanatiques de l’incitation à la consommation capables d’affirmer que malgré émission d’un excès d’argent, ceci ne peut être la cause de l’inflation.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T223200Z" creationid="Ricardito120" creationdate="20161206T025755Z">
+        <seg>Dans le champ politique, cette discussion parfois se termine sur des postures plus extrêmes que les réelles différences de critères que pouvaient avoir eu des économistes comme Keynes et Friedman. Car il y a les fanatiques du monétarisme, capables de laisser croître le chômage pour ne pas avoir d’inflation, et il y a aussi les fanatiques de l’incitation à la consommation capables d’affirmer que malgré l'émission d’un excès d’argent, ceci ne peut être la cause de l’inflation.</seg>
       </tuv>
     </tu>
     <tu>
