@@ -320,8 +320,8 @@
       <tuv lang="ES-AR">
         <seg>A partir de estos acuerdos fundamentales entre naciones, se podrá luego acordar una gradual compatibilización fiscal, sintonizada con una complementación para el desarrollo económico en el que todos ganen.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022734Z" creationid="Ricardito120" creationdate="20161206T022734Z">
-        <seg>A partir de ces accords fondamentaux entre nations, il pourra y avoir par la suite une harmonisation graduelle de la fiscalité se syntonisant dans une complémentarité pour que dans le développement économique tout le monde y gagne. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T212514Z" creationid="Ricardito120" creationdate="20161206T022734Z">
+        <seg>À partir de ces accords fondamentaux entre nations, il pourra y avoir par la suite une harmonisation graduelle de la fiscalité se syntonisant dans une complémentarité pour que dans le développement économique tout le monde y gagne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5567,8 +5567,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En ocasiones en que los precios internacionales aseguran un amplio margen de rentabilidad para las empresas petroleras, mineras, o agrícolas, los gobiernos suelen apropiarse de parte de esa renta a través de impuestos, y eso está muy bien, en la medida que es una importante fuente de ingresos para el Estado, a la vez que favorece la redistribución de la riqueza.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022906Z" creationid="Ricardito120" creationdate="20161206T022906Z">
-        <seg>Parfois lorsque les prix internationaux permettent un grande marge de rentabilité pour les entreprises pétrolières, minières ou agricoles, les gouvernements par l'impôt on l'habitude de s'approprier une partie de ces revenus et c'est très bien car c'est une importante source de revenu pour l’État en même temps qu'il favorise une redistribution de la richesse.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T212651Z" creationid="Ricardito120" creationdate="20161206T022906Z">
+        <seg>Parfois lorsque les prix internationaux permettent un grande marge de rentabilité pour les entreprises pétrolières, minières ou agricoles, les gouvernements on l'habitude de s'approprier une partie de ces revenus par l'impôt et c'est très bien car c'est une importante source de revenu pour l’État en même temps qu'il favorise une redistribution de la richesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5599,8 +5599,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En otras palabras, antes de diseñar estrategias de integración comercial entre naciones, hay que tener una estrategia para disolver los poderes de las corporaciones multinacionales y de la banca especulativa.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022651Z" creationid="Ricardito120" creationdate="20161206T022651Z">
-        <seg>En d'autres termes, avant de dessiner des stratégies d'intégration commerciale entre les pays, il faut avoir une stratégie pour dissoudre les pouvoirs des corporations multinationales et de la banque spéculative. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T212343Z" creationid="Ricardito120" creationdate="20161206T022651Z">
+        <seg>En d'autres termes, avant de dessiner des stratégies d'intégration commerciale entre les pays, il faut avoir une stratégie pour dissoudre les pouvoirs des corporations multinationales et de la banque spéculative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,8 +9866,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>Las corporaciones siempre están presionando a los gobiernos para que le brinden condiciones leoninas para invertir, y eso provoca verdaderas guerras fiscales entre naciones, para ver quién relaja más su legislación fiscal y ambiental, a cambio de unas migajas de inversión.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022531Z" creationid="Ricardito120" creationdate="20161206T022531Z">
-        <seg>Les corporations font toujours une pression sur les gouvernements pour qu’ils leur accordent des conditions léonines pour investir, et cela provoque de véritables guerres fiscales entre les nations, et c'est à qui assouplira le plus leur législation fiscale et environnementale en échange de quelque miettes d’investissement.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T211628Z" creationid="Ricardito120" creationdate="20161206T022531Z">
+        <seg>Les corporations font toujours une pression sur les gouvernements pour qu’ils leur accordent des conditions léonines pour investir, et cela provoque de véritables guerres fiscales entre les nations, et c'est à qui assouplira le plus sa législation fiscale et environnementale en échange de quelque miettes d’investissement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12923,8 +12923,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero en una primera etapa de compatibilización, en la integración comercial y económica entre naciones se puede atender a la potenciación de los sectores productivos con ventajas comparativas sin descuidar el impacto sobre sectores que ocupan mayor cantidad de trabajadores; primero se avanza en la complementación entre aquellos sectores productivos entre los que no hay conflicto y todo suma, para luego recién pasar a una gradual reconversión de aquellos sectores que deben competir con sus similares de otro país.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022424Z" creationid="Ricardito120" creationdate="20161206T022330Z">
-        <seg>Dans une première étape pour rendre compatible l’intégration commerciale et économique entre les nations, on peut prêter attention au renforcement des secteurs productifs qui ont des avantages après les avoir comparés, sans pour autant délaisser l’impact produit sur les secteurs qui emploient une plus grande quantité de travailleurs. Premièrement l’avancée se fera parmi les secteurs productifs qui n’ont pas de conflit entre eux tout en se complémentant, ce qui sera un plus, puis on passera graduellement vers une reconversion de ces secteurs qui doivent rivaliser avec leurs semblables dans d’autres pays,</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T211453Z" creationid="Ricardito120" creationdate="20161206T022330Z">
+        <seg>Dans une première étape de mise en compatibilité dans l’intégration commerciale et économique entre les nations, on peut prêter attention au renforcement des secteurs productifs qui ont des avantages comparatifs, sans pour autant délaisser l’impact produit sur les secteurs qui emploient une plus grande quantité de travailleurs. Premièrement l’avancée dans la "complementation" se fera parmi les secteurs productifs qui n’ont pas de conflit entre eux et où tout s'ajoute, puis on passera graduellement vers une reconversion de ces secteurs qui doivent rivaliser avec leurs semblables dans d’autres pays,</seg>
       </tuv>
     </tu>
     <tu>
@@ -14790,8 +14790,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque los países endeudados tienen la presión de la necesidad de divisas, y para obtener una balanza comercial con superávit le dan prioridad a los sectores primarios, demorando el desarrollo; desatan competencias devaluatorias con otros países de la región, y condicionan su política fiscal en función de lograr el superávit presupuestario que les permita adquirir divisas para pagar las deudas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022630Z" creationid="Ricardito120" creationdate="20161206T022630Z">
-        <seg>La nécessité de devise des pays endettés les met sous pression, et afin que leur équilibre commercial soit excédentaire ils donnent la priorité aux secteurs primaires retardant le développement; ils libèrent ainsi une compétition dépréciatrice avec les autres pays de la région, et conditionnent ainsi leur politique fiscale dans le but d'avoir l'excédent supposé qui leur permettra d'acquérir des devises pour payer les dettes.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T212328Z" creationid="Ricardito120" creationdate="20161206T022630Z">
+        <seg>La nécessité de devises des pays endettés les met sous pression, et afin que leur balance commerciale soit excédentaire ils donnent la priorité aux secteurs primaires retardant le développement ; ils déclenchent ainsi des dévaluations compétitives avec les autres pays de la région et conditionnent leur politique fiscale pour obtenir l'excédent fiscal qui leur permettra d'acquérir des devises pour payer les dettes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16842,8 +16842,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Siempre dando prioridad al desarrollo de todas las partes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022357Z" creationid="Ricardito120" creationdate="20161206T022357Z">
-        <seg>toujours en donnant la priorité au développement de toutes les parties.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T211516Z" creationid="Ricardito120" creationdate="20161206T022357Z">
+        <seg>En donnant toujours la priorité au développement de toutes les parties.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18764,8 +18764,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y ello también contribuirá a la armonización fiscal que toda integración requiere, porque se debieran acordar políticas fiscales comunes para gravar a las corporaciones, para restringir los manejos especulativos de la Banca, para acabar con el endeudamiento con los usureros, y para desarticular la mafia de los paraísos fiscales&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022718Z" creationid="Ricardito120" creationdate="20161206T022718Z">
-        <seg>Ceci contribuera à l'harmonisation fiscale que toute intégration requière, car il faudra se mettre d'accord sur des politiques fiscales communes afin de taxer les corporations, pour restreindre la manipulation spéculative de la banque, pour en finir avec l'endettement des usuriers et pour démanteler la mafia des paradis fiscaux. &lt;t5/&gt;.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T212432Z" creationid="Ricardito120" creationdate="20161206T022718Z">
+        <seg>Ceci contribuera à l'harmonisation fiscale que toute intégration requière, car il faudra se mettre d'accord sur des politiques fiscales communes afin de taxer les corporations, pour restreindre la manipulation spéculative de la banque, pour en finir avec l'endettement par les usuriers et pour démanteler la mafia des paradis fiscaux&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19077,8 +19077,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y este modo de definir el asentamiento de las industrias, obviamente nunca contempla los intereses de los pueblos y la compatibilización entre economías regionales, sino que solamente considera los intereses de las corporaciones y de los gobernantes cómplices.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T022549Z" creationid="Ricardito120" creationdate="20161206T022549Z">
-        <seg>Cette façon de définir l’implantation des industries, évidemment ne tient jamais compte des intérêts des peuples et de la compatibilité entre les économies régionales, mais uniquement les intérêts des corporations et des gouvernants complices. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170130T211659Z" creationid="Ricardito120" creationdate="20161206T022549Z">
+        <seg>Cette façon de définir l’implantation des industries, évidemment ne tient jamais compte des intérêts des peuples et de la compatibilité entre les économies régionales, mais uniquement les intérêts des corporations et des gouvernants complices.</seg>
       </tuv>
     </tu>
     <tu>
