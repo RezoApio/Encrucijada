@@ -2474,8 +2474,8 @@
       <tuv lang="ES-AR">
         <seg>Cuando se habla de inversión en obra pública para aumentar el ingreso de la población y con ello el consumo, y así intentar que aumente la producción, podríamos tener diferentes fuentes con las que un gobierno se financia para poder efectuar esa inversión pública, y a veces eso repercute en más o en menos en el impacto inflacionario.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T033948Z" creationid="Ricardito120" creationdate="20161206T033948Z">
-        <seg>lorsqu'il s'agit d'investissement dans les travaux publics pour augmenter le revenu des populations et avec lui la consommation et qu'on essaie ainsi d’augmenter la production, un gouvernement peut avoir différente sources de financement pour effectuer son investissement public et parfois ceci se répercute plus ou moins sur l'inflation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093108Z" creationid="Ricardito120" creationdate="20161206T033948Z">
+        <seg>lorsqu'il s'agit d'investissement dans les travaux publics pour augmenter le revenu des populations et avec lui la consommation et qu'on essaie ainsi d’augmenter la production, un gouvernement peut avoir différentes sources de financement pour effectuer son investissement public et parfois ceci se répercute plus ou moins sur l'inflation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3485,8 +3485,8 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que si el recurso monetario que se vuelca en la economía es excesivo por una emisión desproporcionada, no habrá respuesta productiva posible que equipare la demanda y se generará una inflación proporcional al exceso de crecimiento de moneda sobre el crecimiento de bienes y servicios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031921Z" creationid="Ricardito120" creationdate="20161206T031921Z">
-        <seg>Bien sûr, si le recours monétaire que l’on réinjecte dans l’économie est excessif du fait d’une émission disproportionnée, alors il n’y aura pas de réponse productive possible qui équilibre la demande et alors se générera une inflation proportionnée à l’excès de croissance de la monnaie en rapport à la croissance de biens et de services.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093645Z" creationid="Ricardito120" creationdate="20161206T031921Z">
+        <seg>Bien sûr, si le recours monétaire que l’on réinjecte dans l’économie est excessif du fait d’une émission disproportionnée, alors il n’y aura pas de réponse productive possible qui équilibre la demande et alors se générera une inflation proportionnée à l’excès de croissance de la monnaie par rapport à la croissance de biens et de services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5631,8 +5631,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En otras palabras, los precios aumentan cuando la demanda es mayor que la oferta; por lo tanto eso es lo único que hay que atender cuando se aplican políticas expansivas, independientemente de cuál sea el recurso monetario que se utilice.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031859Z" creationid="Ricardito120" creationdate="20161206T031859Z">
-        <seg>En d’autres termes les prix grimpent lorsque la demande est plus grande que l’offre, par conséquent c’est l’unique chose à laquelle il faut porter attention lorsque l’on pratique des politiques expansives, indépendamment des moyens monétaires que l’on utilise. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093619Z" creationid="Ricardito120" creationdate="20161206T031859Z">
+        <seg>En d’autres termes les prix grimpent lorsque la demande est plus grande que l’offre, par conséquent c’est l’unique chose à laquelle il faut porter attention lorsque l’on pratique des politiques expansives, indépendamment des moyens monétaires que l’on utilise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6969,6 +6969,14 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Estamos hablando en todo caso de una suerte de keynesianismo de precisión, no de una expansión monetaria indiscriminada.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T092737Z" creationid="william" creationdate="20170131T092737Z">
+        <seg>Nous parlons dans tous les cas d'une sorte de keynesianisme de précision, non d'une expansion monétaire inconsidérée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Estamos hablando entonces de la necesidad de una moral que comprenda la estructura dinámica del ser realizado en el mundo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161111T022852Z" creationid="Podium" creationdate="20161111T022852Z">
@@ -7427,8 +7435,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Existe en mucha gente, y también en algunos economistas, la creencia de que la inflación se genera porque se cuenta con una moneda débil, sin respaldo; sin embargo habría que recordar que uno de los primeros procesos inflacionarios de la historia se dio cuando el medio de pago era metálico, es decir oro y plata; y esto ocurrió en Europa en el siglo XVI, cuando comenzaron a llegar toneladas de oro y plata desde América&lt;t0/&gt;; la economía se monetizó demasiado, aumentó la demanda de bienes, y la economía de esa época no podía crecer al ritmo que había crecido la masa monetaria, por lo tanto lo que crecieron fueron los precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031731Z" creationid="Ricardito120" creationdate="20161206T031731Z">
-        <seg>Il y a la croyance chez beaucoup de gens et chez certains économistes que l’inflation est générée lorsque la monnaie est faible et sans appui. Il faut cependant se rappeler que l’un des premier processus inflationniste de l’histoire a eu lieu lorsque le moyen de paiement était de métal c’est-à-dire on payait en or ou en argent. Çà c’est passé en Europe au XVIe?? siècle lorsque commencèrent à arriver des tonnes d’or et d’argent depuis l’Amérique, l’économie s’est trop monétisée, augmentant la demande de biens et l’économie de cette époque n’était pas en mesure de croître au rythme où avait crû la masse monétaire et donc ce furent les prix qui augmentèrent.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093424Z" creationid="Ricardito120" creationdate="20161206T031731Z">
+        <seg>Il y a la croyance chez beaucoup de gens et chez certains économistes que l’inflation est générée lorsque la monnaie est faible et sans appui. Il faut cependant se rappeler que l’un des premier processus inflationniste de l’histoire a eu lieu lorsque le moyen de paiement était de métal c’est-à-dire en or ou en argent. Cela s’est passé en Europe au XVIe siècle lorsque commencèrent à arriver des tonnes d’or et d’argent depuis l’Amérique&lt;t0/&gt;. L’économie s’est trop monétisée, augmentant la demande de biens et l’économie de cette époque n’était pas en mesure de croître au rythme où avait crû la masse monétaire et donc ce furent les prix qui augmentèrent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10186,8 +10194,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>Lo mismo ocurre cuando un país tiene reservas en divisa extranjera (moneda fuerte), y utiliza esas reservas para inyectar recursos en la economía, y esos recursos van al consumo de bienes y servicios que no incrementan su oferta, en ese caso también suben los precios, aunque la moneda débil esté respaldada por la supuesta moneda fuerte.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031840Z" creationid="Ricardito120" creationdate="20161206T031840Z">
-        <seg>Il se passe la même chose lorsqu’un pays qui des réserves en devises étrangères (monnaie forte) et qu’il les utilise en injectant ces moyens dans l’économie, ces ressources vont à la consommation de biens et de services qui n’accroît pas son offre, alors dans ce cas aussi ce sont les prix qui augmentent bien que la monnaie faible soit soutenue par les devises d’une ???suposée???monnaie forte. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093606Z" creationid="Ricardito120" creationdate="20161206T031840Z">
+        <seg>Il se passe la même chose lorsqu’un pays qui des réserves en devises étrangères (monnaie forte) utilise ces ressources pour les injecter dans l’économie, elles vont à la consommation de biens et de services qui n’accroissent pas leur offre, alors dans ce cas aussi ce sont les prix qui augmentent bien que la monnaie faible soit soutenue par les devises d’une supposée monnaie forte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11382,8 +11390,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>No estamos hablando de subsidios (que podrían resultar necesarios en otros casos), estamos hablando de financiamiento, dinero que se recupera y se recicla, precisamente porque se debe administrar con precisión quirúrgica, asegurando que se trate de proyectos sustentables, que haya un impacto productivo y generador de empleo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031039Z" creationid="Ricardito120" creationdate="20161206T031039Z">
-        <seg>Nous ne parlons pas de subventions (qui pourraient être nécessaires dans d'autres cas), nous parlons de financement, d'argent qui est récupéré et recyclé, qui devra être administré avec une précision chirurgicale en s'assurant qu'il s'agit de projets durables qui ont un impact productif et génère de l'emploi. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T092414Z" creationid="Ricardito120" creationdate="20161206T031039Z">
+        <seg>Nous ne parlons pas de subventions (qui pourraient être nécessaires dans d'autres cas), nous parlons de financement, d'argent qui est récupéré et recyclé, qui devra être administré avec une précision chirurgicale en s'assurant qu'il s'agit de projets durables qui ont un impact productif et génère de l'emploi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12659,8 +12667,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero aún en casos menos extremos, podemos llegar a tener problemas de una respuesta deficiente de la inversión, ante un incremento de la demanda, ya no por limitaciones técnicas, o laborales, o por restricciones externas, sino por cuellos de botella especulativos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031952Z" creationid="Ricardito120" creationdate="20161206T031952Z">
-        <seg>Mais même dans les cas les moins extrêmes, face à la croissance de la demande, nous pouvons arriver à avoir des problèmes lorsque la réponse d’investissement est déficiente, non pas par une limitation technique ou de l’emploi ou par des restrictions externes, sinon par les ???culs de bouteilles??? spéculatifs. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093736Z" creationid="Ricardito120" creationdate="20161206T031952Z">
+        <seg>Mais même dans les cas les moins extrêmes, face à la croissance de la demande, nous pouvons arriver à avoir des problèmes lorsque la réponse d’investissement est déficiente, non pas par une limitation technique ou de l’emploi ou par des restrictions externes, sinon par goulots d'étranglement spéculatifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,8 +13862,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Podría ser que un gobierno haya acumulado reservas para políticas contra cíclicas y en un momento las utilice; podría ser que se financie con sus ingresos corrientes por recaudación de impuestos, o podría financiarse con deuda, o podría ser que se financie con emisión monetaria.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T033501Z" creationid="Ricardito120" creationdate="20161206T031617Z">
-        <seg>Il se pourrait qu’un gouvernement ait accumulé des réserves et les utilise pour des politiques de contre les cycles, il se pourrait qu’il se finance avec ses revenus courants par la recette des impôts, ou il pourrait se fiancer par la dette ou par émission monétaire.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093248Z" creationid="Ricardito120" creationdate="20161206T031617Z">
+        <seg>Il se pourrait qu’un gouvernement ait accumulé des réserves et les utilise dans des politiques pour contrer les cycles, il se pourrait qu’il se finance avec ses revenus courants par la perception des impôts ou il pourrait se financer par la dette ou par émission monétaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15601,8 +15609,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Retomando la cuestión de si las políticas monetarias más expansivas son inflacionarias o no, podemos agregar lo siguiente.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031415Z" creationid="Ricardito120" creationdate="20161206T031415Z">
-        <seg>Revenons à la question de savoir si les politiques les plus expansives sont inflationnistes ou pas. Nous pouvons ajouter les ???choses??? suivantes ; </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T093001Z" creationid="Ricardito120" creationdate="20161206T031415Z">
+        <seg>En revenant à la question de savoir si les politiques les plus expansives sont inflationnistes ou pas, nous pouvons ajouter ce qui suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -18923,6 +18931,14 @@ phrase trop longue</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Y es precisamente con una política descentralizada que se puede lograr el seguimiento de cada nuevo proyecto productivo, para asegurar que la inyección financiera en cada lugar genere la equivalencia entre oferta y demanda.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T092918Z" creationid="william" creationdate="20170131T092918Z">
+        <seg>Et c'est précisément avec une politique décentralisée que l'on peut obtenir le suivi de chaque nouveau projet productif, pour assurer que l'injection financière dans chaque lieu génère une équivalence entre l'offre et la demande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Y es precisamente este concepto de ilegalidad el que se enfatiza a la hora de hacer ingentes esfuerzos por controlar la inmigración.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T055836Z" creationid="Ricardito120" creationdate="20161130T055836Z">
@@ -19901,8 +19917,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Ya tenemos interesantes ejemplos en el mundo, con la experiencia del microcrédito y el banco Grameen&lt;t3/&gt;, de como la financiación, cuando se destina puntualmente a proyectos productivos, beneficia a las personas y a la economía en su conjunto, logrando el máximo rendimiento productivo de los préstamos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031058Z" creationid="Ricardito120" creationdate="20161206T031058Z">
-        <seg>Nous avons déjà, dans le monde des exemples intéressants avec l'expérience des microcrédits et la Grameen Bank, et nous voyons que lorsque le financement est destiné ponctuellement à des projets productifs, il bénéficie aux personnes et à l'économie dans son ensemble parvenant à un maximum de rentabilité des prêts. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170131T092627Z" creationid="Ricardito120" creationdate="20161206T031058Z">
+        <seg>Nous avons déjà des exemples intéressants dans le monde avec l'expérience des microcrédits et la banque Grameen&lt;t3/&gt; de comment le financement qui est destiné ponctuellement à des projets productifs, bénéficie aux personnes et à l'économie dans son ensemble donnant le rendement productif maximum aux prêts.</seg>
       </tuv>
     </tu>
     <tu>
