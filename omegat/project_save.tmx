@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>&lt;f0&gt;viven y actúan en su medio inmediato.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T075009Z" creationid="Ricardito120" creationdate="20170205T075009Z">
+        <seg>&lt;f0&gt;ils vivent, et agissent sur leur milieu immédiat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>&lt;f0&gt;“cuando fuerzas las cosas hacia un fin produces lo contrario”&lt;/f0&gt;&lt;f1&gt;, la diversidad ha explotado como una&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;respuesta reactiva desde la base social.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T074411Z" creationid="Ricardito120" creationdate="20170205T074411Z">
@@ -1972,6 +1980,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20170130T214045Z" creationid="Ricardito120" creationdate="20161206T023349Z">
         <seg>Comme nous l'avons déjà vu dans le chapitre des propositions internationales se référant à la restructuration du système financier international, les nations qui prétendent avancer dans la transformation vers la Nation humaine universelle devront vivre dans un premier temps avec les pouvoirs financiers internationaux qui aujourd'hui manipulent le monde, jusqu'au démantèlement de leur pouvoir par les populations de toutes les nations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Comprenden globalmente el mundo en que&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T074939Z" creationid="Ricardito120" creationdate="20170205T074939Z">
+        <seg> Ils comprennent de façon globale le monde dans lequel</seg>
       </tuv>
     </tu>
     <tu>
