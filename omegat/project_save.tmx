@@ -14590,8 +14590,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por ejemplo, si entrevistáramos a 100 médicos recién recibidos y nos percatáramos que 30 de ellos no saben qué función tiene el hígado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170122T184525Z" creationid="Françoise" creationdate="20161118T163949Z">
-        <seg>Par exemple, si nous interviewons 100 médecins récemment diplômés et que nous nous apercevons que 30 d'entre eux ne savent pas quelle fonction a le foie.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T083200Z" creationid="Françoise" creationdate="20161118T163949Z">
+        <seg>Par exemple, si nous interviewons 100 médecins récemment diplômés et que nous nous apercevons que 30 d'entre eux ne savent pas quelle fonction a le foie, </seg>
       </tuv>
     </tu>
     <tu>
@@ -20664,8 +20664,8 @@ Ils continuent :
       <tuv lang="ES-AR">
         <seg>¿Pensaríamos que es un problema acotado a esos 30 médicos o pensaríamos que la Facultad de Medicina funciona muy mal y hay que hacer cambios profundos en ella?; seguramente lo segundo, porque no es concebible que un médico no tenga esos conocimientos tan sencillos ya que forman parte de su especialidad.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Françoise" changedate="20161118T164046Z" creationid="Françoise" creationdate="20161118T164046Z">
-        <seg>Penserions-nous que c'est un problème limité à ces 30 médecins ou penserions-nous que la faculté de Médecine fonctionne très mal et qu'il faut faire des changements profonds en son sein ? Certainement la deuxième solution parce qu'il n'est pas concevable qu'un médecin ne possède pas ces connaissances si simples puisqu'elles font partie de sa spécialité.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T083234Z" creationid="Françoise" creationdate="20161118T164046Z">
+        <seg>penserions-nous que c'est un problème limité à ces 30 médecins ou penserions-nous que la faculté de Médecine fonctionne très mal et qu'il faut faire des changements profonds en son sein ? Nous opterions certainement pour la deuxième solution parce qu'il est inconcevable qu'un médecin ne possède pas ces connaissances si simples puisqu'elles font partie de sa spécialité. </seg>
       </tuv>
     </tu>
     <tu>
