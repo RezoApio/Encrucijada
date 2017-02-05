@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>&lt;f0&gt;Hay que recordar que uno de los textos fundacionales del Nuevo Humanismo, el Documento Humanista, publicado a comienzos de los 90, ya se refería a estos temas: &lt;/f0&gt;&lt;f1&gt;“Los humanistas son&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;internacionalistas, aspiran a una nación humana universal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T074917Z" creationid="Ricardito120" creationdate="20170205T074917Z">
+        <seg>&lt;f0&gt;Il convient de rappeler que dans l’un des textes fondateurs du Nouvel Humanisme, le Document humaniste, publié au début des années 90, on faisait déjà référence à ces thèmes : &lt;/f0&gt;&lt;f1&gt;« Les humanistes sont &lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;internationalistes et aspirent à une nation humaine universelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>&lt;f0&gt;mercantilista dominante ha impuesto un estilo de vida universal y sus parámetros de convivencia se replican idénticos en cualquier punto del planeta (incluidos aquellos países antes llamados “socialistas”).</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T073445Z" creationid="Ricardito120" creationdate="20170205T073445Z">
