@@ -13137,6 +13137,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero este fenómeno no es negativo en sí mismo.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072705Z" creationid="Ricardito120" creationdate="20170205T072705Z">
+        <seg>Mais ce phénomène n’est pas négatif en soi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Pero esto es un error, por muy captado que esté-y lo está- porque eso implica asumir que las cosas sean fuentes de poder sobre personas.”</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161103T223359Z" creationid="Podium" creationdate="20161103T223359Z">
@@ -14352,6 +14360,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161111T124721Z" creationid="Ricardito120" creationdate="20161111T124721Z">
         <seg>Au contraire, aujourd'hui il est indispensable de fortifier l'action conjointe du syndicalisme à une échelle internationale ».&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Por el contrario, más bien responde a un impulso ancestral que proviene de los albores de la historia.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072816Z" creationid="Ricardito120" creationdate="20170205T072816Z">
+        <seg>Au contraire, il répond plutôt à une dynamique ancestrale qui découle des premiers temps de l’Histoire.</seg>
       </tuv>
     </tu>
     <tu>
