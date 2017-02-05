@@ -4230,6 +4230,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El mundo parece estar entrando en una zona de caos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T071831Z" creationid="Ricardito120" creationdate="20170205T071831Z">
+        <seg>Le monde semble entrer dans une zone de chaos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El neoliberalismo reclama libertad absoluta en esas operaciones, y cualquier regulación es vista como un atentado a la libertad.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20170131T120442Z" creationid="Podium" creationdate="20161129T014908Z">
