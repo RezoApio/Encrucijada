@@ -4182,6 +4182,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El impacto fue tan devastador que motivó al principal negociador griego, el ministro de Finanzas Yanis Varoufakis, a renunciar a su cargo para poner en marcha un movimiento por la democratización de Europa (DIEM25).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072241Z" creationid="Ricardito120" creationdate="20170205T072241Z">
+        <seg>L’effet a été si dévastateur que le principal négociateur grec, le ministre des Finances Yanis Varoufakis, a démissionné de son poste pour lancer un mouvement pour la démocratie en Europe (DIEM25).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El mantenimiento de un nivel de armamento defensivo para la protección nacional, sin hipótesis de conflictos en el corto o mediano plazo.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170122T144914Z" creationid="Ricardito120" creationdate="20161130T044327Z">
@@ -12026,6 +12034,14 @@ espiritu : esprit</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161114T203739Z" creationid="william" creationdate="20161114T203739Z">
         <seg>On n'y arrivera jamais avec le réformisme qui tente de réduire avec un petit flacon les filtrations d'eau d'un énorme bateau avarié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Nunca antes en la historia se había alcanzado un grado de concentración tan extremo, nunca antes se había logrado una posición de poder tan absoluta.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072322Z" creationid="Ricardito120" creationdate="20170205T072322Z">
+        <seg>Jamais dans l’Histoire avait-on atteint un tel degré de concentration du pouvoir, une telle position de pouvoir si absolue. </seg>
       </tuv>
     </tu>
     <tu>
