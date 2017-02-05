@@ -13850,6 +13850,14 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Pero, ¿cómo hemos podido llegar a esta situación tan desastrosa?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072608Z" creationid="Ricardito120" creationdate="20170205T072608Z">
+        <seg>Mais comment sommes-nous parvenus à cette situation si désastreuse ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Personas</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141620Z" creationid="la belle idee" creationdate="20161030T141620Z">
@@ -17036,6 +17044,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20170119T213105Z" creationid="Ricardito120" creationdate="20161130T060107Z">
         <seg>Sans mettre de conditions à la liberté des personnes qui veulent migrer là où elles préfèrent, on peut faciliter l'orientation des migrations vers ces pôles de développement, où les immigrants se forment et travaillent, s’établissent et s'intègrent avec leur famille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sin duda que el costo humano que ha significado tratar de alcanzar el espejismo del bienestar material ha sido demasiado alto.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072555Z" creationid="Ricardito120" creationdate="20170205T072555Z">
+        <seg>Le coût humain qu’il a fallu payer pour essayer d’atteindre l’illusion du bien-être matériel a été assurément trop élevé.</seg>
       </tuv>
     </tu>
     <tu>
