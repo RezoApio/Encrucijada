@@ -4053,6 +4053,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>El autor se inspira en las propuestas del Humanismo &lt;t0/&gt;Universalista, formuladas por el pensador latinoamericano Mario Rodríguez Cobos, Silo, hace ya 25 años.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T075159Z" creationid="Ricardito120" creationdate="20170205T075159Z">
+        <seg>L’auteur s’inspire des propositions de l’Humanisme Universaliste, qui ont été formulées par le penseur latino-américain Mario Rodríguez Cobos, dit Silo, il y a 25 ans déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>El avance de la sindicalización, en defensa de los derechos de los trabajadores, no ha sido otra cosa que la libertad de organizarse de los mismos, y obviamente que los neoliberales reniegan del ejercicio de estas libertades, con la argucia de que la flexibilidad laboral y la libre contratación entre empleador y empleado hará más eficiente a la economía.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Podium" changedate="20161129T015128Z" creationid="Podium" creationdate="20161129T015128Z">
@@ -4674,6 +4682,14 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20161206T203232Z" creationid="Ricardito120" creationdate="20161130T054721Z">
         <seg>Élimination des frontières pour la circulation des personnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Ellas recogen la posición del humanismo frente a una crisis global que ya se anticipaba, aunque muy pocos fueran capaces de percibirla en el momento en que fueron difundidas.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T075229Z" creationid="Ricardito120" creationdate="20170205T075229Z">
+        <seg>Ces propositions rassemblent la position de l’humanisme face à une crise mondiale que l’on voyait déjà venir, bien que peu de personnes aient pu la pressentir au moment où elles ont été présentées.</seg>
       </tuv>
     </tu>
     <tu>
