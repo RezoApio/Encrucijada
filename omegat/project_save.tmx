@@ -304,8 +304,8 @@
       <tuv lang="ES-AR">
         <seg>A lo largo de ese proceso habrá momentos en que solamente algunos países estarán dispuestos a realizar esas transformaciones en sus bancos, y en el nivel internacional deberán convivir con una banca privada que continuará manipulando a su antojo el flujo de divisas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161206T194014Z" creationid="william" creationdate="20161206T194014Z">
-        <seg>Tout au long de ce processus il y aura des moments dans lesquels seulement certains pays seront disposés à réaliser ces transformations de leurs banques et au niveau international il faudra vivre avec une banque privée qui continuera de manipuler à sa guise le flux de devises.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T204955Z" creationid="william" creationdate="20161206T194014Z">
+        <seg>Tout au long de ce processus il y aura des moments dans lesquels certains pays seulement seront disposés à réaliser ces transformations de leurs banques, et au niveau international il faudra vivre avec une banque privée qui continuera de manipuler à sa guise le flux de devises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3364,8 +3364,8 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que durante el proceso de construcción de un nuevo sistema financiero mundial, en el que como decíamos antes, el flujo financiero internacional lo manejen las diferentes bancas públicas, para que los excedentes de liquidez de un país puedan contribuir al desarrollo de otro.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T200753Z" creationid="william" creationdate="20161206T193428Z">
-        <seg>C'est pourquoi durant le processus de construction d'un nouveau système financier mondial, comme celui que nous décrivions précédemment, le flux financier international est manié par les différentes banques publiques, pour que les excédents de liquidité d'un pays puisse contribuer au développement d'un autre.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T204937Z" creationid="william" creationdate="20161206T193428Z">
+        <seg>C'est pourquoi durant le processus de construction d'un nouveau système financier mondial, comme celui que nous décrivions précédemment, le flux financier international est manié par les différentes banques publiques, pour que les excédents de liquidité d'un pays puissent contribuer au développement d'un autre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14878,8 +14878,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por otra parte se pueden implementar mecanismos compensatorios para el flujo comercial entre estas naciones, evitando así el uso de otras divisas en el mismo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161206T200254Z" creationid="william" creationdate="20161206T200254Z">
-        <seg>D'autre part on peut mettre en place des mécanismes compensatoires pour le flux commercial entre nations pour éviter ainsi l'utilisation d'autres devises dans ce contexte.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T205122Z" creationid="william" creationdate="20161206T200254Z">
+        <seg>et d'autre part, on peut mettre en place des mécanismes compensatoires pour le flux commercial entre nations pour éviter ainsi l'utilisation d'autres devises dans ce contexte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15038,8 +15038,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por una parte las mismas reservas de divisas de las naciones que lo acuerden, pueden utilizarse, en cierta proporción, para el financiamiento de una banca internacional propia a la cual acudir ante urgencias financieras.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161206T200129Z" creationid="william" creationdate="20161206T194440Z">
-        <seg>D'une part les réserves de devises des nations qui sont d'accord peuvent s'utiliser dans une certaine proportion pour le financement d'une propre banque internationale à laquelle s'en remettre pour les urgences financières.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T205113Z" creationid="william" creationdate="20161206T194440Z">
+        <seg>D'une part, les réserves de devises des nations qui sont d'accord peuvent s'utiliser, dans une certaine proportion, pour le financement d'une propre banque internationale à laquelle s'en remettre pour les urgences financières,</seg>
       </tuv>
     </tu>
     <tu>
@@ -15408,8 +15408,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Posiblemente muchos pretenderán remitirse a los antiguos argumentos de Benthan&lt;t1/&gt; en defensa de la usura, argumentando que una libre contratación entre las partes solo puede lograrse si ambas partes se benefician, del mismo modo en que se pretende justificar la existencia de salarios miserables por el acuerdo entre empleador y empleado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T195752Z" creationid="william" creationdate="20161206T192953Z">
-        <seg>Il est vraisemblable que beaucoup prétende s'en remettre aux antiques arguments de Benthan&lt;t1/&gt; en défense de l'usure, en argumentant qu'un contrat libre entre parties peut être obtenu uniquement si les deux parties en tirent bénéfices, de la même façon que l'on prétend justifier l'existence de salaires de misères par l'accord entre l'employeur et l'employé.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T204903Z" creationid="william" creationdate="20161206T192953Z">
+        <seg>Il est vraisemblable que beaucoup prétendent s'en remettre aux antiques arguments de Benthan&lt;t1/&gt; pour défendre l'usure, en argumentant qu'un contrat libre entre parties peut être obtenu uniquement si les deux parties en tirent bénéfices, de la même façon que l'on prétend justifier l'existence de salaires de misère par l'accord entre l'employeur et l'employé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16489,8 +16489,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Se puede avanzar incluso hacia el concepto de Balanza Comercial Consolidada, por el cual las naciones que lo acuerden podrían planificar su desarrollo intentando un equilibrio comercial como conjunto, aunque haya desequilibrios transitorios entre las partes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20161206T200512Z" creationid="william" creationdate="20161206T200512Z">
-        <seg>On peut même aller jusqu'au concept de Balance commerciale consolidée, par lequel les nations qui en conviennent pourrait planifier leur développement en tentant un équilibre commercial dans son ensemble, même s'il peut y avoir des déséquilibres transitoires entre les parties.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T205144Z" creationid="william" creationdate="20161206T200512Z">
+        <seg>On peut même aller jusqu'au concept de Balance commerciale consolidée, par lequel les nations qui en conviennent pourraient planifier leur développement en tentant un équilibre commercial dans son ensemble, même s'il peut y avoir des déséquilibres transitoires entre les parties.</seg>
       </tuv>
     </tu>
     <tu>
