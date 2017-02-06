@@ -1392,8 +1392,8 @@
       <tuv lang="ES-AR">
         <seg>Así como hoy la humanidad se horroriza de los genocidios del siglo XX, preguntándose ¿Cómo pudo el ser humano llegar a semejante horror?; del mismo modo en un futuro habrá que preguntarse cómo fue que le cerramos la puerta a quienes golpeaban clamando por ayuda, sabiendo que morirían.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161130T054919Z" creationid="Ricardito120" creationdate="20161130T054919Z">
-        <seg>Alors qu’aujourd’hui l’humanité est horrifiée des génocides du XXe siècle et se demande comment l’être humain a-t-il pu parvenir à une telle horreur ? De la même manière dans le futur il faudra s’interroger sur le fait d’avoir fermé la porte à ceux qui venaient réclamer de l’aide tout en sachant qu’ils mourraient.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T210103Z" creationid="Ricardito120" creationdate="20161130T054919Z">
+        <seg>Alors qu’aujourd’hui l’humanité est horrifiée des génocides du XXe siècle et se demande comment l’être humain a pu parvenir à une telle horreur, de la même manière, dans le futur, il faudra s’interroger sur le fait d’avoir fermé la porte à ceux qui venaient réclamer de l’aide tout en sachant qu’ils mourraient.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,8 +7651,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Están también los millones de personas que mueren de hambre, o por falta de atención médica, por culpa de la pobreza y las inequidades de un sistema económico perverso.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T201438Z" creationid="Ricardito120" creationdate="20161130T054821Z">
-        <seg>Il y a aussi les millions de personnes qui meurent de faim ou par manque de soin médicaux, à cause de la pauvreté et des inégalités d’un système économique pervers.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T210021Z" creationid="Ricardito120" creationdate="20161130T054821Z">
+        <seg>Il y a aussi les millions de personnes qui meurent de faim ou par manque de soins médicaux, à cause de la pauvreté et des inégalités d’un système économique pervers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9697,8 +9697,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>La idea que cada cual pueda hacerse acerca de una futura Nación Humana Universal, seguramente contendrá las imágenes positivas de un mundo querido; pero también por contraste contendrá el ferviente deseo de nunca más ver las imágenes negativas que a diario nos muestra este sistema.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T201344Z" creationid="Ricardito120" creationdate="20161130T054741Z">
-        <seg>L’idée que chacun pourra se faire au sujet d’une future Nation humaine universelle contiendra sûrement des images positives d’un monde souhaité mais aussi par contraste elle aura aussi le fervent désir de ne plus jamais voir les images négatives quotidiennes que nous montre ce système.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T205952Z" creationid="Ricardito120" creationdate="20161130T054741Z">
+        <seg>L’idée que chacun pourra se faire au sujet d’une future Nation humaine universelle contiendra sûrement des images positives d’un monde souhaité mais, par contraste, elle aura aussi le fervent désir de ne plus jamais voir les images négatives quotidiennes que nous montre ce système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13795,8 +13795,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero quizá una de las peores imágenes, que debieran avergonzar a toda la humanidad, porque son el símbolo de la indiferencia, es la de miles de personas que mueren tratando de cruzar fronteras prohibidas, buscando mejores condiciones de vida.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T201506Z" creationid="Ricardito120" creationdate="20161130T054839Z">
-        <seg>Mais peut-être qu’une des pires images, dont devrait avoir honte toute l’humanité, parce qu’elle est le symbole de l’indifférence, c’est celle de milliers de personnes qui meurent en voulant passer des frontières interdites pour de meilleures conditions de vie.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T210034Z" creationid="Ricardito120" creationdate="20161130T054839Z">
+        <seg>Mais peut-être qu’une des pires images dont devrait avoir honte toute l’humanité, parce qu’elle est le symbole de l’indifférence, c’est celle de milliers de personnes qui meurent en voulant passer des frontières interdites pour de meilleures conditions de vie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17410,8 +17410,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Sin duda que la raíz de gran parte de las corrientes migratorias está relacionada con la búsqueda de mejores condiciones de vida, para quienes huyen de la pobreza extrema, de la falta de futuro, o de la violencia de la guerra.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T201907Z" creationid="Ricardito120" creationdate="20161130T054942Z">
-        <seg>Sans aucun doute la racine d’une grande partie des courants migratoires est en relation avec la recherche de meilleures conditions de vie pour ceux qui fuient la pauvreté extrême, le manque de futur ou de la violence de la guerre.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T210115Z" creationid="Ricardito120" creationdate="20161130T054942Z">
+        <seg>Sans aucun doute la racine d’une grande partie des courants migratoires est en relation avec la recherche de meilleures conditions de vie pour ceux qui fuient la pauvreté extrême, le manque de futur ou la violence de la guerre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18313,8 +18313,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Tanto los africanos que mueren ahogados tratando de llegar a la isla Italiana de Lampedusa, como los que perecen en el intento de pasar la valla que separa Marruecos del enclave español en Melilla, y los latinos que mueren en el desierto de Arizona intentando ingresar a USA, son algunos crudos ejemplos de que la falta de solidaridad también mata.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170119T201801Z" creationid="Ricardito120" creationdate="20161130T054903Z">
-        <seg>Autant les africains qui meurent noyés en essayant d’arriver sur l’île italienne de Lampedusa, que ceux qui périssent dans la tentative de passer la barrière qui sépare le Maroc de l’enclave espagnole de Melilla et les latinos qui meurent dans le désert d’Arizona en voulant entrer aux États-unis, sont des exemples cruels que le manque de solidarité tue aussi.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170206T210048Z" creationid="Ricardito120" creationdate="20161130T054903Z">
+        <seg>Autant les africains qui meurent noyés en essayant d’arriver sur l’île italienne de Lampedusa, que ceux qui périssent dans la tentative de passer la barrière qui sépare le Maroc de l’enclave espagnole de Melilla et les latinos qui meurent dans le désert d’Arizona en voulant entrer aux États-Unis, sont des exemples cruels que le manque de solidarité tue aussi.</seg>
       </tuv>
     </tu>
     <tu>
