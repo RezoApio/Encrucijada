@@ -144,8 +144,8 @@
       <tuv lang="ES-AR">
         <seg>&lt;f0&gt;De manera que las preguntas más acuciantes para este momento histórico se refieren a los cambios que hay que hacer y cómo realizarlos del modo más efectivo posible.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T073908Z" creationid="Ricardito120" creationdate="20170205T073908Z">
-        <seg>De sorte que les questions les plus pressantes en ce moment historique concernent les changements qu’il convient d’effectuer et les moyens les plus efficaces de s’y prendre.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T214001Z" creationid="Ricardito120" creationdate="20170205T073908Z">
+        <seg>&lt;f0&gt;De sorte que les questions les plus pressantes en ce moment historique concernent les changements qu’il convient d’effectuer et les moyens les plus efficaces de s’y prendre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,8 +1994,8 @@
       <tuv lang="ES-AR">
         <seg>Comprenden globalmente el mundo en que&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T074939Z" creationid="Ricardito120" creationdate="20170205T074939Z">
-        <seg> Ils comprennent de façon globale le monde dans lequel</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T215115Z" creationid="Ricardito120" creationdate="20170205T074939Z">
+        <seg>Ils comprennent de façon globale le monde dans lequel&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2820,6 +2820,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="william" changedate="20170126T212804Z" creationid="Ricardito120" creationdate="20161205T062421Z">
         <seg>Du paradigme de l'égalité des chances pour tous, en dérivent d'autres dans le domaine de l'économie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>De hecho, estudios recientes revelan que no más de 25 bancos controlan alrededor del 90% del capital mundial.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T212828Z" creationid="william" creationdate="20170207T212828Z">
+        <seg>En fait, les études récentes révèlent que seulement 25 banques contrôlent autour de 90% du capital mondial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4063,8 +4071,8 @@
       <tuv lang="ES-AR">
         <seg>El autor se inspira en las propuestas del Humanismo &lt;t0/&gt;Universalista, formuladas por el pensador latinoamericano Mario Rodríguez Cobos, Silo, hace ya 25 años.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T075159Z" creationid="Ricardito120" creationdate="20170205T075159Z">
-        <seg>L’auteur s’inspire des propositions de l’Humanisme Universaliste, qui ont été formulées par le penseur latino-américain Mario Rodríguez Cobos, dit Silo, il y a 25 ans déjà.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T215141Z" creationid="Ricardito120" creationdate="20170205T075159Z">
+        <seg>L’auteur s’inspire des propositions de l’Humanisme &lt;t0/&gt;Universaliste, qui ont été formulées par le penseur latino-américain Mario Rodríguez Cobos, dit Silo, il y a 25 ans déjà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5080,8 +5088,8 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       <tuv lang="ES-AR">
         <seg>En el campo político, el viejo Estado-nación, antaño poderoso y soberano, se encuentra atascado en una sumisa impotencia: ahora es digitado a distancia por el capital financiero internacional, una suerte de para-estado cuyo poder -por completo ilegítimo- se asienta en la capacidad de control sobre el flujo de capitales planetario, posición desde la cual puede condicionar las decisiones democráticas de los países.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072156Z" creationid="Ricardito120" creationdate="20170205T072156Z">
-        <seg>Sur le plan politique, l’ancien État-nation, naguère puissant et souverain, se trouve coincé dans une impuissance forcée : il est maintenant contrôlé à distance par le capital financier international, une sorte d’entité parastatale dont le pouvoir – totalement illégitime – repose sur la capacité de contrôle sur le flux mondial de capitaux, position à partir de laquelle il peut subordonner les décisions démocratiques des pays.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T212432Z" creationid="Ricardito120" creationdate="20170205T072156Z">
+        <seg>Sur le plan politique, l’ancien État-nation, naguère puissant et souverain, se trouve coincé dans une impuissance forcée : il est maintenant contrôlé à distance par le capital financier international, une sorte de para-état dont le pouvoir – totalement illégitime – repose sur sa capacité de contrôle du flux mondial de capitaux, position à partir de laquelle il peut subordonner les décisions démocratiques des pays.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7051,8 +7059,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esta crisis que hoy nos afecta se manifiesta además en otros ámbitos de la vida social y personal y sus efectos resuenan con similares características en lugares cuyos contextos geográficos y culturales son muy distintos unos de otros.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072432Z" creationid="Ricardito120" creationdate="20170205T072432Z">
-        <seg>Cette crise dont nous subissons les contrecoups aujourd’hui se manifeste également dans d’autres domaines de la vie sociale et personnelle, et ses effets font écho à des caractéristiques similaires dans des lieux où les contextes géographique et culturel sont très différents les uns des autres.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T213447Z" creationid="Ricardito120" creationdate="20170205T072432Z">
+        <seg>Cette crise dont nous subissons les contrecoups aujourd’hui se manifeste également dans d’autres domaines de la vie sociale et personnelle, et ses effets résonnent avec des caractéristiques similaires dans des lieux où les contextes géographique et culturel sont très différents les uns des autres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7123,8 +7131,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esta tara de nacimiento se extendió por todos lados como una epidemia siniestra hasta alcanzar los extremos de violencia que constatamos hoy: una realidad social perversa, en la cual el ser humano ocupa el último lugar en sus prioridades.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T073658Z" creationid="Ricardito120" creationdate="20170205T073658Z">
-        <seg>Ce vice de naissance s’est étendu partout comme une sombre épidémie jusqu’à atteindre les situations extrêmes de violence que nous observons aujourd’hui : une réalité sociale perverse, dans laquelle l’être humain est au dernier rang de leurs priorités.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T213855Z" creationid="Ricardito120" creationdate="20170205T073658Z">
+        <seg>Ce vice de naissance s’est étendu partout comme une sombre épidémie jusqu’à atteindre les situations extrêmes de violence que nous observons aujourd’hui : une réalité sociale perverse, dans laquelle l’être humain est au dernier rang des priorités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7307,8 +7315,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Este fenómeno se hizo dramáticamente patente durante la negociación de la deuda de Grecia con la denominada “troika” (Comisión Europea, Banco Central Europeo y Fondo Monetario Internacional), ocasión en la que se ignoraron las propuestas presentadas por el gobierno de dicho país con el respaldo mayoritario de su pueblo, para imponerle a la fuerza severas medidas de ajuste.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072225Z" creationid="Ricardito120" creationdate="20170205T072225Z">
-        <seg>Ce phénomène s’est manifesté clairement lorsque la Grèce a négocié sa dette avec la « troïka » (Commission européenne, Banque centrale européenne et Fonds monétaire international), alors que les propositions présentées par le gouvernement du pays avec le soutien de la majorité de sa population ont été ignorées, afin de lui imposer de force des mesures de consolidation rigoureuses.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T212648Z" creationid="Ricardito120" creationdate="20170205T072225Z">
+        <seg>Ce phénomène s’est manifesté clairement lorsque la Grèce a négocié sa dette avec la « troïka » (Commission européenne, Banque centrale européenne et Fonds monétaire international) : les propositions présentées par le gouvernement du pays avec le soutien de la majorité de sa population ont été ignorées, afin de lui imposer de force des mesures de consolidation rigoureuses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7411,8 +7419,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esto es lo que entendemos por “globalización”, un pacto entre los poderosos para repartirse el mundo &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;que comenzó a sellarse con los famosos Acuerdos de Bretton Woods, hace alrededor de 70 años, ocasión en que triunfó la posición norteamericana sobre la europea y terminó de consolidarse con el llamado Consenso de Washington.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T073541Z" creationid="Ricardito120" creationdate="20170205T073541Z">
-        <seg>C’est ce que nous entendons par « globalisation » : un pacte entre les détenteurs du pouvoir pour se partager le monde,  &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;qui a commencé à être scellé il y a environ 70 ans avec les fameux Accords de Bretton Woods, lorsque la position nord-américaine l’a emporté sur la position européenne, et qui s’est consolidé par le Consensus de Washington.&lt;/f2&gt;</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T213749Z" creationid="Ricardito120" creationdate="20170205T073541Z">
+        <seg>C’est ce que nous entendons par « globalisation » : un pacte entre les détenteurs du pouvoir pour se partager le monde,  &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;qui a commencé à être scellé il y a environ 70 ans avec les fameux Accords de Bretton Woods, lorsque la position nord-américaine l’a emporté sur la position européenne, et qui s’est consolidé avec le Consensus de Washington.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8576,8 +8584,8 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       <tuv lang="ES-AR">
         <seg>Hay una frase de Gramsci que ilustra muy bien lo que está sucediendo: &lt;/f0&gt;&lt;f1&gt;"La crisis consiste precisamente en el hecho de que lo viejo&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;muere y lo nuevo no puede nacer: en este interregno se verifican los fenómenos morbosos más variados"&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T074014Z" creationid="Ricardito120" creationdate="20170205T074014Z">
-        <seg>Il y a une phrase de Gramsci qui illustre bien la situation actuelle : &lt;/f0&gt;&lt;f1&gt;« La crise consiste justement dans le fait que l’ancien meurt et que le nouveau ne peut pas naître : pendant cet interrègne on observe les phénomènes morbides les plus variés ». &lt;/f3&gt;&lt;f4&gt;.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T214054Z" creationid="Ricardito120" creationdate="20170205T074014Z">
+        <seg>Il y a une phrase de Gramsci qui illustre bien la situation actuelle : &lt;/f0&gt;&lt;f1&gt;« La crise consiste justement dans le fait que l’ancien&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;meurt et que le nouveau ne peut pas naître : pendant cet interrègne on observe les phénomènes morbides les plus variés » &lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9281,8 +9289,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>La cacareada eficacia del modelo económico imperante para satisfacer las necesidades humanas, difundida ad náuseam por sus epígonos de todas las latitudes, hoy se ve cuestionada no solo por la calle sino que también por la opinión fundada de connotados economistas y académicos puesto que, a la luz de la cruda evidencia de las cifras, sus resultados han sido desastrosos lo que está provocando escándalo y repudio mundial.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072055Z" creationid="Ricardito120" creationdate="20170205T072055Z">
-        <seg>L’efficacité tant vantée du modèle économique qui existe à l’heure actuelle pour satisfaire aux besoins humains, dont ses épigones de toutes les latitudes on parlé à n’en plus finir, est aujourd’hui remise en cause, et ce, non seulement par le peuple, mais également par les avis éclairés d’économistes et d’universitaires notoires. En effet, comme les chiffres le démontrent sans équivoque, les résultats de ce modèle ont été désastreux, provoquant un scandale et un rejet à l’échelle mondiale.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T212226Z" creationid="Ricardito120" creationdate="20170205T072055Z">
+        <seg>L’efficacité tant vantée du modèle économique qui existe à l’heure actuelle pour satisfaire aux besoins humains, dont les épigones de toutes les latitudes ont parlé à n’en plus finir, est aujourd’hui remise en cause, et ce, non seulement par le peuple, mais également par les avis éclairés d’économistes et d’universitaires notoires. En effet, comme les chiffres le démontrent sans équivoque, les résultats de ce modèle ont été désastreux, provoquant un scandale et un rejet à l’échelle mondiale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11605,8 +11613,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>No desean un mundo uniforme sino múltiple: múltiple en las etnias, lenguas y costumbres; múltiple en las localidades, las regiones y las autonomías; múltiple en las ideas y las aspiraciones; múltiple en las creencias, el ateísmo y la religiosidad; múltiple en el trabajo; múltiple en la creatividad”&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T075050Z" creationid="Ricardito120" creationdate="20170205T075050Z">
-        <seg>. Ils aspirent à un monde non pas uniforme mais multiple : multiple par ses ethnies, ses langues et ses coutumes; multiple par ses localités, régions et provinces autonomes; multiple par ses idées et ses aspiration; multiple par les croyances, l’athéisme et la religiosité; multiple dans le travail; multiple dans la créativité. »&lt;/f0&gt;&lt;f1&gt;.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T214418Z" creationid="Ricardito120" creationdate="20170205T075050Z">
+        <seg>Ils aspirent à un monde non pas uniforme mais multiple : multiple par ses ethnies, ses langues et ses coutumes ; multiple par ses localités, régions et provinces autonomes ; multiple par ses idées et ses aspiration ; multiple par les croyances, l’athéisme et la religiosité ; multiple dans le travail ; multiple dans la créativité. »&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12336,8 +12344,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Nunca antes en la historia se había alcanzado un grado de concentración tan extremo, nunca antes se había logrado una posición de poder tan absoluta.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072322Z" creationid="Ricardito120" creationdate="20170205T072322Z">
-        <seg>Jamais dans l’Histoire avait-on atteint un tel degré de concentration du pouvoir, une telle position de pouvoir si absolue. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T212932Z" creationid="Ricardito120" creationdate="20170205T072322Z">
+        <seg>Jamais encore dans l’Histoire, un tel degré de concentration du pouvoir, une telle position de pouvoir si absolue n'avait été atteint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16874,8 +16882,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Si antes lo único que tal vez podíamos saber era de dónde veníamos, ahora, gracias a este libro, ya sabemos con certeza hacia dónde vamos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T075435Z" creationid="Ricardito120" creationdate="20170205T075435Z">
-        <seg>Avant nous ne connaissions peut-être que le chemin parcouru, mais désormais, grâce à ce livre, nous savons avec certitude qu’elle voie emprunter.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T214607Z" creationid="Ricardito120" creationdate="20170205T075435Z">
+        <seg>Avant nous ne connaissions peut-être que le chemin parcouru, mais désormais, grâce à ce livre, nous savons avec certitude quelle voie emprunter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17354,7 +17362,7 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Siguiendo ese viejo principio del Nuevo Humanismo que dice que</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T074300Z" creationid="Ricardito120" creationdate="20170205T074300Z">
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T214303Z" creationid="Ricardito120" creationdate="20170205T074300Z">
         <seg>Suivant la vieille maxime du Nouvel Humanisme selon laquelle </seg>
       </tuv>
     </tu>
@@ -17618,8 +17626,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Sin embargo, se trata de un poder sin rostro y que además es apátrida por lo que carece de una ubicación precisa, de manera que había logrado pasar desapercibido hasta la última gran crisis financiera mundial (2007-2008), a partir de la cual comenzó a ser intensamente escrutado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170205T072350Z" creationid="Ricardito120" creationdate="20170205T072350Z">
-        <seg>Toutefois, c’est un pouvoir sans visage et apatride, car il n’a pas d’emplacement exact, de sorte qu’il avait réussi à passer inaperçu jusqu’à ce que survienne la dernière grande crise financière mondiale (2007-2008). En effet, à partir de ce moment, il a commencé à être scruté à fond.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170207T213015Z" creationid="Ricardito120" creationdate="20170205T072350Z">
+        <seg>Toutefois, c’est un pouvoir sans visage et apatride, car il n’a pas d’emplacement exact, de sorte qu’il avait réussi à passer inaperçu jusqu’à ce que survienne la dernière grande crise financière mondiale (2007-2008). En effet, à partir de ce moment, il a commencé à être intensément scruté.</seg>
       </tuv>
     </tu>
     <tu>
