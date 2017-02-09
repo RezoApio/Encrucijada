@@ -600,8 +600,8 @@
       <tuv lang="ES-AR">
         <seg>Adherir al proyecto de la Nación Humana Universal, definiéndose como “ciudadano” de la misma, estando dispuesto a recibir información de las actividades que se realicen en torno a este proyecto común.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211703Z" creationid="la belle idee" creationdate="20161030T155126Z">
-        <seg>Adhérer au projet de la Nation Humaine Universelle en se définissant comme “citoyen” de cette Nation et être disposé à recevoir des informations sur les activités réalisées dans le cadre de ce projet commun..</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T222401Z" creationid="la belle idee" creationdate="20161030T155126Z">
+        <seg>Adhérer au projet de la Nation humaine universelle en se définissant comme “citoyen” de celle-ci et être disposé à recevoir des informations sur les activités qui se réalisent dans le cadre de ce projet commun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,8 +616,8 @@
       <tuv lang="ES-AR">
         <seg>Adherir como organización al proyecto de la Nación Humana Universal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211732Z" creationid="la belle idee" creationdate="20161030T155618Z">
-        <seg>Adhérer en tant qu’organisation au projet de la Nation Humaine Universelle.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T223039Z" creationid="la belle idee" creationdate="20161030T155618Z">
+        <seg>Adhérer en tant qu’organisation au projet de la Nation humaine universelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@
       <tuv lang="ES-AR">
         <seg>Ante falta de respuestas denunciar públicamente a los gobernantes, exigiendo que se trate el tema mediante consultas populares y se habiliten instrumentos de democracia real.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211742Z" creationid="la belle idee" creationdate="20161030T155731Z">
-        <seg>Face à un déni de réponses, dénoncer publiquement les gouvernants et exiger que le sujet soit traité par des consultations populaires et que des instruments de démocratie réelle soient mis en place.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T223220Z" creationid="la belle idee" creationdate="20161030T155731Z">
+        <seg>Face à un manque de réponses, dénoncer publiquement les gouvernants et exiger que le sujet soit traité par des consultations populaires et que des instruments de démocratie réelle soient mis en place.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,16 +1192,16 @@
       <tuv lang="ES-AR">
         <seg>Apoyar algunas actividades organizadas por movimientos sociales que trabajen por alguno de los objetivos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211714Z" creationid="la belle idee" creationdate="20161030T155158Z">
-        <seg>Appuyer certaines activités organisées par des mouvements sociaux qui travaillent sur certains objectifs de la NHU.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T222936Z" creationid="la belle idee" creationdate="20161030T155158Z">
+        <seg>Appuyer certaines activités organisées par des mouvements sociaux qui travaillent sur certains des objectifs.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Apoyar con su firma, o con ideas, o con su voto, en consultas de base relacionadas con alguno de los objetivos, ante conflictos específicos, locales o regionales.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211709Z" creationid="la belle idee" creationdate="20161030T155136Z">
-        <seg>Face à des conflits spécifiques locaux ou régionaux, appuyer par sa signature, par des idées ou par son vote les consultations locales liées à certains objectifs de la NHU.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T222918Z" creationid="la belle idee" creationdate="20161030T155136Z">
+        <seg>Face à des conflits spécifiques locaux ou régionaux liés à certains des objectifs, appuyer par sa signature, par des idées ou par son vote dans les consultations locales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1889,8 +1889,8 @@
       <tuv lang="ES-AR">
         <seg>Colaborar con la difusión de los ideales y objetivos de la Nación Humana Universal en su medio inmediato</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211726Z" creationid="la belle idee" creationdate="20161030T155405Z">
-        <seg>Collaborer à la diffusion des idéaux et des objectifs de la Nation Humaine Universelle dans son milieu immédiat.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T223009Z" creationid="la belle idee" creationdate="20161030T155405Z">
+        <seg>Collaborer à la diffusion des idéaux et des objectifs de la Nation humaine universelle dans son milieu immédiat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12465,8 +12465,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Organizarse internamente mediante la práctica de la Democracia Real.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211735Z" creationid="la belle idee" creationdate="20161030T155641Z">
-        <seg>Adopter une organisation interne basée sur la Démocratie Réelle.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T223052Z" creationid="la belle idee" creationdate="20161030T155641Z">
+        <seg>Adopter une organisation interne basée sur la démocratie réelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18650,8 +18650,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Trabajar por alguno de sus objetivos, convocando voluntarios, trabajar sobre la temática, difundir las actividades, visibilizando los conflictos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161205T211737Z" creationid="la belle idee" creationdate="20161030T155702Z">
-        <seg>Travailler sur quelques objectifs de la NHU en convoquant des volontaires. Travailler sur le thème, diffuser les activités, en rendant visible les conflits.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T223146Z" creationid="la belle idee" creationdate="20161030T155702Z">
+        <seg>Travailler sur quelques-uns des objectifs en convoquant des volontaires. Travailler sur le thème, diffuser les activités, en rendant visible les conflits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19765,8 +19765,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y luego nos referiremos a los pasos específicos que hay que dar en cada área, los que debieran ser apoyados por los individuos, promovidos y exigidos por las organizaciones, e implementados por los gobiernos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="la belle idee" changedate="20161030T141540Z" creationid="la belle idee" creationdate="20161030T141540Z">
-        <seg>Puis nous nous référerons aux pas spécifiques qu'il faut entreprendre dans chaque secteur. Ces derniers devraient être soutenus par les individus, promus et exigés par les organisations, et mis en œuvre par les gouvernements.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170209T222311Z" creationid="la belle idee" creationdate="20161030T141540Z">
+        <seg>Puis nous nous référerons aux pas spécifiques qu'il faut entreprendre dans chaque domaine, ceux-ci devraient être soutenus par les individus, promus et exigés par les organisations et mis en œuvre par les gouvernements.</seg>
       </tuv>
     </tu>
     <tu>
