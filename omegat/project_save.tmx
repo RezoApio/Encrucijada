@@ -664,8 +664,8 @@
       <tuv lang="ES-AR">
         <seg>Ahora bien, como decíamos al principio, hay personas que por su propia sensibilidad tratan de actuar en consecuencia con este principio, aunque no se lo planteen explícitamente como objetivo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T175400Z" creationid="la belle idee" creationdate="20161204T183336Z">
-        <seg>Donc, comme nous le disions au début, il y a des personnes qui par leur propre sensibilité essaient d'agir en cohérence avec ce principe, bien qu'elles ne le posent pas explicitement comme objectif.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203844Z" creationid="la belle idee" creationdate="20161204T183336Z">
+        <seg>Donc, comme nous le disions au début, il y a des personnes qui de par leur propre sensibilité essaient d'agir en cohérence avec ce principe, bien qu'elles ne se le proposent pas explicitement comme objectif. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13203,8 +13203,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero en cuanto a las otras, no necesariamente significa que carecen de esa sensibilidad, sino que en su mayor parte la tienen adormecida y hay que despertarla; sólo que esto no se logra por el mero hecho de dar una recomendación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T175617Z" creationid="la belle idee" creationdate="20161204T183352Z">
-        <seg>Mais en ce qui concerne les autres, cela ne signifie pas nécessairement l’absence de cette sensibilité, mais que pour la majeure partie elle est en sommeil et qu'il faut la réveiller ; seulement cela ne s'obtient pas en en faisant la recommandation.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203859Z" creationid="la belle idee" creationdate="20161204T183352Z">
+        <seg>Mais en ce qui concerne les autres, cela ne signifie pas nécessairement qu’elles manquent de cette sensibilité, mais que pour la majeure partie elle est en sommeil et qu'il faut la réveiller ; seulement cela ne s'obtient pas en en faisant la simple recommandation. </seg>
       </tuv>
     </tu>
     <tu>
