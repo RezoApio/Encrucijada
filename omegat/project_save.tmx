@@ -2170,8 +2170,8 @@
       <tuv lang="ES-AR">
         <seg>Concretamente, la alícuota del impuesto a la renta debe ser progresiva, no solo para las personas físicas sino también para las personas jurídicas, y esa progresividad debe estar &lt;t0/&gt;directamente relacionada con el nivel de inversión y de fuentes de trabajo generadas por cada contribuyente, tanto para la obtención de su renta, como para la aplicación de sus excedentes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T194310Z" creationid="Ricardito120" creationdate="20161205T214240Z">
-        <seg>Concrètement le taux de l'impôt sur le revenu doit être progressif, non seulement pour les personnes physiques mais aussi pour les personnes morales. Cette progressivité devrait être en lien&lt;t0/&gt; direct avec le niveau d'investissement et de sources de travail généré par chaque contributeur tant pour l'obtention de son revenu comme pour l'application de ses excédents.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T180936Z" creationid="Ricardito120" creationdate="20161205T214240Z">
+        <seg>Concrètement le taux de l'impôt sur le revenu doit être progressif, non seulement pour les personnes physiques mais aussi pour les personnes morales. Cette progressivité  doit être en lien &lt;t0/&gt; direct avec le niveau d'investissement et de sources de travail générés par chaque contributeur , tant pour l'obtention de son revenu comme pour l'application de ses excédents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,8 +5262,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En el primer caso la alícuota del impuesto debiera acercarse al mínimo, y en el segundo caso debiera acercarse al máximo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T194712Z" creationid="Ricardito120" creationdate="20161205T214428Z">
-        <seg>Dans le premier cas, le taux de l'impôt devrait approcher le minimum alors que dans le second il devrait s’approcher du maximum.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T181048Z" creationid="Ricardito120" creationdate="20161205T214428Z">
+        <seg>Dans le premier cas, le taux de l'impôt devrait approcher  du  minimum, alors que dans le second il devrait s’approcher du maximum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5495,8 +5495,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En la actualidad el impuesto a la renta en la mayor parte de los países es una tasa fija para las empresas, y es una tasa variable con un tope máximo para las personas físicas, pero siempre en función del monto de la renta, sin importar cómo se generó esa renta.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T194538Z" creationid="Ricardito120" creationdate="20161205T214338Z">
-        <seg>Actuellement l'impôt sur le revenu dans la plus grande majorité des pays est un taux fixe pour les entreprises et un taux variable avec un taux maximum pour les personnes physiques, mais toujours calculé en fonction du montant du revenu, sans savoir comment ce revenu a été obtenu.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T181016Z" creationid="Ricardito120" creationdate="20161205T214338Z">
+        <seg>Actuellement l'impôt sur le revenu dans la  grande majorité des pays est un taux fixe pour les entreprises et un taux variable avec une  limite maximale pour les personnes physiques, mais toujours calculé en fonction du montant du revenu, sans savoir comment ce revenu a été obtenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6979,8 +6979,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Ese indicador será un coeficiente que estará en relación al capital invertido para obtener la renta y a la cantidad de puestos de trabajo generados en la operatoria, y a su vez el monto del impuesto disminuirá si una determinada proporción de la ganancia se reinvierte generando nuevas fuentes de trabajo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T194505Z" creationid="Ricardito120" creationdate="20161205T214318Z">
-        <seg>Cet indicateur sera un coefficient qui est une relation entre le capital investi pour obtenir un revenu et la quantité de postes de travail générés de fait, alors le montant de l'impôt diminuera si une certaine proportion des gains est réinvestie pour créer de nouvelles sources de travail.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T181000Z" creationid="Ricardito120" creationdate="20161205T214318Z">
+        <seg>Cet indicateur sera un coefficient  en relation  avec le capital investi pour obtenir un revenu, et avec la quantité de postes de travail générés  par l’opération, alors le montant de l'impôt diminuera si une certaine proportion des gains est réinvestie pour créer de nouvelles sources de travail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7203,8 +7203,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Estamos hablando de que debe existir una alícuota fija base, y a partir de allí una alícuota variable en función de un indicador.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T194421Z" creationid="Ricardito120" creationdate="20161205T214301Z">
-        <seg>Nous disons qu'il doit exister un taux de base fixe et à partir de là un taux variable en fonction d'un indicateur.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T180947Z" creationid="Ricardito120" creationdate="20161205T214301Z">
+        <seg>Nous disons qu'il doit exister un taux de base fixe, et à partir de là un taux variable en fonction d'un indicateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13707,8 +13707,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero no debiera ser equivalente la situación de una empresa que obtiene una renta de un millón, habiendo invertido un capital de 10 millones y habiendo generado 500 puestos de trabajo, que otra que haya obtenido igual renta habiendo invertido 2 millones y habiendo generado solamente 10 puestos de trabajo, por dar un ejemplo concreto.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T194630Z" creationid="Ricardito120" creationdate="20161205T214410Z">
-        <seg>Pour donner un exemple concret, la situation d'une entreprise qui obtient un gain d'un million en ayant investi un capital de 10 millions et ayant généré 500 emplois ne devrait pas être la même que celle qui a eu le même gain avec un investissement de 2 millions et qui n'a produit que 10 emplois.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T181035Z" creationid="Ricardito120" creationdate="20161205T214410Z">
+        <seg>Pour donner un exemple concret, il ne devrait pas y avoir d’équivalence entre la situation d'une entreprise qui  dégage un  bénéfice d'un million en ayant investi un capital de 10 millions et  généré 500 emplois,  et celle qui a  dégagé le même bénéfice avec un investissement de 2 millions  en ne créant  que 10 emplois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19083,8 +19083,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y a su vez, del impuesto resultante a pagar, debiera haber una reducción si una proporción de esa ganancia se destinara a una reinversión productiva generadora de nuevos empleos, y ninguna reducción de no existir tal reinversión.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T194840Z" creationid="Ricardito120" creationdate="20161205T214447Z">
-        <seg>Et à son tour, l'impôt restant à payer devrait être réduit si une proportion de ces gains est destiné à l'investissement productif générateur de nouveaux emplois et aucune réduction s'il n'existe aucun investissement. </seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T181115Z" creationid="Ricardito120" creationdate="20161205T214447Z">
+        <seg>Et à son tour, l'impôt restant à payer devrait être réduit si une proportion de ces gains  était destinée à  un réinvestissement productif générateur de nouveaux emplois, et sans aucune réduction s'il n'existe aucun réinvestissement. </seg>
       </tuv>
     </tu>
     <tu>
