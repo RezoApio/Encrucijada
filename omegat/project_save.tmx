@@ -8568,8 +8568,8 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       <tuv lang="ES-AR">
         <seg>Hay quienes sostienen que toda intervención del Estado para proteger a los más débiles, fomenta la debilidad y el ocio, distorsionando el funcionamiento de la economía, provocando un estancamiento que detiene el progreso, y así, aunque hubiese una mayor equidad en la distribución del ingreso, el nivel de pobreza del ciudadano medio resultaría peor que el de los países más liberales.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170126T211233Z" creationid="Ricardito120" creationdate="20161205T061706Z">
-        <seg>Il y a ceux qui soutiennent, que toute intervention de l’état pour protéger les plus faibles, encourage l’oisiveté et la faiblesse, distordant le fonctionnement de l’économie et provoquant une stagnation qui ralenti le progrès ; et même s'il peut y avoir une plus grande équité dans la distribution des revenus, le niveau de pauvreté du citoyen moyen sera plus grand que dans les pays plus libéraux.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T154215Z" creationid="Ricardito120" creationdate="20161205T061706Z">
+        <seg>Il y a ceux qui soutiennent que toute intervention de l’état pour protéger les plus faibles, encourage la déficience et l’oisiveté , distordant le fonctionnement de l’économie et provoquant une stagnation qui ralentit le progrès ; et même s'il peut y avoir une plus grande équité dans la distribution des revenus, le niveau de pauvreté du citoyen moyen serait  pire que celui des  pays plus libéraux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12232,24 +12232,24 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>No tiene iguales oportunidades aquel que está en una posición de fuerza que le permite imponer sus condiciones, ya sea en el campo laboral, productivo o comercial, que aquel que debe aceptar las condiciones que le impongan porque no tiene alternativas, porque no hay un Estado que lo proteja de los abusos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170126T211033Z" creationid="Ricardito120" creationdate="20161205T061621Z">
-        <seg>Celui qui se trouve dans une position de force que lui permet d’imposer ses conditions, que ce soit dans le domaine du travail, dans le domaine de la production ou du commerce n’a pas les mêmes chances que celui qui doit accepter les conditions qu’on lui impose car il n’a pas d’alternatives, car il n’y a pas un État qui le protège de ces abus.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T154153Z" creationid="Ricardito120" creationdate="20161205T061621Z">
+        <seg>Celui qui se trouve dans une position de force que lui permet d’imposer ses conditions, que ce soit dans le domaine du travail, de la production ou du commerce, n’a pas les mêmes chances que celui qui doit accepter les conditions qu’on lui impose car il n’a pas d’alternatives,  parce qu’ il n’y a pas un État qui le protège de ces abus.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>No tiene iguales oportunidades aquel que no tiene acceso a la educación, porque es costosa, o porque el estado se desentiende de la educación pública, o se desentiende de las problemáticas sociales o familiares que dificultan el acceso a la misma.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061440Z" creationid="Ricardito120" creationdate="20161205T061440Z">
-        <seg>Celui qui n’a pas accès à l’éducation parce qu’elle est coûteuse, ou parce que l’état se désintéresse de l’éducation publique, ou se désintéresse des problématiques sociales ou familiales qui rendent difficile l’accès à celle-ci, n’a pas les mêmes chances.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T154106Z" creationid="Ricardito120" creationdate="20161205T061440Z">
+        <seg>Les chances ne sont pas les mêmes pour celui qui n’a pas accès à l’éducation parce qu’elle est coûteuse, ou parce que l’état se désintéresse de l’éducation publique, ou se désintéresse des problématiques sociales ou familiales qui rendent difficile l’accès à celle-ci.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>No tiene iguales oportunidades quien hereda un capital, que quien sólo ha heredado su miseria, al menos mientras haya un sistema económico que premie más a la posesión de un capital, que a los atributos de laboriosidad, imaginación o talento de las personas, y mientras no haya un Estado que se ocupe de compensar tales desigualdades.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061531Z" creationid="Ricardito120" creationdate="20161205T061531Z">
-        <seg>Celui qui n’a hérité que de sa misère, n’a pas les mêmes chances que celui qui hérite d’un capital, du moins tant qu’il y a un système économique qui récompense plus la possession d’un capital, que les attributs de travail, de l’imagination ou du talent des personnes, et tant qu’il n’y a pas un état qui s’occupe de compenser de telles inégalités.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T154130Z" creationid="Ricardito120" creationdate="20161205T061531Z">
+        <seg>Celui qui n’a hérité que de sa misère, n’a pas les mêmes chances que celui qui hérite d’un capital, du moins tant qu’il y a un système économique qui récompense plus la possession d’un capital, que les attributs  du travail, de l’imagination ou du talent des personnes, et tant qu’il n’y a pas un état qui s’occupe de compenser de telles inégalités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13611,8 +13611,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero lo que estamos queriendo explicar al hablar de garantizar desde el Estado la igualdad de oportunidades, no se refiere a forzar la igualdad en las metas alcanzadas, sino a tratar de asegurar la igualdad en el punto de partida hacia tales metas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170126T211303Z" creationid="Ricardito120" creationdate="20161205T061725Z">
-        <seg>Mais ce que nous voulons essayer d’expliquer en parlant de l’égalité des chances garanti depuis l’État, ce n’est pas de forcer l’égalité dans les objectifs atteints mais d’essayer d’assurer l’égalité au début de ces objectifs.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T154232Z" creationid="Ricardito120" creationdate="20161205T061725Z">
+        <seg>Mais ce que nous voulons essayer d’expliquer en parlant de l’égalité des chances garantie  par l’État, ce n’est pas de forcer l’égalité dans les objectifs atteints, mais d’essayer d’assurer l’égalité au début de ces objectifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18657,8 +18657,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Todos los procedimientos de un nuevo sistema económico, a la medida del ser humano, debieran cimentarse en un paradigma fundamental: Iguales oportunidades para todos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161205T061405Z" creationid="Ricardito120" creationdate="20161205T061405Z">
-        <seg>Tous les procédés d’un nouveau système économique, à la mesure de l’être humain, devraient se cimenter dans un paradigme fondamental : égalité des chances pour tous.</seg>
+      <tuv lang="FR-FR" changeid="la belle idee" changedate="20170213T154046Z" creationid="Ricardito120" creationdate="20161205T061405Z">
+        <seg>Tous les procédés d’un nouveau système économique, à la mesure de l’être humain, devraient  s’amalgamer  en un paradigme fondamental : égalité des chances pour tous.</seg>
       </tuv>
     </tu>
     <tu>
