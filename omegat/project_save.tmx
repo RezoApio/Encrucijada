@@ -9025,8 +9025,8 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       <tuv lang="ES-AR">
         <seg>Johsua Isaac-La crisis de 1929 y el emerger norteamericano- Ediciones IPS-Bs.As.,2012</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170212T224813Z" creationid="Ricardito120" creationdate="20170212T224813Z">
-        <seg>JOHSUA Isaac, La Crise de 1929 et l’émergence américaine, Editions PUF, Paris, 1999.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T080046Z" creationid="Ricardito120" creationdate="20170212T224813Z">
+        <seg>JOHSUA Isaac, La Crise de 1929 et l’émergence américaine, Editions Presses Universitaires de France, Paris, 1999.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11260,6 +11260,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T075443Z" creationid="Ricardito120" creationdate="20170214T075443Z">
         <seg>MARTINEZ Ramiro et LEE Matthew, Ensayo sobre Inmigración y Delincuencia (Essai sur l'immigration et la délinquance), Revista Española de Investigación Criminológica, Madrid, 2001.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Marx, Karl; "El Capital"</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T080006Z" creationid="Ricardito120" creationdate="20170214T080006Z">
+        <seg>MARX Karl, Le Capital, </seg>
       </tuv>
     </tu>
     <tu>
