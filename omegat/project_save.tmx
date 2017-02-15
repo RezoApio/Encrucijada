@@ -4968,8 +4968,8 @@ Et plus loin il écrit :  &lt;t2/&gt;</seg>
       <tuv lang="ES-AR">
         <seg>En definitiva, el efecto multiplicador es mucho más bajo que en el siglo pasado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T084152Z" creationid="Ricardito120" creationdate="20161206T030200Z">
-        <seg>En définitive, l’effet multiplicateur est bien moindre qu’au siècle passé.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193703Z" creationid="Ricardito120" creationdate="20161206T030200Z">
+        <seg>En définitive, l’effet multiplicateur est bien moindre qu’au siècle passé. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13619,8 +13619,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero hay otro factor más, y es que esa mayor propensión al ahorro en la economía, fruto del aumento de los ingresos, justamente en los sectores de mayores ingresos, no se destina en su mayor parte a la inversión productiva, sino que alimenta la especulación &lt;t0/&gt;financiera, las burbujas especulativas, o financia los grandes negocios y transferencias patrimoniales que no aportan al crecimiento económico y mucho menos al empleo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T084356Z" creationid="Ricardito120" creationdate="20161206T030236Z">
-        <seg>Mais il y a aussi un autre facteur de plus : cette plus grande propension à l’épargne dans l’économie, fruit de l’augmentation des revenus, notamment dans les secteurs de plus grand revenus, n’est pas majoritairement destiné à l’investissement productif, mais sert à alimenter la spéculation &lt;t0/&gt;financière, les bulles spéculatives, ou finance les grands négoces et les transferts patrimoniaux, qui n’apportent rien à la croissance économique et encore moins à l’emploi.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193749Z" creationid="Ricardito120" creationdate="20161206T030236Z">
+        <seg>Mais il y a aussi un autre facteur de plus : cette plus grande propension à l’épargne dans l’économie, fruit de l’augmentation des revenus, notamment dans les secteurs des revenus les plus élevés, n’est pas majoritairement destiné à l’investissement productif, mais sert à alimenter la spéculation  &lt;t0/&gt;financière, les bulles spéculatives, ou finance les grandes entreprises et les transferts patrimoniaux, qui n’apportent rien à la croissance économique et encore moins à l’emploi. </seg>
       </tuv>
     </tu>
     <tu>
