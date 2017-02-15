@@ -7507,8 +7507,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esto ocurre en primer lugar porque los efectos deflacionarios de toda recesión mantienen cierta inercia ante una incipiente reactivación, lo que hace que ante la mayor demanda los empresarios antes de tender a subir los precios tiendan a aumentar su producción, ganando más por la mayor cantidad vendida y no tanto por el mayor precio, a la vez que los trabajadores dan prioridad a tener un empleo más que a pedir aumentos salariales.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T090403Z" creationid="Ricardito120" creationdate="20161206T030501Z">
-        <seg>Ceci se passe en premier lieu, parce que les effets déflationnistes de toute récession maintiennent une certaine inertie face à un début de réactivation, ce qui fait que devant une plus grande demande les entrepreneurs avant de monter les prix tendent à augmenter la production, gagnant plus par la vente d’une plus grande quantité et non par des prix plus chers, en même temps que les travailleurs donnent la priorité à avoir un emploi plutôt qu’à l’augmentation des salaires.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194003Z" creationid="Ricardito120" creationdate="20161206T030501Z">
+        <seg>C’est ce qui se passe en premier lieu, car les effets déflationnistes de toute récession maintiennent une certaine inertie face à un début de réactivation, de sorte que devant une plus grande demande, et avant d’augmenter les prix, les entrepreneurs tendent à augmenter leur production, empochant plus de bénéfices par la vente d’une plus grande quantité qu’en augmentant les prix, pendant que les travailleurs donnent la priorité à l’obtention d’ un emploi plutôt qu’à l’augmentation des salaires. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15310,8 +15310,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque cuando una economía está en recesión, y la mayor parte de su industria está trabajando muy por debajo de su capacidad, es sabido que una activa política de incentivo al consumo por parte del gobierno, tiende a reactivar rápidamente la producción para atender a la mayor demanda.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T090514Z" creationid="Ricardito120" creationdate="20161206T030439Z">
-        <seg>Parce que lorsqu’une économie est en récession et que la majeure partie de son industrie travaille très en-deçà de sa capacité, il est bien connu qu’une politique active d’incitation à la consommation de la part du gouvernement tend à réactiver rapidement la production pour faire face à la plus grande demande.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193946Z" creationid="Ricardito120" creationdate="20161206T030439Z">
+        <seg>Car lorsqu’une économie est en récession, et que la majeure partie de son industrie travaille très en-deçà de sa capacité, il est bien connu qu’une politique active d’incitation à la consommation de la part du gouvernement tend à réactiver rapidement la production pour faire face à la plus grande demande. </seg>
       </tuv>
     </tu>
     <tu>
