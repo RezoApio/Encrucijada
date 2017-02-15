@@ -2802,8 +2802,8 @@
       <tuv lang="ES-AR">
         <seg>De esta conclusión surge la explicación de que si se expande la masa monetaria por encima del crecimiento de bienes y servicios, lo que se genera es inflación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T221951Z" creationid="Ricardito120" creationdate="20161206T024506Z">
-        <seg>De cette conclusion, surgit l'explication qui dit que l'inflation se produit lorsque augmente la masse monétaire au-dessus de la croissance des biens et des services.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193144Z" creationid="Ricardito120" creationdate="20161206T024506Z">
+        <seg>De cette conclusion, émerge l'explication selon laquelle l'inflation se produit lorsque la masse monétaire excède la croissance des biens et des services. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19476,8 +19476,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y en cierta manera esto es verdad (&lt;t2/&gt;ceteris paribus)&lt;t3/&gt;, pero como las variables no están aisladas y el movimiento en una puede modificar el de otra, hay quienes sostienen (Keynes entre ellos), que si se incrementa la oferta de dinero, lo que aumenta es la demanda de bienes, aumenta el consumo, y ante ese aumento de la demanda, puede ocurrir que también aumente la oferta, es decir que se fabriquen más objetos o se ofrezcan más servicios, y por lo tanto, al aumentar M también aumenta Q y la fórmula mantiene su equilibrio.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T222346Z" creationid="Ricardito120" creationdate="20161206T024744Z">
-        <seg>D'une certaine façon c'est vrai (&lt;t2/&gt;ceteris paribus&lt;t3/&gt;), mais comme les variables ne sont pas isolées et que le mouvement de l'une peut modifier celui de l'autre, il y en a qui soutiennent (en autre Keynes), que si l'offre d'argent augmente, ce qui augmente, c'est la demande de biens et la consommation croît, et devant cette croissance de la demande, il peut se produire que l'offre augmente aussi, c'est à dire que plus d'objets sont fabriqués ou que l'offre de service est plus grande, et par conséquent en augmentant M, Q augmente et la formule maintient son équilibre.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193211Z" creationid="Ricardito120" creationdate="20161206T024744Z">
+        <seg>D'une certaine façon c'est vrai (&lt;t2/&gt;ceteris paribus&lt;t3/&gt;), mais comme les variables ne sont pas isolées et que le mouvement de l'une peut modifier celui de l'autre, il y en a qui soutiennent (en autre Keynes), que si l'offre d'argent augmente, ce qui augmente, c'est la demande de biens et la consommation croît, et face à cette croissance de la demande, il peut se produire que l'offre augmente aussi, c'est à dire que plus d'objets sont fabriqués ou que l'offre de service est plus grande, et par conséquent en augmentant M, Q augmente et la formule maintient son équilibre. </seg>
       </tuv>
     </tu>
     <tu>
