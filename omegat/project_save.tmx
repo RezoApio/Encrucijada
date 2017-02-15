@@ -14003,8 +14003,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero retomemos desde algunos conceptos básicos de las políticas keynesianas para comprender mejor lo que estamos diciendo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024349Z" creationid="Ricardito120" creationdate="20161206T024349Z">
-        <seg>Mais reprenons quelques concepts de base des politiques keynésiennes pour comprendre mieux ce que nous disons.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193030Z" creationid="Ricardito120" creationdate="20161206T024349Z">
+        <seg>Mais reprenons quelques concepts de base des politiques keynésiennes pour  mieux comprendre  ce que nous disons. </seg>
       </tuv>
     </tu>
     <tu>
@@ -18641,8 +18641,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Todavía existen discusiones acerca de la vieja fórmula de la teoría cuantitativa, P.Q = M.V, en la que se afirma que el nivel de precios (P) multiplicado por la cantidad de bienes y servicios (Q), debe ser igual a la cantidad de moneda (M), multiplicada por su velocidad de circulación (V).</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T221455Z" creationid="Ricardito120" creationdate="20161206T024410Z">
-        <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours, on y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité de monnaie (M) multiplié par sa vitesse de circulation (V).</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193045Z" creationid="Ricardito120" creationdate="20161206T024410Z">
+        <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours. On y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité de monnaie (M) multipliée par sa vitesse de circulation (V). </seg>
       </tuv>
     </tu>
     <tu>
