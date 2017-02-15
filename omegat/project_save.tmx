@@ -2162,8 +2162,8 @@
       <tuv lang="ES-AR">
         <seg>Concretamente, cuando existen monopolios u oligopolios que pueden imponer sus precios, maximizando sus ganancias con el segmento poblacional que puede pagar tales precios y dejando fuera al resto, éstos aprovechan la oportunidad de especular ante una mayor demanda incrementando sus márgenes de ganancia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T100750Z" creationid="Ricardito120" creationdate="20161206T032017Z">
-        <seg>Concrètement lorsqu’il existe des monopoles ou des oligopoles qui peuvent imposer leurs prix en maximisant leurs gains avec le seul segment de la population qui peut payer de tels prix, laissant de côté le reste des gens, ceux-ci profitent de l’occasion pour spéculer face à une plus grande demande en augmentant leur marge.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195443Z" creationid="Ricardito120" creationdate="20161206T032017Z">
+        <seg>Concrètement, lorsqu’il existe des monopoles ou des oligopoles qui peuvent imposer leurs prix, en maximisant leurs gains avec la seule partie de la population qui peut payer de tels prix, laissant de côté le reste des gens, ils profitent de l’occasion pour spéculer face à une plus grande demande en augmentant leurs marges bénéficiaires. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13243,8 +13243,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero aún en casos menos extremos, podemos llegar a tener problemas de una respuesta deficiente de la inversión, ante un incremento de la demanda, ya no por limitaciones técnicas, o laborales, o por restricciones externas, sino por cuellos de botella especulativos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T093736Z" creationid="Ricardito120" creationdate="20161206T031952Z">
-        <seg>Mais même dans les cas les moins extrêmes, face à la croissance de la demande, nous pouvons arriver à avoir des problèmes lorsque la réponse d’investissement est déficiente, non pas par une limitation technique ou de l’emploi ou par des restrictions externes, sinon par goulots d'étranglement spéculatifs.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195404Z" creationid="Ricardito120" creationdate="20161206T031952Z">
+        <seg>Mais même dans les cas les moins extrêmes, face à la croissance de la demande, nous pouvons arriver à avoir des problèmes lorsque la réponse d’investissement est déficiente, non pas en raison de limitations techniques, ou de l’emploi, ou par des restrictions externes, mais par goulots d'étranglement spéculatifs. </seg>
       </tuv>
     </tu>
     <tu>
