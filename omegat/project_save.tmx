@@ -9079,6 +9079,14 @@ En ce qui concerne l’aide internationale, dans son livre « La fin de la pauvr
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>Journal of Democracy, 1994.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T204602Z" creationid="Ricardito120" creationdate="20170215T204602Z">
+        <seg>Journal of Democracy 5.1, 1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>Juan Hernández Vigueras, en una conferencia en Barcelona en el 2009, publicada por ATTAC PV, hablaba de la “banca en la sombra”, como entidades de gran opacidad, gestoras que operan con nombres enigmáticos pero que son y dependientes de grandes grupos bancarios.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="la belle idee" changedate="20161206T192059Z" creationid="la belle idee" creationdate="20161206T192059Z">
@@ -12825,8 +12833,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>O´Donnel, Guillermo; "Democracia Delegativa", Art.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T204001Z" creationid="william" creationdate="20170215T175901Z">
-        <seg>O´DONNELL Guillermo,  "Democracia Delegativa" (Démocratie délégative), Art.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T204548Z" creationid="william" creationdate="20170215T175901Z">
+        <seg>O´DONNELL Guillermo, Delegative democracy (Démocratie délégative), </seg>
       </tuv>
     </tu>
     <tu>
