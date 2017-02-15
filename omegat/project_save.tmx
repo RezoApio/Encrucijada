@@ -14470,8 +14470,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Podría ser que un gobierno haya acumulado reservas para políticas contra cíclicas y en un momento las utilice; podría ser que se financie con sus ingresos corrientes por recaudación de impuestos, o podría financiarse con deuda, o podría ser que se financie con emisión monetaria.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T093248Z" creationid="Ricardito120" creationdate="20161206T031617Z">
-        <seg>Il se pourrait qu’un gouvernement ait accumulé des réserves et les utilise dans des politiques pour contrer les cycles, il se pourrait qu’il se finance avec ses revenus courants par la perception des impôts ou il pourrait se financer par la dette ou par émission monétaire.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195121Z" creationid="Ricardito120" creationdate="20161206T031617Z">
+        <seg>Il se pourrait qu’un gouvernement ait accumulé des réserves et les utilise pour contrer les cycles, il se pourrait qu’il se finance avec ses revenus courants par la perception d’impôts ou par la dette, ou par émission monétaire. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17618,8 +17618,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Sin embargo el posible impacto inflacionario no siempre dependerá de la fuente de financiamiento.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T031633Z" creationid="Ricardito120" creationdate="20161206T031633Z">
-        <seg>Mais l’impact inflationniste ne dépend pas toujours de la source de financement.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195133Z" creationid="Ricardito120" creationdate="20161206T031633Z">
+        <seg>Toutefois l’impact sur l’inflation ne dépendra pas toujours de la source de financement. </seg>
       </tuv>
     </tu>
     <tu>
