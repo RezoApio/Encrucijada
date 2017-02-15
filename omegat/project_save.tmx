@@ -656,8 +656,8 @@
       <tuv lang="ES-AR">
         <seg>Ahora bien, Keynes trata de establecer un valor para ese factor multiplicador, porque no todo el dinero que va cambiando de mano se destina al consumo, sino que existe lo que se denomina propensión al consumo, que no es otra &lt;t4/&gt;cosa que el porcentaje que la gente gasta de su ingreso total, y que complementado con su ahorro totaliza el ingreso, por lo cual también hablamos de propensión al ahorro como la inversa de la propensión al consumo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T222926Z" creationid="Ricardito120" creationdate="20161206T024941Z">
-        <seg>Cependant, Keynes essaie d’établir une valeur pour ce facteur multiplicateur, car tout l’argent qui circule n’est pas destiné à la consommation, mais il existe ce que l’on nomme la propension à la consommation, qui n’est autre&lt;t4/&gt; qu’un pourcentage de leur revenu total que les gens dépensent et qui associé à leur épargne représente leur revenu total, c'est pourquoi nous disons qu’il y a aussi une propension à l’épargne comme l’inverse de la propension à la consommation.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193336Z" creationid="Ricardito120" creationdate="20161206T024941Z">
+        <seg>Cependant, Keynes essaie d’établir une valeur pour ce facteur multiplicateur, car tout l’argent qui change de main n’est pas destiné à la consommation. En effet, il existe ce que l’on nomme la propension à la consommation, qui n’est autre qu’un pourcentage de leur revenu total que les gens dépensent et qui ajouté à leur épargne représente leur revenu total, et c'est pourquoi nous disons qu’il y a aussi une propension à l’épargne comme l’inverse de la propension à la consommation. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7523,8 +7523,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esto que estamos diciendo, no es otra cosa que lo que hacen habitualmente los gobiernos que buscan activar su economía alentando el mercado interno a través del consumo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161206T024845Z" creationid="Ricardito120" creationdate="20161206T024845Z">
-        <seg>Ce que nous disons n’est rien d’autre que ce que font habituellement les gouvernements qui cherchent à activer leur économie, en encourageant le marché intérieur par la consommation.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193259Z" creationid="Ricardito120" creationdate="20161206T024845Z">
+        <seg>Ce que nous disons, n’est rien d’autre que ce que font habituellement les gouvernements qui cherchent à dynamiser leur économie, en encourageant le marché intérieur par la consommation. </seg>
       </tuv>
     </tu>
     <tu>
