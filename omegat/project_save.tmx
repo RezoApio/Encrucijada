@@ -2482,8 +2482,8 @@
       <tuv lang="ES-AR">
         <seg>Cuando hoy hablamos de divisas, nos referimos principalmente a las monedas extranjeras que tienen aceptación en las transacciones internacionales, y que hoy por hoy pertenecen a unas pocas potencias económicas, que posiblemente no serán de los primeros países en avanzar hacia estas transformaciones dado que precisamente son la sede central del poder financiero.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T214616Z" creationid="Ricardito120" creationdate="20161206T023450Z">
-        <seg>L'on parle aujourd'hui de devises, on se réfère principalement aux monnaies étrangères qui sont acceptées dans les transactions internationales, et qui actuellement appartiennent à quelques puissance économiques, qui probablement ne seront pas les premiers pays à avancer vers ces transformations étant donné qu'ils sont précisément le siège central du pouvoir financier.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T182029Z" creationid="Ricardito120" creationdate="20161206T023450Z">
+        <seg>Quand l'on parle aujourd'hui de devises, on se réfère principalement aux monnaies étrangères qui sont acceptées dans les transactions internationales, et qui actuellement appartiennent à quelques puissances économiques minoritaires, qui probablement ne seront pas les premiers pays à avancer vers ces transformations étant donné qu'ils sont précisément le siège central du pouvoir financier. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15198,8 +15198,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por tal motivo se deberá avanzar por andariveles diferentes en lo que hace a las transformaciones en el sistema financiero de moneda local y en lo que hace a las finanzas manejadas en divisas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170130T214457Z" creationid="Ricardito120" creationdate="20161206T023406Z">
-        <seg>Pour ce motif, on devra avancer par des chemins différents en ce qui concerne les transformations du système financier en monnaie locale et les finances maniées en devises.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T182013Z" creationid="Ricardito120" creationdate="20161206T023406Z">
+        <seg>Pour cela il faudra avancer par des chemins différents en ce qui concerne les transformations du système financier en monnaie locale, puis les finances gérées en devises.</seg>
       </tuv>
     </tu>
     <tu>
