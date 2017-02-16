@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="ES-AR">
+        <seg>,1997</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T164424Z" creationid="Ricardito120" creationdate="20170216T164424Z">
+        <seg>1994.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
         <seg>- "El mito del desarrollo sustentable"-Edit.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170129T160350Z" creationid="Ricardito120" creationdate="20170129T160350Z">
@@ -1368,8 +1376,8 @@
       <tuv lang="ES-AR">
         <seg>As.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170129T160421Z" creationid="Ricardito120" creationdate="20170129T160421Z">
-        <seg>Aires,</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T164406Z" creationid="Ricardito120" creationdate="20170129T160421Z">
+        <seg>Hendaye, </seg>
       </tuv>
     </tu>
     <tu>
@@ -18226,8 +18234,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Soros George-"La Alquimia de las Finanzas"- Editorial Distal SRL- Bs.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T164022Z" creationid="Ricardito120" creationdate="20170216T164022Z">
-        <seg>SOROS George, L'Alchimie de la finance, - Editorial Distal SRL- Bs.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T164353Z" creationid="Ricardito120" creationdate="20170216T164022Z">
+        <seg>SOROS George, L'Alchimie de la finance, Éditions Valor,</seg>
       </tuv>
     </tu>
     <tu>
