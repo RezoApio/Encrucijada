@@ -1256,8 +1256,8 @@
       <tuv lang="ES-AR">
         <seg>Aristóteles, en su “Política”, ya en el libro primero define tal naturaleza del siguiente modo: &lt;t0/&gt;“La naturaleza, teniendo en cuenta la necesidad de la conservación, ha creado a unos seres para mandar y a otros para obedecer.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T184124Z" creationid="Ricardito120" creationdate="20161115T184124Z">
-        <seg>Dans son livre I de son œuvre « La Politique », Aristote définit une telle loi naturelle de la façon suivante : Chapitre premier, § 4. « […] &lt;t0/&gt; C'est la nature qui, par des vues de conservation, a créé certains êtres pour commander, et d'autres pour obéir. Aristóteles, en su “Política”, ya en el libro primero define tal naturaleza del siguiente modo: &lt;t0/&gt;</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T172727Z" creationid="Ricardito120" creationdate="20161115T184124Z">
+        <seg>Dans le livre I de son œuvre « La Politique », Aristote définit une telle loi naturelle de la façon suivante : Chapitre premier, § 4. « […] &lt;t0/&gt;C'est la nature qui, par des vues de conservation, a créé certains êtres pour commander, et d'autres pour obéir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,20 +5102,16 @@
       <tuv lang="ES-AR">
         <seg>En el capítulo IV afirma: &lt;t0/&gt;“Puesto que ningún hombre tiene una autoridad natural sobre sus semejantes, y puesto que la naturaleza no produce ningún derecho, quedan, pues, las convenciones como base de toda autoridad legítima entre los hombres.”.&lt;t1/&gt; Más adelante, en el capítulo VI dice: &lt;t2/&gt;“Encontrar una forma de asociación que defienda y proteja de toda fuerza común a la persona y a los bienes de cada asociado, y por virtud de la cual cada uno, uniéndose a todos, no obedezca sino a sí mismo y quede tan libre como antes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T185455Z" creationid="Ricardito120" creationdate="20161115T185455Z">
-        <seg>Dans le Livre I, Chapitre IV il affirme :&lt;t0/&gt;
- « Puisque aucun homme n'a une autorité naturelle sur son semblable, et puisque la force ne produit aucun droit, restent donc les conventions pour base de toute autorité légitime parmi les hommes. »&lt;t1/&gt; 
-Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
-« ‘Trouver une forme d'association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même, et reste aussi libre qu'auparavant.’</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T173847Z" creationid="Ricardito120" creationdate="20161115T185455Z">
+        <seg>Dans le Livre I, Chapitre IV il affirme :&lt;t0/&gt; « Puisque aucun homme n'a une autorité naturelle sur son semblable, et puisque la force ne produit aucun droit, restent donc les conventions pour base de toute autorité légitime parmi les hommes. »&lt;t1/&gt; Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;« Trouver une forme d'association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même, et reste aussi libre qu'auparavant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>En el capítulo V expresa: &lt;t0/&gt;“Si se observa la vida pública de los países donde el triunfo de las masas ha avanzado más-son los países mediterráneos-, sorprende notar que en ellos se vive políticamente al día….no se presenta como un porvenir franco, no significa un anuncio claro de futuro, no aparece como comienzo de algo cuyo desarrollo o evolución resulte imaginable.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T214252Z" creationid="Ricardito120" creationdate="20161115T214252Z">
-        <seg>Dans le chapitre V il exprime :&lt;t0/&gt;
- « Si l'on observe la vie publique des pays où le triomphe des masses est le plus avancé - et ce sont les pays méditerranéens - on est surpris de noter que l'on y vit politiquement au jour le jour. […] il [NDT. le pouvoir public, le gouvernement] ne se présente pas avec un avenir net, ne signifie pas une promesse bien définie de futur, et n'apparaît en rien comme le début d'une époque dont on pourrait imaginer le développement et l'évolution. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T174042Z" creationid="Ricardito120" creationdate="20161115T214252Z">
+        <seg>Dans le chapitre V il exprime :&lt;t0/&gt; « Si l'on observe la vie publique des pays où le triomphe des masses est le plus avancé - et ce sont les pays méditerranéens - on est surpris de noter que l'on y vit politiquement au jour le jour. […] il [NDT. le pouvoir public, le gouvernement] ne se présente pas avec un avenir net, ne signifie pas une promesse bien définie de futur, et n'apparaît en rien comme le début d'une époque dont on pourrait imaginer le développement et l'évolution. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5227,9 +5223,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>En el libro “Democracia Directa”, escrito por Jos Verhulst y Arjen Nijeboen en el 2008, se analizan las diversas formas de democracia directa, y se transcriben contundentes estadísticas que ilustran la crisis de las democracias formales.”En Alemania, investigaciones desarrolladas por TNS Emnid, encargada por la revista Reader›s Digest mostraron que la confianza de los ciudadanos en los partidos políticos ha disminuido del 41% al 17% en los diez años transcurridos entre 1995 y 2005.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T214653Z" creationid="Ricardito120" creationdate="20161115T214653Z">
-        <seg>Dans son livre écrit en 2008« Démocratie directe. Faits et arguments sur l’introduction de l’initiative et du référendum », Jos Verhulst et Arjen Nijeboer analysent les diverses formes de démocratie directe, et transcrivent des statistiques accablantes qui illustrent la crise des démocraties formelles. « En Allemagne, une investigation menée par TNS Emnid et demandée par la revue Reader’s Digest, a montré que la confiance des citoyens dans les partis politiques a diminué de 41 à 17% en dix ans (1995-2005).
-</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T174435Z" creationid="Ricardito120" creationdate="20161115T214653Z">
+        <seg>Dans son livre écrit en 2008 « Démocratie directe. Faits et arguments sur l’introduction de l’initiative et du référendum », Jos Verhulst et Arjen Nijeboer analysent les diverses formes de démocratie directe, et transcrivent des statistiques accablantes qui illustrent la crise des démocraties formelles. « En Allemagne, une investigation menée par TNS Emnid et demandée par la revue Reader’s Digest, a montré que la confiance des citoyens dans les partis politiques a diminué de 41 à 17% en dix ans (1995-2005).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6541,10 +6536,8 @@ Plus loin, dans le Livre I, chapitre VI il dit :&lt;t2/&gt;
       <tuv lang="ES-AR">
         <seg>Es decir por la urgencia del presente, no por cálculos del futuro”.&lt;t1/&gt; Pero en el capítulo XII vuelve a aclarar: &lt;t2/&gt;“Por masa…no se entiende especialmente al obrero; no se designa aquí a una clase social, sino una clase o modo de ser hombre que se da hoy en todas las clases sociales, que por lo mismo representa a nuestro tiempo, sobre el cual predomina e impera.”</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T214545Z" creationid="Ricardito120" creationdate="20161115T214545Z">
-        <seg>C'est-à-dire par l'urgence du présent et non par la prévision du futur. »&lt;t1/&gt;
-Mais dans le chapitre XII précise à nouveau :&lt;t2/&gt;
-« Par ‘masse’ […] il ne faut pas entendre spécialement l'ouvrier ; le mot ne désigne pas ici une classe sociale, mais une classe d'hommes, une manière d'être qui se manifeste aujourd'hui dans toutes les classes sociales, et qui est, par là même, représentative de notre temps, sur lequel elle domine et règne. »</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T174134Z" creationid="Ricardito120" creationdate="20161115T214545Z">
+        <seg>C'est-à-dire par l'urgence du présent et non par la prévision du futur. »&lt;t1/&gt;Mais dans le chapitre XII précise à nouveau :&lt;t2/&gt;« Par "masse" […] il ne faut pas entendre spécialement l'ouvrier ; le mot ne désigne pas ici une classe sociale, mais une classe d'hommes, une manière d'être qui se manifeste aujourd'hui dans toutes les classes sociales, et qui est, par là même, représentative de notre temps, sur lequel elle domine et règne. »</seg>
       </tuv>
     </tu>
     <tu>
@@ -8114,11 +8107,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Ha querido que el ser dotado de razón y de previsión mande como dueño, así como también que el ser capaz por sus facultades corporales de ejecutar las órdenes, obedezca como esclavo, y de esta suerte el interés del señor y el del esclavo se confunden, La naturaleza ha fijado, por consiguiente, la condición especial de la mujer y la del esclavo”.&lt;t1/&gt; Y continúa en el libro tercero: &lt;t2/&gt;“En otro tiempo, en algunos Estados, todos los artesanos eran esclavos o extranjeros; y en la mayor parte de aquéllos sucede hoy lo mismo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T184453Z" creationid="Ricardito120" creationdate="20161115T184453Z">
-        <seg>C'est elle qui a voulu que l'être doué de raison et de prévoyance commandât en maître ; de même encore que la nature a voulu que l'être capable par ses facultés corporelles d'exécuter des ordres, obéît en esclave; et c'est par là que l'intérêt du maître et celui de l'esclave s'identifient.
-§ 5. La nature a donc déterminé la condition spéciale de la femme et de l'esclave. 
-&lt;t1/&gt;Et il continue dans le livre III : &lt;t2/&gt;
-Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers étaient ou des esclaves ou des étrangers ; et dans la plupart, il en est encore de même aujourd'hui.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T172816Z" creationid="Ricardito120" creationdate="20161115T184453Z">
+        <seg>C'est elle qui a voulu que l'être doué de raison et de prévoyance commandât en maître ; de même encore que la nature a voulu que l'être capable par ses facultés corporelles d'exécuter des ordres, obéît en esclave ; et c'est par là que l'intérêt du maître et celui de l'esclave s'identifient. § 5. La nature a donc déterminé la condition spéciale de la femme et de l'esclave. &lt;t1/&gt;Et il continue dans le livre III : &lt;t2/&gt; Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers étaient ou des esclaves ou des étrangers ; et dans la plupart, il en est encore de même aujourd'hui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9071,8 +9061,8 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       <tuv lang="ES-AR">
         <seg>José Ortega y Gasset, en su libro “La rebelión de las masas”, plantea, en el marco de la convulsionada y decadente Europa de la primera mitad del siglo XX, la problemática que a su juicio significaba el advenimiento de las masas en todos los órdenes de la vida, tanto en el pensamiento, como en la política y la cultura.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T195146Z" creationid="Ricardito120" creationdate="20161115T195146Z">
-        <seg>Dans son livre “La Révolte des masses”, José Ortega et Gasset e, dans le cadre de l'Europe décadente et convulsionnée de la première moitié du XXe siècle, expose son point de vue sur la signification de l'avènement des masses dans tous les domaines de la vie, tant au niveau de la pensée, de la politique et de la culture. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T174004Z" creationid="Ricardito120" creationdate="20161115T195146Z">
+        <seg>Dans son livre “La Révolte des masses”, José Ortega y Gasset, dans le cadre de l'Europe décadente et convulsionnée de la première moitié du XXe siècle, expose son point de vue sur la signification de l'avènement des masses dans tous les domaines de la vie, tant au niveau de la pensée, de la politique et de la culture. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9392,8 +9382,8 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       <tuv lang="ES-AR">
         <seg>La confianza en el parlamento disminuyó durante el mismo periodo desde el 58% al 34%, y la confianza en el gobierno desde el 53% al 26%.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T214722Z" creationid="Ricardito120" creationdate="20161115T214722Z">
-        <seg> La confiance dans le Parlement diminua, durant la même période, de 58 à 34%, et celle dans le gouvernement de 53 à 26%.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T174441Z" creationid="Ricardito120" creationdate="20161115T214722Z">
+        <seg>La confiance dans le Parlement diminua, durant la même période, de 58 à 34%, et celle dans le gouvernement de 53 à 26%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12227,8 +12217,8 @@ Chapitre III, § 2. « […] Jadis, dans quelques États, tous les ouvriers éta
       <tuv lang="ES-AR">
         <seg>No sabe adónde va porque, en rigor, no va, no tiene camino prefijado, trayectoria anticipada.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T214356Z" creationid="Ricardito120" creationdate="20161115T214356Z">
-        <seg>Il ne sait où il va, parce qu'en réalité il ne « va » pas, il n'a pas de chemin tracé à l'avance, de trajectoire prévue. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T174054Z" creationid="Ricardito120" creationdate="20161115T214356Z">
+        <seg>Il ne sait où il va, parce qu'en réalité il ne « va » pas, il n'a pas de chemin tracé à l'avance, de trajectoire prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14321,8 +14311,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero una constitución perfecta no admitiría nunca al artesano entre los ciudadanos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T184519Z" creationid="Ricardito120" creationdate="20161115T184519Z">
-        <seg> Mais la constitution parfaite n'admettra jamais l'artisan parmi les citoyens.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T172822Z" creationid="Ricardito120" creationdate="20161115T184519Z">
+        <seg>Mais la constitution parfaite n'admettra jamais l'artisan parmi les citoyens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19079,8 +19069,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Trabajar para un individuo en las cosas indispensables de la vida es ser esclavo”&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T185235Z" creationid="Ricardito120" creationdate="20161115T185235Z">
-        <seg>§ 3. Travailler aux choses indispensables de la vie pour la personne d'un individu, c'est être esclave; […] ».&lt;t3/&gt;</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T173459Z" creationid="Ricardito120" creationdate="20161115T185235Z">
+        <seg>§ 3. Travailler aux choses indispensables de la vie pour la personne d'un individu, c'est être esclave ; […] ».&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19745,9 +19735,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y en el capítulo XI aclara: &lt;t4/&gt;“Ya he dicho lo que es la libertad civil; respecto a la igualdad; no hay que entender por esta palabra que los grados de poder y de riqueza sean absolutamente los mismos, sino que, en cuanto concierne al poder que éste quede por encima de toda violencia y nunca se ejerza sino en virtud de la categoría y de las leyes, y en cuanto a la riqueza, que ningún ciudadano sea bastante opulento como para poder comprar a otro y ninguno tan pobre como para verse obligado a venderse….Esta igualdad, dicen, es una quimera de especulación que no puede existir en la práctica.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20161115T194753Z" creationid="Ricardito120" creationdate="20161115T194753Z">
-        <seg>Et dans le Livre II, chapitre XI il précise : &lt;t4/&gt;
-« J'ai déjà dit ce que c'est que la liberté civile : à l'égard de l'égalité, il ne faut pas entendre par ce mot que les degrés de puissance et de richesse soient absolument les mêmes ; mais que, quant à la puissance, elle soit au-dessus de toute violence, et ne s'exerce jamais qu'en vertu du rang et des lois ; et, quant à la richesse, que nul citoyen ne soit assez opulent pour en pouvoir acheter un, autre, et nul assez pauvre pour être contraint de se vendre. […] Cette égalité, disent-ils, est une chimère de spéculation qui ne peut exister dans la pratique.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170216T173927Z" creationid="Ricardito120" creationdate="20161115T194753Z">
+        <seg>Et dans le Livre II, chapitre XI il précise : &lt;t4/&gt;« J'ai déjà dit ce que c'est que la liberté civile : à l'égard de l'égalité, il ne faut pas entendre par ce mot que les degrés de puissance et de richesse soient absolument les mêmes ; mais que, quant à la puissance, elle soit au-dessus de toute violence, et ne s'exerce jamais qu'en vertu du rang et des lois ; et, quant à la richesse, que nul citoyen ne soit assez opulent pour en pouvoir acheter un autre, et nul assez pauvre pour être contraint de se vendre. […] Cette égalité, disent-ils, est une chimère de spéculation qui ne peut exister dans la pratique.</seg>
       </tuv>
     </tu>
     <tu>
