@@ -18258,8 +18258,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Stiglitz, Joseph, "El precio de la desigualdad", Taurus Ediciones, 2012</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T164821Z" creationid="Ricardito120" creationdate="20170216T164821Z">
-        <seg>STIGLITZ Joseph, Le prix de l'inégalité, Editions Les liens qui libèrent, Paris, 2012.</seg>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T171917Z" creationid="Ricardito120" creationdate="20170216T164821Z">
+        <seg>STIGLITZ Joseph, Le prix de l'inégalité, Éditions Les liens qui libèrent, Paris, 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18292,6 +18292,14 @@ S'approcher semble plus proche.</note>
       </tuv>
       <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T171001Z" creationid="Ricardito120" creationdate="20170216T170822Z">
         <seg>SULLINGS Guillermo, Essai, Le droit à la rébellion et la lutte non violente, [http://urlz.fr/4Pav], 2001 (page consulté le 16 février 2017).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-AR">
+        <seg>Sullings Guillermo-Implosión en el Imperio-Cuadernos Nacionales-Univesidad de Panamá-2008</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170216T172032Z" creationid="Ricardito120" creationdate="20170216T171911Z">
+        <seg>SULLINGS Guillermo, Implosión en el Imperio (Implosion dans l'Empire), Universidad de Panamá, Cuadernos Nacionales, Panama, 2008.</seg>
       </tuv>
     </tu>
     <tu>
