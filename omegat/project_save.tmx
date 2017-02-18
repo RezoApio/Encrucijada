@@ -232,8 +232,8 @@
       <tuv lang="ES-AR">
         <seg>&lt;t11/&gt;Porque a&lt;t12/&gt;unque no se identifique a nadie en particular, habrá muchos que&lt;t13/&gt; se&lt;t14/&gt; reconozcan &lt;t15/&gt;en&lt;t16/&gt; esas actitudes,&lt;t17/&gt; que&lt;t18/&gt; no les guste internamente verse de ese modo, y traten de sobreponerse a su propia tendencia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204115Z" creationid="la belle idee" creationdate="20161204T183638Z">
-        <seg>Car bien que personne ne soit identifié en particulier, il y en aura beaucoup qui se reconnaîtront dans ces attitudes, et qui d’un point de vue interne n’aimeront pas se voir ainsi, et essayeront de surmonter leur propre tendance.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184045Z" creationid="la belle idee" creationdate="20161204T183638Z">
+        <seg>&lt;t11/&gt;Car bien&lt;t12/&gt; que personne ne soit identifié en particulier, il y en aura beaucoup &lt;t13/&gt;qui se &lt;t14/&gt;reconnaîtront &lt;t15/&gt;dans&lt;t16/&gt;ces attitudes&lt;t17/&gt;, et qui &lt;t18/&gt;d’un point de vue interne n’aimeront pas se voir ainsi, et essayeront de surmonter leur propre tendance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="ES-AR">
         <seg>A partir de la regla de oro &lt;t1/&gt;“Trata a los demás como quieres que te traten”, &lt;t2/&gt;la que bajo diferentes formas se encuentra en todas las religiones y culturas,&lt;t3/&gt; &lt;t4/&gt;se puede encontrar un lenguaje común para comunicar la idea-fuerza de un proyecto transformador que comience ocupándose de lo local pero que se pueda proyectar en el mundo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203027Z" creationid="la belle idee" creationdate="20161204T182948Z">
-        <seg>À partir de la règle d'or &lt;t1/&gt;“Traite les autres comme tu veux qu'ils te traitent”,&lt;t2/&gt; qui sous différentes formes se retrouve dans toutes les religions et cultures, on peut trouver un langage commun pour communiquer l'idée-force d'un projet transformateur qui commence par s'occuper de ce qui est local mais qui puisse se projeter dans le monde.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183732Z" creationid="la belle idee" creationdate="20161204T182948Z">
+        <seg>À partir de la règle d'or &lt;t1/&gt;“Traite les autres comme tu veux qu'ils te traitent”,&lt;t2/&gt; qui sous différentes formes se retrouve dans toutes les religions et cultures&lt;t3/&gt;&lt;t4/&gt;, on peut trouver un langage commun pour communiquer l'idée-force d'un projet transformateur qui commence par s'occuper de ce qui est local mais qui puisse se projeter dans le monde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="ES-AR">
         <seg>A su vez, como el dinero circula y pasa de manos varias veces (lo que define su velocidad V, considerada la variable más estable de la fórmula), se produce un efecto multiplicador en el aumento del consumo y en el crecimiento de la producción para cubrirlo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T024803Z">
-        <seg>Comme à son tour, l’argent circule de mains en mains plusieurs fois (ce qui définit sa vitesse V, considérée comme la variable la plus stable de la formule), il se produit un effet multiplicateur dans l’augmentation de la consommation et donc de la production pour le couvrir. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182429Z" creationid="Ricardito120" creationdate="20161206T024803Z">
+        <seg>Comme à son tour, l’argent circule de mains en mains plusieurs fois (ce qui définit sa vitesse V, considérée comme la variable la plus stable de la formule), il se produit un effet multiplicateur dans l’augmentation de la consommation et donc de la production pour le couvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,16 +664,16 @@
       <tuv lang="ES-AR">
         <seg>Ahora bien, Keynes trata de establecer un valor para ese factor multiplicador, porque no todo el dinero que va cambiando de mano se destina al consumo, sino que existe lo que se denomina propensión al consumo, que no es otra &lt;t4/&gt;cosa que el porcentaje que la gente gasta de su ingreso total, y que complementado con su ahorro totaliza el ingreso, por lo cual también hablamos de propensión al ahorro como la inversa de la propensión al consumo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193336Z" creationid="Ricardito120" creationdate="20161206T024941Z">
-        <seg>Cependant, Keynes essaie d’établir une valeur pour ce facteur multiplicateur, car tout l’argent qui change de main n’est pas destiné à la consommation. En effet, il existe ce que l’on nomme la propension à la consommation, qui n’est autre qu’un pourcentage de leur revenu total que les gens dépensent et qui ajouté à leur épargne représente leur revenu total, et c'est pourquoi nous disons qu’il y a aussi une propension à l’épargne comme l’inverse de la propension à la consommation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182451Z" creationid="Ricardito120" creationdate="20161206T024941Z">
+        <seg>Cependant, Keynes essaie d’établir une valeur pour ce facteur multiplicateur, car tout l’argent qui change de main n’est pas destiné à la consommation. En effet, il existe ce que l’on nomme la propension à la consommation, qui n’est autre &lt;t4/&gt;qu’un pourcentage de leur revenu total que les gens dépensent et qui ajouté à leur épargne représente leur revenu total, et c'est pourquoi nous disons qu’il y a aussi une propension à l’épargne comme l’inverse de la propension à la consommation.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Ahora bien, como decíamos al principio, hay personas que por su propia sensibilidad tratan de actuar en consecuencia con este principio, aunque no se lo planteen explícitamente como objetivo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203844Z" creationid="la belle idee" creationdate="20161204T183336Z">
-        <seg>Donc, comme nous le disions au début, il y a des personnes qui de par leur propre sensibilité essaient d'agir en cohérence avec ce principe, bien qu'elles ne se le proposent pas explicitement comme objectif. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183840Z" creationid="la belle idee" creationdate="20161204T183336Z">
+        <seg>Donc, comme nous le disions au début, il y a des personnes qui de par leur propre sensibilité essaient d'agir en cohérence avec ce principe, bien qu'elles ne se le proposent pas explicitement comme objectif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="ES-AR">
         <seg>Algo de esto vimos anteriormente en el ejemplo de desarrollo local, donde el Estado, entre otras cosas, debería apoyar con financiamiento actividades productivas, pero no solamente desde la oferta sino también desde la demanda, para lograr el circuito integrado creciente del desarrollo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194134Z" creationid="Ricardito120" creationdate="20161206T030713Z">
-        <seg>Nous avons vu cela en partie dans l'exemple de développement local, où l'État, entre autres choses, devrait appuyer financièrement les activités productives non seulement à partir de l'offre mais aussi à partir la demande, pour parvenir au circuit intégré croissant de développement. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183054Z" creationid="Ricardito120" creationdate="20161206T030713Z">
+        <seg>Nous avons vu cela en partie dans l'exemple de développement local, où l'État, entre autres choses, devrait appuyer financièrement les activités productives non seulement à partir de l'offre mais aussi à partir la demande, pour parvenir au circuit intégré croissant de développement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="ES-AR">
         <seg>Algo similar ocurre con las presiones del sector financiero, no solamente en lo que hace a la manipulación del flujo de capitales que debieran financiar desarrollos productivos, sino también a través del condicionamiento del endeudamiento.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T022608Z">
-        <seg>La pression du secteur financier est assez similaire, non seulement en ce qui concerne le traitement du flux des capitaux qui devraient financer les développements productifs, mais aussi à travers le conditionnement de l’endettement. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T181854Z" creationid="Ricardito120" creationdate="20161206T022608Z">
+        <seg>La pression du secteur financier est assez similaire, non seulement en ce qui concerne le traitement du flux des capitaux qui devraient financer les développements productifs, mais aussi à travers le conditionnement de l’endettement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1280,8 +1280,8 @@
       <tuv lang="ES-AR">
         <seg>Articularse con otras organizaciones en el nivel local y nacional, que aunque trabajen en otras temáticas, adhieran al objetivo de la Nación Humana Universal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T204811Z" creationid="la belle idee" creationdate="20161030T155857Z">
-        <seg>Se coordonner avec d'autres organisations au niveau local et national qui adhèrent à l'objectif de la Nation humaine universelle même si elles agissent sur d'autres thèmes. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184454Z" creationid="la belle idee" creationdate="20161030T155857Z">
+        <seg>Se coordonner avec d'autres organisations au niveau local et national qui adhèrent à l'objectif de la Nation humaine universelle même si elles agissent sur d'autres thèmes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1945,8 +1945,8 @@
       <tuv lang="ES-AR">
         <seg>Como parte de esa estrategia habrá que apoyar el desarrollo general de empresas productoras de bienes y servicios generadores de divisas, aunque en ocasiones haya que apelar al subsidio; siempre será más conveniente subsidiar el trabajo productivo que el empleo burocrático, a la hora de buscar paliativos para la desocupación; y doblemente conveniente si se trata de rubros con capacidad de generación de divisas, porque la solución de las restricciones externas potenciará muchas otras ramas del aparato productivo, lo cual compensará con creces lo invertido en subsidios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192448Z" creationid="Ricardito120" creationdate="20161206T023728Z">
-        <seg>Dans le cadre de cette de cette stratégie, il faudra appuyer le développement général des entreprises productrices de biens et de services qui génèrent des devises, même si parfois il faudra faire appel à des subventions ; il sera toujours plus utile de subventionner le travail productif que l'emploi bureaucratique, lorsqu’il s’agira de trouver des palliatifs au chômage ; et doublement utile s'il s'agit de postes en capacités de générer des devises, ???car la solution des restrictions externes renforcera beaucoup d'autres branches de l'appareil productif, ce qui compensera au centuple ce qui a été investi dans les subventions ???</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182042Z" creationid="Ricardito120" creationdate="20161206T023728Z">
+        <seg>Dans le cadre de cette de cette stratégie, il faudra appuyer le développement général des entreprises productrices de biens et de services qui génèrent des devises, même si parfois il faudra faire appel à des subventions ; il sera toujours plus utile de subventionner le travail productif que l'emploi bureaucratique, lorsqu’il s’agira de trouver des palliatifs au chômage ; et doublement utile s'il s'agit de postes en capacités de générer des devises, car la solution aux restrictions externes renforcera beaucoup d'autres branches de l'appareil productif, ce qui compensera au centuple ce qui a été investi dans les subventions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,8 +1994,8 @@
       <tuv lang="ES-AR">
         <seg>Como ya vimos en el capítulo de propuestas internacionales referido a la reestructuración del sistema financiero internacional, las naciones que pretendan avanzar en la transformación hacia la Nación Humana Universal, en un primer momento deberán convivir con los poderes financieros internacionales que hoy manejan el mundo, hasta tanto las poblaciones de todas las naciones terminen de desmantelar su poder.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T181959Z" creationid="Ricardito120" creationdate="20161206T023349Z">
-        <seg>Comme nous l'avons déjà vu dans le chapitre des propositions internationales se référant à la restructuration du système financier international, les nations qui prétendent avancer dans la transformation vers la Nation humaine universelle, devront cohabiter dans un premier temps avec les pouvoirs financiers internationaux qui aujourd'hui manipulent le monde, jusqu'au démantèlement de leur pouvoir par les populations de toutes les nations. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T181938Z" creationid="Ricardito120" creationdate="20161206T023349Z">
+        <seg>Comme nous l'avons déjà vu dans le chapitre des propositions internationales se référant à la restructuration du système financier international, les nations qui prétendent avancer dans la transformation vers la Nation humaine universelle, devront cohabiter dans un premier temps avec les pouvoirs financiers internationaux qui aujourd'hui manipulent le monde, jusqu'au démantèlement de leur pouvoir par les populations de toutes les nations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,8 +2130,8 @@
       <tuv lang="ES-AR">
         <seg>Concientizar a las poblaciones acerca de que el peor flagelo de la economía y el peor enemigo de la democracia es el poder financiero global, un cáncer con ramificaciones en todas las bancas privadas del mundo, y que hoy controla a buena parte del poder político del planeta.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T210435Z" creationid="la belle idee" creationdate="20161105T135009Z">
-        <seg>Faire prendre conscience aux populations que le pire fléau de l'économie et le pire ennemi de la démocratie est le pouvoir financier global. Un cancer avec des ramifications dans toutes les banques privées du monde, et qui aujourd'hui contrôle une grande partie du pouvoir politique de la planète. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184640Z" creationid="la belle idee" creationdate="20161105T135009Z">
+        <seg>Faire prendre conscience aux populations que le pire fléau de l'économie et le pire ennemi de la démocratie est le pouvoir financier global. Un cancer avec des ramifications dans toutes les banques privées du monde, et qui aujourd'hui contrôle une grande partie du pouvoir politique de la planète.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,8 +2170,8 @@
       <tuv lang="ES-AR">
         <seg>Concretamente, cuando existen monopolios u oligopolios que pueden imponer sus precios, maximizando sus ganancias con el segmento poblacional que puede pagar tales precios y dejando fuera al resto, éstos aprovechan la oportunidad de especular ante una mayor demanda incrementando sus márgenes de ganancia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195443Z" creationid="Ricardito120" creationdate="20161206T032017Z">
-        <seg>Concrètement, lorsqu’il existe des monopoles ou des oligopoles qui peuvent imposer leurs prix, en maximisant leurs gains avec la seule partie de la population qui peut payer de tels prix, laissant de côté le reste des gens, ils profitent de l’occasion pour spéculer face à une plus grande demande en augmentant leurs marges bénéficiaires. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183332Z" creationid="Ricardito120" creationdate="20161206T032017Z">
+        <seg>Concrètement, lorsqu’il existe des monopoles ou des oligopoles qui peuvent imposer leurs prix, en maximisant leurs gains avec la seule partie de la population qui peut payer de tels prix, laissant de côté le reste des gens, ils profitent de l’occasion pour spéculer face à une plus grande demande en augmentant leurs marges bénéficiaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2490,8 +2490,8 @@
       <tuv lang="ES-AR">
         <seg>Cuando hoy hablamos de divisas, nos referimos principalmente a las monedas extranjeras que tienen aceptación en las transacciones internacionales, y que hoy por hoy pertenecen a unas pocas potencias económicas, que posiblemente no serán de los primeros países en avanzar hacia estas transformaciones dado que precisamente son la sede central del poder financiero.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T182029Z" creationid="Ricardito120" creationdate="20161206T023450Z">
-        <seg>Quand l'on parle aujourd'hui de devises, on se réfère principalement aux monnaies étrangères qui sont acceptées dans les transactions internationales, et qui actuellement appartiennent à quelques puissances économiques minoritaires, qui probablement ne seront pas les premiers pays à avancer vers ces transformations étant donné qu'ils sont précisément le siège central du pouvoir financier. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T181945Z" creationid="Ricardito120" creationdate="20161206T023450Z">
+        <seg>Quand l'on parle aujourd'hui de devises, on se réfère principalement aux monnaies étrangères qui sont acceptées dans les transactions internationales, et qui actuellement appartiennent à quelques puissances économiques minoritaires, qui probablement ne seront pas les premiers pays à avancer vers ces transformations étant donné qu'ils sont précisément le siège central du pouvoir financier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,8 +2514,8 @@
       <tuv lang="ES-AR">
         <seg>Cuando llegan en grandes números a otro país, deben vivir en lugares marginales, porque no tienen posibilidades económicas de algo mejor, y suelen conformar colectividades, y en ocasiones verdaderos guetos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204556Z" creationid="Ricardito120" creationdate="20161209T191023Z">
-        <seg>Quand elles arrivent en grand nombre dans un autre pays, elles doivent vivre dans des bidonvilles, n’ayant pas les moyens d’accéder à quelque chose de mieux, elles ont tendance à former des communautés et parfois, de véritables ghettos. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184154Z" creationid="Ricardito120" creationdate="20161209T191023Z">
+        <seg>Quand elles arrivent en grand nombre dans un autre pays, elles doivent vivre dans des bidonvilles, n’ayant pas les moyens d’accéder à quelque chose de mieux, elles ont tendance à former des communautés et parfois, de véritables ghettos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,8 +2570,8 @@
       <tuv lang="ES-AR">
         <seg>Cuando se habla de inversión en obra pública para aumentar el ingreso de la población y con ello el consumo, y así intentar que aumente la producción, podríamos tener diferentes fuentes con las que un gobierno se financia para poder efectuar esa inversión pública, y a veces eso repercute en más o en menos en el impacto inflacionario.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195014Z" creationid="Ricardito120" creationdate="20161206T033948Z">
-        <seg>lorsqu'il s'agit d'investissement dans les travaux publics pour augmenter le revenu des populations et avec lui la consommation, et qu'on essaie ainsi d’augmenter la production, un gouvernement peut avoir différentes sources de financement pour effectuer son investissement public, et ceci se répercute parfois plus ou moins sur l'inflation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183239Z" creationid="Ricardito120" creationdate="20161206T033948Z">
+        <seg>lorsqu'il s'agit d'investissement dans les travaux publics pour augmenter le revenu des populations et avec lui la consommation, et qu'on essaie ainsi d’augmenter la production, un gouvernement peut avoir différentes sources de financement pour effectuer son investissement public, et ceci se répercute parfois plus ou moins sur l'inflation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2810,16 +2810,16 @@
       <tuv lang="ES-AR">
         <seg>De esta conclusión surge la explicación de que si se expande la masa monetaria por encima del crecimiento de bienes y servicios, lo que se genera es inflación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193144Z" creationid="Ricardito120" creationdate="20161206T024506Z">
-        <seg>De cette conclusion, émerge l'explication selon laquelle l'inflation se produit lorsque la masse monétaire excède la croissance des biens et des services. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182412Z" creationid="Ricardito120" creationdate="20161206T024506Z">
+        <seg>De cette conclusion, émerge l'explication selon laquelle l'inflation se produit lorsque la masse monétaire excède la croissance des biens et des services.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>De esta fórmula se pueden desprender varias conclusiones, una de ellas es que si aumentamos la cantidad de dinero y las demás variables permanecen constantes, (el conocido &lt;t0/&gt;ceteris paribus&lt;t1/&gt; de los economistas, indispensable para el análisis teórico, pero difícil de encontrar en la realidad), para que la fórmula mantenga el equilibrio deberían aumentar los precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T024442Z">
-        <seg>Diverses conclusions peuvent découler de cette formule. L’une d'entre-elles est que si on augmente la quantité d'argent et que les autres variables restent constantes (le très connu &lt;t0/&gt;ceteris paribus&lt;t1/&gt; des économistes, indispensable pour l'analyse théorique, mais difficile à rencontrer dans la réalité), alors il faudra augmenter les prix pour que la formule maintienne son équilibre. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182407Z" creationid="Ricardito120" creationdate="20161206T024442Z">
+        <seg>Diverses conclusions peuvent découler de cette formule. L’une d'entre-elles est que si on augmente la quantité d'argent et que les autres variables restent constantes (le fameux &lt;t0/&gt;ceteris paribus&lt;t1/&gt; des économistes, indispensable pour l'analyse théorique, mais difficile à rencontrer dans la réalité), alors il faudra augmenter les prix pour que la formule maintienne son équilibre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,8 +2866,8 @@
       <tuv lang="ES-AR">
         <seg>De hecho, todo esto pasa, y es una de &lt;t0/&gt;las principales razones por las que las transformaciones demoran en llegar.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T202836Z" creationid="la belle idee" creationdate="20161204T182659Z">
-        <seg>En fait, tout cela existe, et c’est l'une des raisons principales pour lesquelles les transformations tardent à se produire. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183645Z" creationid="la belle idee" creationdate="20161204T182659Z">
+        <seg>En fait, tout cela existe, et c’est l'une des &lt;t0/&gt;raisons principales pour lesquelles les transformations tardent à se produire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,8 +2946,8 @@
       <tuv lang="ES-AR">
         <seg>De ninguna manera se agotan aquí, sino que son sólo un punto de partida para que quienes compartan el objetivo sumen más propuestas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T174452Z" creationid="la belle idee" creationdate="20161030T141049Z">
-        <seg>Cette énumération de pas n'est aucunement exhaustive, c'est seulement un point de départ afin que ceux qui partagent cet objectif puissent ajouter davantage de propositions. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184412Z" creationid="la belle idee" creationdate="20161030T141049Z">
+        <seg>Cette énumération de pas n'est aucunement exhaustive, c'est seulement un point de départ afin que ceux qui partagent cet objectif puissent ajouter davantage de propositions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3307,8 +3307,8 @@
       <tuv lang="ES-AR">
         <seg>Desde la legislación se debiera dar una señal muy clara, de que para una sociedad lo más importante es la vida humana, y quien atente contra la integridad física de las personas comete el más aberrante de los delitos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T205332Z" creationid="Ricardito120" creationdate="20161209T191425Z">
-        <seg>Il faudrait établir clairement dans la législation que, pour une société, la vie humaine est ce qu’il y a de plus important, et que quiconque porte atteinte à l’intégrité physique des personnes commet le plus monstrueux des délits. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184313Z" creationid="Ricardito120" creationdate="20161209T191425Z">
+        <seg>Il faudrait établir clairement dans la législation que, pour une société, la vie humaine est ce qu’il y a de plus important, et que quiconque porte atteinte à l’intégrité physique des personnes commet le plus monstrueux des délits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,24 +3420,24 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que es cada vez más la gente que no cree en esos modelos basados en la competencia y la diferenciación como forma de autorrealización; pero lo cierto es que tampoco están muy visibles ni expeditos los caminos hacia objetivos más interesantes que los que propone el sistema.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T210024Z" creationid="Ricardito120" creationdate="20161209T191750Z">
-        <seg>Bien sûr, le nombre de personnes qui ne croit pas en ces modèles fondés sur la concurrence et la distinction comme moyen de réalisation personnelle augmente de plus en plus ; mais il est certain que les chemins qui conduisent à des objectifs plus intéressants que ceux proposés par le système ne sont pas non plus très visibles ni rapides. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184353Z" creationid="Ricardito120" creationdate="20161209T191750Z">
+        <seg>Bien sûr, le nombre de personnes qui ne croit pas en ces modèles fondés sur la concurrence et la distinction comme moyen de réalisation personnelle augmente de plus en plus ; mais il est certain que les chemins qui conduisent à des objectifs plus intéressants que ceux proposés par le système ne sont pas non plus très visibles ni rapides.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Desde luego que esta resistencia a los extranjeros por parte de algunos “nacionalistas”, no se manifiesta cuando se trata de foráneos procedentes del primer mundo, sino cuando los inmigrantes llegan desde países más pobres.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204510Z" creationid="Ricardito120" creationdate="20161209T190934Z">
-        <seg>Bien sûr, l’opposition aux étrangers qu’affichent certains « nationalistes », ne se manifeste pas lorsqu’il s’agit d’étrangers provenant de pays industrialisés, mais lorsque les immigrants arrivent de pays plus pauvres. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184143Z" creationid="Ricardito120" creationdate="20161209T190934Z">
+        <seg>Bien sûr, l’opposition aux étrangers qu’affichent certains « nationalistes », ne se manifeste pas lorsqu’il s’agit d’étrangers provenant de pays industrialisés, mais lorsque les immigrants arrivent de pays plus pauvres.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Desde luego que estas políticas expansivas, en las que el Estado interviene inyectando dinero en la economía para incentivar el consumo y con ello impulsar el crecimiento, tienen sus detractores, sobre todo entre los monetaristas del neoliberalismo, ya que además de oponerse en general a toda intervención del Estado en la economía, afirman que estas políticas expansivas son inflacionarias.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193421Z" creationid="Ricardito120" creationdate="20161206T025719Z">
-        <seg>Bien entendu, ces politiques expansives, dans lesquelles l’État intervient en injectant de l’argent dans l’économie pour stimuler la consommation et ainsi impulser la croissance, ont surtout leurs détracteurs parmi les monétaristes du néolibéralisme, qui en général, en plus de s’opposer à toute intervention de l’État dans l’économie, affirment que ces politiques expansives sont inflationnistes. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182507Z" creationid="Ricardito120" creationdate="20161206T025719Z">
+        <seg>Bien entendu, ces politiques expansives, dans lesquelles l’État intervient en injectant de l’argent dans l’économie pour stimuler la consommation et ainsi impulser la croissance, ont surtout leurs détracteurs parmi les monétaristes du néolibéralisme, qui en général, en plus de s’opposer à toute intervention de l’État dans l’économie, affirment que ces politiques expansives sont inflationnistes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,8 +3605,8 @@
       <tuv lang="ES-AR">
         <seg>Desde luego que si el recurso monetario que se vuelca en la economía es excesivo por una emisión desproporcionada, no habrá respuesta productiva posible que equipare la demanda y se generará una inflación proporcional al exceso de crecimiento de moneda sobre el crecimiento de bienes y servicios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T031921Z">
-        <seg>Bien sûr, si le recours monétaire que l’on réinjecte dans l’économie est excessif du fait d’une émission disproportionnée, alors il n’y aura pas de réponse productive possible qui équilibre la demande ce qui engendrera une inflation proportionnée à l’excès de croissance de la masse monétaire par rapport à la croissance de biens et de services. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183325Z" creationid="Ricardito120" creationdate="20161206T031921Z">
+        <seg>Bien sûr, si le recours monétaire que l’on réinjecte dans l’économie est excessif du fait d’une émission disproportionnée, alors il n’y aura pas de réponse productive possible qui équilibre la demande ce qui engendrera une inflation proportionnée à l’excès de croissance de la masse monétaire par rapport à la croissance de biens et de services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3709,8 +3709,8 @@
       <tuv lang="ES-AR">
         <seg>Desmantelamiento total de arsenales nucleares, y de toda arma de destrucción masiva.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T205406Z" creationid="la belle idee" creationdate="20161105T133523Z">
-        <seg>Démantèlement total des arsenaux nucléaires et de toutes les armes de destruction massive</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184540Z" creationid="la belle idee" creationdate="20161105T133523Z">
+        <seg>Démantèlement total des arsenaux nucléaires et de toutes les armes de destruction massive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3821,8 +3821,8 @@
       <tuv lang="ES-AR">
         <seg>Dicho de manera simple, cuando el Estado a través de obras públicas, subsidios, u otra política expansiva, vuelca dinero en la economía, ese dinero tiene un primer destinatario (los nuevos trabajadores de la obra pública, los proveedores, los beneficiarios de subsidios, etc.), y ese primer destinatario luego gasta el dinero en bienes y servicios (comida, ropa, electrodomésticos, etc.), por lo cual ahora hay un segundo destinatario que recibe ese dinero, y que a su vez lo gastará en otros bienes y servicios, generándose una cadena de demanda y oferta de bienes, a la que se llama el efecto multiplicador.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193246Z" creationid="Ricardito120" creationdate="20161206T024824Z">
-        <seg>Dit d’une manière simple, lorsque l'État, à travers les travaux publics, les subventions ou toute autre politique d’expansion, injecte de l’argent dans l’économie, cet argent a un premier destinataire (les nouveaux employés des travaux publics, les fournisseurs, et les bénéficiaires des aides etc.) puis ce premier destinataire dépense cet argent en biens et services (alimentation, habillement, électroménager, etc.), ce qui fait que maintenant apparaît un second destinataire qui reçoit cet argent, qui à son tour le dépensera en d’autres services, générant une chaîne de demande et d’offre de biens que l’on appelle l’effet multiplicateur. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182436Z" creationid="Ricardito120" creationdate="20161206T024824Z">
+        <seg>Dit d’une manière simple, lorsque l'État, à travers les travaux publics, les subventions ou toute autre politique d’expansion, injecte de l’argent dans l’économie, cet argent a un premier destinataire (les nouveaux employés des travaux publics, les fournisseurs, et les bénéficiaires des aides etc.) puis ce premier destinataire dépense cet argent en biens et services (alimentation, habillement, électroménager, etc.), ce qui fait que maintenant apparaît un second destinataire qui reçoit cet argent, qui à son tour le dépensera en d’autres services, générant une chaîne de demande et d’offre de biens que l’on appelle l’effet multiplicateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4494,8 +4494,8 @@
       <tuv lang="ES-AR">
         <seg>El propio Keynes reconocía que siempre habría un impacto en los precios al aumentar la demanda por expansión del gasto, y que siempre habría “cuellos de botella” en el aparato productivo que no responderían al incremento de demanda con mayor oferta de bienes sino con aumento de precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193455Z" creationid="Ricardito120" creationdate="20161206T025838Z">
-        <seg>Keynes lui-même reconnaissait qu’il y avait toujours un impact sur les prix lorsqu’on augmentait la demande par l’expansion de la dépense, et qu’il y aurait toujours des "goulots d'étranglement" dans l’appareil productif qui ne répondraient pas à la croissance de la demande par une plus grande offre mais par une augmentation des prix. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182521Z" creationid="Ricardito120" creationdate="20161206T025838Z">
+        <seg>Keynes lui-même reconnaissait qu’il y avait toujours un impact sur les prix lorsqu’on augmentait la demande par l’expansion de la dépense, et qu’il y aurait toujours des "goulots d'étranglement" dans l’appareil productif qui ne répondraient pas à la croissance de la demande par une plus grande offre mais par une augmentation des prix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,8 +4566,8 @@
       <tuv lang="ES-AR">
         <seg>El ser humano es capaz de bucear en su interior para tomar contacto con su profunda espiritualidad.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T210532Z" creationid="Ricardito120" creationdate="20161209T191908Z">
-        <seg>L'être humain peut plonger dans son monde intérieur pour entrer en contact avec sa profonde spiritualité. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184403Z" creationid="Ricardito120" creationdate="20161209T191908Z">
+        <seg>L'être humain peut plonger dans son monde intérieur pour entrer en contact avec sa profonde spiritualité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,8 +4582,8 @@
       <tuv lang="ES-AR">
         <seg>El ser humano tiene todo el futuro por delante, no hay que decirle a donde ir, sólo hay que quitarle los obstáculos del camino.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T210546Z" creationid="Ricardito120" creationdate="20161209T191923Z">
-        <seg>L'être humain a tout l’avenir devant lui, il ne faut pas lui dire où aller, il faut seulement ôter les obstacles de son chemin. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184406Z" creationid="Ricardito120" creationdate="20161209T191923Z">
+        <seg>L'être humain a tout l’avenir devant lui, il ne faut pas lui dire où aller, il faut seulement ôter les obstacles de son chemin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4654,8 +4654,8 @@
       <tuv lang="ES-AR">
         <seg>El valor de la coherencia y de la Regla de Oro, y el contraste con los comportamientos no deseados, es algo que debiera ser destacado permanentemente, pero no como una prédica moralista en el vacío, sino en la misma dinámica de las acciones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204034Z" creationid="la belle idee" creationdate="20161204T183604Z">
-        <seg>La valeur de la cohérence et celle de la Règle d'or, ainsi que le contraste avec les comportements non souhaités est quelque chose qui devrait être souligné de façon permanente, non pas comme un sermon moraliste dans le vide, mais dans la dynamique même des actions. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183906Z" creationid="la belle idee" creationdate="20161204T183604Z">
+        <seg>La valeur de la cohérence et celle de la Règle d'or, ainsi que le contraste avec les comportements non souhaités est quelque chose qui devrait être souligné de façon permanente, non pas comme un sermon moraliste dans le vide, mais dans la dynamique même des actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4974,8 +4974,8 @@
       <tuv lang="ES-AR">
         <seg>En definitiva, el efecto multiplicador es mucho más bajo que en el siglo pasado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193703Z" creationid="Ricardito120" creationdate="20161206T030200Z">
-        <seg>En définitive, l’effet multiplicateur est bien moindre qu’au siècle passé. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182558Z" creationid="Ricardito120" creationdate="20161206T030200Z">
+        <seg>En définitive, l’effet multiplicateur est bien moindre qu’au siècle passé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5271,8 +5271,8 @@
       <tuv lang="ES-AR">
         <seg>En el primer caso se le da prioridad a la estabilidad de la moneda en un marco de libertad absoluta de los mercados y del comercio, y en el segundo caso se le da mayor relevancia al pleno empleo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192618Z" creationid="Ricardito120" creationdate="20161206T023838Z">
-        <seg>Dans le premier cas la priorité est donnée à la stabilité monétaire dans le cadre d'une liberté absolue des marchés et du commerce, et dans le second cas l’importance est donnée au plein emploi. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182101Z" creationid="Ricardito120" creationdate="20161206T023838Z">
+        <seg>Dans le premier cas la priorité est donnée à la stabilité monétaire dans le cadre d'une liberté absolue des marchés et du commerce, et dans le second cas l’importance est donnée au plein emploi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5287,8 +5287,8 @@
       <tuv lang="ES-AR">
         <seg>En el ámbito de la educación es mucho lo que ya se hace y mucho más lo que podría hacerse, enfatizando más en el desarrollo de la persona que en la capacitación meramente informativa&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T205413Z" creationid="Ricardito120" creationdate="20161209T191511Z">
-        <seg>Dans le domaine de l’éducation, on a fait beaucoup de progrès en ce sens, mais on peut en faire bien plus, en insistant davantage sur le développement de la personne que sur la formation purement instructive.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184328Z" creationid="Ricardito120" creationdate="20161209T191511Z">
+        <seg>Dans le domaine de l’éducation, on a fait beaucoup de progrès en ce sens, mais on peut en faire bien plus, en insistant davantage sur le développement de la personne que sur la formation purement instructive&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5408,8 @@
       <tuv lang="ES-AR">
         <seg>En esta última fracción los países deberán ser sumamente cuidadosos en presupuestar su flujo financiero, acorde a sus potencialidades en el comercio exterior, para no caer en la trampa del endeudamiento externo creciente, con la consecuente asfixia económica y pérdida de soberanía que ello conlleva.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T182117Z" creationid="Ricardito120" creationdate="20161206T023624Z">
-        <seg>Pour cette dernière fraction, les pays devront être extrêmement attentifs dans la budgétisation de leur flux financier, conformément à leurs potentialités de commerce extérieur, afin de ne pas tomber dans le piège d'un endettement extérieur croissant, dont les conséquences sont l’asphyxie économique et la perte de souveraineté. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182004Z" creationid="Ricardito120" creationdate="20161206T023624Z">
+        <seg>Pour cette dernière fraction, les pays devront être extrêmement attentifs dans la budgétisation de leur flux financier, conformément à leurs potentialités de commerce extérieur, afin de ne pas tomber dans le piège d'un endettement extérieur croissant, dont les conséquences sont l’asphyxie économique et la perte de souveraineté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5632,8 +5632,8 @@
       <tuv lang="ES-AR">
         <seg>En lo que respecta a la función del Estado vinculada a la circulación de la moneda, la prioridad siempre debiera ser asegurar el flujo suficiente de dinero para se logre financiar la inversión y la producción, el empleo y el consumo, evitando que queden bolsones de capacidad ociosa, desocupación involuntaria, y potencialidades dormidas, por falta de recursos financieros.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192837Z" creationid="Ricardito120" creationdate="20161206T024104Z">
-        <seg>En ce qui concerne la fonction de l’État, liée à la circulation de la monnaie, la priorité devra toujours être d'assurer un flux suffisant d'argent pour pouvoir financer l'investissement et la production, l'emploi et la consommation, en évitant qu'il reste des poches de capacité inutilisée, un chômage involontaire et des potentialités endormies par manque de ressources financières. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182146Z" creationid="Ricardito120" creationdate="20161206T024104Z">
+        <seg>En ce qui concerne la fonction de l’État, liée à la circulation de la monnaie, la priorité devra toujours être d'assurer un flux suffisant d'argent pour pouvoir financer l'investissement et la production, l'emploi et la consommation, en évitant qu'il reste des poches de capacité inutilisée, un chômage involontaire et des potentialités endormies par manque de ressources financières.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5672,8 +5672,8 @@
       <tuv lang="ES-AR">
         <seg>En los últimos tiempos en el mundo capitalista han confrontado dos visiones opuestas desde el punto de vista del manejo monetario: la concepción neoliberal, liderada por Milton Friedman&lt;t0/&gt; con la escuela de Chicago, y la concepción keynesiana de intervención estatal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192603Z" creationid="Ricardito120" creationdate="20161206T023823Z">
-        <seg>Ces derniers temps dans le monde capitaliste se sont confrontées deux visions opposées en ce qui concerne la gestion monétaire : la conception néo libérale, conduite par Milton Friedman &lt;t0/&gt; avec l'école de Chicago, et la conception keynésienne avec intervention de l'état. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182056Z" creationid="Ricardito120" creationdate="20161206T023823Z">
+        <seg>Ces derniers temps dans le monde capitaliste se sont confrontées deux visions opposées en ce qui concerne la gestion monétaire : la conception néo libérale, conduite par Milton Friedman&lt;t0/&gt; avec l'école de Chicago, et la conception keynésienne avec intervention de l'état.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5896,16 +5896,16 @@
       <tuv lang="ES-AR">
         <seg>En primer lugar intentando comprometer a partidos políticos afines a que tomen las propuestas como propias, y en caso afirmativo difundir públicamente el compromiso y pedir apoyo en las elecciones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="la belle idee" creationdate="20161030T160154Z">
-        <seg>D’abord en essayant d’engager les partis politiques proches à prendre les propositions comme étant les leurs, et en cas de confirmation diffuser publiquement l’accord et demander de l’appui lors des élections. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184504Z" creationid="la belle idee" creationdate="20161030T160154Z">
+        <seg>D’abord en essayant d’engager les partis politiques proches à prendre les propositions comme étant les leurs, et en cas de confirmation diffuser publiquement l’accord et demander de l’appui lors des élections.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>En primer lugar nos referiremos a ciertos pasos genéricos, que como mecánica de trabajo debieran tener en cuenta los individuos, las organizaciones y los gobiernos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T204316Z" creationid="la belle idee" creationdate="20161030T141518Z">
-        <seg>Dans un premier temps, nous nous référerons à certains pas génériques, qui en tant que dispositif de travail devraient être pris en compte par les individus, les organisations et les gouvernements. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184430Z" creationid="la belle idee" creationdate="20161030T141518Z">
+        <seg>Dans un premier temps, nous nous référerons à certains pas génériques, qui en tant que dispositif de travail devraient être pris en compte par les individus, les organisations et les gouvernements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5928,8 +5928,8 @@
       <tuv lang="ES-AR">
         <seg>En realidad, detrás de ese pretexto se esconde la discriminación, al suponer que el extranjero no debería tener los mismos derechos que el nativo, ni en lo laboral, ni en la educación ni en la salud.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204456Z" creationid="Ricardito120" creationdate="20161209T190915Z">
-        <seg>En réalité, derrière ce prétexte se dissimule la discrimination, laissant supposer qu’un étranger ne devrait pas avoir les mêmes droits qu’un natif, en matière de travail, d’éducation et de santé. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184139Z" creationid="Ricardito120" creationdate="20161209T190915Z">
+        <seg>En réalité, derrière ce prétexte se dissimule la discrimination, laissant supposer qu’un étranger ne devrait pas avoir les mêmes droits qu’un natif, en matière de travail, d’éducation et de santé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5952,8 +5952,8 @@
       <tuv lang="ES-AR">
         <seg>En segundo lugar porque al haber capacidad ociosa y mano de obra desocupada, la reacción productiva ante la mayor demanda puede ser muy rápida.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194019Z" creationid="Ricardito120" creationdate="20161206T030556Z">
-        <seg>Deuxièmement parce qu’en ayant des capacités inutilisées et une main d’œuvre au chômage, la réponse productive face à une plus grande demande peut être très rapide. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182717Z" creationid="Ricardito120" creationdate="20161206T030556Z">
+        <seg>Deuxièmement parce qu’en ayant des capacités inutilisées et une main d’œuvre au chômage, la réponse productive face à une plus grande demande peut être très rapide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6056,8 +6056,8 @@
       <tuv lang="ES-AR">
         <seg>En tal sentido, todo vestigio de xenofobia o discriminación debe ser desterrada.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204205Z" creationid="Ricardito120" creationdate="20161209T190525Z">
-        <seg>En ce sens, tout vestige de xénophobie ou de discrimination devrait être banni. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184056Z" creationid="Ricardito120" creationdate="20161209T190525Z">
+        <seg>En ce sens, tout vestige de xénophobie ou de discrimination devrait être banni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6208,8 +6208,8 @@
       <tuv lang="ES-AR">
         <seg>En una monografía de hace algunos años hablábamos de los problemas de la externalidad de la moral y la decadencia de esa mecánica sicosocial como orientadora de la conducta&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203206Z" creationid="la belle idee" creationdate="20161204T183200Z">
-        <seg>Dans une monographie, datant d’il y a quelques années, nous parlions des problèmes de l'externalité de la morale et de la décadence de cette mécanique psychosociale pour orienter la conduite. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183801Z" creationid="la belle idee" creationdate="20161204T183200Z">
+        <seg>Dans une monographie, datant d'il y a quelques années, nous parlions des problèmes de l'externalité de la morale et de la décadence de cette mécanique psychosociale pour orienter la conduite&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6336,8 +6336,8 @@
       <tuv lang="ES-AR">
         <seg>Entonces, las necesidades financieras que no se puedan resolver en moneda propia, se podrán cubrir en una parte a través de nuevos bancos solidarios internacionales, y solamente una fracción tendrá que seguir por un tiempo resolviéndose apelando al poco confiable actual sistema financiero internacional.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T182101Z" creationid="Ricardito120" creationdate="20161206T023543Z">
-        <seg>Alors, les besoins financiers qui ne peuvent pas être conclus dans leur propre monnaie, pourront être en partie couverts par l'intermédiaire de nouvelles banques internationales solidaires, et seule une fraction des besoins continuera pendant un temps à être conclue en faisant appel au peu fiable système financier international actuel. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T181954Z" creationid="Ricardito120" creationdate="20161206T023543Z">
+        <seg>Alors, les besoins financiers qui ne peuvent pas être conclus dans leur propre monnaie, pourront être en partie couverts par l'intermédiaire de nouvelles banques internationales solidaires, et seule une fraction des besoins continuera pendant un temps à être conclue en faisant appel au peu fiable système financier international actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6939,8 +6939,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esa propensión al consumo es muy variable según la persona, pero en general se sabe que las personas que tienen ingresos bajos tienden a consumir la mayor parte de los mismos, mientras que a medida que los ingresos aumentan, también es mayor el porcentaje destinado al ahorro.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193350Z" creationid="Ricardito120" creationdate="20161206T025007Z">
-        <seg>Cette propension à la consommation est très variable selon les personnes, mais en général on sait que les personnes qui ont de bas revenus tendent à en consommer la plus grande part, mais à mesure que les revenus augmentent, le pourcentage destiné à l’épargne augmente aussi. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182457Z" creationid="Ricardito120" creationdate="20161206T025007Z">
+        <seg>Cette propension à la consommation est très variable selon les personnes, mais en général on sait que les personnes qui ont de bas revenus tendent à en consommer la plus grande part, mais à mesure que les revenus augmentent, le pourcentage destiné à l’épargne augmente aussi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7003,8 +7003,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Eso hace que los recursos que el Estado vuelca en la población para motorizar el consumo, no solamente pueden encontrarse con un límite en las restricciones externas, si no se generan divisas equivalentes vía exportación, sino que además habrá una proporción de los nuevos empleos que se generan a través de tales políticas, que no serán empleos nacionales sino extranjeros.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193906Z" creationid="Ricardito120" creationdate="20161206T030344Z">
-        <seg>Ceci entraîne que les fonds consacrés à la population par l’État pour dynamiser la consommation, peuvent non seulement se trouver face à une limite dans les ???coupes budgétaires externes ???, s’ils ne se génèrent pas des devises équivalentes via l’exportation, mais de plus, une proportion des nouveaux emplois produits par de telles politiques ne seront pas des emplois nationaux mais des emplois dans les pays étrangers. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182657Z" creationid="Ricardito120" creationdate="20161206T030344Z">
+        <seg>Ceci entraîne que les fonds consacrés à la population par l’État pour dynamiser la consommation, peuvent non seulement se trouver face à une limite dans les restrictions externes, s’ils ne se génèrent pas des devises équivalentes via l’exportation, mais de plus, une proportion des nouveaux emplois produits par de telles politiques ne seront pas des emplois nationaux mais des emplois dans les pays étrangers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7211,8 +7211,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Estamos hablando en todo caso de una suerte de keynesianismo de precisión, no de una expansión monetaria indiscriminada.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194927Z" creationid="william" creationdate="20170131T092737Z">
-        <seg>Nous parlons dans tous les cas d'une sorte de keynésianisme de précision, non d'une expansion monétaire inconsidérée. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183228Z" creationid="william" creationdate="20170131T092737Z">
+        <seg>Nous parlons dans tous les cas d'une sorte de keynésianisme de précision, non d'une expansion monétaire inconsidérée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7307,8 +7307,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Este es un círculo vicioso por el cual quien más gana más acumula, y quien más acumula más posibilidades tiene de aumentar sus ganancias y de imponer condiciones en los mercados y hasta en la política para mejorar aún más su rentabilidad.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193608Z" creationid="Ricardito120" creationdate="20161206T030017Z">
-        <seg>Ceci est un cercle vicieux dans lequel plus on gagne plus on accumule, et plus celui qui accumule a de possibilités d’augmenter ses gains et d’imposer ses conditions aux marchés et même à la politique pour améliorer encore plus sa rentabilité. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182539Z" creationid="Ricardito120" creationdate="20161206T030017Z">
+        <seg>Ceci est un cercle vicieux dans lequel plus on gagne plus on accumule, et plus celui qui accumule a de possibilités d’augmenter ses gains et d’imposer ses conditions aux marchés et même à la politique pour améliorer encore plus sa rentabilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7347,8 +7347,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Este mecanismo que funciona para la construcción de viviendas, también podría funcionar para múltiples bienes y servicios en los que el Estado podría involucrarse para financiar simultáneamente demanda e inversión para el aumento de la oferta.&lt;t0/&gt; &lt;t1/&gt;Pero para ello hay que analizar muy &lt;t2/&gt;bien la matriz insumo-producto de la economía, estudiar las demandas insatisfechas y las potencialidades productivas, articularlas y financiarlas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194803Z" creationid="Ricardito120" creationdate="20161206T030958Z">
-        <seg>Ce mécanisme qui fonctionne pour la construction de logements, pourrait fonctionner aussi pour de nombreux biens et services dans lesquels l'État pourrait s'engager pour financer simultanément la demande et l'investissement afin d’'augmenter l'offre. Mais pour cela il faut analyser parfaitement la matrice des entrées-sorties de l'économie, étudier les demandes insatisfaites, et les potentialités de production, les articuler et les financer. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183152Z" creationid="Ricardito120" creationdate="20161206T030958Z">
+        <seg>Ce mécanisme qui fonctionne pour la construction de logements, pourrait fonctionner aussi pour de nombreux biens et services dans lesquels l'État pourrait s'engager pour financer simultanément la demande et l'investissement afin d’'augmenter l'offre&lt;t0/&gt;. &lt;t1/&gt;Mais pour cela il faut analyser parfaitement&lt;t2/&gt; la matrice des entrées-sorties de l'économie, étudier les demandes insatisfaites, et les potentialités de production, les articuler et les financer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7507,8 +7507,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esto ocurre en primer lugar porque los efectos deflacionarios de toda recesión mantienen cierta inercia ante una incipiente reactivación, lo que hace que ante la mayor demanda los empresarios antes de tender a subir los precios tiendan a aumentar su producción, ganando más por la mayor cantidad vendida y no tanto por el mayor precio, a la vez que los trabajadores dan prioridad a tener un empleo más que a pedir aumentos salariales.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194003Z" creationid="Ricardito120" creationdate="20161206T030501Z">
-        <seg>C’est ce qui se passe en premier lieu, car les effets déflationnistes de toute récession maintiennent une certaine inertie face à un début de réactivation, de sorte que devant une plus grande demande, et avant d’augmenter les prix, les entrepreneurs tendent à augmenter leur production, empochant plus de bénéfices par la vente d’une plus grande quantité qu’en augmentant les prix, pendant que les travailleurs donnent la priorité à l’obtention d’ un emploi plutôt qu’à l’augmentation des salaires. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182713Z" creationid="Ricardito120" creationdate="20161206T030501Z">
+        <seg>C’est ce qui se passe en premier lieu, car les effets déflationnistes de toute récession maintiennent une certaine inertie face à un début de réactivation, de sorte que devant une plus grande demande, et avant d’augmenter les prix, les entrepreneurs tendent à augmenter leur production, empochant plus de bénéfices par la vente d’une plus grande quantité qu’en augmentant les prix, pendant que les travailleurs donnent la priorité à l’obtention d’ un emploi plutôt qu’à l’augmentation des salaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7523,8 +7523,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Esto que estamos diciendo, no es otra cosa que lo que hacen habitualmente los gobiernos que buscan activar su economía alentando el mercado interno a través del consumo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193259Z" creationid="Ricardito120" creationdate="20161206T024845Z">
-        <seg>Ce que nous disons, n’est rien d’autre que ce que font habituellement les gouvernements qui cherchent à dynamiser leur économie, en encourageant le marché intérieur par la consommation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182440Z" creationid="Ricardito120" creationdate="20161206T024845Z">
+        <seg>Ce que nous disons, n’est rien d’autre que ce que font habituellement les gouvernements qui cherchent à dynamiser leur économie, en encourageant le marché intérieur par la consommation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7707,8 +7707,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Existe en mucha gente, y también en algunos economistas, la creencia de que la inflación se genera porque se cuenta con una moneda débil, sin respaldo; sin embargo habría que recordar que uno de los primeros procesos inflacionarios de la historia se dio cuando el medio de pago era metálico, es decir oro y plata; y esto ocurrió en Europa en el siglo XVI, cuando comenzaron a llegar toneladas de oro y plata desde América&lt;t0/&gt;; la economía se monetizó demasiado, aumentó la demanda de bienes, y la economía de esa época no podía crecer al ritmo que había crecido la masa monetaria, por lo tanto lo que crecieron fueron los precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195244Z" creationid="Ricardito120" creationdate="20161206T031731Z">
-        <seg>Il y a chez beaucoup de gens, et aussi chez certains économistes, la croyance que l’inflation est générée parce qu’on dispose d’une monnaie faible et sans appui. Il faut cependant se rappeler que l’un des premier processus inflationnistes de l’histoire a eu lieu lorsque le moyen de paiement était de métal c’est-à-dire en or ou en argent. Cela s’est passé en Europe au XVIe siècle lorsque commencèrent à arriver des tonnes d’or et d’argent d’Amérique &lt;t0/&gt;; l’économie s’est beaucoup trop monétarisée, la demande de biens a augmenté, et l’économie de cette époque n’était pas en mesure de croître au même rythme que la masse monétaire, et en conséquence ce furent les prix qui augmentèrent. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183311Z" creationid="Ricardito120" creationdate="20161206T031731Z">
+        <seg>Il y a chez beaucoup de gens, et aussi chez certains économistes, la croyance que l’inflation est générée parce qu’on dispose d’une monnaie faible et sans appui. Il faut cependant se rappeler que l’un des premier processus inflationnistes de l’histoire a eu lieu lorsque le moyen de paiement était de métal c’est-à-dire en or ou en argent. Cela s’est passé en Europe au XVIe siècle lorsque commencèrent à arriver des tonnes d’or et d’argent d’Amérique&lt;t0/&gt; ; l’économie s’est beaucoup trop monétarisée, la demande de biens a augmenté, et l’économie de cette époque n’était pas en mesure de croître au même rythme que la masse monétaire, et en conséquence ce furent les prix qui augmentèrent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8139,8 +8139,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Hablamos de la aplicación de la “Regla de oro” como actitud básica que nos permita sensibilizarnos con lo humano de los demás, y desde allí relacionarnos, como actitud de vida.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161209T191215Z">
-        <seg>Nous avons également mentionné l’application de la « Règle d’or » comme attitude de base qui nous permet de nous sensibiliser à l’humanité des autres et, à partir de là, d’établir des liens, comme un mode de vie. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184256Z" creationid="Ricardito120" creationdate="20161209T191215Z">
+        <seg>Nous avons également mentionné l’application de la « Règle d’or » comme attitude de base qui nous permet de nous sensibiliser à l’humanité des autres et, à partir de là, d’établir des liens, comme un mode de vie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8372,16 +8372,16 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Hay que describir, tipificar y exponer hasta la ridiculización las conductas anti-humanistas, u obsecuentes con el anti-humanismo; la discriminación, la violencia, la indiferencia, el egoísmo, el individualismo, el consumismo, el autoritarismo, y demás comportamientos retrógrados, debieran formar parte de un decálogo de la estupidez humana.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204000Z" creationid="la belle idee" creationdate="20161204T183524Z">
-        <seg>Il faut décrire, spécifier et exposer jusqu'au ridicule les conduites anti humaniste, ou complaisantes avec l’anti humanisme ; la discrimination, la violence, l'indifférence, l'égoïsme, l'individualisme, la surconsommation, l'autoritarisme et autres comportements rétrogrades devaient faire partie d'un décalogue de la stupidité humaine.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183859Z" creationid="la belle idee" creationdate="20161204T183524Z">
+        <seg>Il faut décrire, spécifier et exposer jusqu'au ridicule les conduites anti-humaniste, ou complaisantes avec l’anti-humanisme ; la discrimination, la violence, l'indifférence, l'égoïsme, l'individualisme, la surconsommation, l'autoritarisme et autres comportements rétrogrades devaient faire partie d'un décalogue de la stupidité humaine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Hay que despejar el camino, desmalezar, poner en evidencia los espejismos para que cese su poder hipnótico, y abrir las puertas a la inspiración genuina, a la vocación sentida, o simplemente al sencillo y sano disfrute de la vida con los seres queridos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161209T191811Z">
-        <seg>Il faut déblayer le chemin, désherber, mettre en évidence les mirages du système pour que cesse son pouvoir hypnotique, et ouvrir les portes à une véritable inspiration, à une profonde vocation, ou simplement à la simple et saine jouissance de la vie en compagnie des êtres chers. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184356Z" creationid="Ricardito120" creationdate="20161209T191811Z">
+        <seg>Il faut déblayer le chemin, désherber, mettre en évidence les mirages du système pour que cesse son pouvoir hypnotique, et ouvrir les portes à une véritable inspiration, à une profonde vocation, ou simplement à la simple et saine jouissance de la vie en compagnie des êtres chers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8404,8 +8404,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Hay que fortalecer la concepción de que los flujos financieros, productos del ahorro, deben destinarse exclusivamente a la inversión productiva.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T210551Z" creationid="la belle idee" creationdate="20161105T135159Z">
-        <seg>Il faut renforcer la conception selon laquelle les flux financiers, produits de l'épargne, doivent exclusivement être destinés à l'investissement productif. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184655Z" creationid="la belle idee" creationdate="20161105T135159Z">
+        <seg>Il faut renforcer la conception selon laquelle les flux financiers, produits de l'épargne, doivent exclusivement être destinés à l'investissement productif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8524,8 +8524,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Hay quienes han cuestionado que en algunas películas el personaje central se exhiba fumando, porque afirman que eso promueve el tabaquismo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204328Z" creationid="Ricardito120" creationdate="20161209T190718Z">
-        <seg>Certains ont critiqué le fait que dans quelques films le personnage principal est en train de fumer, parce qu’ils allèguent que cela promeut le tabagisme. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184111Z" creationid="Ricardito120" creationdate="20161209T190718Z">
+        <seg>Certains ont critiqué le fait que dans quelques films le personnage principal est en train de fumer, parce qu’ils allèguent que cela promeut le tabagisme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8653,8 +8653,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Hoy el precio que se paga por la mayoría de los bienes, tiene un componente relativamente bajo de mano de obra, y una gran proporción de gastos publicitarios, derechos de marcas y patentes, y altos porcentajes de ganancia de las cadenas de comercialización, todos sectores con alta propensión al ahorro.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193651Z" creationid="Ricardito120" creationdate="20161206T030146Z">
-        <seg>Aujourd’hui le prix à payer pour la majorité des biens, comprend une proportion relativement faible de main d’œuvre, et une grande proportion de coûts publicitaires, droits de marques et de licences, et des pourcentages élevés de gains pour les chaînes de commercialisation, tous secteurs ayant tous une haute propension à l'épargne. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182554Z" creationid="Ricardito120" creationdate="20161206T030146Z">
+        <seg>Aujourd’hui le prix à payer pour la majorité des biens, comprend une proportion relativement faible de main d’œuvre, et une grande proportion de coûts publicitaires, droits de marques et de licences, et des pourcentages élevés de gains pour les chaînes de commercialisation, tous secteurs ayant tous une haute propension à l'épargne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8837,8 +8837,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Inclusive dentro de lo que se denominan derechos humanos universales, se ha puesto en duda su universalidad desde la tesis cultural, tal como mencionaba Silo en 1993.&lt;t0/&gt;No obstante, existen derechos básicos de primera generación por los que debiera lucharse en cualquier país, y la concientización sobre los mismos, y sobre todo la lucha contra la indiferencia ante sus violaciones, implican un sistema de valores por los que está claro que se debe trabajar.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T202936Z" creationid="la belle idee" creationdate="20161204T182922Z">
-        <seg>Car même dans que l’on nomme les droits de l'homme universels, on a remis en cause son universalité à partir d’arguments culturels, comme le mentionnait Silo en 1993. Cependant, il existe des droits basiques de première génération pour lesquels on devrait lutter dans n’importe quel pays, lutter pour leur reconnaissance, et surtout la lutte contre l'indifférence face à leurs violations, implique un système de valeurs sur lequel il est clair qu'il faut travailler. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183716Z" creationid="la belle idee" creationdate="20161204T182922Z">
+        <seg>Car même dans que l’on nomme les droits de l'homme universels, on a remis en cause son universalité à partir d’arguments culturels, comme le mentionnait Silo en 1993&lt;t0/&gt;. Cependant, il existe des droits basiques de première génération pour lesquels on devrait lutter dans n’importe quel pays, lutter pour leur reconnaissance, et surtout la lutte contre l'indifférence face à leurs violations, implique un système de valeurs sur lequel il est clair qu'il faut travailler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8957,8 +8957,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Invitar a más organizaciones y movimientos sociales que adhieran al proyecto de la Nación Humana Universal, a sumarse a la estrategia política, y trabajar fuertemente para desplazar a los políticos profesionales del poder.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="la belle idee" creationdate="20161030T160223Z">
-        <seg>Inviter davantage d'organisations et de mouvements sociaux qui adhèrent au projet de la Nation humaine universelle, à se joindre à la stratégie politique, et à œuvrer fortement à l’éviction du pouvoir des politiciens professionnels. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184508Z" creationid="la belle idee" creationdate="20161030T160223Z">
+        <seg>Inviter davantage d'organisations et de mouvements sociaux qui adhèrent au projet de la Nation humaine universelle, à se joindre à la stratégie politique, et à œuvrer fortement à l’éviction du pouvoir des politiciens professionnels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9590,8 +9590,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>La expansión monetaria de parte de una banca estatal que otorgue préstamos sin interés real, tendrá su contrapartida con el retorno del dinero mediante el pago de las cuotas de los créditos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194218Z" creationid="Ricardito120" creationdate="20161206T030903Z">
-        <seg>L'expansion monétaire de la part d'une banque d'état qui octroie des prêts sans intérêts réels, aura sa contrepartie avec le retour de l'argent lors du paiement des mensualités des crédits. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183101Z" creationid="Ricardito120" creationdate="20161206T030903Z">
+        <seg>L'expansion monétaire de la part d'une banque d'état qui octroie des prêts sans intérêts réels, aura sa contrepartie avec le retour de l'argent lors du paiement des mensualités des crédits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,8 +9822,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>La línea divisoria es entre Humanismo y Anti-humanismo, y el Humanismo implica una actitud de vida basada en la Regla de Oro; y eso implica oponer resistencia a todo tipo de violencia, física, económica, racial, religiosa, sexual, sicológica y moral.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203828Z" creationid="la belle idee" creationdate="20161204T183313Z">
-        <seg>La ligne de séparation se situe entre Humanisme et Anti humanisme, et l'Humanisme implique une attitude de vie basée sur la Règle d'Or ; et cela implique d’opposer une résistance à toute forme de violence, physique, économique, raciale, religieuse, sexuelle, psychologique et morale. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183837Z" creationid="la belle idee" creationdate="20161204T183313Z">
+        <seg>La ligne de séparation se situe entre Humanisme et Anti-humanisme, et l'Humanisme implique une attitude de vie basée sur la Règle d'or ; et cela implique d’opposer une résistance à toute forme de violence, physique, économique, raciale, religieuse, sexuelle, psychologique et morale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10086,8 +10086,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>La sensibilización de una sociedad con respecto a las necesidades de otros seres humanos, no se puede limitar a los connacionales, sino que debe ser extensiva a los hermanos de otros países.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204147Z" creationid="Ricardito120" creationdate="20161209T190507Z">
-        <seg>La sensibilisation d’une société aux besoins des autres êtres humains ne peut se limiter aux compatriotes, elle doit s’étendre aux frères des autres pays. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184052Z" creationid="Ricardito120" creationdate="20161209T190507Z">
+        <seg>La sensibilisation d’une société aux besoins des autres êtres humains ne peut se limiter aux compatriotes, elle doit s’étendre aux frères des autres pays.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10158,8 +10158,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>La violencia no sólo se ha naturalizado en el seno de la sociedad, sino que en las mismas instituciones educativas está creciendo vertiginosamente, ante lo cual habría que dar una pronta respuesta buscando la raíz del fenómeno&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T205457Z" creationid="Ricardito120" creationdate="20161209T191529Z">
-        <seg>. La violence ne s’est pas seulement acclimatée au sein de la société, mais même dans les organisations éducatives elle augmente de façon exponentielle ; face à ça, il faudrait répondre rapidement en cherchant la source du problème. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184334Z" creationid="Ricardito120" creationdate="20161209T191529Z">
+        <seg>La violence ne s’est pas seulement acclimatée au sein de la société, mais même dans les organisations éducatives elle augmente de façon exponentielle ; face à ça, il faudrait répondre rapidement en cherchant la source du problème.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10406,8 +10406,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Las personas que deciden emigrar, (no todos en el caso de los refugiados), lo hacen fundamentalmente buscando oportunidades laborales, y en su mayor parte son personas muy pobres y con bajo nivel de educación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204539Z" creationid="Ricardito120" creationdate="20161209T191006Z">
-        <seg>Les personnes qui décident d’émigrer (ce n’est pas le cas de tous les réfugiés), le font essentiellement pour trouver des possibilités de travail, et ce sont en grande partie des personnes très pauvres, ayant un faible niveau d’éducation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184149Z" creationid="Ricardito120" creationdate="20161209T191006Z">
+        <seg>Les personnes qui décident d’émigrer (ce n’est pas le cas de tous les réfugiés), le font essentiellement pour trouver des possibilités de travail, et ce sont en grande partie des personnes très pauvres, ayant un faible niveau d’éducation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10430,8 +10430,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Las víctimas de cualquier país son seres humanos, con familia, con seres queridos, con esperanzas, con futuro, y no pueden ser menospreciadas presentándolas como un número, como una estadística.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204309Z" creationid="Ricardito120" creationdate="20161209T190702Z">
-        <seg> Les victimes de n’importe quel pays sont des êtres humains ; ils ont une famille, des êtres chers, des espoirs, un avenir et ne peuvent être méprisés en étant présentés comme un chiffre, comme une donnée statistique. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184107Z" creationid="Ricardito120" creationdate="20161209T190702Z">
+        <seg> Les victimes de n’importe quel pays sont des êtres humains ; ils ont une famille, des êtres chers, des espoirs, un avenir et ne peuvent être méprisés en étant présentés comme un chiffre, comme une donnée statistique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10574,8 +10574,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Lo importante es tener algunas imágenes de objetivos básicos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T204206Z" creationid="la belle idee" creationdate="20161030T141403Z">
-        <seg>L’important est d'avoir quelques images des objectifs fondamentaux </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184421Z" creationid="la belle idee" creationdate="20161030T141403Z">
+        <seg>L’important est d'avoir quelques images des objectifs fondamentaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -10598,8 +10598,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Lo mismo ocurre cuando un país tiene reservas en divisa extranjera (moneda fuerte), y utiliza esas reservas para inyectar recursos en la economía, y esos recursos van al consumo de bienes y servicios que no incrementan su oferta, en ese caso también suben los precios, aunque la moneda débil esté respaldada por la supuesta moneda fuerte.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195306Z" creationid="Ricardito120" creationdate="20161206T031840Z">
-        <seg>Il se passe la même chose lorsqu’un pays a des réserves en devises étrangères (monnaie forte), et les utilise pour injecter des ressources dans l’économie, lesquelles vont à la consommation de biens et de services qui n’accroissent pas leur offre, alors dans ce cas aussi ce sont les prix qui augmentent, bien que la monnaie faible soit soutenue par une monnaie supposée forte. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183316Z" creationid="Ricardito120" creationdate="20161206T031840Z">
+        <seg>Il se passe la même chose lorsqu’un pays a des réserves en devises étrangères (monnaie forte), et les utilise pour injecter des ressources dans l’économie, lesquelles vont à la consommation de biens et de services qui n’accroissent pas leur offre, alors dans ce cas aussi ce sont les prix qui augmentent, bien que la monnaie faible soit soutenue par une monnaie supposée forte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10854,8 +10854,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Los discriminadores ya suelen despreciar el estilo de vida de los barrios marginales, aún cuando se trate de connacionales; no solamente por una cuestión clasista, sino también porque es común que le choquen determinados hábitos relacionados con la forma de hablar, la comida, la higiene, los gustos, y el comportamiento en general.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161209T191051Z">
-        <seg>. Les auteurs d’actes de discrimination dénigrent déjà le style de vie des quartiers marginaux même quand il s’agit de leurs compatriotes ; non seulement pour des questions élitistes, mais également parce qu’il est courant qu’ils n’aiment pas certaines habitudes liées à la langue, à général. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184226Z" creationid="Ricardito120" creationdate="20161209T191051Z">
+        <seg>Les auteurs d’actes de discrimination dénigrent déjà le style de vie des quartiers marginaux même quand il s’agit de leurs compatriotes ; non seulement pour des questions élitistes, mais également parce qu’il est courant qu’ils n’aiment pas certaines habitudes liées à la langue, au comportement en général.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10926,8 +10926,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>Los medios de comunicación y el cine, que siendo funcionales a ciertas propagandas políticas y justificaciones de guerras e invasiones, tanto han contribuido a distorsionar la imagen de determinados pueblos; a futuro debieran utilizarse para sensibilizar a los espectadores sobre la humanidad de todos los habitantes de la tierra.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204257Z" creationid="Ricardito120" creationdate="20161209T190645Z">
-        <seg>Les médias et le cinéma, qui étant au service de certaines propagandes politiques justifient les guerres et les invasions, ont beaucoup contribué à dénaturer l’image de certains peuples ; à l’avenir, ils devraient servir à sensibiliser les spectateurs sur l’humanité de tous les habitants de la terre. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184103Z" creationid="Ricardito120" creationdate="20161209T190645Z">
+        <seg>Les médias et le cinéma, qui étant au service de certaines propagandes politiques justifient les guerres et les invasions, ont beaucoup contribué à dénaturer l’image de certains peuples ; à l’avenir, ils devraient servir à sensibiliser les spectateurs sur l’humanité de tous les habitants de la terre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11945,16 +11945,16 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>No estamos hablando de subsidios (que podrían resultar necesarios en otros casos), estamos hablando de financiamiento, dinero que se recupera y se recicla, precisamente porque se debe administrar con precisión quirúrgica, asegurando que se trate de proyectos sustentables, que haya un impacto productivo y generador de empleo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194830Z" creationid="Ricardito120" creationdate="20161206T031039Z">
-        <seg>Nous ne parlons pas de subventions (qui pourraient être nécessaires dans d'autres cas), nous parlons de financement, d'argent qui est récupéré et recyclé, qui devra être administré avec une précision chirurgicale, en s'assurant qu'il s'agit de projets durables, qui ont un impact productif et générateur d’emploi. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183210Z" creationid="Ricardito120" creationdate="20161206T031039Z">
+        <seg>Nous ne parlons pas de subventions (qui pourraient être nécessaires dans d'autres cas), nous parlons de financement, d'argent qui est récupéré et recyclé, qui devra être administré avec une précision chirurgicale, en s'assurant qu'il s'agit de projets durables, qui ont un impact productif et générateur d’emploi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>No está mal preocuparse por eso.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204345Z" creationid="Ricardito120" creationdate="20161209T190738Z">
-        <seg>Il n’y a pas de mal à se préoccuper de ça, </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184115Z" creationid="Ricardito120" creationdate="20161209T190738Z">
+        <seg>Il n’y a pas de mal à se préoccuper de ça,</seg>
       </tuv>
     </tu>
     <tu>
@@ -12025,8 +12025,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>No hay mucho que inventar respecto a lo que la gente podría hacer para buscar su propia felicidad, más bien se trata de quitar del camino las falsas puertas que el sistema propone.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T210307Z" creationid="Ricardito120" creationdate="20161209T191828Z">
-        <seg>Il n’y a pas grand chose à inventer concernant les mesures que doivent prendre les gens pour chercher leur propre bonheur, ils doivent plutôt écarter du chemin les fausses portes proposées par le système. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184359Z" creationid="Ricardito120" creationdate="20161209T191828Z">
+        <seg>Il n’y a pas grand chose à inventer concernant les mesures que doivent prendre les gens pour chercher leur propre bonheur, ils doivent plutôt écarter du chemin les fausses portes proposées par le système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12089,8 +12089,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>No obstante debemos decir que las teorías de Keynes&lt;t1/&gt;, que datan de la primera mitad del siglo pasado, debieran enfocarse de un modo muy diferente desde la perspectiva actual de un mundo globalizado.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T023945Z">
-        <seg>Toutefois nous devons dire que les théories de Keynes, &lt;t1/&gt; qui datent de la première moitié du siècle dernier, devraient être abordées sous une perspective très différente qui tienne compte de la globalisation du monde actuel. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182126Z" creationid="Ricardito120" creationdate="20161206T023945Z">
+        <seg>Toutefois nous devons dire que les théories de Keynes&lt;t1/&gt;, qui datent de la première moitié du siècle dernier, devraient être abordées sous une perspective très différente qui tienne compte de la globalisation du monde actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12145,8 +12145,8 @@ b) Sur un plan tactique syndical, vu que les politiques d'ajustement structurel 
       <tuv lang="ES-AR">
         <seg>No obstante, hay que considerar que ese porcentaje que se destina al ahorro, también podría indirectamente terminar en consumo, en la medida que se canalice hacia inversiones productivas, y así el círculo virtuoso del crecimiento estaría completo; pero precisamente ese es uno de los problemas, ya que en la práctica la inversión no siempre es proporcional al ahorro, como creían algunos economistas clásicos; pero volveremos sobre esto más adelante.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193404Z" creationid="Ricardito120" creationdate="20161206T025048Z">
-        <seg>Cependant, il faudrait considérer que ce pourcentage destiné à l’épargne pourrait aussi terminer indirectement dans la consommation dans la mesure où il serait canalisé vers des investissements productifs, et ainsi le cercle vertueux de la croissance serait complet. Mais c’est précisément un des problèmes car en pratique l’investissement n’est pas toujours proportionnel à l’épargne comme l’ont cru certains économistes classiques, nous y reviendrons plus avant. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182501Z" creationid="Ricardito120" creationdate="20161206T025048Z">
+        <seg>Cependant, il faudrait considérer que ce pourcentage destiné à l’épargne pourrait aussi terminer indirectement dans la consommation dans la mesure où il serait canalisé vers des investissements productifs, et ainsi le cercle vertueux de la croissance serait complet. Mais c’est précisément un des problèmes car en pratique l’investissement n’est pas toujours proportionnel à l’épargne comme l’ont cru certains économistes classiques, nous y reviendrons plus avant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12307,8 +12307,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>No se trata ya de esa moral externa, con raíces en el resentimiento, demolida por Nietszsche&lt;t1/&gt; en el siglo XIX, pero tampoco de una anti-moral darwiniana, en la que sólo deben sobrevivir los más fuertes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203729Z" creationid="la belle idee" creationdate="20161204T183236Z">
-        <seg>Il ne s'agit plus de cette morale externe, avec ses racines dans le ressentiment, abolie par Nietszsche au XIXe siècle, ni d'une antimorale darwinienne, selon laquelle seuls les plus forts doivent survivre. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183816Z" creationid="la belle idee" creationdate="20161204T183236Z">
+        <seg>Il ne s'agit plus de cette morale externe, avec ses racines dans le ressentiment, abolie par Nietszsche&lt;t1/&gt; au XIXe siècle, ni d'une antimorale darwinienne, selon laquelle seuls les plus forts doivent survivre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12483,8 +12483,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Nos hemos referido a un cambio en los paradigmas culturales vinculados a todo lo que tiene que ver con el trato entre las personas, las conductas, y la disposición a trabajar o contribuir en los pasos hacia la Nación Humana Universal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T205533Z" creationid="Ricardito120" creationdate="20161209T191613Z">
-        <seg>Nous avons fait référence à un changement dans les paradigmes culturels liés à tout ce qui concerne les relations entre les personnes, les comportements, et la volonté de travailler ou de contribuer aux progrès vers une Nation humaine universelle. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184341Z" creationid="Ricardito120" creationdate="20161209T191613Z">
+        <seg>Nous avons fait référence à un changement dans les paradigmes culturels liés à tout ce qui concerne les relations entre les personnes, les comportements, et la volonté de travailler ou de contribuer aux progrès vers une Nation humaine universelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12499,8 +12499,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Nos referimos a que una política monetaria que potencie el consumo interno de modo general, en los países industrializados de mediados del siglo pasado, tenía un importante efecto dinamizador sobre el empleo nacional, ya que buena parte de lo que la gente consumía se fabricaba en el propio país, con mano de obra intensiva.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192927Z" creationid="Ricardito120" creationdate="20161206T024201Z">
-        <seg>En effet, la politique monétaire qui a appuyé la consommation interne de façon générale, dans les pays industrialisés au cours de la moitié du siècle passé, a eu un effet dynamisant important sur l'emploi national, car une bonne partie de ce que consommaient les gens était fabriqué dans leur propre pays, avec une main-d’œuvre très active. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182158Z" creationid="Ricardito120" creationdate="20161206T024201Z">
+        <seg>En effet, la politique monétaire qui a appuyé la consommation interne de façon générale, dans les pays industrialisés au cours de la moitié du siècle passé, a eu un effet dynamisant important sur l'emploi national, car une bonne partie de ce que consommaient les gens était fabriqué dans leur propre pays, avec une main-d’œuvre très active.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12563,8 +12563,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>O impacta en la demanda de productos en cuyo precio la mano de obra es un porcentaje muy bajo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193003Z" creationid="Ricardito120" creationdate="20161206T024252Z">
-        <seg>Ou impacte la demande de produits dont le coût de la main-d’œuvre représente un pourcentage très bas. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182208Z" creationid="Ricardito120" creationdate="20161206T024252Z">
+        <seg>Ou impacte la demande de produits dont le coût de la main-d’œuvre représente un pourcentage très bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12652,8 +12652,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Organizar foros conjuntos entre las organizaciones coordinadas y difundir en otra escala.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T204830Z" creationid="la belle idee" creationdate="20161030T155910Z">
-        <seg>Organiser des forums conjoints entre les organisations coordonnées et diffuser à une autre échelle. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184456Z" creationid="la belle idee" creationdate="20161030T155910Z">
+        <seg>Organiser des forums conjoints entre les organisations coordonnées et diffuser à une autre échelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12684,8 +12684,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Otra dificultad de las políticas expansivas indiscriminadas, es que a veces ni siquiera contemplan los niveles de capacidad ociosa del aparato productivo en cada sector.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193933Z" creationid="Ricardito120" creationdate="20161206T030419Z">
-        <seg>Autre difficulté des politiques expansives sans distinction, c’est que parfois elles n’envisagent même pas les niveaux de capacités inutilisées de l’appareil productif de chaque secteur. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182702Z" creationid="Ricardito120" creationdate="20161206T030419Z">
+        <seg>Autre difficulté des politiques expansives sans distinction, c’est que parfois elles n’envisagent même pas les niveaux de capacités inutilisées de l’appareil productif de chaque secteur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12724,8 +12724,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Otro factor, ya relacionado con los mercados globales, es el del alto componente de productos o insumos importados que hay entre los bienes que se consumen.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193817Z" creationid="Ricardito120" creationdate="20161206T030309Z">
-        <seg>Un autre facteur, en relation avec les marchés globaux, est celui de l’importante composition de produits ou d'intrants importés qu’il y a dans les biens de consommation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182610Z" creationid="Ricardito120" creationdate="20161206T030309Z">
+        <seg>Un autre facteur, en relation avec les marchés globaux, est celui de l’importante composition de produits ou d'intrants importés qu’il y a dans les biens de consommation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12772,8 +12772,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Otro paso en la labor de concientización por parte de los movimientos sociales, consistirá en producir un cambio de paradigmas ideológicos con respecto a la visión que se tiene del mundo de las finanzas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T210517Z" creationid="la belle idee" creationdate="20161105T135133Z">
-        <seg>Un autre pas dans le travail de conscientisation à réaliser par les mouvements sociaux, consistera à produire un changement de paradigmes idéologiques à l'égard de la vision actuelle du monde de la finance. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184650Z" creationid="la belle idee" creationdate="20161105T135133Z">
+        <seg>Un autre pas dans le travail de conscientisation à réaliser par les mouvements sociaux, consistera à produire un changement de paradigmes idéologiques à l'égard de la vision actuelle du monde de la finance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12980,8 +12980,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Para muchos el diagnóstico de un mundo donde crece la violencia y la injusticia, tiene su raíz en la pérdida de los valores morales; y algo de cierto hay en esa afirmación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203045Z" creationid="la belle idee" creationdate="20161204T183009Z">
-        <seg>Nombreux sont ceux pour qui le diagnostic d'un monde où grandissent la violence et l'injustice, a sa racine dans la perte des valeurs morales ; et il y a une part de vérité dans cette affirmation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183737Z" creationid="la belle idee" creationdate="20161204T183009Z">
+        <seg>Nombreux sont ceux pour qui le diagnostic d'un monde où grandissent la violence et l'injustice, a sa racine dans la perte des valeurs morales ; et il y a une part de vérité dans cette affirmation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,8 +12996,8 @@ espiritu : esprit</note>
       <tuv lang="ES-AR">
         <seg>Para poder cumplir con tales compromisos graduales, establecer una progresiva reasignación de las partidas presupuestarias hoy destinadas al armamentismo, para destinarlas al desarrollo mundial.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="la belle idee" creationdate="20161105T134921Z">
-        <seg>Pour pouvoir respecter de tels engagements, établir une réaffectation progressive des parties budgétaires aujourd'hui destinées à la course aux armements, pour les consacrer au développement mondial. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184636Z" creationid="la belle idee" creationdate="20161105T134921Z">
+        <seg>Pour pouvoir respecter de tels engagements, établir une réaffectation progressive des parties budgétaires aujourd'hui destinées à la course aux armements, pour les consacrer au développement mondial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13150,8 +13150,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Permanentemente hay que señalar las contradicciones del sistema, pero también las de las sociedades y las de los individuos que las conforman.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203940Z" creationid="la belle idee" creationdate="20161204T183509Z">
-        <seg>Il faut constamment signaler les contradictions du système, mais aussi celles des sociétés et celles des individus qui les constituent. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183848Z" creationid="la belle idee" creationdate="20161204T183509Z">
+        <seg>Il faut constamment signaler les contradictions du système, mais aussi celles des sociétés et celles des individus qui les constituent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13174,8 +13174,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero a la hora de concientizar entonces, habrá que ver sobre qué valores se lo hace, porque hay diferentes pueblos y diferentes culturas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T202914Z" creationid="la belle idee" creationdate="20161204T182832Z">
-        <seg>Mais à l'heure de prendre conscience, il faudra alors considérer sur quelles valeurs le faire, parce qu'il existe différents peuples et différentes cultures. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183652Z" creationid="la belle idee" creationdate="20161204T182832Z">
+        <seg>Mais à l'heure de prendre conscience, il faudra alors considérer sur quelles valeurs le faire, parce qu'il existe différents peuples et différentes cultures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13190,8 +13190,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero a la vez, a través de la educación y la inclusión social se deben transformar los códigos de conducta que llevan a la violencia, y las situaciones de marginalidad que la alimentan.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161209T191444Z">
-        <seg>Parallèlement, au moyen de l’éducation et de l’insertion sociale, il faut transformer les codes de conduite qui mènent à la violence, ainsi que les situations de marginalisation qui l’alimentent. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184317Z" creationid="Ricardito120" creationdate="20161209T191444Z">
+        <seg>Parallèlement, au moyen de l’éducation et de l’insertion sociale, il faut transformer les codes de conduite qui mènent à la violence, ainsi que les situations de marginalisation qui l’alimentent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13246,8 +13246,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero ahora nos referiremos al sistema de valores que debieran promoverse en una sociedad para poder avanzar hacia la Nación Humana Universal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T202217Z" creationid="la belle idee" creationdate="20161204T114616Z">
-        <seg>Mais maintenant nous nous référerons au système de valeurs qui devrait être promu dans une société pour pouvoir avancer vers la Nation humaine universelle. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183621Z" creationid="la belle idee" creationdate="20161204T114616Z">
+        <seg>Mais maintenant nous nous référerons au système de valeurs qui devrait être promu dans une société pour pouvoir avancer vers la Nation humaine universelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13294,8 +13294,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero aún en casos menos extremos, podemos llegar a tener problemas de una respuesta deficiente de la inversión, ante un incremento de la demanda, ya no por limitaciones técnicas, o laborales, o por restricciones externas, sino por cuellos de botella especulativos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195404Z" creationid="Ricardito120" creationdate="20161206T031952Z">
-        <seg>Mais même dans les cas les moins extrêmes, face à la croissance de la demande, nous pouvons arriver à avoir des problèmes lorsque la réponse d’investissement est déficiente, non pas en raison de limitations techniques, ou de l’emploi, ou par des restrictions externes, mais par goulots d'étranglement spéculatifs. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183329Z" creationid="Ricardito120" creationdate="20161206T031952Z">
+        <seg>Mais même dans les cas les moins extrêmes, face à la croissance de la demande, nous pouvons arriver à avoir des problèmes lorsque la réponse d’investissement est déficiente, non pas en raison de limitations techniques, ou de l’emploi, ou par des restrictions externes, mais par goulots d'étranglement spéculatifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13326,8 +13326,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero con respecto a la violencia física en particular, por lo irreparable de sus daños, habría que poner un énfasis especial para llegar a colocar en lo más alto al valor de la vida humana, tanto desde la ponderación social como desde legislación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204937Z" creationid="Ricardito120" creationdate="20161209T191248Z">
-        <seg>Mais en ce qui concerne la violence physique en particulier, en raison du caractère irréparable de ses dommages, il faudrait y accorder une attention toute particulière pour parvenir à hisser la vie humaine au sommet de haut de l’échelle des valeurs, tant sur le plan de la pondération sociale que de la législation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184303Z" creationid="Ricardito120" creationdate="20161209T191248Z">
+        <seg>Mais en ce qui concerne la violence physique en particulier, en raison du caractère irréparable de ses dommages, il faudrait y accorder une attention toute particulière pour parvenir à hisser la vie humaine au sommet de haut de l’échelle des valeurs, tant sur le plan de la pondération sociale que de la législation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,8 +13398,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero el problema para nosotros no es que haya algo de inflación, si a cambio se logra aumentar el empleo y el ingreso real de la población; pero como es sabido que cuando la inflación supera determinados límites, se torna contraproducente, habrá que considerar qué características debe tener el gasto estatal para mejorar el nivel de empleo sin generar una inflación importante.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193509Z" creationid="Ricardito120" creationdate="20161206T025857Z">
-        <seg>Mais le problème pour nous n’est pas qu’il y ait un peu d’inflation, si en échange on obtient une augmentation de l’emploi et du revenu réel de la population ; mais comme on sait que lorsque l’inflation dépasse certaines limites, elle devient contre-productive, il faudra donc considérer quelles sont les caractéristiques que devrait avoir la dépense publique pour améliorer le niveau de l’emploi sans générer une inflation trop importante. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182525Z" creationid="Ricardito120" creationdate="20161206T025857Z">
+        <seg>Mais le problème pour nous n’est pas qu’il y ait un peu d’inflation, si en échange on obtient une augmentation de l’emploi et du revenu réel de la population ; mais comme on sait que lorsque l’inflation dépasse certaines limites, elle devient contre-productive, il faudra donc considérer quelles sont les caractéristiques que devrait avoir la dépense publique pour améliorer le niveau de l’emploi sans générer une inflation trop importante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13486,8 +13486,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero en estos tiempos, en muchos países una gran parte de ese incremento del consumo, termina impactando en la demanda de importaciones, y por lo tanto genera empleo de otros países.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192946Z" creationid="Ricardito120" creationdate="20161206T024222Z">
-        <seg>Mais à notre époque, dans de nombreux pays une grande partie de cette croissance de la consommation, finit par impacter la demande des importations, et donc crée de l'emploi dans d'autres pays. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182203Z" creationid="Ricardito120" creationdate="20161206T024222Z">
+        <seg>Mais à notre époque, dans de nombreux pays une grande partie de cette croissance de la consommation, finit par impacter la demande des importations, et donc crée de l'emploi dans d'autres pays.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13502,8 +13502,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero en la medida que varios países avancen hacia la transformación, habrá posibilidades de desarrollar entre los mismos alternativas financieras que permitan acotar la necesidad de financiamiento internacional externo a tal grupo de naciones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T182044Z" creationid="Ricardito120" creationdate="20161206T023516Z">
-        <seg>Mais dans la mesure où certains pays avancent vers cette transformation, il y aura des possibilités de développements alternatifs entre eux permettant de déterminer la nécessité d’un financement international externe à ces groupes de nations. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T181950Z" creationid="Ricardito120" creationdate="20161206T023516Z">
+        <seg>Mais dans la mesure où certains pays avancent vers cette transformation, il y aura des possibilités de développements alternatifs entre eux permettant de déterminer la nécessité d’un financement international externe à ces groupes de nations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13558,8 +13558,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero en una primera etapa de compatibilización, en la integración comercial y económica entre naciones se puede atender a la potenciación de los sectores productivos con ventajas comparativas sin descuidar el impacto sobre sectores que ocupan mayor cantidad de trabajadores; primero se avanza en la complementación entre aquellos sectores productivos entre los que no hay conflicto y todo suma, para luego recién pasar a una gradual reconversión de aquellos sectores que deben competir con sus similares de otro país.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T022330Z">
-        <seg>Dans une première étape de comptabilisation, dans l’intégration commerciale et économique entre les nations, on peut prêter attention au renforcement des secteurs productifs qui ont des avantages comparables sans pour autant délaisser l’impact produit sur les secteurs qui emploient une plus grande quantité de travailleurs. Premièrement l’avancée dans la complémentarité se fera entre les secteurs productifs qui ne sont pas en conflit et où tout s’additionne, puis on passera à une reconversion graduelle de ces secteurs qui doivent rivaliser avec leurs semblables dans d’autres pays,</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T181839Z" creationid="Ricardito120" creationdate="20161206T022330Z">
+        <seg>Dans une première étape de comptabilisation, dans l’intégration commerciale et économique entre les nations, on peut prêter attention au renforcement des secteurs productifs qui ont des avantages comparables sans pour autant délaisser l’impact produit sur les secteurs qui emploient une plus grande quantité de travailleurs. Premièrement l’avancée dans la complémentarité se fera entre les secteurs productifs qui ne sont pas en conflit et où tout s’additionne, puis on passera à une reconversion graduelle de ces secteurs qui doivent rivaliser avec leurs semblables dans d’autres pays.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13630,8 +13630,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero esta política monetaria activa, no debiera convertirse en un gasto público lanzado a ciegas con impacto incierto, sino en inversiones dirigidas con precisión casi quirúrgica.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192853Z" creationid="Ricardito120" creationdate="20161206T024122Z">
-        <seg>Mais cette politique monétaire active ne devrait pas se convertir en un gaspillage public lancé aveuglément et aux impacts incertains, mais devrait être plutôt un investissement dirigé avec une précision quasi chirurgicale. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182149Z" creationid="Ricardito120" creationdate="20161206T024122Z">
+        <seg>Mais cette politique monétaire active ne devrait pas se convertir en un gaspillage public lancé aveuglément et aux impacts incertains, mais devrait être plutôt un investissement dirigé avec une précision quasi chirurgicale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13678,8 +13678,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero hay otro factor más, y es que esa mayor propensión al ahorro en la economía, fruto del aumento de los ingresos, justamente en los sectores de mayores ingresos, no se destina en su mayor parte a la inversión productiva, sino que alimenta la especulación &lt;t0/&gt;financiera, las burbujas especulativas, o financia los grandes negocios y transferencias patrimoniales que no aportan al crecimiento económico y mucho menos al empleo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T030236Z">
-        <seg>Mais il y a aussi un autre facteur de plus : cette plus grande propension à l’épargne dans l’économie, fruit de l’augmentation des revenus, notamment dans les secteurs des revenus les plus élevés, n’est pas majoritairement destiné à l’investissement productif, mais sert à alimenter la spéculation &lt;t0/&gt;financière, les bulles spéculatives, ou finance les grandes entreprises et les transferts patrimoniaux, qui n’apportent rien à la croissance économique et encore moins à l’emploi. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182604Z" creationid="Ricardito120" creationdate="20161206T030236Z">
+        <seg>Mais il y a aussi un autre facteur de plus : cette plus grande propension à l’épargne dans l’économie, fruit de l’augmentation des revenus, notamment dans les secteurs des revenus les plus élevés, n’est pas majoritairement destiné à l’investissement productif, mais sert à alimenter la spéculation &lt;t0/&gt;financière, les bulles spéculatives, ou finance les grandes entreprises et les transferts patrimoniaux, qui n’apportent rien à la croissance économique et encore moins à l’emploi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13814,8 +13814,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero muy diferente es la reacción de los empresarios cuando sus fábricas están trabajando a plena capacidad, porque para poder responder a una demanda incremental deberían realizar nuevas inversiones, deberían invertir en nuevas instalaciones, comprar maquinarias y capacitar nuevo personal, y frente a esto no todos reaccionan igual, y algunos prefieren, en lugar de arriesgar, optimizar su rentabilidad aumentando el nivel de precios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194038Z" creationid="Ricardito120" creationdate="20161206T030615Z">
-        <seg>Mais lorsque les usines travaillent à plein rendement, la réaction des chefs d'entreprise est très différente, car pour pouvoir répondre à une demande croissante ils devront réaliser de nouveaux investissements, investir dans de nouvelles installations, acheter des machines et qualifier un personnel nouveau, et face à cela tous ne réagissent pas de la même façon, certains préfèrent, au lieu de prendre des risques, optimiser leur rentabilité en augmentant le niveau des prix. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182720Z" creationid="Ricardito120" creationdate="20161206T030615Z">
+        <seg>Mais lorsque les usines travaillent à plein rendement, la réaction des chefs d'entreprise est très différente, car pour pouvoir répondre à une demande croissante ils devront réaliser de nouveaux investissements, investir dans de nouvelles installations, acheter des machines et qualifier un personnel nouveau, et face à cela tous ne réagissent pas de la même façon, certains préfèrent, au lieu de prendre des risques, optimiser leur rentabilité en augmentant le niveau des prix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,8 +13854,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero más habría que preocuparse cuando se transmiten imágenes cargadas de violencia, y sobre todo cuando se lo hace en un contexto en el que se minimiza el valor de la vida humana, induciendo al espectador a la empatía con los “personajes correctos”, y a la indiferencia o repulsa con sus víctimas irrelevantes (los que pertenecen a naciones o etnias enemigas).</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204406Z" creationid="Ricardito120" creationdate="20161209T190812Z">
-        <seg>mais il faudrait s’inquiéter encore plus de la transmission d’images chargées de violence et, surtout, quand cela est fait dans un contexte où la valeur de la vie humaine est minimisée, incitant le spectateur à faire preuve d’empathie envers les « personnages corrects » et d’indifférence ou de répulsion envers leurs victimes insignifiantes (celles qui appartiennent à des pays ou des groupes ethniques ennemis). </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184121Z" creationid="Ricardito120" creationdate="20161209T190812Z">
+        <seg>mais il faudrait s’inquiéter encore plus de la transmission d’images chargées de violence et, surtout, quand cela est fait dans un contexte où la valeur de la vie humaine est minimisée, incitant le spectateur à faire preuve d’empathie envers les « personnages corrects » et d’indifférence ou de répulsion envers leurs victimes insignifiantes (celles qui appartiennent à des pays ou des groupes ethniques ennemis).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13966,8 +13966,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero podría pasar que un segmento de la población no creyera en que es posible hacerse cargo de su propio destino, y se conformara con ser manejada por los políticos profesionales.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T202311Z" creationid="la belle idee" creationdate="20161204T182538Z">
-        <seg>Mais il se pourrait qu'une partie de la population ne croie pas qu'il soit possible de prendre en charge son propre destin, et se contenterait d'être mené par les politiciens professionnels. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183632Z" creationid="la belle idee" creationdate="20161204T182538Z">
+        <seg>Mais il se pourrait qu'une partie de la population ne croie pas qu'il soit possible de prendre en charge son propre destin, et se contenterait d'être mené par les politiciens professionnels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14014,8 +14014,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero precisamente el problema es que por algún motivo se han perdido, posiblemente porque ya no estaban a la medida del ser humano, o tal vez porque eran valores de una moral externa, y en la época actual se requiere de mayor coherencia interna, de una ética internalizada por propia convicción, y no impuesta desde afuera.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T203146Z" creationid="la belle idee" creationdate="20161204T183142Z">
-        <seg>Mais précisément le problème est que pour une raison quelconque nous les avons perdues, peut-être parce qu'elles n'étaient déjà plus à la mesure de l'être humain, ou peut-être parce que c'étaient des valeurs liées à une morale externe, et qu'à notre époque il y a besoin d'une plus grande cohérence interne, d'une éthique intégrée par conviction personnelle et non imposée de l’extérieur. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183742Z" creationid="la belle idee" creationdate="20161204T183142Z">
+        <seg>Mais précisément le problème est que pour une raison quelconque nous les avons perdues, peut-être parce qu'elles n'étaient déjà plus à la mesure de l'être humain, ou peut-être parce que c'étaient des valeurs liées à une morale externe, et qu'à notre époque il y a besoin d'une plus grande cohérence interne, d'une éthique intégrée par conviction personnelle et non imposée de l’extérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14062,8 +14062,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Pero retomemos desde algunos conceptos básicos de las políticas keynesianas para comprender mejor lo que estamos diciendo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T024349Z">
-        <seg>Mais reprenons quelques concepts de base des politiques keynésiennes pour mieux comprendre ce que nous disons. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182344Z" creationid="Ricardito120" creationdate="20161206T024349Z">
+        <seg>Mais reprenons quelques concepts de base des politiques keynésiennes pour mieux comprendre ce que nous disons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14481,8 +14481,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Podemos hablar de lo que deberían hacer los pueblos para lograr las transformaciones hacia una democracia real, y también explicar lo que pensamos que se debe hacer para transformar la economía, o proponer abrir las puertas a todos los inmigrantes del mundo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T202257Z" creationid="la belle idee" creationdate="20161204T182520Z">
-        <seg>Nous pouvons parler de ce que devraient faire les populations pour obtenir les transformations vers une démocratie réelle, et aussi expliquer ce que nous pensons qu’il faudrait faire pour transformer l'économie ou proposer d'ouvrir les portes à tous les immigrants du monde. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183628Z" creationid="la belle idee" creationdate="20161204T182520Z">
+        <seg>Nous pouvons parler de ce que devraient faire les populations pour obtenir les transformations vers une démocratie réelle, et aussi expliquer ce que nous pensons qu’il faudrait faire pour transformer l'économie ou proposer d'ouvrir les portes à tous les immigrants du monde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14529,8 +14529,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Podría pasar también que a una porción importante de la población no le importe el sufrimiento de sus hermanos por efectos de una economía injusta.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T202325Z" creationid="la belle idee" creationdate="20161204T182558Z">
-        <seg>Il pourrait aussi arriver qu’une importante partie de la population soit indifférente à la souffrance de ses semblables à cause d'une économie injuste. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183635Z" creationid="la belle idee" creationdate="20161204T182558Z">
+        <seg>Il pourrait aussi arriver qu’une importante partie de la population soit indifférente à la souffrance de ses semblables à cause d'une économie injuste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14545,8 +14545,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Podría ser que un gobierno haya acumulado reservas para políticas contra cíclicas y en un momento las utilice; podría ser que se financie con sus ingresos corrientes por recaudación de impuestos, o podría financiarse con deuda, o podría ser que se financie con emisión monetaria.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195121Z" creationid="Ricardito120" creationdate="20161206T031617Z">
-        <seg>Il se pourrait qu’un gouvernement ait accumulé des réserves et les utilise pour contrer les cycles, il se pourrait qu’il se finance avec ses revenus courants par la perception d’impôts ou par la dette, ou par émission monétaire. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183244Z" creationid="Ricardito120" creationdate="20161206T031617Z">
+        <seg>Il se pourrait qu’un gouvernement ait accumulé des réserves et les utilise pour contrer les cycles, il se pourrait qu’il se finance avec ses revenus courants par la perception d’impôts ou par la dette, ou par émission monétaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15113,8 +15113,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por lo tanto, otro aspecto de este “keynesianismo de precisión”, debería contemplar la utilización de la financiación pública para proyectos que contribuyan a desarticular los monopolios y los &lt;t1/&gt;oligopolios.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195548Z" creationid="Ricardito120" creationdate="20161206T032053Z">
-        <seg>Par conséquent, un autre aspect de ce “keynésianisme de précision“, devrait envisager l’utilisation du financement public pour des projets qui contribuent au démantèlement des monopoles et des oligopoles. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183347Z" creationid="Ricardito120" creationdate="20161206T032053Z">
+        <seg>Par conséquent, un autre aspect de ce “keynésianisme de précision“, devrait envisager l’utilisation du financement public pour des projets qui contribuent au démantèlement des monopoles et des &lt;t1/&gt;oligopoles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15201,8 +15201,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Por otra parte, estamos hablando de pasos muy generales, cada uno de ellos para completarse necesitará de otros pequeños pasos previos, ya que todo es un proceso.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T204148Z" creationid="la belle idee" creationdate="20161030T141138Z">
-        <seg>Par ailleurs, nous décrivons des étapes très générales qui nécessiteront, pour être complétées, d'autres petits pas préalables puisque tout est en processus. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184416Z" creationid="la belle idee" creationdate="20161030T141138Z">
+        <seg>Par ailleurs, nous décrivons des étapes très générales qui nécessiteront, pour être complétées, d'autres petits pas préalables puisque tout est en processus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15393,8 +15393,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque cuando una economía está en recesión, y la mayor parte de su industria está trabajando muy por debajo de su capacidad, es sabido que una activa política de incentivo al consumo por parte del gobierno, tiende a reactivar rápidamente la producción para atender a la mayor demanda.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193946Z" creationid="Ricardito120" creationdate="20161206T030439Z">
-        <seg>Car lorsqu’une économie est en récession, et que la majeure partie de son industrie travaille très en-deçà de sa capacité, il est bien connu qu’une politique active d’incitation à la consommation de la part du gouvernement tend à réactiver rapidement la production pour faire face à la plus grande demande. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182708Z" creationid="Ricardito120" creationdate="20161206T030439Z">
+        <seg>Car lorsqu’une économie est en récession, et que la majeure partie de son industrie travaille très en-deçà de sa capacité, il est bien connu qu’une politique active d’incitation à la consommation de la part du gouvernement tend à réactiver rapidement la production pour faire face à la plus grande demande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15577,8 +15577,8 @@ exordio = préambule ou exorde (mais semble un peu trop littéraire)</note>
       <tuv lang="ES-AR">
         <seg>Porque precisamente, si tal como afirmaba Keynes, a mayor ingreso, mayor propensión al ahorro, entonces el efecto multiplicador del gasto del Estado se esteriliza rápidamente; porque si bien en un primer momento el dinero del Estado puede ir a los bolsillos de los trabajadores, (con menor propensión al ahorro y mayor propensión al consumo), cuando éstos consumen bienes y servicios, el precio que pagan por los mismos tiene un componente de mano de obra muy bajo, y un alto componente de ganancia empresarial (que en lugar de reciclarse en el gasto va hacia el ahorro).</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193639Z" creationid="Ricardito120" creationdate="20161206T030122Z">
-        <seg>Parce que précisément, si comme l'affirmait Keynes, à plus grand revenu, plus grande proportion à l'épargne et donc l'effet multiplicateur des dépenses de l'État se termine rapidement : parce que même si dans un premier temps l'argent de l'État peut arriver dans les poches de travailleurs (ayant une moins grande propension à l'épargne et une plus grande propension à la consommation), quand ceux-ci consomment des biens et des services, le prix qu'ils paient comprend un très bas coût de main d'œuvre et des gains importants pour l'entreprise (qui au lieu de le recycler vers des dépenses va vers l'épargne). </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182549Z" creationid="Ricardito120" creationdate="20161206T030122Z">
+        <seg>Parce que précisément, si comme l'affirmait Keynes, à plus grand revenu, plus grande proportion à l'épargne et donc l'effet multiplicateur des dépenses de l'État se termine rapidement : parce que même si dans un premier temps l'argent de l'État peut arriver dans les poches de travailleurs (ayant une moins grande propension à l'épargne et une plus grande propension à la consommation), quand ceux-ci consomment des biens et des services, le prix qu'ils paient comprend un très bas coût de main d'œuvre et des gains importants pour l'entreprise (qui au lieu de le recycler vers des dépenses va vers l'épargne).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15723,8 +15723,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Precisamente, cuando definimos a la Economía Mixta como algo que está más allá del Capitalismo, no solamente consideramos fracasadas a las economías centralmente planificadas al igual que las totalmente liberalizadas, sino que además pensamos que hay que superar el concepto intermedio de un Estado &lt;t2/&gt;interventor de la economía privada, para pasar al concepto de espacios de integración y coordinación en los que lo público y lo privado se complementan sinérgicamente.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T024005Z">
-        <seg>Pour être précis, lorsque nous avons défini l'Économie mixte comme quelque chose qui va au-delà du Capitalisme, non seulement nous considérons que les économies planifiées par l’État comme celles qui sont totalement libéralisées ont échoué, mais de plus nous pensons qu'il faut dépasser le concept intermédiaire d'un État &lt;t2/&gt;interventionniste dans l'économie privée, pour parvenir au concept d'espace d'intégration et de coordination où le public et le privé se complètent de façon synergique. .</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182136Z" creationid="Ricardito120" creationdate="20161206T024005Z">
+        <seg>Pour être précis, lorsque nous avons défini l'Économie mixte comme quelque chose qui va au-delà du Capitalisme, non seulement nous considérons que les économies planifiées par l’État comme celles qui sont totalement libéralisées ont échoué, mais de plus nous pensons qu'il faut dépasser le concept intermédiaire d'un État &lt;t2/&gt;interventionniste dans l'économie privée, pour parvenir au concept d'espace d'intégration et de coordination où le public et le privé se complètent de façon synergique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15859,8 +15859,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Pues bien, esta tendencia, además de los problemas sociales que acarrea por la inequitativa distribución del ingreso, también acarrea dificultades para las políticas monetarias expansivas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193621Z" creationid="Ricardito120" creationdate="20161206T030031Z">
-        <seg>Or, cette tendance, en plus d’entraîner des problèmes sociaux par l’inéquitable distribution des revenus, entraîne également des difficultés pour les politiques monétaires expansives. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182543Z" creationid="Ricardito120" creationdate="20161206T030031Z">
+        <seg>Or, cette tendance, en plus d’entraîner des problèmes sociaux par l’inéquitable distribution des revenus, entraîne également des difficultés pour les politiques monétaires expansives.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15907,8 +15907,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Pues si a esa propensión discriminatoria contra el estilo de vida de los pobres, le sumamos las características del extranjero, con otras costumbres, con sus propios códigos de relación comunitaria, y con una identidad muy definida, &lt;t0/&gt;entonces la discriminación se torna en estigmatización.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204738Z" creationid="Ricardito120" creationdate="20161209T191112Z">
-        <seg>Si l’on ajoute à cette propension discriminatoire contre le style de vie des indigents, les caractéristiques des étrangers (coutumes différentes, codes de relations communautaires qui leur sont propres et une identité bien définie) la discrimination se transforme alors en stigmatisation.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184240Z" creationid="Ricardito120" creationdate="20161209T191112Z">
+        <seg>Si l’on ajoute à cette propension discriminatoire contre le style de vie des indigents, les caractéristiques des étrangers (coutumes différentes, codes de relations communautaires qui leur sont propres et une identité bien définie) la discrimination&lt;t0/&gt; se transforme alors en stigmatisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16340,16 +16340,16 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Retomando la cuestión de si las políticas monetarias más expansivas son inflacionarias o no, podemos agregar lo siguiente.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194955Z" creationid="Ricardito120" creationdate="20161206T031415Z">
-        <seg>En revenant à la question de savoir si les politiques monétaires les plus expansives sont inflationnistes ou pas, nous pouvons ajouter ce qui suit : </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183235Z" creationid="Ricardito120" creationdate="20161206T031415Z">
+        <seg>En revenant à la question de savoir si les politiques monétaires les plus expansives sont inflationnistes ou pas, nous pouvons ajouter ce qui suit :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Retomando lo que decíamos acerca de que en estos tiempos de globalización, una política monetaria expansiva del tipo keynesiano, no es suficiente, lo que intentamos significar es en parte algo que ya preveía Keynes aunque en su época tenía otra proporción.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192911Z" creationid="Ricardito120" creationdate="20161206T024139Z">
-        <seg>Toutefois, en ces temps de globalisation, une politique monétaire expansive de type keynésien n'est pas suffisante, ce qu'avait déjà prévu Keynes bien qu'à son époque cela n'avait pas la même ampleur. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182154Z" creationid="Ricardito120" creationdate="20161206T024139Z">
+        <seg>Toutefois, en ces temps de globalisation, une politique monétaire expansive de type keynésien n'est pas suffisante, ce qu'avait déjà prévu Keynes bien qu'à son époque cela n'avait pas la même ampleur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16540,8 +16540,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Se debe comenzar a desmantelar el poder financiero por pasos, evitando que por el complejo entramado de las finanzas con la economía real, haya impactos no deseados.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="la belle idee" creationdate="20161105T135310Z">
-        <seg>Commencer à démanteler le pouvoir financier par étapes, en évitant les impacts indésirables du fait du maillage complexe de la finance avec l'économie réelle. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184702Z" creationid="la belle idee" creationdate="20161105T135310Z">
+        <seg>Commencer à démanteler le pouvoir financier par étapes, en évitant les impacts indésirables du fait du maillage complexe de la finance avec l'économie réelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16572,8 +16572,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Se debe exigir a los gobiernos que luchen contra su dominio, antes de que siga depredando a la economía productiva, esquilmando a los estados y empobreciendo a las poblaciones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T210450Z" creationid="la belle idee" creationdate="20161105T135036Z">
-        <seg>Il faut exiger des gouvernements qu’ils luttent contre sa domination, avant qu’il ne continue à commettre des déprédations sur l'économie productive, en pillant les états et en appauvrissant les populations. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184644Z" creationid="la belle idee" creationdate="20161105T135036Z">
+        <seg>Il faut exiger des gouvernements qu’ils luttent contre sa domination, avant qu’il ne continue à commettre des déprédations sur l'économie productive, en pillant les états et en appauvrissant les populations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16804,8 +16804,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Se habrá generado mayor cantidad de empleos, y habrá crecido la producción de bienes durables.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194232Z" creationid="Ricardito120" creationdate="20161206T030918Z">
-        <seg>On aura généré une plus grande quantité d'emplois, et la production de biens durables aura augmenté. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183105Z" creationid="Ricardito120" creationdate="20161206T030918Z">
+        <seg>On aura généré une plus grande quantité d'emplois, et la production de biens durables aura augmenté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17269,8 +17269,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Si bien consideramos que es factible mantener cierta estabilidad en el valor de la moneda y lograr el pleno empleo simultáneamente, es menester aclarar que ante la disyuntiva, siempre será mejor dar prioridad al empleo, aunque haya algo de inflación, que mantener una moneda fuerte con un ejército de desocupados.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192635Z" creationid="Ricardito120" creationdate="20161206T023859Z">
-        <seg>Même si nous considérons qu'il est possible de maintenir simultanément une certaine stabilité monétaire et d'atteindre le plein emploi, il est nécessaire de clarifier que face au choix, il sera toujours mieux de donner la priorité à l'emploi, même s'il y a un peu d'inflation, que de maintenir une monnaie forte avec une armée de chômeurs. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182106Z" creationid="Ricardito120" creationdate="20161206T023859Z">
+        <seg>Même si nous considérons qu'il est possible de maintenir simultanément une certaine stabilité monétaire et d'atteindre le plein emploi, il est nécessaire de clarifier que face au choix, il sera toujours mieux de donner la priorité à l'emploi, même s'il y a un peu d'inflation, que de maintenir une monnaie forte avec une armée de chômeurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17685,8 +17685,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Si, por ejemplo, se estuviera realizando una &lt;t0/&gt;determinada campaña&lt;t1/&gt;, para la cual se estuvieran &lt;t2/&gt;recogiendo firmas&lt;t3/&gt;, &lt;t4/&gt;y ejerciendo&lt;t5/&gt; presión con &lt;t6/&gt;movilizaciones; en el marco de esa campaña habría que difundir, no solament&lt;t7/&gt;e las explicaciones pertinentes&lt;t8/&gt;, sino &lt;t9/&gt;realizar &lt;t10/&gt;también una caricaturización de la actitud autoritaria de los funcionarios que podrían oponerse a tal iniciativa, y de la actitud indiferente y pasiva de los ciudadanos obsecuentes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204056Z" creationid="la belle idee" creationdate="20161204T183623Z">
-        <seg>Si, par exemple, une campagne précise était réalisée, pour recueillir des signatures et exercer une pression avec des mobilisations, il faudrait, dans le cadre de cette campagne, non seulement diffuser des explications pertinentes, mais aussi réaliser une caricature de l'attitude autoritaire des élus qui pourraient s'opposer à une telle initiative, et de l'attitude indifférente et passive des citadins complaisants. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184010Z" creationid="la belle idee" creationdate="20161204T183623Z">
+        <seg>Si, par exemple, une &lt;t0/&gt;campagne précise&lt;t1/&gt; était réalisée, pour &lt;t2/&gt;recueillir des signatures&lt;t3/&gt; et &lt;t4/&gt;exercer&lt;t5/&gt; une pression avec des &lt;t6/&gt;mobilisations, il faudrait, dans le cadre de cette campagne, non seulement &lt;t7/&gt;diffuser des explications pertinentes&lt;t8/&gt;, mais &lt;t9/&gt;aussi réaliser &lt;t10/&gt;une caricature de l'attitude autoritaire des élus qui pourraient s'opposer à une telle initiative, et de l'attitude indifférente et passive des citadins complaisants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17805,8 +17805,8 @@ S'approcher semble plus proche.</note>
       <tuv lang="ES-AR">
         <seg>Sin embargo el posible impacto inflacionario no siempre dependerá de la fuente de financiamiento.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T195133Z" creationid="Ricardito120" creationdate="20161206T031633Z">
-        <seg>Toutefois l’impact sur l’inflation ne dépendra pas toujours de la source de financement. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183247Z" creationid="Ricardito120" creationdate="20161206T031633Z">
+        <seg>Toutefois l’impact sur l’inflation ne dépendra pas toujours de la source de financement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18747,8 +18747,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Tanto en todo lo vinculado al delito, como en lo que respecta a la violencia familiar, o violencia entre grupos rivales, se ha producido un acostumbramiento en algunas sociedades, en las que aumenta la indiferencia, la subestimación, e inclusive hasta la valoración de determinadas conductas violentas.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T205258Z" creationid="Ricardito120" creationdate="20161209T191348Z">
-        <seg>Tant en ce qui concerne le délit, qu’en ce qui concerne la violence familiale, ou la violence entre groupes rivaux, il s’est produit une accoutumance dans certaines sociétés, au sein desquelles l’indifférence augmente, la sous estimation, y compris la valorisation de certaines conduites violentes. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184308Z" creationid="Ricardito120" creationdate="20161209T191348Z">
+        <seg>Tant en ce qui concerne le délit, qu’en ce qui concerne la violence familiale, ou la violence entre groupes rivaux, il s’est produit une accoutumance dans certaines sociétés, au sein desquelles l’indifférence augmente, la sous estimation, y compris la valorisation de certaines conduites violentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18867,8 +18867,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Toda resistencia a la inmigración, con argumentaciones pragmáticas y economicistas, debería avergonzar a la sociedad entera.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204219Z" creationid="Ricardito120" creationdate="20161209T190544Z">
-        <seg>Toute résistance à l’immigration, fondée sur des arguments pragmatiques et économiques, devrait faire honte à l’ensemble de la société. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184058Z" creationid="Ricardito120" creationdate="20161209T190544Z">
+        <seg>Toute résistance à l’immigration, fondée sur des arguments pragmatiques et économiques, devrait faire honte à l’ensemble de la société.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18899,16 +18899,16 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Todavía existen discusiones acerca de la vieja fórmula de la teoría cuantitativa, P.Q = M.V, en la que se afirma que el nivel de precios (P) multiplicado por la cantidad de bienes y servicios (Q), debe ser igual a la cantidad de moneda (M), multiplicada por su velocidad de circulación (V).</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193045Z" creationid="Ricardito120" creationdate="20161206T024410Z">
-        <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours. On y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité de monnaie (M) multipliée par sa vitesse de circulation (V). </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182347Z" creationid="Ricardito120" creationdate="20161206T024410Z">
+        <seg>Des discussions à propos de la vieille formule de la théorie quantitative, P.Q=M.V existent toujours. On y affirme que le niveau des prix (P) multiplié par la quantité de biens et de services (Q), doit être égal à la quantité de monnaie (M) multipliée par sa vitesse de circulation (V).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Todo en un circuito integrado que no debiera generar mayor inflación ya que el aumento de M se compensa con un equivalente aumento de Q.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194247Z" creationid="Ricardito120" creationdate="20161206T030938Z">
-        <seg>Tout cela dans un circuit intégré qui ne devrait pas produire une plus grande inflation car l'augmentation de M est compensée par une augmentation équivalente de Q. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183109Z" creationid="Ricardito120" creationdate="20161206T030938Z">
+        <seg>Tout cela dans un circuit intégré qui ne devrait pas produire une plus grande inflation car l'augmentation de M est compensée par une augmentation équivalente de Q.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18963,8 +18963,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Todo esto, si bien es un &lt;t0/&gt;largo &lt;t1/&gt;proceso, será mucho menos dificultoso de lo que aparenta, &lt;t2/&gt;si están claros&lt;t3/&gt; cuáles son los intereses comunes de los pueblos, y cuáles son sus enemigos comunes: el poder financiero internacional y la voracidad de las corporaciones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="Ricardito120" creationdate="20161206T022219Z">
-        <seg>Tout cela, bien que ce soit un processus &lt;t0/&gt;long&lt;t1/&gt;, sera beaucoup moins difficile que ce qu’il parait, &lt;t2/&gt;sera beaucoup moins difficile qu’il n’y parait, si les populations voient clairement quels sont leurs intérêts communs et leurs ennemis communs : le pouvoir financier international et la voracité des corporations.</seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T181820Z" creationid="Ricardito120" creationdate="20161206T022219Z">
+        <seg>Tout cela, bien que ce soit un processus &lt;t0/&gt;long&lt;t1/&gt;, sera beaucoup moins difficile que ce qu’il parait, &lt;t2/&gt;si les populations voient clairement &lt;t3/&gt;quels sont leurs intérêts communs et leurs ennemis communs : le pouvoir financier international et la voracité des corporations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19075,8 +19075,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Trabajar en la concientización de las poblaciones de naciones armamentistas, sobre la necesidad de no sostener con su voto a los gobernantes que no se comprometan con el desarme como prioridad de su política exterior.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T205335Z" creationid="la belle idee" creationdate="20161105T133449Z">
-        <seg>Travailler à la conscientisation des populations des nations productrices d’armements sur la nécessité de ne pas soutenir par leur vote les gouvernements qui ne s’engagent pas dans le désarmement comme priorité de leur politique extérieure. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184522Z" creationid="la belle idee" creationdate="20161105T133449Z">
+        <seg>Travailler à la conscientisation des populations des nations productrices d’armements sur la nécessité de ne pas soutenir par leur vote les gouvernements qui ne s’engagent pas dans le désarmement comme priorité de leur politique extérieure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19115,8 +19115,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Un buen ejemplo de esto son los planes de viviendas; existe una necesidad, una demanda insatisfecha que es la vivienda por parte de familias que pueden ser sujetos de crédito; existen empresas constructoras y proveedores de materiales que también pueden ser sujetos de crédito.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194205Z" creationid="Ricardito120" creationdate="20161206T030737Z">
-        <seg>Un bon exemple ce sont les plans de financement du logement ; il existe un besoin, une demande insatisfaite de la part des familles qui peuvent avoir besoin de crédit pour le logement ; il existe des entreprises de construction et des fournisseurs de matériaux qui peuvent également avoir besoin de crédit. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183058Z" creationid="Ricardito120" creationdate="20161206T030737Z">
+        <seg>Un bon exemple ce sont les plans de financement du logement ; il existe un besoin, une demande insatisfaite de la part des familles qui peuvent avoir besoin de crédit pour le logement ; il existe des entreprises de construction et des fournisseurs de matériaux qui peuvent également avoir besoin de crédit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19148,8 +19148,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Un espacio de verdadera libertad entre seres humanos, y no la libertad del zorro en el gallinero que no es otra cosa que la dictadura de los poderosos; pero tampoco un espacio controlado por la omnipresencia de una burocracia estatal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T192817Z" creationid="Ricardito120" creationdate="20161206T024038Z">
-        <seg>Un espace de véritable liberté entre les êtres humains, et non pas la liberté du renard dans le poulailler qui n'est autre que la dictature des puissants ; pas plus qu'un espace contrôlé par l’omniprésence d'une bureaucratie d'état. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182141Z" creationid="Ricardito120" creationdate="20161206T024038Z">
+        <seg>Un espace de véritable liberté entre les êtres humains, et non pas la liberté du renard dans le poulailler qui n'est autre que la dictature des puissants ; pas plus qu'un espace contrôlé par l’omniprésence d'une bureaucratie d'état.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19444,8 +19444,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y a eso nos referíamos cuando decíamos que no se pueden aplicar automáticamente recetas que funcionaban bien en las economías de mediados del siglo pasado, en un contexto como el actual.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193524Z" creationid="Ricardito120" creationdate="20161206T025912Z">
-        <seg>Et c’est à ça que nous nous référions, lorsque nous disions que l’on ne peut appliquer automatiquement des recettes qui fonctionnaient bien pour les économies au milieu du siècle passé, dans un contexte comme celui d’aujourd’hui. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182529Z" creationid="Ricardito120" creationdate="20161206T025912Z">
+        <seg>Et c’est à ça que nous nous référions, lorsque nous disions que l’on ne peut appliquer automatiquement des recettes qui fonctionnaient bien pour les économies au milieu du siècle passé, dans un contexte comme celui d’aujourd’hui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19589,8 +19589,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y como decíamos anteriormente, en la medida que varios países se vayan encaminando en el proyecto de la Nación Humana Universal, y en la medida que se genere una Banca Internacional Solidaria entre estos países, con sus propias reservas en moneda común, se podrán financiar desde allí proyectos productivos planificados en forma conjunta, desde el interés de la complementación en las ventajas comparativas, y no desde la competencia.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170131T102236Z" creationid="Ricardito120" creationdate="20161206T032532Z">
-        <seg>Comme nous le disions précédemment, dans la mesure où plusieurs pays se mettent en marche vers une Nation humaine universelle, et qu’entre ces pays se génère une Banque internationale solidaire avec leurs propres réserves en monnaie commune, alors depuis cette situation pourront être financés des projets planifiés de façon conjointe, non pas depuis la concurrence mais depuis la complémentation des avantages comparatifs. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183428Z" creationid="Ricardito120" creationdate="20161206T032532Z">
+        <seg>Comme nous le disions précédemment, dans la mesure où plusieurs pays se mettent en marche vers une Nation humaine universelle, et qu’entre ces pays se génère une Banque internationale solidaire avec leurs propres réserves en monnaie commune, alors depuis cette situation pourront être financés des projets planifiés de façon conjointe, non pas depuis la concurrence mais depuis la complémentation des avantages comparatifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19749,16 +19749,16 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y en cierta manera esto es verdad (&lt;t2/&gt;ceteris paribus)&lt;t3/&gt;, pero como las variables no están aisladas y el movimiento en una puede modificar el de otra, hay quienes sostienen (Keynes entre ellos), que si se incrementa la oferta de dinero, lo que aumenta es la demanda de bienes, aumenta el consumo, y ante ese aumento de la demanda, puede ocurrir que también aumente la oferta, es decir que se fabriquen más objetos o se ofrezcan más servicios, y por lo tanto, al aumentar M también aumenta Q y la fórmula mantiene su equilibrio.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193211Z" creationid="Ricardito120" creationdate="20161206T024744Z">
-        <seg>D'une certaine façon c'est vrai (&lt;t2/&gt;ceteris paribus&lt;t3/&gt;), mais comme les variables ne sont pas isolées et que le mouvement de l'une peut modifier celui de l'autre, il y en a qui soutiennent (en autre Keynes), que si l'offre d'argent augmente, ce qui augmente, c'est la demande de biens et la consommation croît, et face à cette croissance de la demande, il peut se produire que l'offre augmente aussi, c'est à dire que plus d'objets sont fabriqués ou que l'offre de service est plus grande, et par conséquent en augmentant M, Q augmente et la formule maintient son équilibre. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182423Z" creationid="Ricardito120" creationdate="20161206T024744Z">
+        <seg>D'une certaine façon c'est vrai (&lt;t2/&gt;ceteris paribus&lt;t3/&gt;), mais comme les variables ne sont pas isolées et que le mouvement de l'une peut modifier celui de l'autre, il y en a qui soutiennent (en autre Keynes), que si l'offre d'argent augmente, ce qui augmente, c'est la demande de biens et la consommation croît, et face à cette croissance de la demande, il peut se produire que l'offre augmente aussi, c'est à dire que plus d'objets sont fabriqués ou que l'offre de service est plus grande, et par conséquent en augmentant M, Q augmente et la formule maintient son équilibre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Y en el campo de la política esta discusión a veces termina en posturas más extremas que las reales diferencias de criterio que pudieron haber tenido economistas como Keynes y Friedman, ya que están los fanáticos del monetarismo, capaces de dejar que crezca la desocupación con tal de no tener inflación, y también están los fanáticos del incentivo al consumo, capaces de afirmar que aunque se emita dinero en exceso, eso no es causa de inflación.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193443Z" creationid="Ricardito120" creationdate="20161206T025755Z">
-        <seg>Et dans le champ politique, cette discussion parfois s’achève sur des positions plus extrêmes que les réelles différences de critères que pourraient avoir eu des économistes comme Keynes et Friedman. Car il y a les fanatiques du monétarisme, capables de laisser croître le chômage pour ne pas avoir d’inflation, et il y a aussi les fanatiques de l’incitation à la consommation capables d’affirmer que malgré l'émission d’un excès d’argent, ceci ne peut être la cause de l’inflation. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182513Z" creationid="Ricardito120" creationdate="20161206T025755Z">
+        <seg>Et dans le champ politique, cette discussion parfois s’achève sur des positions plus extrêmes que les réelles différences de critères que pourraient avoir eu des économistes comme Keynes et Friedman. Car il y a les fanatiques du monétarisme, capables de laisser croître le chômage pour ne pas avoir d’inflation, et il y a aussi les fanatiques de l’incitation à la consommation capables d’affirmer que malgré l'émission d’un excès d’argent, ceci ne peut être la cause de l’inflation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20445,8 +20445,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y seguramente que muchos encontrarán un sentido a sus vidas trabajando por estas transformaciones.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T205547Z" creationid="Ricardito120" creationdate="20161209T191627Z">
-        <seg>Et en travaillant à ces transformations, beaucoup de personnes trouveront assurément un sens à leur vie. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184344Z" creationid="Ricardito120" creationdate="20161209T191627Z">
+        <seg>Et en travaillant à ces transformations, beaucoup de personnes trouveront assurément un sens à leur vie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20541,8 +20541,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y sobre todo recordar que, para poder escalar hacia la cumbre de la Nación Humana Universal, los primeros pasos, los objetivos que resulten más cercanos para abordar, seguramente&lt;t0/&gt; se podrán acometer en forma ais&lt;t1/&gt;lada en diversos puntos; pero tengamos la certeza de que para poder pasar a los pasos más complejos, será necesario irse articulando para ganar en fuerza, y precisamente esa articulación será más viable si se la empieza a abordar desde el comienzo, conectándose con quienes estén andando por el mismo camino.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170214T204303Z" creationid="la belle idee" creationdate="20161030T141501Z">
-        <seg>et surtout se rappeler que pour pouvoir avancer vers l’objectif final de la Nation humaine universelle, les premiers pas, les objectifs qui s'avèrent les plus simples à atteindre, pourront sûrement être entrepris de manière isolée en différents endroits. Toutefois, nous avons la certitude que pour pouvoir passer aux pas les plus complexes, il sera nécessaire de se coordonner pour gagner en force, et précisément cette coordination sera d’autant plus viable si dès le début nous commençons à la mettre en place, en se connectant avec ceux qui ont entrepris le même chemin. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184427Z" creationid="la belle idee" creationdate="20161030T141501Z">
+        <seg>et surtout se rappeler que pour pouvoir avancer vers l’objectif final de la Nation humaine universelle, les premiers pas, les objectifs qui s'avèrent les plus simples à atteindre, pourront sûrement être entrepris de manière isolée en différents endroits. Toutefois, nous avons la certitude que pour pouvoir passer aux pas les plus complexes, il sera nécessaire de se coordonner pour gagner en force, et précisément cette coordination sera d’autant plus viable si dès le début nous commençons à la mettre en place, en se connectant avec ceux qui ont entrepris le même chemin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20637,8 +20637,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Y todo esto hacerlo a nivel nacional, provincial y municipal.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194816Z" creationid="Ricardito120" creationdate="20161206T031021Z">
-        <seg>Et faire tout cela au niveau national, régional et municipal. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183156Z" creationid="Ricardito120" creationdate="20161206T031021Z">
+        <seg>Et faire tout cela au niveau national, régional et municipal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20725,16 +20725,16 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Ya en capítulo sobre la Evolución Cultural entre las propuestas internacionales, hablamos de las cuestiones culturales, poniendo énfasis sobre todo en la mirada crítica hacia la manipulación que se ejerce desde los medios de comunicación, como uno de los principales obstáculos a la hora de que las poblaciones cambien los valores del individualismo y el consumismo por los de la reciprocidad y la solidaridad.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="william" changedate="20170218T170648Z" creationid="la belle idee" creationdate="20161204T114514Z">
-        <seg>Dans les propositions internationales, au chapitre sur la rébellion culturelle, nous avons abordé les questions culturelles, en mettant surtout l’accent, avec un regard critique, sur la manipulation qu’exercent les médias, comme l'un des principaux obstacles au fait que les populations changent les valeurs de l'individualisme et de la surconsommation, au profit de celles de la réciprocité et la solidarité. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183614Z" creationid="la belle idee" creationdate="20161204T114514Z">
+        <seg>Dans les propositions internationales, au chapitre sur la rébellion culturelle, nous avons abordé les questions culturelles, en mettant surtout l’accent, avec un regard critique, sur la manipulation qu’exercent les médias, comme l'un des principaux obstacles au fait que les populations changent les valeurs de l'individualisme et de la surconsommation, au profit de celles de la réciprocité et la solidarité.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Ya en el capítulo destinado a propuestas internacionales hablamos de las falsedades que hay en los argumentos economicistas en el sentido de que los inmigrantes &lt;t0/&gt;le&lt;t1/&gt; quitan el trabajo a los nativos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204440Z" creationid="Ricardito120" creationdate="20161209T190858Z">
-        <seg>Dans le chapitre portant sur les propositions internationales, nous avions déjà parlé des aberrations des arguments économiques disant que les immigrants privent les autochtones de leurs emplois. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184135Z" creationid="Ricardito120" creationdate="20161209T190858Z">
+        <seg>Dans le chapitre portant sur les propositions internationales, nous avions déjà parlé des aberrations des arguments économiques disant que les immigrants privent les autochtones &lt;t0/&gt;de&lt;t1/&gt; leurs emplois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20765,8 +20765,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Ya hemos comentado como en el sistema capitalista existe una tendencia a la concentración del ingreso, y ya mencionamos los aportes teóricos y estadísticos de Piketty respecto a que la acumulación de Capital aumenta más velozmente que el Producto.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T193554Z" creationid="Ricardito120" creationdate="20161206T025959Z">
-        <seg>Nous avons déjà commenté comment dans le système capitaliste existe une tendance à la concentration du revenu, et nous avons déjà mentionné les apports théoriques et statistiques de Piketty montrant que l’accumulation du Capital augmente plus rapidement que la production. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182536Z" creationid="Ricardito120" creationdate="20161206T025959Z">
+        <seg>Nous avons déjà commenté comment dans le système capitaliste existe une tendance à la concentration du revenu, et nous avons déjà mentionné les apports théoriques et statistiques de Piketty montrant que l’accumulation du Capital augmente plus rapidement que la production.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20781,16 +20781,16 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Ya hemos hablado de la manipulación que realizan los medios de comunicación masiva a la hora de instalar el consumismo como valor supremo.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T205728Z" creationid="Ricardito120" creationdate="20161209T191707Z">
-        <seg>Nous avons déjà parlé de la manipulation qu’exercent les médias de masse quand il s’agit d’établir la consommation comme valeur suprême. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184349Z" creationid="Ricardito120" creationdate="20161209T191707Z">
+        <seg>Nous avons déjà parlé de la manipulation qu’exercent les médias de masse quand il s’agit d’établir la consommation comme valeur suprême.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-AR">
         <seg>Ya hemos hablado de los valores éticos sobre los que habría que concientizar en las sociedades para ir desactivando todos los tipos de violencia que existen.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170211T204854Z" creationid="Ricardito120" creationdate="20161209T191158Z">
-        <seg>Nous avons déjà traité des valeurs éthiques dont les sociétés devraient prendre conscience pour désactiver graduellement toutes les formes de violence qui existent. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T184253Z" creationid="Ricardito120" creationdate="20161209T191158Z">
+        <seg>Nous avons déjà traité des valeurs éthiques dont les sociétés devraient prendre conscience pour désactiver graduellement toutes les formes de violence qui existent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20837,8 +20837,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Ya no son suficientes las políticas macroeconómicas que se limitan a administrar la tasa de interés y la cantidad de moneda circulante, es necesario avanzar hacia nuevos instrumentos que resulten idóneos en el espacio integrador entre la macroeconomía y la microeconomía, lo que algunos han dado en llamar la Mesoeconomía.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194112Z" creationid="Ricardito120" creationdate="20161206T030655Z">
-        <seg>Les politiques macroéconomiques qui se limitent à administrer le taux d'intérêt et la quantité de liquidités en circulation ne sont déjà plus suffisantes, il est nécessaire d’évoluer vers de nouveaux moyens qui soient plus adéquats dans un espace d'intégration entre la macroéconomie et la microéconomie, ce que certains ont appelé la Mésoéconomie. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T182745Z" creationid="Ricardito120" creationdate="20161206T030655Z">
+        <seg>Les politiques macroéconomiques qui se limitent à administrer le taux d'intérêt et la quantité de liquidités en circulation ne sont déjà plus suffisantes, il est nécessaire d’évoluer vers de nouveaux moyens qui soient plus adéquats dans un espace d'intégration entre la macroéconomie et la microéconomie, ce que certains ont appelé la Mésoéconomie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20877,8 +20877,8 @@ phrase trop longue</note>
       <tuv lang="ES-AR">
         <seg>Ya tenemos interesantes ejemplos en el mundo, con la experiencia del microcrédito y el banco Grameen&lt;t3/&gt;, de como la financiación, cuando se destina puntualmente a proyectos productivos, beneficia a las personas y a la economía en su conjunto, logrando el máximo rendimiento productivo de los préstamos.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="Ricardito120" changedate="20170215T194910Z" creationid="Ricardito120" creationdate="20161206T031058Z">
-        <seg>Nous avons déjà des exemples intéressants dans le monde avec l'expérience du microcrédit et la banque Grameen &lt;t3/&gt; sur la façon dont le financement, qui est destiné ponctuellement à des projets productifs, bénéficie aux personnes et à l'économie dans son ensemble donnant le rendement productif maximum aux prêts. </seg>
+      <tuv lang="FR-FR" changeid="william" changedate="20170218T183225Z" creationid="Ricardito120" creationdate="20161206T031058Z">
+        <seg>Nous avons déjà des exemples intéressants dans le monde avec l'expérience du microcrédit et la banque Grameen&lt;t3/&gt; sur la façon dont le financement, qui est destiné ponctuellement à des projets productifs, bénéficie aux personnes et à l'économie dans son ensemble donnant le rendement productif maximum aux prêts.</seg>
       </tuv>
     </tu>
     <tu>
